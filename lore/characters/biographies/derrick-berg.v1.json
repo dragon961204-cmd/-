@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "derrick-berg",
+  "name_zh": "戴里克·伯格",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "戴里克生活於被神棄之地的白銀城，居民長期在黑暗中求生，世代依靠嚴格守夜與非凡者制度延續社群。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "以太陽身分加入灰霧聚會，對外界地理、金錢和教會制度的認識與南北大陸成員完全不同。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "在探索隊、城邦議事團及墮落危機中逐漸成熟，必須面對同胞生存、信仰與真相的衝突。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "尋找離開黑暗世界的道路不只是個人成長，而是整個城市的政治與宗教抉擇。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "白銀城必須是獨立地圖系統；普通1349年北大陸玩家不能無條件進入。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
