@@ -61,5 +61,59 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "亞當｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古太陽神遺留的身分",
+        "prose": "亞當是遠古太陽神相關歷史的核心人物，以古老天使之王和觀眾途徑高位存在聞名。他的特殊起源和真實目的不能僅用表面上『神之子』的身份解釋，亦不能在不同年代直接與真實造物主完全劃等號。",
+        "source_pages": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "黃昏隱士會與幕後布局",
+        "prose": "他透過黃昏隱士會及其他安排影響歷史，經常讓事件看似是眾多勢力自行選擇的結果。觀眾途徑的能力使他極擅長心理干預、預判與推動集體行動，但計畫仍受權柄和其他高位存在制約。",
+        "source_pages": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與羅塞爾、王室及教會的關係",
+        "prose": "亞當曾在重大歷史轉折及第五紀非凡政治中扮演角色，涉及正神教會、王室晉升和更古老的神靈權柄。不同勢力對他的了解差距極大，某些參與者甚至不知道自己正被利用。",
+        "source_pages": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "與克萊恩的交鋒",
+        "prose": "克萊恩接近高序列後，亞當不再只是遙遠的秘密組織領袖，而成為能直接干預其命運的存在。他的選擇與阿蒙、真實造物主及遠古太陽神的後續密切相關。",
+        "source_pages": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "第二部的神位變化",
+        "prose": "《宿命之環》時期他的力量與意識狀態進一步改變，影響更廣泛的末日局勢。傳記應保留亞當單獨活動、與真實造物主關係變化及更高權柄階段三組狀態。",
+        "source_pages": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 382,
+    "independently_verified_full_biography": false
+  }
 }

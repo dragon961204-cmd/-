@@ -190,6 +190,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 352
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "梅迪奇｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "紅祭司途徑的天使之王",
+        "prose": "梅迪奇是遠古太陽神時代的重要天使之王，與紅祭司途徑的戰爭、陰謀及獵人權柄相關。他的性格兼具嘲諷、傲慢與對局勢的高度敏感，常以挑釁試探別人的底線。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "古太陽神與救贖薔薇",
+        "prose": "梅迪奇曾參與古太陽神周邊的權力秩序，對第三紀歷史和神靈更替具有親歷者的認知。他與亞當、薩斯利爾等人的關聯不能當作單純的同一個教會職務。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "都鐸王朝的變局",
+        "prose": "第四紀的王朝衝突及亞利斯塔·圖鐸的晉升，深刻改變梅迪奇的命運。其後存在的惡靈狀態與索倫、艾因霍恩相關意識纏繞，不能當成原本人格毫無改變的延續。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "與克萊恩的間接接觸",
+        "prose": "貝克蘭德地下遺跡及紅祭司相關線索，使克萊恩接觸到梅迪奇的歷史陰影。梅迪奇對高序列權柄和歷史秘密的熟悉，讓他成為既可提供線索又極其危險的存在。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "第二部的權柄角力",
+        "prose": "《宿命之環》中紅祭司權柄的爭奪重新成為核心事件，梅迪奇也捲入相關計畫。要分清其天使之王階段、惡靈融合階段和後期狀態，不能用固定序列套用所有時期。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

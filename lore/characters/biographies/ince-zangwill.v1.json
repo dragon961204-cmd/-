@@ -286,6 +286,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 365
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "因斯·贊格威爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "教會叛逃者",
+        "prose": "因斯·贊格威爾原與黑夜女神教會相關，後因個人野心與危險選擇成為教會追查的重要叛徒。他對非凡者組織的內部運作有所了解，也知道哪些機密最能牽動調查人員的行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "零級封印物0-08",
+        "prose": "他持有能夠透過書寫與命運安排影響事件走向的特殊封印物0-08。這種力量看似能把世界變成可編排的劇本，但使用者並非能完全支配其結果；封印物本身也有不容忽視的限制與反噬。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "廷根的陰謀",
+        "prose": "韋爾奇、安提哥努斯筆記與梅高歐絲等相關事件，被一系列隱蔽安排串連起來。因斯的行動最終造成鄧恩與值夜者小隊的悲劇，並深刻改變克萊恩和倫納德的道路。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "逃亡與更高層的陰影",
+        "prose": "離開廷根後，因斯繼續受到教會追捕，也逐漸被更高位力量和封印物的意圖牽引。他看似依靠計畫保護自身，卻未必能辨別哪些選擇真正出於自己的自由意志。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "復仇線的終點",
+        "prose": "克萊恩與倫納德後來的追查，將廷根的舊事帶向新的衝突。因斯的結局不僅是個人恩怨的收束，也揭示出0-08與更高層神秘學危險的關係。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

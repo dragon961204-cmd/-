@@ -203,6 +203,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 336
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蘇茜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "霍爾家的金毛犬",
+        "prose": "蘇茜原是奧黛麗身邊的金毛犬，生活於貴族家庭。她善於觀察主人情緒，熟悉宅邸裡的日常活動與僕役，並不是外界會主動懷疑的神秘學角色。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "意外喝下觀眾魔藥",
+        "prose": "奧黛麗調製觀眾魔藥時，蘇茜意外飲下其中一份，成為擁有非凡能力的動物。這個事件讓奧黛麗一邊驚訝，一邊必須考慮如何隱藏蘇茜的變化。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "讀心者與學習",
+        "prose": "隨非凡能力發展，蘇茜逐漸具備異於普通犬隻的思考和理解能力。她能透過觀察與心理能力輔助奧黛麗，卻也仍保留日常生活中的犬類習慣。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "奧黛麗的陪伴者",
+        "prose": "奧黛麗成長為高序列觀眾途徑非凡者時，蘇茜始終是她重要的生活夥伴。這份關係不是單純的主從工具：蘇茜能表達意願和作出判斷，也能察覺奧黛麗不易對旁人吐露的心理變化。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "後期心理能力與第二部",
+        "prose": "到了《宿命之環》，蘇茜的非凡知識和參與任務的能力更加突出。後期具體序列、專業活動以及是否獨立承擔心理治療任務，應按第二部相關章節精確核實。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

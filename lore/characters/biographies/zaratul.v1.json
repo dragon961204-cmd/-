@@ -153,6 +153,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 372
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "查拉圖｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "密修會的高位人物",
+        "prose": "查拉圖與占卜家途徑的古老組織密修會有深厚關聯，掌握秘偶、歷史孔隙和高序列占卜相關力量。他與安提哥努斯家族等古老傳承的關係，構成克萊恩早期接觸神秘學時所見的歷史陰影。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "第四紀與家族歷史",
+        "prose": "查拉圖一脈與第四紀權柄爭奪、密修會歷史和高序列力量有關。不同年代出現的『查拉圖』不能在沒有證據時自動視作同一個身體、同一個時間點的活動狀態。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "迷霧小鎮與秘偶",
+        "prose": "克萊恩在追查占卜家道路的過程中接觸到查拉圖留下的高危線索，涉及迷霧小鎮和隱秘之地。對這條途徑的非凡者而言，外表熟悉的對話者可能只是秘偶，可靠的身份判斷格外困難。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "愚者途徑競爭",
+        "prose": "隨克萊恩走向天使及愚者位格，查拉圖成為不可忽視的權柄競爭者。他的計畫不只是追擊某個年輕人，而與非凡特性、唯一性和高位儀式相關。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "第二部的不同身份",
+        "prose": "《宿命之環》及愚者夢境相關事件讓查拉圖的存在狀態更加複雜。資料庫應把高序列本體、秘偶、歷史投影和夢境形象分開，不應把每次出現都寫成同一個可連續生活的肉身。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

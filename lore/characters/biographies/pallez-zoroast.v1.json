@@ -119,6 +119,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 352
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "帕列斯·索羅亞斯德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "第四紀的古老天使",
+        "prose": "帕列斯·索羅亞斯德出身偷盜者途徑的古老非凡者家族，長期經歷第四紀及其後的變局。對家族史與高位途徑之爭，他擁有普通教會成員無法接觸的資訊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "寄居倫納德體內",
+        "prose": "在受損和遭追索的狀態下，他寄居於倫納德·米切爾體內。二者一開始的關係充滿防備，帕列斯的知識與力量雖能提供協助，卻也讓倫納德擔心秘密暴露。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "老人與年輕非凡者",
+        "prose": "隨相處增加，帕列斯不斷提醒倫納德關於強大存在、非凡危險與克制好奇的必要。他有時顯得刻薄或戲謔，但也會在關鍵時刻提供幫助。這段關係逐漸超越單純的寄生者利用宿主。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "阿蒙的威脅",
+        "prose": "阿蒙對偷盜者途徑的控制與高位競爭，是帕列斯長期躲藏的重要原因之一。遇上阿蒙的分身和相關力量時，他需要衡量暴露自身、逃避以及保護倫納德的不同代價。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "後續命運",
+        "prose": "隨克萊恩、倫納德和塔羅會的行動推進，帕列斯的狀態也發生改變。應把他獨立存在的歷史、寄居時期及後來的力量恢復或權柄變化拆成不同階段。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

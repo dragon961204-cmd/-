@@ -119,6 +119,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 390
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "烏洛琉斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古老天使之王",
+        "prose": "烏洛琉斯是命運途徑的古老天使之王，曾與遠古太陽神及其信仰體系有密切關係。和多數人類非凡者不同，他的歷史橫跨多個紀元，與神靈意志和命運權柄的競爭密不可分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "真實造物主的追隨者",
+        "prose": "在真實造物主信仰相關的高位圈子中，烏洛琉斯具有特殊地位。他常以安靜、近乎超脫的態度面對外界，卻不代表他的行動沒有目的；信仰與對命運道路的理解影響其立場。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與威爾的競爭",
+        "prose": "同屬命運途徑頂端的威爾·昂賽汀是他的長期競爭者。兩人之間的角力涉及轉生、預兆與命運操控，不是簡單的正反派對決。對較低序列角色而言，即使知道競爭存在，也難以直接理解其全部策略。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "世界局勢中的介入",
+        "prose": "烏洛琉斯在第一部與第二部的多次事件中以高位存在的方式提供影響，可能透過他人、儀式和特殊預兆介入。他所掌握的知識並不等於可以隨時看清所有未來；外神及更高權柄的干涉仍使局勢存在變數。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "末日階段",
+        "prose": "第二部涉及宿命之環和命運途徑的權柄變化，使他的故事有新的發展。應將其古老身份、信仰、同途徑競爭及後期位格變動分別編入時間線。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

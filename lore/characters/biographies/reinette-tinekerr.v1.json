@@ -135,6 +135,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 7
+    "source_stage_count": 7,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 379
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蕾妮特·緹尼科爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "節制派的高位人物",
+        "prose": "蕾妮特·緹尼科爾是玫瑰學派節制派的重要存在，與遭外神污染後掌權的放縱派立場不同。她的歷史與南大陸非凡界、被縛者及囚犯途徑的傳承息息相關，並與莎倫、馬里奇等後輩保持聯繫。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "特殊存在狀態",
+        "prose": "她後期常以靈界生物的特殊形態出現，外在表現和普通人類完全不同。這不意味著她失去自身意識或僅是可召喚的道具；其身份、位格、原本身體及力量受損狀態需要分開記錄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "克萊恩的信使",
+        "prose": "克萊恩透過儀式與她建立信使關係，之後以特定報酬換取傳訊和部分高位協助。蕾妮特不會無條件介入所有危機，她仍有自身利益、舊怨及對節制派的責任。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "對抗玫瑰學派",
+        "prose": "她的行動長期受到玫瑰學派及外神力量影響，既牽涉昔日地位，也包含對同伴和後輩的保護。在重要戰鬥或談判裡，蕾妮特常能提供高於普通半神的力量，但其選擇不應被簡化為『主角需要時就會出現』。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "兩部後續",
+        "prose": "她在兩部小說涉及更深層的非凡歷史與組織變遷。要正確呈現其生平，仍需補齊節制派成立、失去身體及各次復原的重要時間節點。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

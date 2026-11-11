@@ -129,6 +129,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 7
+    "source_stage_count": 7,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 370
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "奧蘿爾·李｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "收養盧米安的姐姐",
+        "prose": "奧蘿爾在科爾杜村以有文化、懂得教導他人的女性身份生活，將原本漂泊的盧米安帶回家照顧。她教他閱讀、思考和在世上立足，既是家人也是最初的老師。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "異鄉記憶與研究會",
+        "prose": "奧蘿爾的經歷並不只是普通鄉村居民：她保有與前紀元相關的知識，並與卷毛狒狒研究會成員有所聯繫。她對自身來歷以及世界異常的認識，遠超村民平常的理解。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "科爾杜的日常",
+        "prose": "在災變之前，她和盧米安共享平凡而珍貴的生活。對盧米安而言，村莊並非只有陰謀與怪物，也存在因奧蘿爾而得到的家與希望。這種日常情感是後來所有冒險的起點。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "危機與村莊循環",
+        "prose": "科爾杜的怪異事件逐漸威脅她與盧米安。儀式、夢境和命運力量交織，讓原本看似安穩的村莊走向災難。奧蘿爾的遭遇成為盧米安離開故鄉後無法放下的心結。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "盧米安持續追尋的目標",
+        "prose": "在《宿命之環》後續，盧米安探查神靈、宿命與各種儀式的重要原因之一，就是希望理解並挽回奧蘿爾。她的存在持續透過記憶、線索和研究會舊友影響他，不能因早期災變就從關係網中消失。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

@@ -159,6 +159,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 415
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莎倫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "節制派的逃亡者",
+        "prose": "莎倫出身與玫瑰學派相關的非凡者圈子，修習囚犯途徑，卻不接受放縱派逐漸走向的極端作風。她選擇節制與克制，因而和馬里奇等同伴離開原本組織。離開並沒有讓危險消失：原學派仍能透過非凡能力和地下人脈追捕她們。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "勇敢者酒吧與夏洛克",
+        "prose": "莎倫在貝克蘭德隱蔽活動，時常以近乎幽靈般的姿態出現，言語簡短、行動謹慎。透過馬里奇和勇敢者酒吧，她與以夏洛克之名活動的克萊恩建立交易關係。合作起點是共同利益與報酬，而不是立刻信任對方全部秘密。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與玫瑰學派的對抗",
+        "prose": "史蒂夫等放縱派成員的追捕，迫使莎倫必須利用自身怨魂類能力、戰術準備與盟友協助。她對節制的堅持也成為這條支線的核心：擁有危險力量不等於必須服從自身衝動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "信使與高位支援",
+        "prose": "莎倫與蕾妮特·緹尼科爾等節制派人物存在重要的師承與勢力關係，並逐步接觸更高階的非凡事件。隨故事深入，與玫瑰學派和外神污染的衝突不再只是兩名逃亡者與追兵之間的糾紛。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "後期立場",
+        "prose": "她的後續活動必須保留節制派的獨立選擇及合作條件；即使與克萊恩和塔羅會陣營存在共同敵人，也不能把她設定成從始至終都隸屬於愚者教會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

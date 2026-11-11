@@ -121,6 +121,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 351
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "艾德雯娜·愛德華茲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "冰山中將",
+        "prose": "艾德雯娜·愛德華茲以『冰山中將』身分在海上活動，是黃金夢想號的船長。和不少強調掠奪的海盜不同，她擁有廣泛學識，對古代歷史、語言和神秘學保持持續興趣。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6a71505634ac.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "船隊的特殊氛圍",
+        "prose": "黃金夢想號上的達尼茲等船員個性鮮明，艾德雯娜卻能維持航行、紀律與探索目標。她對知識的重視也影響船上的氣氛，讓這支船隊不僅是武裝力量，更具探險和研究色彩。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6a71505634ac.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與格爾曼的相識",
+        "prose": "格爾曼·斯帕羅出海後，艾德雯娜及其船員與他產生交集。達尼茲在兩者之間提供人際連結，格爾曼的異常見識則讓艾德雯娜注意到其非凡背景。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6a71505634ac.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "古老遺跡與夢境事件",
+        "prose": "她參與探索神秘海域、古老遺跡及相關異常事件，對部分歷史秘密具有比一般海盜更強的理解能力。她的興趣也意味著容易接觸到知識途徑可能帶來的危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6a71505634ac.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "海上後續",
+        "prose": "艾德雯娜的後續應與黃金夢想號、達尼茲和海上勢力變動相連。既有傳記尚須核對她的教會背景、序列與每次重要航程，不應僅用『博學船長』概括一生。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6a71505634ac.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }

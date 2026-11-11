@@ -105,6 +105,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 364
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "特莉絲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "特里爾以外的魔女",
+        "prose": "特莉絲最初以獵人途徑相鄰的魔女道路進入故事，其早期行動受到魔女教派的安排及外部勢力影響。她在旅途和城市中經歷身份與身體的變化，逐漸意識到教派對個人命運的控制。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "貝克蘭德的陰謀",
+        "prose": "她被牽涉進魯恩王室、埃德薩克王子與魔女教派的複雜事件。外界看到的貴族情感故事，背後其實有政治與神秘學布局。她的選擇空間有限，卻並非始終毫無反抗意志。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與埃德薩克的關係",
+        "prose": "埃德薩克對特莉絲的感情在王室陰謀中具有特殊意義，兩人關係也受到外力操控和扭曲。對她而言，這段經歷留下的情感與損失，成為日後不願再完全聽命於教派的重要原因。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "逃亡與反抗",
+        "prose": "在陰謀曝光後，特莉絲離開原先的控制環境，試圖重新掌握自己的生存與行動。她仍必須面對教派的追索、力量差距和高序列魔女相關秘密。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "晚期抉擇",
+        "prose": "特莉絲的故事與原初魔女、魔女教派及王室計畫密切相關，結局帶有對自身命運作出選擇的意味。需要依原作補全具體名稱變化、魔藥序列和關鍵事件的準確先後。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原作每次序列晉升與組織關係的精確時點",
+      "未出現於目前摘要中的次要事件",
+      "第二部完整結局及相鄰途徑細節"
+    ],
+    "quality_note": "這是原創分期敘事初稿，需由熟悉原作的使用者檢查；不得冒充已驗收的全篇生平。"
   }
 }
