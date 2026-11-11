@@ -307,7 +307,27 @@
   "verification": {
     "status": "needs_original_chapter_verification",
     "complete": false,
-    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+    "notes": "已在 claims_batch_01.json 為局部具體事實提供原文章節核對。其他生平／序列／組織尚待核實。",
+    "chapter_checked_claims": 4,
+    "verified_character_biography": false
   },
-  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。",
+  "verified_claim_refs": [
+    "C001",
+    "C002",
+    "C003",
+    "C004"
+  ],
+  "chapter_evidence_count": 4,
+  "family_history_verified": [
+    {
+      "claim_ids": [
+        "C002",
+        "C003",
+        "C004"
+      ],
+      "chapter": "第一部第1章",
+      "verification": "chapter_checked"
+    }
+  ]
 }

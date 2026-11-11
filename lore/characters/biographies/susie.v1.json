@@ -46,7 +46,8 @@
     {
       "time": "第一部第41章",
       "event": "觀眾序列9",
-      "verification": "secondary_chapter_locator_not_verified_against_novel"
+      "verification": "chapter_checked",
+      "evidence_claim": "C009"
     },
     {
       "time": "第一部第418章",
@@ -72,7 +73,11 @@
     {
       "pathway": "visionary",
       "sequence": "varies_by_time",
-      "verification": "requires_original_chapter_audit"
+      "verification": "requires_original_chapter_audit",
+      "first_confirmed_sequence": 9,
+      "sequence_name": "觀眾",
+      "evidence": "C009",
+      "later_sequences": "尚待章節核實"
     }
   ],
   "relationships": [],
@@ -90,7 +95,15 @@
   "verification": {
     "status": "needs_original_chapter_check",
     "complete": false,
-    "original_chapters_checked": 0
+    "original_chapters_checked": 0,
+    "chapter_checked_claims": 2,
+    "verified_character_biography": false,
+    "notes": "已在 claims_batch_01.json 為局部具體事實提供原文章節核對。其他生平／序列／組織尚待核實。"
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "verified_claim_refs": [
+    "C008",
+    "C009"
+  ],
+  "chapter_evidence_count": 2
 }

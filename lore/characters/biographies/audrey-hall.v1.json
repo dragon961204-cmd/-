@@ -59,7 +59,15 @@
       "序列／途徑時序",
       "勢力入會和離開時間",
       "關係在不同年份的狀態"
-    ]
+    ],
+    "chapter_checked_claims": 2,
+    "verified_character_biography": false,
+    "notes": "已在 claims_batch_01.json 為局部具體事實提供原文章節核對。其他生平／序列／組織尚待核實。"
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "verified_claim_refs": [
+    "C010",
+    "C011"
+  ],
+  "chapter_evidence_count": 2
 }

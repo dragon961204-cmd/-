@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "work": "詭秘之主",
+  "checked_on": "2026-11-11",
+  "status": "individual_claims_verified_full_biographies_not_validated",
+  "source_policy": "僅記錄原創摘要和書目章節定位，沒有複製受著作權保護的大段原文",
+  "count": 12,
+  "claims": [
+    {
+      "claim_id": "C001",
+      "character_id": "klein-moretti",
+      "paraphrase": "克萊恩·莫雷蒂是廷根出身、剛從霍伊大學歷史系畢業的青年。",
+      "work": "詭秘之主",
+      "chapter": "第一部第1章〈緋紅〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27518725791873100",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C002",
+      "character_id": "klein-moretti",
+      "paraphrase": "莫雷蒂家父親曾在皇家陸軍任職，家中得到的撫恤金幫助克萊恩繼續接受教育。",
+      "work": "詭秘之主",
+      "chapter": "第一部第1章〈緋紅〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27518725791873100",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C003",
+      "character_id": "klein-moretti",
+      "paraphrase": "莫雷蒂家的母親曾信仰黑夜女神，並在克萊恩考入大學那年過世。",
+      "work": "詭秘之主",
+      "chapter": "第一部第1章〈緋紅〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27518725791873100",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C004",
+      "character_id": "klein-moretti",
+      "paraphrase": "克萊恩與哥哥班森、妹妹梅麗莎共同生活在經濟拮据的家庭中，家計主要仰賴班森的文職收入。",
+      "work": "詭秘之主",
+      "chapter": "第一部第1章〈緋紅〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27518725791873100",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C005",
+      "character_id": "melissa-moretti",
+      "paraphrase": "梅麗莎就讀廷根技術學校，對機械有興趣，也會利用學校資源研究並修理家中懷錶。",
+      "work": "詭秘之主",
+      "chapter": "第一部第3章〈梅麗莎〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27524488576341254",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C006",
+      "character_id": "melissa-moretti",
+      "paraphrase": "梅麗莎為節省通勤費用，通常步行前往技術學校。",
+      "work": "詭秘之主",
+      "chapter": "第一部第3章〈梅麗莎〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27524488576341254",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C007",
+      "character_id": "melissa-moretti",
+      "paraphrase": "梅麗莎關心家庭日常飲食與開支，在早晨出門上學前提醒哥哥購買食品。",
+      "work": "詭秘之主",
+      "chapter": "第一部第3章〈梅麗莎〉",
+      "source_url": "https://www.webnovel.com/book/9069458404256003/27524488576341254",
+      "evidence_type": "chapter_text_checked_publisher_platform",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C008",
+      "character_id": "susie",
+      "paraphrase": "蘇茜是奧黛麗身邊的金毛犬，能開啟有把手的房門。",
+      "work": "詭秘之主",
+      "chapter": "第一部第41章〈奧黛麗和她的蘇茜〉",
+      "source_url": "https://czbooks.net/n/s6jj8i/s6jb44ml?chapterNumber=40",
+      "evidence_type": "chapter_text_checked_third_party_mirror",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C009",
+      "character_id": "susie",
+      "paraphrase": "蘇茜在奧黛麗準備觀眾魔藥時，意外喝下已調製好的藥液。",
+      "work": "詭秘之主",
+      "chapter": "第一部第41章〈奧黛麗和她的蘇茜〉",
+      "source_url": "https://czbooks.net/n/s6jj8i/s6jb44ml?chapterNumber=40",
+      "evidence_type": "chapter_text_checked_third_party_mirror",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C010",
+      "character_id": "audrey-hall",
+      "paraphrase": "奧黛麗發現蘇茜意外喝下魔藥後，重新調製了一份觀眾魔藥並自行服用。",
+      "work": "詭秘之主",
+      "chapter": "第一部第41章〈奧黛麗和她的蘇茜〉",
+      "source_url": "https://czbooks.net/n/s6jj8i/s6jb44ml?chapterNumber=40",
+      "evidence_type": "chapter_text_checked_third_party_mirror",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C011",
+      "character_id": "audrey-hall",
+      "paraphrase": "奧黛麗當時身處需要遵守貴族社交禮節的環境，為安排服用魔藥而迴避一場下午茶活動。",
+      "work": "詭秘之主",
+      "chapter": "第一部第41章〈奧黛麗和她的蘇茜〉",
+      "source_url": "https://czbooks.net/n/s6jj8i/s6jb44ml?chapterNumber=40",
+      "evidence_type": "chapter_text_checked_third_party_mirror",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    },
+    {
+      "claim_id": "C012",
+      "character_id": "alger-wilson",
+      "paraphrase": "阿爾傑在風暴之主教會同伴離開後，選擇繼續擔任幽藍復仇者號船長，在海上活動。",
+      "work": "詭秘之主",
+      "chapter": "第一部第41章〈奧黛麗和她的蘇茜〉",
+      "source_url": "https://czbooks.net/n/s6jj8i/s6jb44ml?chapterNumber=40",
+      "evidence_type": "chapter_text_checked_third_party_mirror",
+      "verification": "chapter_checked",
+      "interpretation_limit": "僅此主張經核對；不代表該人物整篇傳記已驗收"
+    }
+  ]
+}
