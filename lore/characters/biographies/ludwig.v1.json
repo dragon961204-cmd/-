@@ -167,6 +167,50 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 8
+    "source_stage_count": 8,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 202
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "路德維希｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "寄居特里爾的孩子",
+        "prose": "路德維希以小男孩的模樣住在特里爾，是布里涅爾男爵的教子。盧米安與他接觸後，得知他想離開特里爾，也握有與封印物0-01相關的情報。兩人因此達成交換。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+          "https://www.novelwiki.net/lord-of-mysteries-2-circle-of-inevitability/characters/ludwig/"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與盧米安一同南下",
+        "prose": "離開特里爾後，路德維希與盧米安和盧加諾同行。他的食慾與吞食能力隨旅程逐漸顯露，讓他能接觸其他人無法直接處理的食物、異常物件和線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+          "https://www.novelwiki.net/lord-of-mysteries-2-circle-of-inevitability/characters/ludwig/"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "夢境與力量的回歸",
+        "prose": "在夢境都市裡，路德維希有了李路這個身分，也參與一行人對付潘娜蒂亞的行動。夢境事件之後，他的力量繼續恢復，到末期再度達到天使層次。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+          "https://www.novelwiki.net/lord-of-mysteries-2-circle-of-inevitability/characters/ludwig/"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

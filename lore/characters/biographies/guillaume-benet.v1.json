@@ -151,6 +151,50 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 253
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "紀堯姆·貝內｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜的本堂神甫",
+        "prose": "紀堯姆·貝內原先主持科爾杜村的永恆烈陽教會，對村裡的宗教生活有直接影響。他後來私下轉向宿命之環，取得了教會體系之外的力量，並成為策動村中獻祭儀式的人之一。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+          "https://lordofthemysteries.fandom.com/wiki/Death_of_Guillaume_B%C3%A9net"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "逃往特里爾",
+        "prose": "科爾杜村的儀式失敗後，貝內逃到特里爾藏身，並以罪人組織的大主教身分活動。盧米安則透過預言尋找他的下落，抵達特里爾後又請其他人協助追查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+          "https://lordofthemysteries.fandom.com/wiki/Death_of_Guillaume_B%C3%A9net"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "虛構之瓶中的死鬥",
+        "prose": "貝內以假身混淆追蹤，自己藏在特里爾地下，等盧米安踏入虛構之瓶。芙蘭卡加入戰鬥後，兩人設法引誘貝內試圖在盧米安體內重生，使他觸發盧米安身上的封印。貝內死後，芙蘭卡封住他逃出的靈體，讓盧米安得以追問罪人組織與奧蘿爾的舊事。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+          "https://lordofthemysteries.fandom.com/wiki/Death_of_Guillaume_B%C3%A9net"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

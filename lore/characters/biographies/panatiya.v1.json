@@ -97,6 +97,50 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 226
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "潘娜蒂亞｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "大霧霾中的絕望魔女",
+        "prose": "潘娜蒂亞是魔女教派的高位成員。她以教派代表身分參與貝克蘭德的大規模獻祭，大霧霾爆發後受到封印物0-17干預，從貝克蘭德消失，落入迷霧小鎮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+          "https://lordofthemysteries.fandom.com/wiki/Panatiya"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "迷霧小鎮的出口",
+        "prose": "克萊恩也被送進小鎮後，潘娜蒂亞先與他交手，後來為了離開而暫時合作。以查拉圖提供的符號打開通道時，她遭到失控的安提哥努斯控制，成為祕偶，原本的生命至此結束。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+          "https://lordofthemysteries.fandom.com/wiki/Panatiya"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "愚者夢中的再現",
+        "prose": "《宿命之環》的夢境都市又出現了以潘娜蒂亞為身分的祕偶。這一次她被賦予了能自行行動的意識，試圖用夢中生活牽制周明瑞。盧米安一行聯手除掉了這個在夢中活動的潘娜蒂亞。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+          "https://lordofthemysteries.fandom.com/wiki/Panatiya"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

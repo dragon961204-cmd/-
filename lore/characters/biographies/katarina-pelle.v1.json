@@ -113,6 +113,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 237
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "卡特琳娜·佩萊｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "登上黑死號",
+        "prose": "卡特琳娜是魔女教派的高位成員，也是特雷茜的母親。她應女兒的要求登上黑死號提供支援，接觸阿茲克時以恢復記憶為切入點，向他打探冥界及拜朗皇室與死神有關的秘密。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "追捕特莉絲",
+        "prose": "大霧霾後，卡特琳娜留在貝克蘭德追查特莉絲及其帶走的封印物。克萊恩找到她的蹤跡後聯絡梅迪奇，並藉機進行通靈。卡特琳娜仍活著，之後從鏡中與梅迪奇一同現身。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "從梅迪奇到戰場",
+        "prose": "喬治三世的儀式失敗後，卡特琳娜仍與梅迪奇有往來，並曾遭祂附身。到了《宿命之環》後期，她持教派的高階封印物迎戰埃姆林，數次以鏡子替身躲過攻擊，但侵蝕也波及了她在鏡中的自我。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

@@ -97,6 +97,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 213
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "X先生｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在貝克蘭德活動",
+        "prose": "路易斯·維恩以X先生為代號替極光會辦事。他在地下非凡圈發布尋人任務，要找運氣異常的人。佛爾思得知他重現後，把他的行蹤和畫像交給克萊恩。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "聚會上的暗殺",
+        "prose": "克萊恩在X先生召開聚會時下手，先暗中操縱靈體之線，再讓祕偶塞尼奧爾附身限制他的行動。極光會聖者的干預遭到阻礙後，克萊恩開槍殺死X先生，並將首級交給佛爾思。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死後的非凡特性與調查",
+        "prose": "X先生留下的戒指落入克萊恩手中，他本人則被蠕動的飢餓放牧。軍情九處隨後追查暗殺案，休接下調查委託，讓這次極光會內部的損失又牽進官方情報線。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

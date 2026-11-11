@@ -113,6 +113,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 278
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "K先生｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從聚會到黑幫任務",
+        "prose": "盧米安經人引介參加K先生的神秘學聚會，並為了應付蘇珊娜·馬蒂斯向他求援。K先生以庇護換取盧米安打入市場區黑幫，還交給他自己的一根手指，讓他在危急時可以求助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "主持引介與調查",
+        "prose": "盧米安完成初步任務後，K先生引介他進入極光會，並要求他追查鐵血十字會的異常，以及對方通往第四紀特里爾的計畫。作為交換，K先生也答應查找與奧蘿爾原本家庭有關的線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "親自介入行動",
+        "prose": "K先生在桑塔港以血肉形態由盧米安帶上禮船，之後現身斬殺瘋女。他也曾潛入因蒂斯工業部長府邸行刺，在淨化者干預下受傷並藉傳送脫身。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "推舉預備神使",
+        "prose": "K先生向所信之主陳述盧米安的貢獻，提議把他列為候補神使。盧米安獲得預備神使身分後，K先生交付的調查轉向漩渦事件。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

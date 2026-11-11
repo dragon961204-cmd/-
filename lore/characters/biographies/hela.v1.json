@@ -151,6 +151,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 320
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "海拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "奧蘿爾留下的聯絡方式",
+        "prose": "海拉在卷毛狒狒研究會結識以麻瓜為代號的奧蘿爾。科爾杜村出事後，盧米安召喚海拉的信使，把奧蘿爾遇害的消息寄給她。海拉回信提出見面，也向盧米安說起奧蘿爾離開原本家人的經過。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在特里爾合作",
+        "prose": "兩人在特里爾會面後一起進入地下墓穴。為了調查奧蘿爾出事前的遭遇，海拉還建議盧米安以變換外貌的方式，在研究會聚會中扮成麻瓜，觀察會內成員對她重新出現的反應。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "對付愚人節",
+        "prose": "芙蘭卡找上海拉和甘道夫協助對抗愚人節。海拉參與了風帆船上的交戰，後來又在夜之國布置夢境審訊。盧米安得以在那裡追問西索，也逐漸查清研究會內部如何受到天尊相關力量的影響。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "穿越者的去處",
+        "prose": "海拉從祈海儀式中辨認出熟悉的童話魔法，推斷穿越者仍在原來的世界，只是相隔漫長歲月。特里爾危機逼近時，她向研究會成員示警，並為留下執行任務的成員照看家人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

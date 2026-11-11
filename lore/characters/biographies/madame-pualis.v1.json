@@ -143,6 +143,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 260
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "普阿利斯夫人｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "行政官夫人的身分",
+        "prose": "普阿利斯以科爾杜村行政官夫人的身分住在城堡。村中的地位原可讓她把科爾杜經營成自己的領地，但災難迫近，她在第十二夜儀式前帶著家人及隨從離開，成為少數倖存者之一。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "離村後的追索",
+        "prose": "盧米安在特里爾再次找上普阿利斯，兩人在彼岸世界交手。她向他表明自己信奉偉大母親，也提到城堡裡死去的孩子與貝內的關係。後來她進入第四紀特里爾尋求復仇，又在空間異變中被孩子的哭聲引往別處。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "歐彌貝拉與緋紅月光",
+        "prose": "夢境都市裡，普阿利斯以醫院院長的身分出現，嬰兒的身世再次把她、貝內和偉大母親連在一起。現實中的女嬰歐彌貝拉也由她孕育。後來普阿利斯自述持有偉大母親交付的美神力量，並化入月光離開。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

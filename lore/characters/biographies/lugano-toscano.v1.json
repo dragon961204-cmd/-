@@ -151,6 +151,50 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 221
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "盧加諾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從自薦到受僱",
+        "prose": "盧加諾以具備治療能力的非凡者身分向盧米安自薦，後來受僱擔任嚮導和翻譯。他隨盧米安與路德維希南下，旅途中的醫療和生活事務也多由他協助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+          "https://www.novelpantheon.com/novels/lord-of-the-mysteries/characters/lugano"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "治療工作與晉升",
+        "prose": "旅途中，他照料受傷的同伴，也長期負責路德維希的飲食與日常照護。這些經歷幫助他消化醫師魔藥。返抵特里爾後，盧米安協助取得魔藥，他得以晉升豐收祭司。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+          "https://www.novelpantheon.com/novels/lord-of-the-mysteries/characters/lugano"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "病教的職務",
+        "prose": "盧米安向盧加諾揭露自己在病教信仰中的身分後，盧加諾開始替教會處理事務。其後他繼續晉升，並在特里爾擔任病教大主教，原本以個人委託為主的治療工作也擴展到教會的救濟和醫療。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+          "https://www.novelpantheon.com/novels/lord-of-the-mysteries/characters/lugano"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }

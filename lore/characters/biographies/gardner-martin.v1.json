@@ -143,6 +143,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 346
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "加德納·馬丁｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "微風舞廳的新管事",
+        "prose": "加德納·馬丁在特里爾市場區領導薩瓦黨。布里涅爾男爵帶盧米安登門後，他把微風舞廳交給這個新來的人打理，隨後又替他備妥夏爾·杜布瓦的身分文件。盧米安因此有了在市場區立足的職位與名義。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9bdb2381a54a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "市場大道十三號",
+        "prose": "加德納從幫派事務中看出盧米安有處理非凡事件的能力，便要求他獨自在市場大道十三號過夜。盧米安撐到天亮後，加德納主持入會儀式，兩人的關係也從幫派上下級變成鐵血十字會的長官與成員。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9bdb2381a54a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "通往第四紀的門",
+        "prose": "加德納讓盧米安查探索倫家族，同時為旅舍儀式準備條件。他利用幫派的走私渠道運進原初魔女的神像。儀式發動時，微風舞廳成了進入第四紀特里爾的通道，他穿上盔甲跨了進去。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9bdb2381a54a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "盔甲中的末路",
+        "prose": "深入異常區域後，加德納的頭顱與穿著盔甲的身體分離，兩者甚至彼此敵對。盧米安等人牽制盔甲，芙蘭卡則用黑焰對付鏡中映出的頭顱。加德納死後，留下的非凡特性成了盧米安晉升收割者所用的材料。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9bdb2381a54a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節與事件細節待使用者核對"
+    ],
+    "quality_note": "依人物來源與章節線索撰寫的連貫生平初稿。"
   }
 }
