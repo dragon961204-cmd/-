@@ -85,5 +85,72 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-41049987c96b",
+        "title": "偉大母親",
+        "url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "原始月亮之謎 《詭祕之主》·第2卷 無麪人 · 第431–468章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "墮落母神現身 《詭祕之主》·第7–8卷 · 第1271–1357章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "特里爾的邪神信仰 《宿命之環》·第2–4卷 · 第206–682章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "神子歐彌貝拉 《宿命之環》·第5、7卷 · 第748–835章、第1074–1114章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "降臨與退去 《宿命之環》·第8卷 永劫者 · 第1124–1176章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "容納母巢之戰",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-41049987c96b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

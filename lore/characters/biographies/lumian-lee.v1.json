@@ -55,5 +55,189 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-33746a77d29d",
+        "title": "盧米安",
+        "url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html"
+      },
+      {
+        "id": "cn-p-a727fb5e113e",
+        "title": "盧米安.李",
+        "url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "科爾杜村的循環 第1卷 夢魘 · 第1–109章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "特里爾市場區 第2–3卷 · 第110–285章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "臥底與復仇 第3–4、6卷 · 第265–610章、第903–980章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大冒險家路易·貝里 第4卷 罪人 · 第495–714章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "摩羅拉與魔女之路 第5–6卷 · 第767–910章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "進入“愚者”的夢境 第6卷 織夢人 · 第886–1020章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“戰車”與天使 第6–7卷 · 第1032–1114章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "成爲真神 第8卷 永劫者 · 第1121–1175章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "第十二夜的祭壇",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "洛基之死",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "阿蒙脫困",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "詛咒左肩的臉孔",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-33746a77d29d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "科爾杜村的倖存者 《宿命之環》·第1–3卷 · 第1–335章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "初到特里爾 《宿命之環》·第2卷 逐光者 · 第200–249章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "臥底鐵血十字會與“旅舍” 《宿命之環》·第3卷 陰謀家 · 第284–480章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "南下費內波特與擊殺拉託·吉亞羅 《宿命之環》·第4卷 罪人 · 第498–654章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "阿蒙的揭示 《宿命之環》·第5卷 魔女 · 第877章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市 《宿命之環》·第6卷 織夢人 · 第909章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "班西港與“血皇帝”復活 《宿命之環》·第7卷 第二定律 · 第1109章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "假扮“麻瓜”的審問",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a727fb5e113e",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 20
   }
 }

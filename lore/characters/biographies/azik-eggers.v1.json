@@ -228,5 +228,96 @@
     "complete": false,
     "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
   },
-  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-3d041f4bbedd",
+        "title": "阿茲克",
+        "url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "廷根的失憶教員 《詭祕之主》·第1、4卷 · 第24–189章、第815–915章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "貝克蘭德的追捕與放逐 《詭祕之主》·第2卷 無麪人 · 第266–479章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“死亡執政官”的過往 《詭祕之主》·第3卷 旅行家 · 第499–729章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "狂暴海陵寢 《詭祕之主》·第4卷 不死者 · 第887–924章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "沉睡中的天使 《詭祕之主》·第5–6卷 · 第979–1236章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "甦醒與新的旅程 《詭祕之主》·第8卷 · 第1394章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“死亡天使”與保護區 《宿命之環》·第8卷 永劫者 · 第1131–1166章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "拉姆德古堡的地下室",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "陵寢裏的另一個自己",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-3d041f4bbedd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

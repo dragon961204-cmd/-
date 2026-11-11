@@ -85,5 +85,64 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-7ae8d276426a",
+        "title": "蒸汽與機械之神",
+        "url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "工匠之神與羅塞爾 《詭祕之主》·第1卷 小丑 · 第4–59章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7ae8d276426a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "星界宮殿之戰 《詭祕之主》·第8卷 · 第1371–1380章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7ae8d276426a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢中的留學生 《宿命之環》·第6卷 織夢人 · 第927–1011章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7ae8d276426a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "粉碎信息的力量 《宿命之環》·第7卷 第二定律 · 第1048–1075章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7ae8d276426a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "拜師天師 《宿命之環》·第8卷 永劫者 · 第1158–1166章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7ae8d276426a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

@@ -271,5 +271,136 @@
     "complete": false,
     "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
   },
-  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-651b36914bba",
+        "title": "倫納德",
+        "url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "廷根的值夜者 《詭祕之主》·第1卷 小丑 · 第38–211章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "加入“紅手套” 《詭祕之主》·第2–3卷 · 第402–639章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "識破舊友與復仇 《詭祕之主》·第4卷 不死者 · 第764–931章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "塔羅會的“星星” 《詭祕之主》·第5卷 紅祭司 · 第958–1101章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "戰時的“紅手套”隊長 《詭祕之主》·第6–7卷 · 第1174–1272章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“愚者”沉眠前後 《詭祕之主》·第8卷 · 第1366–1390章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "南大陸的“星星” 《宿命之環》·第5、7卷 · 第809–863章、第1070–1091章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市 《宿命之環》·第6卷 織夢人 · 第909–913章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大阿卡那牌的職責 《宿命之環》·第7卷 第二定律 · 第1040–1099章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中世界之戰與天使軍團 《宿命之環》·第8卷 永劫者 · 第1128–1176章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "黑荊棘安保公司之夜",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "空棺與夢中對質",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "阿蒙找上門來",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢中走出的隊友",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-651b36914bba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-651b36914bba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 14
+  }
 }

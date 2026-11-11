@@ -85,5 +85,56 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未轉載原作小說全文"
+  "copyright_note": "原創摘要，未轉載原作小說全文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-2343e0f32d46",
+        "title": "阿里安娜",
+        "url": "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "貝克蘭德的聯手 《詭祕之主》·第5卷 紅祭司 · 第950–1148章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2343e0f32d46",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "化作歷史影像助戰 《詭祕之主》·第6卷 逐光者 · 第1164–1236章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2343e0f32d46",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "貝爾丹與圍剿玫瑰學派 《詭祕之主》·第7卷 倒吊人 · 第1283–1290章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2343e0f32d46",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "穩定天使軍團 《宿命之環》·第8卷 永劫者 · 第1163–1170章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2343e0f32d46",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
+  }
 }

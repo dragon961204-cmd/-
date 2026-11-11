@@ -80,5 +80,72 @@
       ],
       "verification": "chapter_checked"
     }
-  ]
+  ],
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ca42cdd0de8d",
+        "title": "梅麗莎",
+        "url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "廷根的三兄妹 《詭祕之主》·第1卷 小丑 · 第3–213章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "遷居貝克蘭德 《詭祕之主》·第2–3卷 · 第452–732章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "戰火中的貝克蘭德 《詭祕之主》·第5–6卷 · 第1083–1249章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "成爲非凡者的機會 《詭祕之主》·第8卷 · 第1362–1394章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢中的周莎莎 《宿命之環》·第6卷 織夢人 · 第1008–1020章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“天文學家” 《宿命之環》·第8卷 永劫者 · 第1178–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ca42cdd0de8d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

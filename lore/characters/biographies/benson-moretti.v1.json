@@ -61,5 +61,48 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ea477ac6ef6a",
+        "title": "班森",
+        "url": "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "廷根的長兄 《詭祕之主》·第1卷 小丑 · 第2–213章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ea477ac6ef6a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "考取公職，遷居貝克蘭德 《詭祕之主》·第2–3卷 · 第263–732章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ea477ac6ef6a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "戰時升遷與成婚 《詭祕之主》·第5、7–8卷 · 第1143章、第1273–1362章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ea477ac6ef6a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
+  }
 }

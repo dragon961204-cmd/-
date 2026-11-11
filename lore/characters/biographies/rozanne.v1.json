@@ -55,5 +55,64 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-9e899191db95",
+        "title": "羅珊",
+        "url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "黑荊棘安保公司的文職人員 《詭祕之主》·第1卷 小丑 · 第22–205章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9e899191db95",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "偶有出場，仍是黑荊棘前臺 《詭祕之主》·第5、8卷 · 第1013章、第1359章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9e899191db95",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "守護屏障的“畫家” 《宿命之環》·第6卷 織夢人 · 第910–1034章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9e899191db95",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "畫一扇回家的門",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9e899191db95",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "奪走懷錶",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9e899191db95",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9e899191db95.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
   }
 }

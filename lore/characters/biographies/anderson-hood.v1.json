@@ -74,5 +74,88 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-08b0679523be",
+        "title": "安德森",
+        "url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "厄運與海上同行 《詭祕之主》·第3卷 旅行家 · 第649–708章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "西拜朗與失去的記憶 《詭祕之主》·第4卷 不死者 · 第941章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "肚中的異物 《詭祕之主》·第5卷 紅祭司 · 第1036–1095章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "回鄉參戰 《詭祕之主》·第6卷 逐光者 · 第1179–1259章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市 《宿命之環》·第6卷 織夢人 · 第925–1033章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "厄運纏身",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "冰霜巨龍之戰",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "啞巴畫室",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-08b0679523be",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-08b0679523be.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 8
+  }
 }

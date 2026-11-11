@@ -85,5 +85,72 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-3f2c165b8249",
+        "title": "大地母神",
+        "url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "南方的母神與古老傳說 《詭祕之主》·第5卷 紅祭司 · 第1067–1102章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "真身揭曉 《詭祕之主》·第7卷 倒吊人 · 第1273–1310章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "古老宮殿之戰 《詭祕之主》·第8卷 · 第1377–1380章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "侵蝕與竊取 《宿命之環》·第4、7卷 · 第550章、第1060章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "沉睡與隕落 《宿命之環》·第8卷 永劫者 · 第1121–1150章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "隕落於毀滅之火",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-3f2c165b8249",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

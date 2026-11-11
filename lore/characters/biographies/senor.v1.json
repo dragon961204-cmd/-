@@ -55,5 +55,48 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-d907aab88988",
+        "title": "塞尼奧爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-d907aab88988.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "“血之上將”之敗 第3卷 旅行家 · 第498–728章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-d907aab88988",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-d907aab88988.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“怨魂”祕偶 第4卷 不死者 · 第834–843章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-d907aab88988",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-d907aab88988.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "被製成傀儡",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-d907aab88988",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-d907aab88988.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
   }
 }

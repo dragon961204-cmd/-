@@ -85,5 +85,72 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-a9cb839f4d9d",
+        "title": "紀堯姆.貝內",
+        "url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "科爾杜村的本堂神甫 第1卷 夢魘 · 第8–109章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "通緝與舊賬 第2卷 逐光者 · 第120–206章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "紅公主區的終局 第3卷 陰謀家 · 第313–403章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身後的揭示 第7卷 第二定律 · 第1057–1115章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "四旬節上的失控",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "虛構之瓶中的死鬥",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a9cb839f4d9d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

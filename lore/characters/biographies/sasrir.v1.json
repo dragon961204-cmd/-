@@ -104,5 +104,56 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-bea8e96c7fad",
+        "title": "薩斯利爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "失落的名字 《詭祕之主》·第5卷 紅祭司 · 第1123–1138章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-bea8e96c7fad",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "陰影宮殿中的甦醒 《詭祕之主》·第6卷 逐光者 · 第1253–1265章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-bea8e96c7fad",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身份的真相 《詭祕之主》·第8卷 · 第1376–1387章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-bea8e96c7fad",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "陰影宮殿之戰",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-bea8e96c7fad",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
+  }
 }

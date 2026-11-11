@@ -69,5 +69,136 @@
     "C010",
     "C011"
   ],
-  "chapter_evidence_count": 2
+  "chapter_evidence_count": 2,
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-b6201f5c4c1b",
+        "title": "奧黛麗",
+        "url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "加入塔羅會與成爲“觀衆” 《詭祕之主》·第1卷 小丑 · 第5–193章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“讀心者”與心理鍊金會 《詭祕之主》·第2卷 無麪人 · 第216–418章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“心理醫生”與集體潛意識大海 《詭祕之主》·第3卷 旅行家 · 第487–572章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“催眠師”與道恩·唐泰斯 《詭祕之主》·第4卷 不死者 · 第829–872章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "反制赫溫·蘭比斯 《詭祕之主》·第5卷 紅祭司 · 第1014–1097章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升半神與貝克蘭德之戰 《詭祕之主》·第6卷 逐光者 · 第1187–1258章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "評議團委員與“織夢人” 《詭祕之主》·第7–8卷 · 第1316–1393章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "盧米安的心理醫生 《宿命之環》·第3–4卷 · 第275–500章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市與古代巨龍 《宿命之環》·第6–7卷 · 第904–1114章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升天使與守護貝克蘭德 《宿命之環》·第8卷 永劫者 · 第1119–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "舞會上的齊林格斯",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "險些失控的晉升",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "反制赫溫·蘭比斯",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "城外的精神瘟疫",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b6201f5c4c1b",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 14
+  }
 }

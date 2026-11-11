@@ -85,5 +85,64 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-7bd9fee60e24",
+        "title": "風暴之主",
+        "url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "傳說中的古老正神 《詭祕之主》·第1卷 小丑 · 第18–140章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7bd9fee60e24",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "背叛者的面目 《詭祕之主》·第5卷 紅祭司 · 第1118–1130章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7bd9fee60e24",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "真名列奧德羅 《詭祕之主》·第6卷 逐光者 · 第1182–1246章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7bd9fee60e24",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與亞當相爭 《詭祕之主》·第7–8卷 · 第1350–1381章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7bd9fee60e24",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "化作球狀閃電 《宿命之環》·第8卷 永劫者 · 第1158–1170章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-7bd9fee60e24",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

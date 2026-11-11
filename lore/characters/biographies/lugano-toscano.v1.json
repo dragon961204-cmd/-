@@ -85,5 +85,72 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-281ebb304662",
+        "title": "盧加諾",
+        "url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "自薦投效 第3卷 陰謀家 · 第289–402章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "遠赴桑塔港 第4卷 罪人 · 第496–700章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“豐收祭司” 第5卷 魔女 · 第756–868章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "病教大主教 第7–8卷 · 第1060–1172章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢遊與神子",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢節斷臂",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-281ebb304662",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

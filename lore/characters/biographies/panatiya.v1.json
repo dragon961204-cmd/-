@@ -55,5 +55,48 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-f3a9b431bb33",
+        "title": "潘娜蒂亞",
+        "url": "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "迷霧小鎮的交鋒 《詭祕之主》·第4卷 不死者 · 第834–844章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f3a9b431bb33",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市裏的復活女屍 《宿命之環》·第6卷 織夢人 · 第916–1026章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f3a9b431bb33",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "碎片的去向 《宿命之環》·第7卷 第二定律 · 第1098章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f3a9b431bb33",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f3a9b431bb33.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
   }
 }

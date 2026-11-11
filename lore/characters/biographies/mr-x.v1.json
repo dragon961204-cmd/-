@@ -55,5 +55,48 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ea9706356a3a",
+        "title": "X先生",
+        "url": "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "成爲塔羅會的狩獵目標 第3卷 旅行家 · 第646–680章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ea9706356a3a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "第4卷 不死者 · 第769–909章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ea9706356a3a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "聚會中遭操縱，被“喪鐘”一槍擊殺",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ea9706356a3a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ea9706356a3a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
   }
 }

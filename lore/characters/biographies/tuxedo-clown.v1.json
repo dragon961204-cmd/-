@@ -73,5 +73,32 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-043fbe7a8894",
+        "title": "燕尾服小丑",
+        "url": "https://lotmfanwiki.com/node/cn-p-043fbe7a8894.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "爭奪筆記與身死 第1卷 小丑 · 第73–207章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-043fbe7a8894",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-043fbe7a8894.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 1
+  }
 }

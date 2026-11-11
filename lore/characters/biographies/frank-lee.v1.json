@@ -87,5 +87,72 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-10ad8d8f76ba",
+        "title": "弗蘭克·李",
+        "url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "未來號上的“毒素專家” 《詭祕之主》·第3卷 旅行家 · 第638–721章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "求取“德魯伊” 《詭祕之主》·第4–5卷 · 第823–1128章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大副與“火山啤酒” 《詭祕之主》·第6–7卷 · 第1186–1323章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "五海上的傳聞 《宿命之環》·第1、5卷 · 第1章、第779章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢中的李克己 《宿命之環》·第6卷 織夢人 · 第961–1018章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "狂暴海上 《宿命之環》·第8卷 永劫者 · 第1163章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-10ad8d8f76ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

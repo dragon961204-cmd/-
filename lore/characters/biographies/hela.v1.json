@@ -85,5 +85,72 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-77cb98c5511f",
+        "title": "海拉",
+        "url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "奧蘿爾的朋友 第1–2卷 · 第49–142章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "結識盧米安與清算“洛基” 第3卷 陰謀家 · 第270–391章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "風帆船之戰與夢境審訊 第4卷 罪人 · 第576–651章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "研究會的聯絡 第5卷 魔女 · 第757–847章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "穿越真相與特里爾危機 第7卷 第二定律 · 第1047–1074章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "地下墓穴尋泉",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-77cb98c5511f",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
+  }
 }

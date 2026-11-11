@@ -61,5 +61,104 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-b78f2777eb5d",
+        "title": "莎倫",
+        "url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "從保鏢到盟友 《詭祕之主》·第2卷 無麪人 · 第246–382章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "暗中相助 《詭祕之主》·第3卷 旅行家 · 第483–663章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "法老木乃伊與“木偶” 《詭祕之主》·第4–5卷 · 第875–1140章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "圍殺“巫王” 《詭祕之主》·第6卷 逐光者 · 第1235–1236章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "節制派半神 《宿命之環》·第5卷 魔女 · 第765–776章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "塔羅會“節制” 《宿命之環》·第7–8卷 · 第1040–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "滿月下的深紅月冕",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "化身“巫王”的木偶",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "附身盧米安闖冥界",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“舊日之盒”送敵入冥界",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b78f2777eb5d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b78f2777eb5d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

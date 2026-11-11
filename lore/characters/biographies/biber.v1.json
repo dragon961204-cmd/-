@@ -65,5 +65,40 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-e1c2e22af631",
+        "title": "瑞爾·比伯",
+        "url": "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "筆記到手與失蹤 第1卷 小丑 · 第46–210章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e1c2e22af631",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "倉庫中的怪物比伯",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-e1c2e22af631",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 2
+  }
 }

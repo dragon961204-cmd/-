@@ -85,5 +85,56 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-44a38271b78c",
+        "title": "齊林格斯",
+        "url": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "從教堂僕役到海盜將軍 第4卷 不死者 · 第781–816章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-44a38271b78c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "潛入貝克蘭德 第1、4卷 · 第187–189章、第815–920章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-44a38271b78c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身後餘波 第3卷 旅行家 · 第572–588章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-44a38271b78c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "尼根公爵府的舞會",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-44a38271b78c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
+  }
 }

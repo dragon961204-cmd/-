@@ -73,5 +73,96 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-c79adb2ab4d9",
+        "title": "安東尼",
+        "url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "金雞旅館的情報販子 第2卷 逐光者 · 第120–260章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "向腓力將軍復仇 第3卷 陰謀家 · 第306–489章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "加入塔羅會 第4卷 罪人 · 第500–733章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "潛伏巴納摩港 第5卷 魔女 · 第781–880章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市中的心理醫生 第6卷 織夢人 · 第899–1021章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“操縱師” 第7–8卷 · 第1038–1178章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "第四紀特里爾的復仇",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與女安東尼對壘",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "爲莫尼特畫像",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-c79adb2ab4d9",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

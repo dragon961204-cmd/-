@@ -55,5 +55,64 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-8f022cc58daf",
+        "title": "K先生",
+        "url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "聚會召集人 第2卷 逐光者 · 第144–232章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8f022cc58daf",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "佈置調查 第3卷 陰謀家 · 第293–343章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8f022cc58daf",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "桑塔港行動與刺殺部長 第4卷 罪人 · 第581–735章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8f022cc58daf",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "推薦預備神使 第5卷 魔女 · 第738–867章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8f022cc58daf",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "海底飛船斬殺瘋女",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8f022cc58daf",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8f022cc58daf.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
   }
 }

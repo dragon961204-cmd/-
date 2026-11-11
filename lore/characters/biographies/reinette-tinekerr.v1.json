@@ -61,5 +61,80 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-c1c649ad40fa",
+        "title": "蕾妮特·緹尼科爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "立約成爲信使 《詭祕之主》·第3卷 旅行家 · 第561–729章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "還債與送信 《詭祕之主》·第4卷 不死者 · 第763–944章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "王女往事與陵寢之戰 《詭祕之主》·第5卷 紅祭司 · 第1041–1149章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "迎戰玫瑰學派與神棄之地之行 《詭祕之主》·第6卷 逐光者 · 第1231–1247章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "終局前後 《詭祕之主》·第7卷 倒吊人 · 第1290章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "聖靈天使 《宿命之環》·第8卷 永劫者 · 第1128–1163章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與傑克斯纏鬥",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-c1c649ad40fa",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-c1c649ad40fa.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 7
+  }
 }

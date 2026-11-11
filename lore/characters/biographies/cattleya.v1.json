@@ -61,5 +61,112 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-64b55e89180a",
+        "title": "嘉德麗雅",
+        "url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "加入塔羅會 《詭祕之主》·第3卷 旅行家 · 第564–714章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "女王與“愚者”之間 《詭祕之主》·第4–5卷 · 第743–1035章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "獵殺“祕之聖者”與神燈 《詭祕之主》·第6卷 逐光者 · 第1174–1239章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“預言大師” 《詭祕之主》·第7–8卷 · 第1323–1389章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大阿卡那牌“隱者” 《宿命之環》·第4–5卷 · 第501–882章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "強闖理想鄉 《宿命之環》·第7卷 第二定律 · 第1063–1087章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "末日之前 《宿命之環》·第8卷 永劫者 · 第1126–1163章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "窺探“愚者”",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "獵殺“祕之聖者”",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "翡翠城接過神燈",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "強闖理想鄉",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-64b55e89180a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 11
+  }
 }

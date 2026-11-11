@@ -61,5 +61,96 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-fc12503fa6a6",
+        "title": "貝爾納黛",
+        "url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "“神祕女王”登場 《詭祕之主》·第3卷 旅行家 · 第663–714章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "貝克蘭德的佈局 《詭祕之主》·第4–5卷 · 第793–1150章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "交出神燈，駛向迷霧 《詭祕之主》·第6卷 逐光者 · 第1161–1266章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“黑皇帝”陵寢 《詭祕之主》·第7–8卷 · 第1300–1391章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "重回陵寢 《宿命之環》·第5卷 魔女 · 第864–884章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢中的黃貝貝 《宿命之環》·第6卷 織夢人 · 第1013章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "留守特里爾 《宿命之環》·第8卷 永劫者 · 第1127–1159章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "追上“未來號”",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“黑皇帝”陵寢中的父女",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-fc12503fa6a6",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

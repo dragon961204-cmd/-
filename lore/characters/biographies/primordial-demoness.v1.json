@@ -85,5 +85,96 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-36cd76a73805",
+        "title": "原初魔女",
+        "url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "邪神之名 《詭祕之主》·第1、3卷 · 第66–180章、第589–681章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "特莉絲成爲神眷者 《詭祕之主》·第4–5卷 · 第775–978章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "圍攻“愚者”的晉升 《詭祕之主》·第8卷 · 第1376–1389章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "魔女教派的真神 《宿命之環》·第3–4卷 · 第440–725章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "沉睡中的神 《宿命之環》·第5卷 魔女 · 第801–840章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中深處的現身 《宿命之環》·第7卷 第二定律 · 第1042–1114章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "敗亡與融合 《宿命之環》·第8卷 永劫者 · 第1120–1174章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中深處的交合",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "跌落神座",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-36cd76a73805",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

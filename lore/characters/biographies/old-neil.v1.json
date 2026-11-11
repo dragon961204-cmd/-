@@ -203,5 +203,40 @@
     "complete": false,
     "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
   },
-  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-2c1a4f47e126",
+        "title": "老尼爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "克萊恩的神祕學老師 《詭祕之主》·第1卷 小丑 · 第32–171章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c1a4f47e126",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "被“隱匿賢者”污染後遭槍決",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-2c1a4f47e126",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 2
+  }
 }

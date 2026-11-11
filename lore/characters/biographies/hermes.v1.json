@@ -55,5 +55,56 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-4e40469a8075",
+        "title": "赫密斯",
+        "url": "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "羅塞爾日記中的黃昏隱士會聚會 《詭祕之主》·第3卷 旅行家 · 第567章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e40469a8075",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "現身與變形 《詭祕之主》·第5卷 紅祭司 · 第1105–1147章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e40469a8075",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "心理鍊金會的“暴怒”先生 《詭祕之主》·第7–8卷 · 第1319–1390章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e40469a8075",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "離開保護區參戰 《宿命之環》·第8卷 永劫者 · 第1168章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e40469a8075",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
   }
 }

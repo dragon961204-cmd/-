@@ -87,5 +87,117 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-9fba75909089",
+        "title": "“門”先生",
+        "url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html"
+      },
+      {
+        "id": "cn-p-2c5e432335f8",
+        "title": "‘門’先生",
+        "url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "日記裏的求救者 《詭祕之主》·第2、4卷 · 第217–477章、第766–786章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "脫困之法 《詭祕之主》·第5卷 紅祭司 · 第1134–1145章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "迴歸與隕落 《詭祕之主》·第7–8卷 · 第1294–1389章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "導師與第四紀舊功 《宿命之環》·第4卷 罪人 · 第590–591章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中世界的締造者 《宿命之環》·第7卷 第二定律 · 第1098–1107章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "藍山島的成神儀式",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9fba75909089",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "日記裏的求救者 《詭祕之主》·第2–3卷 · 第216–588章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c5e432335f8",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "光門的指向 《詭祕之主》·第4–5卷 · 第911–1141章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c5e432335f8",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "穿過血肉之門 《詭祕之主》·第7卷 倒吊人 · 第1349章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c5e432335f8",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "傳聞中的結合封印 《宿命之環》·第5卷 魔女 · 第856章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c5e432335f8",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市的亞廳長 《宿命之環》·第6卷 織夢人 · 第991–1018章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-2c5e432335f8",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 11
+  }
 }

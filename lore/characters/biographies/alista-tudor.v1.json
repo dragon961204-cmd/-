@@ -83,5 +83,120 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未轉載原作小說全文"
+  "copyright_note": "原創摘要，未轉載原作小說全文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-a9db4c921431",
+        "title": "亞利斯塔.圖鐸",
+        "url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "歷史迷霧中的血皇帝 《詭祕之主》·第2卷 無麪人 · 第456–457章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "強行成神 《詭祕之主》·第4卷 不死者 · 第736章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "遺蹟與陵寢 《詭祕之主》·第5卷 紅祭司 · 第1091–1146章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "惡靈口中的主謀 《詭祕之主》·第7卷 倒吊人 · 第1274–1276章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "特里爾地底的殘影 《宿命之環》·第3卷 陰謀家 · 第356–432章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "冥道人的封印 《宿命之環》·第4卷 罪人 · 第529–697章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中世界的線索 《宿命之環》·第5卷 魔女 · 第743–744章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "復活與坍縮 《宿命之環》·第7卷 第二定律 · 第1035–1111章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "盧米安肩上的臉 《宿命之環》·第8卷 永劫者 · 第1122–1174章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中的血皇帝",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "借盧米安復活",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "圖鐸宮殿中的隕落",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a9db4c921431",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 12
+  }
 }

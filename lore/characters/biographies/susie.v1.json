@@ -105,5 +105,104 @@
     "C008",
     "C009"
   ],
-  "chapter_evidence_count": 2
+  "chapter_evidence_count": 2,
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-595fe5aca2ba",
+        "title": "蘇茜",
+        "url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "舔掉魔藥，開口說話 《詭祕之主》·第1卷 小丑 · 第8–152章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "信使與耳目 《詭祕之主》·第2卷 無麪人 · 第244–442章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "成爲“心理醫生” 《詭祕之主》·第3–4卷 · 第519–829章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "守衛與助手 《詭祕之主》·第5–6卷 · 第947–1249章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "心靈相連 《詭祕之主》·第8卷 · 第1355–1393章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "盧米安的心理醫生 《宿命之環》·第2–3卷 · 第128–405章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "治療收尾 《宿命之環》·第3卷 陰謀家 · 第278–405章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "成爲“操縱師” 《宿命之環》·第8卷 永劫者 · 第1163章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "最後一滴魔藥",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "爲盧米安解夢",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-595fe5aca2ba",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-595fe5aca2ba.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

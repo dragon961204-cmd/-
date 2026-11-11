@@ -329,5 +329,136 @@
       "chapter": "第一部第1章",
       "verification": "chapter_checked"
     }
-  ]
+  ],
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ef5f0ffca4b0",
+        "title": "克萊恩",
+        "url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "穿越與值夜者歲月 《詭祕之主》·第1–2卷 · 第2–323章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夏洛克·莫里亞蒂 《詭祕之主》·第2卷 無麪人 · 第215–480章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "格爾曼·斯帕羅出海 《詭祕之主》·第3卷 旅行家 · 第488–732章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "道恩·唐泰斯與半神之路 《詭祕之主》·第4–5卷 · 第733–1056章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "《詭祕之主》·第5卷 紅祭司 · 第981–1149章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "神棄之地與天使 《詭祕之主》·第6–7卷 · 第1151–1269章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "天使之王與“愚者” 《詭祕之主》·第7–8卷 · 第1273–1392章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "沉睡與封印 《宿命之環》·第2–3、5–6卷 · 第125–470章、第743–1008章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市與甦醒 《宿命之環》·第6–7卷 · 第887–1110章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "完全甦醒與“詭祕之主” 《宿命之環》·第8卷 永劫者 · 第1150–1178章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "廷根的死亡與復生",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "庫克瓦城的復仇",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "擺脫阿蒙的寄生",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“愚者”",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ef5f0ffca4b0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 14
+  }
 }

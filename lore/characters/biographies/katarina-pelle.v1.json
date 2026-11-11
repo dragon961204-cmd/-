@@ -55,5 +55,64 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-8238a96dcf49",
+        "title": "卡特琳娜",
+        "url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "黑死號上的協助者 《詭祕之主》·第3卷 旅行家 · 第589章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8238a96dcf49",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "貝克蘭德的追捕 《詭祕之主》·第5卷 紅祭司 · 第1108–1149章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8238a96dcf49",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "梅迪奇身邊 《詭祕之主》·第7卷 倒吊人 · 第1275–1276章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8238a96dcf49",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與埃姆林交戰 《宿命之環》·第8卷 永劫者 · 第1130–1136章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8238a96dcf49",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "西區的通靈問話",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8238a96dcf49",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8238a96dcf49.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
   }
 }

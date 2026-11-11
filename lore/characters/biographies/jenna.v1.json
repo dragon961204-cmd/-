@@ -55,5 +55,104 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-9f60885478fb",
+        "title": "簡娜",
+        "url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "市場區的浮誇女 《宿命之環》·第2–3卷 · 第155–402章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "教唆者與女巫 《宿命之環》·第3卷 陰謀家 · 第269–478章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "加入塔羅會 《宿命之環》·第4卷 罪人 · 第499–660章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "歡愉魔女 《宿命之環》·第5卷 魔女 · 第756–854章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "痛苦魔女與夢境 《宿命之環》·第6卷 織夢人 · 第893–901章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "絕望魔女與犧牲 《宿命之環》·第7卷 第二定律 · 第1037–1110章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身後與復歸 《宿命之環》·第8卷 永劫者 · 第1117–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "帶人討回賠款",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "畫中世界的祈禱",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "強行晉升不老魔女",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9f60885478fb",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
   }
 }

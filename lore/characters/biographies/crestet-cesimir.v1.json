@@ -55,5 +55,48 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-5522c41b0f1d",
+        "title": "克雷斯泰·塞西瑪",
+        "url": "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "主持聖堂考查 第1卷 小丑 · 第166–169章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-5522c41b0f1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "追捕蘭爾烏斯 第2卷 無麪人 · 第285–402章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-5522c41b0f1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升半神與貝克蘭德之戰 第6卷 逐光者 · 第1180–1265章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-5522c41b0f1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
   }
 }

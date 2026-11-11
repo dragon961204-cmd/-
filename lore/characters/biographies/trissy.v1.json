@@ -55,5 +55,56 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-8c5ac10ec360",
+        "title": "特莉絲",
+        "url": "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "苜蓿號慘案與廷根 第1卷 小丑 · 第64–196章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8c5ac10ec360",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "埃德薩克王子身邊 第2卷 無麪人 · 第470–478章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8c5ac10ec360",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "爲王子復仇 第4–5卷 · 第773–1149章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8c5ac10ec360",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "廷根的詛咒儀式",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8c5ac10ec360",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c5ac10ec360.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
   }
 }

@@ -55,5 +55,72 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-279740237fb7",
+        "title": "達尼茲",
+        "url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "從人質到幫手 《詭祕之主》·第3卷 旅行家 · 第503–712章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "西拜朗與塞洛斯島 《詭祕之主》·第4–5卷 · 第736–1107章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "從“海神”眷者到神使 《詭祕之主》·第6–8卷 · 第1179–1393章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“愚者”教會神使 《宿命之環》·第3卷 陰謀家 · 第291–491章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "窗外的人質",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "拜亞姆的伏擊與復仇",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-279740237fb7",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-279740237fb7.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 6
   }
 }

@@ -92,5 +92,96 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未轉載原作小說全文"
+  "copyright_note": "原創摘要，未轉載原作小說全文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-8b08b8f6279d",
+        "title": "科林·伊利亞特",
+        "url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "阿蒙的禍患與神廟循環 《詭祕之主》·第2卷 無麪人 · 第386–460章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "《詭祕之主》·第3卷 旅行家 · 第540–668章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "求助“愚者”與前任首席陵寢 《詭祕之主》·第4卷 不死者 · 第898–937章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "無暗十字與“銀騎士”配方 《詭祕之主》·第5卷 紅祭司 · 第1039–1123章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“銀騎士”與最後一戰 《詭祕之主》·第6卷 逐光者 · 第1158–1266章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "被記住的首席 《宿命之環》·第8卷 永劫者 · 第1135–1147章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "斬落人臉救下傑克，擺脫重複循環",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "開啓前任首席陵寢",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "古神臺階上的陽光",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8b08b8f6279d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

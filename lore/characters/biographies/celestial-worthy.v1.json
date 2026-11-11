@@ -85,5 +85,88 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-4c1eaba9437c",
+        "title": "天尊",
+        "url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "咒文中的尊名 《詭祕之主》·第1、5–6卷 · 第57章、第948–1215章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "詭祕之主 《詭祕之主》·第7卷 倒吊人 · 第1269–1272章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "在“愚者”體內復甦 《詭祕之主》·第8卷 · 第1355–1387章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“愚人節”背後的神 《宿命之環》·第3–4卷 · 第391–593章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境中的對抗 《宿命之環》·第6卷 織夢人 · 第903–1025章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "往事與融合 《宿命之環》·第7–8卷 · 第1088–1169章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“愚者”體內的甦醒",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中人之謀",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-4c1eaba9437c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 8
+  }
 }

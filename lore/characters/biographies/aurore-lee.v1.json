@@ -55,5 +55,80 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-4e2aec8425d4",
+        "title": "奧蘿爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "科爾杜村的循環與獻祭 第1、3卷 · 第1–109章、第300–339章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身世與死因 第2–3卷 · 第111–392章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "封印在盧米安體內 第6卷 織夢人 · 第885–1033章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "復甦與歸來 第7–8卷 · 第1042–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "循環中的坦白",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "祭壇前的一推",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "喚魂術與另一個名字",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-4e2aec8425d4",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-4e2aec8425d4.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 7
   }
 }

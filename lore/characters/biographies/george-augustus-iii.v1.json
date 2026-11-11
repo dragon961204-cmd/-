@@ -94,5 +94,56 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-daedd6d7c677",
+        "title": "喬治三世",
+        "url": "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "明面上的國王 第1–2卷 · 第145–481章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-daedd6d7c677",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“黑皇帝”之謀 第5–6卷 · 第1024–1173章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-daedd6d7c677",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "隕落之後 第6卷 逐光者 · 第1154–1189章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-daedd6d7c677",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "祕密陵寢晉升失敗與隕落",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-daedd6d7c677",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
+  }
 }

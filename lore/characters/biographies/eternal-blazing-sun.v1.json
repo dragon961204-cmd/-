@@ -85,5 +85,64 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-e45f9cf34143",
+        "title": "永恆烈陽",
+        "url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "最古老的神靈之一 《詭祕之主》·第1–2卷 · 第144–358章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e45f9cf34143",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“純白天使”的真相 《詭祕之主》·第5卷 紅祭司 · 第1063–1118章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e45f9cf34143",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "被困神國 《詭祕之主》·第8卷 · 第1376–1381章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e45f9cf34143",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "因蒂斯的正統神靈 《宿命之環》·第1卷 夢魘 · 第14–29章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e45f9cf34143",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "神子與隕落 《宿命之環》·第6–8卷 · 第1019–1128章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e45f9cf34143",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

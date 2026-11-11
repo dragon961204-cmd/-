@@ -61,5 +61,64 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-27606653b71a",
+        "title": "烏洛琉斯",
+        "url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "壁畫與遺蹟中的命運天使 《詭祕之主》·第3卷 旅行家 · 第649–650章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-27606653b71a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "追尋威爾·昂賽汀 《詭祕之主》·第4–5卷 · 第770–979章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-27606653b71a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "遠古太陽神的天使之王 《詭祕之主》·第6、8卷 · 第1261章、第1357章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-27606653b71a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "隱藏的“受難者” 《宿命之環》·第5卷 魔女 · 第876章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-27606653b71a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "錯失神位 《宿命之環》·第8卷 永劫者 · 第1150–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-27606653b71a",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-27606653b71a.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

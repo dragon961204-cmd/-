@@ -55,5 +55,56 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-53df6eb1ccae",
+        "title": "特雷茜",
+        "url": "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "接收齊林格斯的船隊 《詭祕之主》·第3卷 旅行家 · 第572–631章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-53df6eb1ccae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "母女身份 《詭祕之主》·第5卷 紅祭司 · 第1094–1111章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-53df6eb1ccae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "海上諸王之一 《宿命之環》·第4卷 罪人 · 第511–516章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-53df6eb1ccae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "黑死號上的行刺",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-53df6eb1ccae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
   }
 }

@@ -85,5 +85,88 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ac5e19d32139",
+        "title": "路德維希",
+        "url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "布里涅爾男爵的教子 第3卷 陰謀家 · 第311–494章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "隨盧米安南下 第4卷 罪人 · 第500–673章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "被馴服的天使 第5卷 魔女 · 第738–869章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市中的李路 第6卷 織夢人 · 第916–1027章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "迴歸天使層次 第7–8卷 · 第1035–1178章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "啃掉洛基的半條手臂",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢節失控",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "噬之天使",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-ac5e19d32139",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 8
+  }
 }

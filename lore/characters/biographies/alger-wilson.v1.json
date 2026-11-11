@@ -68,5 +68,128 @@
   "verified_claim_refs": [
     "C012"
   ],
-  "chapter_evidence_count": 1
+  "chapter_evidence_count": 1,
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-61827728a33d",
+        "title": "阿爾傑",
+        "url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "加入塔羅會與追查齊林格斯 《詭祕之主》·第1卷 小丑 · 第5–189章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "老練的“倒吊人” 《詭祕之主》·第2卷 無麪人 · 第216–450章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晉升“風眷者” 《詭祕之主》·第3卷 旅行家 · 第487–731章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "帕蘇島述職與海洋歌者、風眷者晉升 《詭祕之主》·第4–5卷 · 第746–1141章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "精靈遺蹟與晉升半神 《詭祕之主》·第6卷 逐光者 · 第1163–1228章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "羅思德的樞機主教 《詭祕之主》·第7卷 倒吊人 · 第1276–1350章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "叛出教會，執掌海神教會 《詭祕之主》·第8卷 · 第1355–1393章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "海上的大阿卡那牌 《宿命之環》·第3、5卷 · 第438–472章、第743–748章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "轉入“祕祈人”途徑 《宿命之環》·第7–8卷 · 第1073–1178章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "原始島嶼的教堂",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "珊瑚宮殿",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "按住蔚藍之門",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "黃銅書與落日雄雞",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-61827728a33d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-61827728a33d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 13
+  }
 }

@@ -55,5 +55,48 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-ab9bac50a9cc",
+        "title": "A先生",
+        "url": "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "隱祕聚會的召集者 第1–2卷 · 第130–249章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ab9bac50a9cc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "尋找“愚者”與降臨儀式 第2卷 無麪人 · 第404–479章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ab9bac50a9cc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大霧霾與被抹除 第4卷 不死者 · 第763–863章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-ab9bac50a9cc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 3
   }
 }

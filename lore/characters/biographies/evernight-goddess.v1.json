@@ -85,5 +85,104 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-34f83b503735",
+        "title": "黑夜女神",
+        "url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "信仰中的女神 《詭祕之主》·第1卷 小丑 · 第162–169章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "人造死神與身世揭曉 《詭祕之主》·第4–5卷 · 第924–1130章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "借布拉德爾阻攔阿蒙 《詭祕之主》·第6卷 逐光者 · 第1168–1262章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "取代戰神 《詭祕之主》·第7卷 倒吊人 · 第1274–1297章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "押注克萊恩 《詭祕之主》·第8卷 · 第1356–1390章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "邁向序列之上 《宿命之環》·第7卷 第二定律 · 第1091–1115章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "借“0—17”神降 《宿命之環》·第8卷 永劫者 · 第1130–1177章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "霍納奇斯之巔",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鎖龍塔的冥河之誓",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "拖住宿命之環",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-34f83b503735",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

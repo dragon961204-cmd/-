@@ -61,5 +61,96 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-a96e18b0cabd",
+        "title": "威爾·昂賽汀",
+        "url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "截肢病童與墓園屍骨 《詭祕之主》·第2卷 無麪人 · 第326–423章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "腹中的“命運之蛇” 《詭祕之主》·第3–4卷 · 第590–936章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "降生與重啓 《詭祕之主》·第5卷 紅祭司 · 第978–1124章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“愚者”座下的天使 《詭祕之主》·第6、8卷 · 第1173–1232章、第1357–1388章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "小男孩的指點 《宿命之環》·第3、5卷 · 第456–479章、第875–882章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "容納唯一性 《宿命之環》·第8卷 永劫者 · 第1131–1179章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "艾倫夢中的巨蛇與樺樹下的屍骨",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "重啓阿蒙",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "玩具堆裏的眼淚",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-a96e18b0cabd",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
+  }
 }

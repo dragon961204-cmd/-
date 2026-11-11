@@ -236,5 +236,56 @@
     "complete": false,
     "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
   },
-  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-9c31ebd50ba0",
+        "title": "因斯·贊格威爾",
+        "url": "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "廷根事件 第1卷 小丑 · 第210–213章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9c31ebd50ba0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "地下遺蹟的遭遇 第2卷 無麪人 · 第473–479章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9c31ebd50ba0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "惡靈附身與覆滅 第4–5卷 · 第931–1142章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9c31ebd50ba0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "復活廣場的復仇",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9c31ebd50ba0",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9c31ebd50ba0.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 4
+  }
 }

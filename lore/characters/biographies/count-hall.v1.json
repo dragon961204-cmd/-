@@ -85,5 +85,64 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-f5768e8e8f15",
+        "title": "霍爾伯爵",
+        "url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "轉入銀行業 《詭祕之主》·第1卷 小丑 · 第176–177章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f5768e8e8f15",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "家族佈局與大霧霾 《詭祕之主》·第3卷 旅行家 · 第484–518章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f5768e8e8f15",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "慈善與戰時 《詭祕之主》·第4卷 不死者 · 第859–867章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f5768e8e8f15",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "家中近事 《詭祕之主》·第8卷 · 第1355–1393章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f5768e8e8f15",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "仍在貴族圈中 《宿命之環》·第8卷 永劫者 · 第1119章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-f5768e8e8f15",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

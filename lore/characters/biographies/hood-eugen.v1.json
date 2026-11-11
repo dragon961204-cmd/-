@@ -73,5 +73,40 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-8c1fe7cdf1ec",
+        "title": "胡德·歐根",
+        "url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "瘋人院裏的協助者 第1卷 小丑 · 第117–210章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-8c1fe7cdf1ec",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "心靈世界中的追問",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-8c1fe7cdf1ec",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 2
+  }
 }

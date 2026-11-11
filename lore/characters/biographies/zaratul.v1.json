@@ -55,5 +55,104 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-66980eb3da05",
+        "title": "查拉圖",
+        "url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "羅塞爾日記中的密修會首領與預言 《詭祕之主》·第1–3卷 · 第65–714章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "迷霧小鎮與貝克蘭德 《詭祕之主》·第4–5卷 · 第838–1147章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "對抗阿蒙的短暫同盟 《詭祕之主》·第6卷 逐光者 · 第1164–1181章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "烏托邦之戰與落幕 《詭祕之主》·第7–8卷 · 第1344–1375章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "在“洛基”體內復甦 《宿命之環》·第3–5卷 · 第385–739章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境都市裏的查拉圖斯特拉 《宿命之環》·第6卷 織夢人 · 第950–994章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中世界與終局 《宿命之環》·第7–8卷 · 第1103–1136章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "迷霧小鎮的影像",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "最後一戰",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "火鍋店裏的神話生物",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-66980eb3da05",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-66980eb3da05.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
   }
 }

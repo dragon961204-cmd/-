@@ -61,5 +61,104 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-e4e11eebaa1c",
+        "title": "阿蒙",
+        "url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "白銀城的分身與身世 《詭祕之主》·第2–3卷 · 第358–617章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "分身入侵貝克蘭德 《詭祕之主》·第4–5卷 · 第752–1150章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "神棄之地與屍骨教堂 《詭祕之主》·第6卷 逐光者 · 第1167–1266章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“錯誤”之神與源堡之戰 《詭祕之主》·第7–8卷 · 第1283–1387章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "羣島騙子莫尼特 《宿命之環》·第3–4卷 · 第350–733章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "脫困顯化與褻瀆石板 《宿命之環》·第5卷 魔女 · 第875–884章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "末日中的援手 《宿命之環》·第6–8卷 · 第904–1170章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "挾持克萊恩入神棄之地",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "源堡內的神戰",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "忒爾彌波洛斯脫困",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-e4e11eebaa1c",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

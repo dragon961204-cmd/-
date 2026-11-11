@@ -61,5 +61,120 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-9735d656fa1d",
+        "title": "埃姆林·懷特",
+        "url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "囚禁、暗示與加入塔羅會 《詭祕之主》·第2卷 無麪人 · 第365–482章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "血族代表與男爵 《詭祕之主》·第3卷 旅行家 · 第486–612章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "狩獵競賽 《詭祕之主》·第4卷 不死者 · 第740–892章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "子爵、懲戒與關押 《詭祕之主》·第5卷 紅祭司 · 第949–1129章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“巫王”與伯爵 《詭祕之主》·第6卷 逐光者 · 第1172–1259章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "高級執事與南下 《詭祕之主》·第7–8卷 · 第1277–1392章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大阿卡那牌“月亮” 《宿命之環》·第5–6卷 · 第867–1032章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "尋找艾利克斯 《宿命之環》·第7卷 第二定律 · 第1050–1104章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "終戰與“召喚大師” 《宿命之環》·第8卷 永劫者 · 第1121–1146章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "狩獵“原始月亮”信徒",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "無暗之槍",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "召喚雙途徑真神",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-9735d656fa1d",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 12
+  }
 }

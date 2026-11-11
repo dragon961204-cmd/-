@@ -55,5 +55,64 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-97dcd03d4503",
+        "title": "赫溫·蘭比斯",
+        "url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "卡隆自殺案的幕後 第4卷 不死者 · 第893章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-97dcd03d4503",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "奧黛麗的上司 第5卷 紅祭司 · 第973–1056章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-97dcd03d4503",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "祕偶與遺留 第5–7卷 · 第1053–1290章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-97dcd03d4503",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“傲慢”的前任 第7卷 倒吊人 · 第1317–1319章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-97dcd03d4503",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "催眠與反催眠",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-97dcd03d4503",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
   }
 }

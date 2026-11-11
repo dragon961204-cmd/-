@@ -61,5 +61,120 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-714eeb528537",
+        "title": "休",
+        "url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "東區的“仲裁人” 《詭祕之主》·第1卷 小丑 · 第146–193章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "灰霧之上的考查與“治安官” 《詭祕之主》·第2卷 無麪人 · 第225–452章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "還債與“審訊者” 《詭祕之主》·第3–4卷 · 第517–856章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "成爲“審判” 《詭祕之主》·第5卷 紅祭司 · 第950–1079章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "軍情九處的“法官” 《詭祕之主》·第5–6卷 · 第1023–1242章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "半神上校 《詭祕之主》·第8卷 · 第1366–1391章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "大阿卡那牌“審判”女士 《宿命之環》·第3–4卷 · 第276–735章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "借威爾之手處決與夢境守望 《宿命之環》·第5–6卷 · 第867–1009章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "混亂獵手與所羅門的面具 《宿命之環》·第8卷 永劫者 · 第1131–1162章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "古堡與“審判”牌",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "碼頭倉庫之夜",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "戴上所羅門的面具",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-714eeb528537",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-714eeb528537.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 12
+  }
 }

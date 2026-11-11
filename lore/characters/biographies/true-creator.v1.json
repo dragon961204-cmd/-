@@ -85,5 +85,104 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-dadb6de000dc",
+        "title": "真實造物主",
+        "url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "降臨圖謀 《詭祕之主》·第1–3卷 · 第87–565章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "追索與注視 《詭祕之主》·第3卷 旅行家 · 第618–680章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "神棄之地的真神 《詭祕之主》·第6卷 逐光者 · 第1152–1263章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與亞當合一 《詭祕之主》·第7–8卷 · 第1346–1381章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "極光會的“主” 《宿命之環》·第5卷 魔女 · 第737–883章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "夢境中的格里沙 《宿命之環》·第6卷 織夢人 · 第928章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "最後一戰 《宿命之環》·第8卷 永劫者 · 第1165–1177章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "A先生的降臨儀式",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "意念侵蝕克萊恩，驅使其赴巨人王庭",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "十字架上的終局",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-dadb6de000dc",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

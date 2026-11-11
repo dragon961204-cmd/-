@@ -61,5 +61,64 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-68caba5092db",
+        "title": "帕列斯·索羅亞斯德",
+        "url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "倫納德體內的寄生者 《詭祕之主》·第2、4卷 · 第365章、第831–933章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-68caba5092db",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "聯手對付阿蒙分身 《詭祕之主》·第5卷 紅祭司 · 第964–1012章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-68caba5092db",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "跌落序列2與雅各寶藏 《詭祕之主》·第6卷 逐光者 · 第1151–1243章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-68caba5092db",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "“時之天使”與神戰之後 《詭祕之主》·第7卷 倒吊人 · 第1325–1327章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-68caba5092db",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "《宿命之環》·第5、8卷 · 第857–875章、第1128–1178章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-68caba5092db",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-68caba5092db.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }

@@ -1,0 +1,12 @@
+{
+  "schema_version": "1.0",
+  "existing_biographies_enriched": 83,
+  "life_stage_headings_attached": 573,
+  "index_only_matches_skipped": [
+    "davy-raymond",
+    "jake-young"
+  ],
+  "user_approved": 0,
+  "full_biographies_completed_by_this_job": 0,
+  "notes": "Only navigation chronology and source links attached; detailed narrative prose needs separate authorship."
+}

@@ -92,5 +92,104 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未轉載原作小說全文"
+  "copyright_note": "原創摘要，未轉載原作小說全文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-36f11a6db1ae",
+        "title": "梅迪奇",
+        "url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "地下遺蹟中的惡靈 《詭祕之主》·第2卷 無麪人 · 第450–458章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身份浮現與附身 《詭祕之主》·第3–4卷 · 第515–943章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "重返貝克蘭德 《詭祕之主》·第5卷 紅祭司 · 第1082–1110章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "蟄伏與圖謀 《詭祕之主》·第7–8卷 · 第1275–1389章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "重爲天使之王 《宿命之環》·第3–4卷 · 第492–500章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "與盧米安爭奪神位 《宿命之環》·第5–7卷 · 第812–1113章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "談判與末日之戰 《宿命之環》·第8卷 永劫者 · 第1120–1176章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "貝克蘭德的攔路",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "第四紀特里爾加冕",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中世界的對決",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-36f11a6db1ae",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-36f11a6db1ae.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 10
+  }
 }

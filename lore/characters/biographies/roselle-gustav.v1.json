@@ -415,5 +415,96 @@
       "第二部1359年結局的原作章節與身份變化"
     ],
     "notes": "這是自行撰寫的結構化傳記，已比先前三句摘要完整，但尚未逐章核對，不能計為完成驗收。"
+  },
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-b300f73a6402",
+        "title": "羅塞爾大帝",
+        "url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "從執政官到凱撒 《詭祕之主》·第1–2卷 · 第4–427章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "晚年的轉向與隕落 《詭祕之主》·第3–5卷 · 第485–1104章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "封印沉眠與歷史投影 《詭祕之主》·第6–7卷 · 第1169–1353章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "身後的傳說 《宿命之環》·第1–2卷 · 第3–168章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "皇帝歸來 《宿命之環》·第5卷 魔女 · 第869–884章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "鏡中的倒影 《宿命之環》·第6、8卷 · 第910–1023章、第1132–1176章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "最後的日記",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "陵寢中的會面",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "皇帝歸來",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-b300f73a6402",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 9
   }
 }

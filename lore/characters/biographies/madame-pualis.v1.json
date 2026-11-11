@@ -85,5 +85,64 @@
     "reviewed_by_user": false,
     "original_chapter_full_check": false
   },
-  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文",
+  "source_chronology_outline": {
+    "schema_version": "1.0",
+    "source_pages": [
+      {
+        "id": "cn-p-33eb92d22a34",
+        "title": "普阿利斯夫人",
+        "url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html"
+      }
+    ],
+    "life_and_event_stages": [
+      {
+        "stage_heading": "科爾杜村的行政官夫人 第1卷 夢魘 · 第12–79章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33eb92d22a34",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "第四紀特里爾 第3卷 陰謀家 · 第421–493章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33eb92d22a34",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "歐彌貝拉的誕生 第6–7卷 · 第1016–1115章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33eb92d22a34",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "化作緋紅 第8卷 永劫者 · 第1148–1149章",
+        "kind": "story_period",
+        "source_page_id": "cn-p-33eb92d22a34",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      },
+      {
+        "stage_heading": "石板街的試探",
+        "kind": "named_episode_or_section",
+        "source_page_id": "cn-p-33eb92d22a34",
+        "source_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+        "narrative_status": "source_heading_only",
+        "review_status": "pending_user_review"
+      }
+    ],
+    "scope": "source_guided_chronology_not_completed_prose",
+    "review_status": "pending_user_review"
+  },
+  "biography_quality": {
+    "source_chronology_attached": true,
+    "independently_verified_full_biography": false,
+    "source_stage_count": 5
+  }
 }
