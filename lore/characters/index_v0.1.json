@@ -1,0 +1,1192 @@
+{
+  "schema_version": "0.1",
+  "scope": "首批人物：名錄非全量。按英文維基明列組織名單作候選關係，全部待原作時間線核實",
+  "source_index_reported_person_entries": 1368,
+  "count_policy": "角色=唯一身分；別名不另外計數。組織關係可多筆，且具時間與來源。",
+  "characters": [
+    {
+      "id": "klein-moretti",
+      "name_zh": "克萊恩·莫雷蒂",
+      "name_en": "Klein Moretti",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "世界／愚者等其他身分使用別名，不複製人物",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "audrey-hall",
+      "name_zh": "奧黛麗·霍爾",
+      "name_en": "Audrey Hall",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "alger-wilson",
+      "name_zh": "阿爾傑·威爾遜",
+      "name_en": "Alger Wilson",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "derrick-berg",
+      "name_zh": "戴里克·伯格",
+      "name_en": "Derrick Berg",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "fors-wall",
+      "name_zh": "佛爾思·沃爾",
+      "name_en": "Fors Wall",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "emlyn-white",
+      "name_zh": "埃姆林·懷特",
+      "name_en": "Emlyn White",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "cattleya",
+      "name_zh": "嘉德麗雅",
+      "name_en": "Cattleya",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "leonard-mitchell",
+      "name_zh": "倫納德·米切爾",
+      "name_en": "Leonard Mitchell",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "xio-derecha",
+      "name_zh": "休·迪爾查",
+      "name_en": "Xio Derecha",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "sharron",
+      "name_zh": "莎倫",
+      "name_en": "Sharron",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "maric",
+      "name_zh": "馬里奇",
+      "name_en": "Maric",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "reinette-tinekerr",
+      "name_zh": "蕾妮特·緹尼科爾",
+      "name_en": "Reinette Tinekerr",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "suah",
+      "name_zh": "斯亞",
+      "name_en": "Suah",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "senor",
+      "name_zh": "塞尼奧爾",
+      "name_en": "Senor",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "steve",
+      "name_zh": "史蒂夫",
+      "name_en": "Steve",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jason-rose",
+      "name_zh": "傑森",
+      "name_en": "Jason",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "klarman",
+      "name_zh": "克萊爾曼",
+      "name_en": "Klarman",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "依原作區分原始月亮派系",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "barranca",
+      "name_zh": "巴蘭卡",
+      "name_en": "Barranca",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "tirie",
+      "name_zh": null,
+      "name_en": "Tirié",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mahmosi",
+      "name_zh": null,
+      "name_en": "Mahmosi",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "zatwen",
+      "name_zh": null,
+      "name_en": "Zatwen",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "maveti",
+      "name_zh": null,
+      "name_en": "Maveti",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "tyre",
+      "name_zh": null,
+      "name_en": "Tyre",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "dunn-smith",
+      "name_zh": "鄧恩·史密斯",
+      "name_en": "Dunn Smith",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "daly-simone",
+      "name_zh": "戴莉·西蒙妮",
+      "name_en": "Daly Simone",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "frye",
+      "name_zh": "弗萊",
+      "name_en": "Frye",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "seeka-tron",
+      "name_zh": "西迦·特昂",
+      "name_en": "Seeka Tron",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "old-neil",
+      "name_zh": "老尼爾",
+      "name_en": "Old Neil",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "rozanne",
+      "name_zh": "羅珊",
+      "name_en": "Rozanne",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "royale-reideen",
+      "name_zh": null,
+      "name_en": "Royale Reideen",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kenley-white",
+      "name_zh": "肯利·懷特",
+      "name_en": "Kenley White",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "soest",
+      "name_zh": null,
+      "name_en": "Soest",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "crestet-cesimir",
+      "name_zh": "克雷斯泰·塞西瑪",
+      "name_en": "Crestet Cesimir",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "aiur-harson",
+      "name_zh": null,
+      "name_en": "Aiur Harson",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "orianna",
+      "name_zh": null,
+      "name_en": "Mrs. Orianna",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ouroboros",
+      "name_zh": "烏洛琉斯",
+      "name_en": "Ouroboros",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mr-a",
+      "name_zh": "A先生",
+      "name_en": "Mr. A",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mr-k",
+      "name_zh": "K先生",
+      "name_en": "Mr. K",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mr-x",
+      "name_zh": "X先生",
+      "name_en": "Mr. X",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mr-z",
+      "name_zh": "Z先生",
+      "name_en": "Mr. Z",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "botis",
+      "name_zh": "博提斯",
+      "name_en": "Botis",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kisma",
+      "name_zh": null,
+      "name_en": "Kisma",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "leomaster",
+      "name_zh": null,
+      "name_en": "Leomaster",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hanass-vincent",
+      "name_zh": "哈納斯·文森特",
+      "name_en": "Hanass Vincent",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "sirius-arapis",
+      "name_zh": "西里斯·阿瑞匹斯",
+      "name_en": "Sirius Arapis",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "bernadette-gustav",
+      "name_zh": "貝爾納黛·古斯塔夫",
+      "name_en": "Bernadette Gustav",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "pauli-derlau",
+      "name_zh": null,
+      "name_en": "Pauli Derlau",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hermes",
+      "name_zh": "赫密斯",
+      "name_en": "Hermes",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hvin-rambis",
+      "name_zh": "赫溫·蘭比斯",
+      "name_en": "Hvin Rambis",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "anthony-reid",
+      "name_zh": "安東尼·瑞德",
+      "name_en": "Anthony Reid",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hood-eugen",
+      "name_zh": "胡德·歐根",
+      "name_en": "Hood Eugen",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "daxter-guderian",
+      "name_zh": "達克斯特·古德里安",
+      "name_en": "Daxter Guderian",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "escalante-oseleka",
+      "name_zh": null,
+      "name_en": "Escalante Oseleka",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "judith-demoness",
+      "name_zh": null,
+      "name_en": "Judith",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "katarina-pelle",
+      "name_zh": "卡特琳娜·佩萊",
+      "name_en": "Katarina Pelle",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "tracy",
+      "name_zh": "特雷茜",
+      "name_en": "Tracy",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "trissy",
+      "name_zh": "特莉絲",
+      "name_en": "Trissy",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "panatiya",
+      "name_zh": "潘娜蒂亞",
+      "name_en": "Panatiya",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "franca-roland",
+      "name_zh": "芙蘭卡·羅蘭",
+      "name_en": "Franca Roland",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "lumian-lee",
+      "name_zh": "盧米安·李",
+      "name_en": "Lumian Lee",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "請依第二部原作時間線精確校正角色是否正式加入極光會",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jenna",
+      "name_zh": "簡娜",
+      "name_en": "Jenna",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "azik-eggers",
+      "name_zh": "阿茲克·艾格斯",
+      "name_en": "Azik Eggers",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "家族血統／關係不能自動視為正式組織身分",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "melissa-moretti",
+      "name_zh": "梅麗莎·莫雷蒂",
+      "name_en": "Melissa Moretti",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "benson-moretti",
+      "name_zh": "班森·莫雷蒂",
+      "name_en": "Benson Moretti",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "adam",
+      "name_zh": "亞當",
+      "name_en": "Adam",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "無確認可按1349年直接套用的普通組織成員身分；涉及多重神性身分，另建關係",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "amon",
+      "name_zh": "阿蒙",
+      "name_en": "Amon",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "家族關係不等於正式入會",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "roselle-gustav",
+      "name_zh": "羅塞爾·古斯塔夫",
+      "name_en": "Roselle Gustav",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "pallez-zoroast",
+      "name_zh": "帕列斯·索羅亞斯德",
+      "name_en": "Pallez Zoroast",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "will-auceptin",
+      "name_zh": "威爾·昂賽汀",
+      "name_en": "Will Auceptin",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "暫列未確認正式組織；不代表其沒有師承及合作關係",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ince-zangwill",
+      "name_zh": "因斯·贊格威爾",
+      "name_en": "Ince Zangwill",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "danitz",
+      "name_zh": "達尼茲",
+      "name_en": "Danitz",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "曾從屬船長與海盜團體，待建立對應獨立勢力ID；不得當作真正無組織",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "edwina-edwards",
+      "name_zh": "艾德雯娜·愛德華茲",
+      "name_en": "Edwina Edwards",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "黃金夢想號船員勢力待建獨立條目",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "aurore-lee",
+      "name_zh": "奧蘿爾·李",
+      "name_en": "Aurore Lee",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "與卷毛狒狒研究會關係需確認身分層級及時間",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "zaratul",
+      "name_zh": "查拉圖",
+      "name_en": "Zaratul",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    }
+  ]
+}
