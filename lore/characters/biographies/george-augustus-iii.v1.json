@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.1",
+  "character_id": "george-augustus-iii",
+  "name_zh": "喬治·奧古斯都三世",
+  "name_en": "George Augustus III",
+  "importance": "A",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "魯恩王室",
+      "summary": "喬治三世為魯恩國王，其統治涉及貴族議會、海外殖民地與教會間的政治平衡。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "秘密非凡野心",
+      "summary": "他暗中追求黑皇帝途徑晉升，必須建造符合儀式要求的陵寢。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "地下同盟",
+      "summary": "其計畫與黃昏隱士會、魔女教派及極光會等勢力交會，但聯盟不等同公開的正式入會。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "貝克蘭德事件",
+      "summary": "社會底層受到政治與秘密事件影響；其公開王室形象與幕後計畫需要分開給玩家。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "1350年結局",
+      "summary": "第一部第1148章的儀式事件與其死亡相關，這會改變魯恩政治與世界戰爭的後續狀態。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第4章",
+      "event": "被提及",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第8章",
+      "event": "登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第五紀1350-12-03",
+      "event": "晉升儀式失敗",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "augustus-family",
+      "relationship": "family_member",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "twilight-hermit-order",
+      "relationship": "associated",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "black-emperor",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

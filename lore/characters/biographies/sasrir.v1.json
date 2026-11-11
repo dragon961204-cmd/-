@@ -1,0 +1,108 @@
+{
+  "schema_version": "1.1",
+  "character_id": "sasrir",
+  "name_zh": "薩斯利爾",
+  "name_en": "Sasrir",
+  "importance": "A",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "遠古太陽神的分身",
+      "summary": "薩斯利爾承接遠古太陽神部分人格及權柄，並不是與祂毫不相關的普通天使。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "暗天使",
+      "summary": "作為八大天使之王的重要領導者，他與第一塊褻瀆石板和混沌海相關。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "救贖薔薇",
+      "summary": "他參與救贖薔薇的核心計畫，涉及遠古太陽神面對內部意志甦醒的困境。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "第三紀結局",
+      "summary": "遠古太陽神隕落後，他的意識與殘留執念出現不同的後續狀態，不能全部視為同一具身體的連續人生。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "巨人王庭殘靈",
+      "summary": "第五紀的白銀城探索觸及薩斯利爾殘留惡靈，這是探索與神棄之地劇情的重要節點。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第三紀",
+      "event": "八大天使之王及救贖薔薇",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第四紀元年",
+      "event": "古太陽神隕落相關事件",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第666章",
+      "event": "首度提及",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1259章",
+      "event": "殘靈登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1264章",
+      "event": "殘靈相關重大事件",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "rose-redemption",
+      "relationship": "leader",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "church-ancient-sun",
+      "relationship": "king_of_angels",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "hanged-man",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Sasrir",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

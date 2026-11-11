@@ -1681,6 +1681,156 @@
           "reference": "https://lordofthemysteries.fandom.com/wiki/Nim"
         }
       ]
+    },
+    {
+      "character_id": "bethel-abraham",
+      "organization_id": "abraham-family",
+      "relationship": "ancestor",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Bethel_Abraham"
+        }
+      ]
+    },
+    {
+      "character_id": "antigonus",
+      "organization_id": "antigonus-family",
+      "relationship": "founder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Antigonus"
+        }
+      ]
+    },
+    {
+      "character_id": "sasrir",
+      "organization_id": "rose-redemption",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Sasrir"
+        }
+      ]
+    },
+    {
+      "character_id": "sasrir",
+      "organization_id": "church-ancient-sun",
+      "relationship": "king_of_angels",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Sasrir"
+        }
+      ]
+    },
+    {
+      "character_id": "ancient-sun-god",
+      "organization_id": "church-ancient-sun",
+      "relationship": "central_deity",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        }
+      ]
+    },
+    {
+      "character_id": "george-augustus-iii",
+      "organization_id": "augustus-family",
+      "relationship": "family_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ]
+    },
+    {
+      "character_id": "george-augustus-iii",
+      "organization_id": "twilight-hermit-order",
+      "relationship": "associated",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ]
+    },
+    {
+      "character_id": "susie",
+      "organization_id": "hall-family",
+      "relationship": "household_companion",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Susie"
+        }
+      ]
+    },
+    {
+      "character_id": "frank-lee",
+      "organization_id": "church-earth-mother",
+      "relationship": "former_affiliation",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Frank_Lee"
+        }
+      ]
+    },
+    {
+      "character_id": "dorian-gray-abraham",
+      "organization_id": "abraham-family",
+      "relationship": "family_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Dorian_Gray_Abraham"
+        }
+      ]
     }
   ],
   "notes": "部分既有關係曾有類別錯誤；本次修正因斯曾任黑夜女神教會大主教（非標為前值夜者），並補入奧蘿爾及芙蘭卡與卷毛狒狒研究會關係。日期皆待逐章核定。"

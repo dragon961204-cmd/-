@@ -2,8 +2,8 @@
   "schema_version": "0.1",
   "scope": "現有102名角色的編輯優先級評估；優先級是遊戲設計判斷，不是原作客觀定論。D級暫時排除但不刪歷史資料",
   "counts": {
-    "A": 35,
-    "B": 42,
+    "A": 40,
+    "B": 46,
     "C": 22,
     "D": 10
   },
@@ -988,6 +988,87 @@
       "chapter_verified": false,
       "in_game": "candidate",
       "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "bethel-abraham",
+      "name_zh": "伯特利·亞伯拉罕",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "antigonus",
+      "name_zh": "安提哥努斯",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "sasrir",
+      "name_zh": "薩斯利爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "ancient-sun-god",
+      "name_zh": "遠古太陽神",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "george-augustus-iii",
+      "name_zh": "喬治·奧古斯都三世",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "susie",
+      "name_zh": "蘇茜",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "frank-lee",
+      "name_zh": "弗蘭克·李",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "anderson-hood",
+      "name_zh": "安德森·胡德",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "dorian-gray-abraham",
+      "name_zh": "多里安·格雷·亞伯拉罕",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
     }
   ]
 }

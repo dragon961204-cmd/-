@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "antigonus",
+  "name_zh": "安提哥努斯",
+  "name_en": "Antigonus",
+  "importance": "A",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "第二紀血脈",
+      "summary": "安提哥努斯是魔狼弗雷格拉的子嗣，與天之母親具有家族關係。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "第四紀家族",
+      "summary": "其家族以占卜家途徑在帝國政治與神秘世界佔有重要地位。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "半個愚者",
+      "summary": "他容納愚者途徑唯一性，成為『半個愚者』，但狀態受古老意志的影響。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "霍納奇斯山脈",
+      "summary": "失控後被封印於霍納奇斯山脈相關區域，第一部的早期筆記及囈語都會引出這條歷史線。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "後期轉折",
+      "summary": "其力量與身分在克萊恩晉升過程中產生重大變化，不能用第四紀位格覆蓋第五紀結局。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第二紀",
+      "event": "古神時期的出身",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第四紀",
+      "event": "家族與半個愚者歷史",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第32章",
+      "event": "早期囈語線索",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1381章",
+      "event": "直接登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "antigonus-family",
+      "relationship": "founder",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "fool",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Antigonus",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

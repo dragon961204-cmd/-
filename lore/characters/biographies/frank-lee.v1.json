@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.1",
+  "character_id": "frank-lee",
+  "name_zh": "弗蘭克·李",
+  "name_en": "Frank Lee",
+  "importance": "B",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "大地母神教會背景",
+      "summary": "弗蘭克早期受大地母神教會影響，擁有種植與農業相關非凡道路的背景。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "未來號的船醫",
+      "summary": "他擔任嘉德麗雅船上的醫生與大副，將航海生活和超凡植物研究結合。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "強烈的研究興趣",
+      "summary": "他持續研究土壤、蘑菇及生物培養，想透過創新解決生產與食物問題。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "與克萊恩的合作",
+      "summary": "克萊恩試圖把他的研究引導到可為神棄之地居民提供食物的方向。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "後期植物成果",
+      "summary": "其發明逐漸影響新白銀城的生活；序列晉升記錄必須遵循具體原作章節。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第638章",
+      "event": "登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1128章",
+      "event": "晉升序列5德魯伊",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第二部第1章",
+      "event": "被提及",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-earth-mother",
+      "relationship": "former_affiliation",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "mother",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Frank_Lee",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.1",
+  "character_id": "anderson-hood",
+  "name_zh": "安德森·胡德",
+  "name_en": "Anderson Hood",
+  "importance": "B",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "冒險家",
+      "summary": "安德森活躍於海上和探險者圈子，熱衷見識各種異常事物與新奇危險。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "獵人途徑",
+      "summary": "他的非凡道路與挑釁、戰鬥及生存能力相關，性格與能力常相互強化。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "海上的名聲",
+      "summary": "因行為方式與競爭關係，他受到部分海盜敵視，也藉此留下強烈名聲。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "與格爾曼的相遇",
+      "summary": "他在克萊恩海上歷程中出現，提供不同於達尼茲的冒險家視角。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "中後期主線",
+      "summary": "其後來與戰爭及高序列安排相關的事件需按原作追查，不能把傳聞當完整生平。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部海上篇",
+      "event": "與克萊恩海上活動交集",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第672章",
+      "event": "冒險家性格與過去信仰的對話",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [],
+  "pathway_history": [
+    {
+      "pathway": "red-priest",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Anderson_Hood",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

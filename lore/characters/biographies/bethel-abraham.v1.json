@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.1",
+  "character_id": "bethel-abraham",
+  "name_zh": "伯特利·亞伯拉罕",
+  "name_en": "Bethel Abraham",
+  "importance": "A",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "第三與第四紀",
+      "summary": "伯特利是亞伯拉罕家族的古老先祖，因門途徑權柄與第四紀帝國史相連。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "門先生",
+      "summary": "他在第四紀四皇之戰後被放逐至與現實隔絕的空間，其求救聲影響亞伯拉罕家族的後代。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "家族的詛咒",
+      "summary": "每逢滿月的異常呼喚使家族非凡者長期承受風險，也塑造了多里安等後裔的命運。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "與佛爾思的間接聯繫",
+      "summary": "佛爾思透過家族傳承與滿月異象觸及他的線索，但早期並不知道整體真相。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "歸來與抉擇",
+      "summary": "第一部第1353章附近的事件涉及其返回、外神污染與關鍵抉擇，應作世界級時間節點。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第216章",
+      "event": "首次提及",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1294章",
+      "event": "對被困狀態的關鍵揭示",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1353章",
+      "event": "歸來的關鍵事件",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "abraham-family",
+      "relationship": "ancestor",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "door",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Bethel_Abraham",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ancient-sun-god",
+  "name_zh": "遠古太陽神",
+  "name_en": "Ancient Sun God",
+  "importance": "A",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "舊日文明背景",
+      "summary": "遠古太陽神的真實身分與前紀元倖存者及切爾諾貝利密切相連，相關訊息屬第一部後期重大秘密。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "第二紀覺醒",
+      "summary": "祂從混沌海相關環境甦醒，逐步與古神勢力競爭並取得多個相鄰途徑權柄。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "第三紀信仰",
+      "summary": "祂建立的信仰秩序影響後來的白銀城、月城和多個教會體系。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "八大天使之王",
+      "summary": "亞當、阿蒙、薩斯利爾等人的身分與祂的權柄處置、人格安排和神性計畫相連。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "隕落與人格後續",
+      "summary": "救贖薔薇、背叛之宴及亞當與真實造物主之間的關係形成長期歷史主線；不得混成單一不變的NPC。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第二紀",
+      "event": "從混沌海相關處所甦醒",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第三紀",
+      "event": "形成信仰與天使之王體系",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第四紀元年",
+      "event": "隕落及相關人格延續",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第1033章",
+      "event": "原作直接出場節點",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-ancient-sun",
+      "relationship": "central_deity",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "god-almighty",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

@@ -2,12 +2,12 @@
   "schema_version": "0.1",
   "scope": "第一批跨類別勢力種子名錄（不等於95項完整分類）；與隱秘組織index.json部分重疊，須用ID去重",
   "counts": {
-    "entries": 47,
+    "entries": 48,
     "by_category": {
       "church": 9,
       "historical_organization": 1,
       "official": 6,
-      "family": 15,
+      "family": 16,
       "species_community": 1,
       "city_government": 1,
       "governing_body": 1,
@@ -731,6 +731,21 @@
         }
       ],
       "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "augustus-family",
+      "name_zh": "奧古斯都家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "requires_period_snapshot",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ],
+      "notes": "王室家族並不等於王國行政機構"
     }
   ]
 }

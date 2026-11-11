@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "susie",
+  "name_zh": "蘇茜",
+  "name_en": "Susie",
+  "importance": "B",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "霍爾家中的金毛犬",
+      "summary": "蘇茜原是奧黛麗的寵物，在貴族家庭環境中生活，不能把她當成人類社交圈的普通成員。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "意外成為非凡生物",
+      "summary": "因誤飲觀眾魔藥，她成為能夠思考和學習的非凡犬類。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "奧黛麗的伙伴",
+      "summary": "她與奧黛麗形成信任關係，早期常在旁聽、觀察和保護方面提供協助。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "成長中的心理學知識",
+      "summary": "隨晉升而逐漸掌握更高階的觀察與心理能力，後期具備專業心理輔助能力。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "第二部的角色",
+      "summary": "她在第二部與盧米安的心理治療線有關；不同年份的序列必須分開記錄。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第36章",
+      "event": "登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第41章",
+      "event": "觀眾序列9",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第418章",
+      "event": "讀心者序列8",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第二部第127章",
+      "event": "第二部登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "hall-family",
+      "relationship": "household_companion",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "visionary",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Susie",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}

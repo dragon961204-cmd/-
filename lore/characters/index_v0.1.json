@@ -1795,6 +1795,150 @@
       ],
       "aliases": [],
       "first_appearance": null
+    },
+    {
+      "id": "bethel-abraham",
+      "name_zh": "伯特利·亞伯拉罕",
+      "name_en": "Bethel Abraham",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Bethel_Abraham"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "antigonus",
+      "name_zh": "安提哥努斯",
+      "name_en": "Antigonus",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Antigonus"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "sasrir",
+      "name_zh": "薩斯利爾",
+      "name_en": "Sasrir",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Sasrir"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ancient-sun-god",
+      "name_zh": "遠古太陽神",
+      "name_en": "Ancient Sun God",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "george-augustus-iii",
+      "name_zh": "喬治·奧古斯都三世",
+      "name_en": "George Augustus III",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "susie",
+      "name_zh": "蘇茜",
+      "name_en": "Susie",
+      "identity_status": "nonhuman_individual",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Susie"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "frank-lee",
+      "name_zh": "弗蘭克·李",
+      "name_en": "Frank Lee",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Frank_Lee"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "anderson-hood",
+      "name_zh": "安德森·胡德",
+      "name_en": "Anderson Hood",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Anderson_Hood"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "dorian-gray-abraham",
+      "name_zh": "多里安·格雷·亞伯拉罕",
+      "name_en": "Dorian Gray Abraham",
+      "identity_status": "named_character",
+      "affiliation_review": "secondary_wiki_only",
+      "notes": "來源頁面部分可定位原作章節，但未逐章核小說",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Dorian_Gray_Abraham"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
     }
   ]
 }

@@ -3,8 +3,8 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 109,
-    "individual_draft": 59,
+    "indexed": 118,
+    "individual_draft": 68,
     "index_only": 50,
     "verified": 0
   },
@@ -1191,6 +1191,105 @@
         "church-fool"
       ],
       "status": "draft_unverified"
+    },
+    {
+      "character_id": "bethel-abraham",
+      "name_zh": "伯特利·亞伯拉罕",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/bethel-abraham.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "abraham-family"
+      ]
+    },
+    {
+      "character_id": "antigonus",
+      "name_zh": "安提哥努斯",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/antigonus.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "antigonus-family"
+      ]
+    },
+    {
+      "character_id": "sasrir",
+      "name_zh": "薩斯利爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/sasrir.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-redemption",
+        "church-ancient-sun"
+      ]
+    },
+    {
+      "character_id": "ancient-sun-god",
+      "name_zh": "遠古太陽神",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/ancient-sun-god.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "church-ancient-sun"
+      ]
+    },
+    {
+      "character_id": "george-augustus-iii",
+      "name_zh": "喬治·奧古斯都三世",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/george-augustus-iii.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "augustus-family",
+        "twilight-hermit-order"
+      ]
+    },
+    {
+      "character_id": "susie",
+      "name_zh": "蘇茜",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/susie.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "hall-family"
+      ]
+    },
+    {
+      "character_id": "frank-lee",
+      "name_zh": "弗蘭克·李",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/frank-lee.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "church-earth-mother"
+      ]
+    },
+    {
+      "character_id": "anderson-hood",
+      "name_zh": "安德森·胡德",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/anderson-hood.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "dorian-gray-abraham",
+      "name_zh": "多里安·格雷·亞伯拉罕",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/dorian-gray-abraham.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "abraham-family"
+      ]
     }
   ]
 }

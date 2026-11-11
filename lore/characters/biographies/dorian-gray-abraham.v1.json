@@ -1,0 +1,91 @@
+{
+  "schema_version": "1.1",
+  "character_id": "dorian-gray-abraham",
+  "name_zh": "多里安·格雷·亞伯拉罕",
+  "name_en": "Dorian Gray Abraham",
+  "importance": "B",
+  "status": "research_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "亞伯拉罕後裔",
+      "summary": "多里安出身曾經顯赫的亞伯拉罕家族，家族衰弱與滿月詛咒影響其非凡成長。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "普利茲港的生活",
+      "summary": "他在普利茲港一帶活動，管理若干家族財產並維繫剩餘的族人網絡。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "傳承的責任",
+      "summary": "他知道學徒途徑及家族傳承的重要性，也因歷史事件對收徒和傳授秘密保持警惕。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "佛爾思的老師",
+      "summary": "佛爾思將勞倫斯的遺物交還之後，逐漸建立師徒關係。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "家族詛咒的後續",
+      "summary": "其未來決策與門先生、家族復興及佛爾思的成長相連，應依小說事件時間推進。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第404章",
+      "event": "被提及",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第407章",
+      "event": "登場",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    },
+    {
+      "time": "第一部第432章",
+      "event": "與佛爾思的教學對話",
+      "verification": "secondary_chapter_locator_not_verified_against_novel"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "abraham-family",
+      "relationship": "family_member",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "door",
+      "sequence": "varies_by_time",
+      "verification": "requires_original_chapter_audit"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "gated_by_date_and_discovery",
+    "notes": "人物後期身分與神秘真相不可提前公開；遊戲原創事件須與原作事實分開"
+  },
+  "source_registry": [
+    {
+      "kind": "character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Dorian_Gray_Abraham",
+      "verification": "secondary_only"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapter_check",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未摘錄小說段落"
+}
