@@ -1,0 +1,240 @@
+{
+  "schema_version": "1.0",
+  "character_id": "ince-zangwill",
+  "name_zh": "因斯·贊格威爾",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "黑夜女神教會前大主教，因晉升受阻而叛逃，攜走0-08阿勒蘇霍德之筆。他以遠距離佈局控制廷根事件的發展，並成為克萊恩、倫納德和戴莉追索的重要對象。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "在教會的上升",
+      "summary": "曾服務黑夜女神教會，走死神途徑並晉升至序列5看門人，具高階非凡實務及教會體系經驗。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "晉升受挫",
+      "summary": "試圖更進一步但失敗，使他與原教會產生嚴重決裂。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "攜走封印物",
+      "summary": "叛逃時帶走0-08，後者能以故事安排的方式深刻影響周遭事件；這是他主要的危險來源。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "廷根秘密布局",
+      "summary": "安提哥努斯筆記與廷根一系列巧合、調查、失控事件構成他長期設局的環節。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "對聖賽琳娜骨灰的圖謀",
+      "summary": "其核心目標涉及取得教會關鍵遺物，藉此實現途徑轉換和個人晉升。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "1349年廷根",
+      "summary": "直接受影響的是克萊恩的值夜者小隊與一系列平民；不能把玩家早期調查簡化成即刻識破幕後者。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "轉換途徑",
+      "summary": "之後轉為黑暗途徑序列4守夜人；其先前死神途徑紀錄應保留而非被新身份覆蓋。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "後期追查與復仇",
+      "summary": "曾持續躲避官方追捕，並與更高層隱秘存在產生聯繫，後於南大陸遭追索。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 9,
+      "title": "終局",
+      "summary": "克萊恩、倫納德和戴莉的行動終結其在故事中的主要陰謀；不同角色的命運須跟事件分歧系統聯動。",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "1346",
+      "event": "晉升失敗並叛逃，攜走0-08（百科年表）",
+      "precision": "year",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349夏季",
+      "event": "策畫廷根一連串異常事件",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-09-09",
+      "event": "取得聖賽琳娜骨灰並離開廷根",
+      "precision": "day",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "此後",
+      "event": "完成途徑轉換，逃避教會追捕",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部第941-945章",
+      "event": "遭克萊恩等人追查並發生最終對抗",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "ince",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-evernight",
+      "start": "unknown",
+      "end": "1346",
+      "role": "前大主教；確切任期待核",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [
+    "不屬於值夜者；不得將教會大主教與值夜者混同"
+  ],
+  "pathway_history": [
+    {
+      "pathway": "death",
+      "sequence": "5",
+      "name": "看門人",
+      "time": "1346以前",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "darkness",
+      "sequence": "4",
+      "name": "守夜人",
+      "time": "廷根事件之後",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "dunn-smith",
+    "klein-moretti",
+    "leonard-mitchell",
+    "daly-simone"
+  ],
+  "game_integration": {
+    "early_visible_identity": "官方通緝的教會叛逃者，通常只可從通緝令或傳聞得知。",
+    "restricted_truth": "0-08的影響機制及幕後安排，須調查解鎖。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": false,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "ince": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Ince_Zangwill",
+      "validation": "secondary_not_line_checked"
+    },
+    "tingen": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Tingen_City_Doomsday",
+      "validation": "secondary_not_line_checked"
+    },
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
