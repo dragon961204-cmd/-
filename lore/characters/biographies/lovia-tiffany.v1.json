@@ -142,6 +142,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 269
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "洛薇雅·蒂芙尼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "白銀城的長老",
+        "prose": "洛薇雅身為白銀城六人議事團成員，曾在倒吊人途徑成為牧羊人。她參與城邦的探索工作，以放牧靈魂所得的能力支援隊伍，而她與真實造物主的聯繫也讓其他成員有所戒備。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69d1ed50f574.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "神廟探索與隔離",
+        "prose": "神廟探索暴露出真實造物主對探索隊可能造成的影響。洛薇雅受到隔離和監視，戴里克也因擔心這股力量在城內擴散，將所見所聞帶到塔羅會求助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69d1ed50f574.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "前往巨人王庭",
+        "prose": "白銀城繼續尋找離開神棄之地的道路，洛薇雅最終與科林、戴里克等人前往巨人王庭。她的信仰與同伴有別，這次行動仍以打開白銀城的出路為共同目標。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69d1ed50f574.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "死在通往出口的路上",
+        "prose": "隊伍在巨人王庭遭遇薩斯利爾。洛薇雅在交戰中死亡，未能親眼見到白銀城居民走出神棄之地。戴里克等倖存者繼續完成了這趟探索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69d1ed50f574.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

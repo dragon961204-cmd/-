@@ -143,6 +143,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 229
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "霍爾伯爵｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "貴族與銀行業",
+        "prose": "霍爾伯爵憑藉家族財富與政治人脈進入銀行業。他對王國權力變動的判斷也影響家中的資產安排，使霍爾家在傳統貴族的土地與頭銜之外，握有金融業的利益。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "女兒進入社交界",
+        "prose": "奧黛麗在家族的安排下進入貴族社交圈。父親把她的教育、聲譽和往來對象視為家族事務，奧黛麗則透過這些聚會接觸政治消息，在父親所知的社交生活之外逐步建立自己的非凡者身分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "霧霾與戰爭",
+        "prose": "貝克蘭德大霧霾和其後的戰爭，讓上層社會必須面對城中大量傷亡和生活困難。霍爾家的資源進入慈善與救濟脈絡，奧黛麗也在這些事務中看見了與家族截然不同的生活處境。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

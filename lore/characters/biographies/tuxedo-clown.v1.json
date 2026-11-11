@@ -99,6 +99,38 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 1
+    "source_stage_count": 1,
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 120
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "燕尾服小丑｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "追逐安提哥努斯筆記",
+        "prose": "身穿燕尾服的非凡者在廷根筆記案中現身。他與密修會有關，追蹤的目標是安提哥努斯家族筆記，值夜者找到持有筆記的比伯後，他也在倉庫一帶介入。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-043fbe7a8894.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在倉庫與值夜者交鋒",
+        "prose": "比伯失控後，燕尾服小丑趁現場混亂與值夜者爭奪筆記。克萊恩利用封印物造成的限制反擊，他最終在這場爭奪中死亡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-043fbe7a8894.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

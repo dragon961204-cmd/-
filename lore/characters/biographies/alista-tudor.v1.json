@@ -197,6 +197,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 12
+    "source_stage_count": 12,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 278
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "亞利斯塔·圖鐸｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從共治到分裂",
+        "prose": "亞利斯塔·圖鐸曾與特倫索斯特共同治理帝國。所羅門復活後，原本由兩人維持的政治秩序瓦解，圖鐸在黑皇帝途徑上也失去了繼續爭奪神位的空間。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以三位天使成神",
+        "prose": "圖鐸轉向紅祭司途徑。梅迪奇、索倫與艾因霍恩原本是這條途徑的高位競爭者，卻被捲入他的布局，成了他強行跨途徑晉升的犧牲者。圖鐸取得紅祭司神位，也付出了瘋狂的代價。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "血皇帝的統治",
+        "prose": "成神後的圖鐸以血皇帝之名統治自己的帝國。他與昔日共治者分立，昔日同一政權的兩位統治者自此各有王朝。圖鐸最終在四皇之戰中隕落。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "特里爾地底的遺留",
+        "prose": "圖鐸死後，帝國留下的宮殿與地下遺跡仍保存著與他有關的力量。到了《宿命之環》，盧米安追查特里爾地底與鏡中世界時，逐漸被拉進血皇帝試圖回歸的布局。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a9db4c921431.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

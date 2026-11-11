@@ -135,6 +135,56 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 268
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "艾辛格·斯坦頓｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "由倫堡到貝克蘭德",
+        "prose": "艾辛格·斯坦頓在倫堡求學期間改信知識與智慧之神，並踏上讀者途徑。他回到魯恩後以私家偵探的身分在貝克蘭德執業，逐漸成為警方也會接觸的名偵探。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "偵探與聚會主持人",
+        "prose": "他曾受休與佛爾思委託分析齊林格斯的行動。私下他還以智慧之眼的身分主持地下非凡者聚會，讓配方、材料與情報能在參與者之間交易。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "欲望使徒的襲擊",
+        "prose": "在貝克蘭德連環殺人案中，艾辛格與夏洛克·莫里亞蒂等偵探共同調查，後來自己也遭到欲望使徒襲擊。案件讓原本負責推理和聯絡的人，成為對手試圖除掉的目標。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "與夏洛克的後續往來",
+        "prose": "夏洛克離開貝克蘭德後，艾辛格仍在當地處理與他有關的事務，包括代管股份。後來兩人的聯繫也牽涉暗中示警，合作因此從共同辦案延續到案後。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

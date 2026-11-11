@@ -107,6 +107,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 177
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "史蒂夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "奉命追捕叛離者",
+        "prose": "史蒂夫是玫瑰學派放縱派的怨魂。他與傑森、泰爾一同追查莎倫和馬里奇，追捕把三人帶到貝克蘭德，也把放縱派與節制派的衝突帶入當地的地下非凡圈。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32efee3afa28.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "莎倫一方反擊",
+        "prose": "莎倫與馬里奇找來以夏洛克·莫里亞蒂身分活動的克萊恩合作，準備迎擊追兵。史蒂夫等人原本負責追捕，在交手時卻成為對方設局反制的目標。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32efee3afa28.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "怨魂之死",
+        "prose": "史蒂夫在這場對抗中死亡。莎倫和馬里奇避開了這次追捕，與玫瑰學派的衝突則在之後的故事中繼續。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32efee3afa28.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

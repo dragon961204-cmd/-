@@ -99,6 +99,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 206
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瑞爾·比伯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "工匠與家族筆記",
+        "prose": "瑞爾·比伯是廷根的珠寶工匠，與母親共同生活。他的血脈連到安提哥努斯家族。那本筆記在韋爾奇案後到了他手上，讓這段原本隱於日常生活的家族關係進入值夜者的調查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "失蹤與追捕",
+        "prose": "比伯帶著筆記離開原本的住處。值夜者沿著線索追查他的去向，尋找能交代筆記下落的人，同時也逐漸發現筆記帶來的異常仍在持續。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "倉庫中的失控",
+        "prose": "值夜者在倉庫找到比伯時，他已經失控成為怪物。這場交戰結束了比伯本人在案件中的行動，爭奪筆記的人卻仍在現場，廷根小隊還得面對密修會一方的介入。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e1c2e22af631.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

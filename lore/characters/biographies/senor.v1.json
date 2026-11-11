@@ -97,6 +97,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 206
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "塞尼奧爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "血之上將",
+        "prose": "塞尼奧爾是與玫瑰學派放縱派有聯繫的海盜將軍。他以血之上將的稱號在海上活動，怨魂能透過反射面行動的能力也讓他在海戰之外有其他追蹤和襲擊手段。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d907aab88988.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "海上交鋒與落敗",
+        "prose": "格爾曼·斯帕羅在海上行動時與塞尼奧爾交鋒。塞尼奧爾原本可以靠怨魂能力調整位置，交戰中卻被克萊恩控制靈體之線，最後成為他的祕偶。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d907aab88988.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "作為怨魂祕偶行動",
+        "prose": "塞尼奧爾失去自主行動後，克萊恩仍能操縱他的身體，借用怨魂能力執行任務。因此在他落敗之後，海盜身分已經結束，但相同的面貌與能力仍在克萊恩的行動中出現。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d907aab88988.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

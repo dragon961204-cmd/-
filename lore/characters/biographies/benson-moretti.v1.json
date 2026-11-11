@@ -103,6 +103,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 219
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "班森·莫雷蒂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根的家計",
+        "prose": "父母離世後，班森以文職收入負擔家計，讓克萊恩得以完成學業，也支持梅麗莎繼續念書。克萊恩加入黑荊棘安保公司後，家裡的收入改善，三兄妹才有條件搬進更寬敞的住所。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從廷根到貝克蘭德",
+        "prose": "克萊恩在廷根事件後被認定死亡，班森和梅麗莎以失去親人的身分重新安排生活。班森後來通過公職考試，兄妹遷居貝克蘭德，公務員的職位也讓他有了較穩定的收入。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "戰時工作與成家",
+        "prose": "戰爭改變了貝克蘭德的生活，班森在這段時期繼續任公職並獲得升遷，後來結婚。對班森而言，失去弟弟與建立自己的家庭都發生在同一段人生轉折中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ea477ac6ef6a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

@@ -135,6 +135,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 194
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "齊林格斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從教堂到海上",
+        "prose": "齊林格斯早年曾在教堂服役，後來成為人稱颶風中將的海盜將軍。他取得蠕動的飢餓後，得以借用被放牧靈魂的非凡能力，讓追查他的人難以單憑能力判斷他的身分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "潛入貝克蘭德",
+        "prose": "他離開海上，秘密前往貝克蘭德，在尼根公爵的舞會上偽裝成賓客。奧黛麗識破異樣，把消息傳了出去，阿爾傑與塔羅會因此掌握了他的行蹤。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "舞會後的死亡",
+        "prose": "齊林格斯逃離舞會後，遭到阿茲克殺死。蠕動的飢餓隨後落到克萊恩手中，他的死訊也成了塔羅會早期一次跨城市情報合作的結果。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

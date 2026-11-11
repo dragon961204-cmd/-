@@ -99,6 +99,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 200
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "韋爾奇·麥格文｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "霍伊大學的歷史學生",
+        "prose": "韋爾奇·麥格文出身中產家庭，在霍伊大學研讀歷史，與原身克萊恩、娜婭是同學。接觸安提哥努斯家族筆記之前，三人的往來建立在求學和研究上。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "買下筆記後的聚會",
+        "prose": "韋爾奇取得安提哥努斯家族筆記，邀兩位同學共同辨讀。筆記把三名學生牽進非凡事件，韋爾奇與娜婭相繼死亡，克萊恩則在住所醒來，對事情經過所知有限。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "身後成為廷根案的起點",
+        "prose": "韋爾奇死後被送回康斯頓安葬。值夜者繼續追查他的死亡與失蹤的筆記，原本由三名學生私下進行的研究，至此成了廷根一連串非凡事件的開端。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

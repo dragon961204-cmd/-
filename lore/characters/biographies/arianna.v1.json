@@ -135,6 +135,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 204
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿里安娜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黑夜修道院與教會高層",
+        "prose": "阿里安娜主持黑夜修道院，也是黑夜教會的高階主教。她掌握隱秘相關的權柄，後來正是以這種能力，介入克萊恩在貝克蘭德的行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "貝克蘭德的合作",
+        "prose": "克萊恩以道恩·唐泰斯身分活動時，阿里安娜與他建立聯繫。第一部後期，克萊恩對抗喬治三世的成神計畫，她的協助也成為教會高層與克萊恩這段合作的一部分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "歷史投影與後續行動",
+        "prose": "克萊恩掌握召喚歷史投影的能力後，曾借用阿里安娜的投影助戰。其後的貝爾丹事件與圍剿玫瑰學派也留下她的行動紀錄。《宿命之環》後期，她參與穩定天使軍團。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2343e0f32d46.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

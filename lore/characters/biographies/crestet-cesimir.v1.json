@@ -97,6 +97,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 189
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "克雷斯泰·塞西瑪｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從聖堂來的考查者",
+        "prose": "廷根小隊需要處理克萊恩的晉升申請時，聖堂派出高階執事克雷斯泰·塞西瑪考查。他依教會程序審核克萊恩當時的狀態，克萊恩因而得以走完由占卜家晉升小丑的官方程序。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "追查蘭爾烏斯",
+        "prose": "廷根事件後，蘭爾烏斯的行蹤在貝克蘭德重新浮現。塞西瑪也參與了相關追捕，從審核地方小隊晉升的執事，轉到需要直接對付真實造物主影響的案件現場。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "半神與戰時任務",
+        "prose": "塞西瑪後來晉升半神。貝克蘭德的戰事把教會高階戰力牽入城市防衛，他也在這一時期參與行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-5522c41b0f1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

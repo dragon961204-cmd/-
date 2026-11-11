@@ -99,6 +99,38 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 113
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "賽琳娜·伍德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根的同學與朋友",
+        "prose": "賽琳娜·伍德是梅麗莎和伊莉莎白的朋友，平時對占卜感興趣。她從哈納斯·文森特那裡接觸到儀式知識，並打算在生日聚會上親自試用。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-278f3939a48b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "生日宴會上的魔鏡",
+        "prose": "賽琳娜在生日宴會使用魔鏡占卜，鏡中隨即出現異常。伊莉莎白察覺不對勁，找來克萊恩處理，才讓賽琳娜脫離危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-278f3939a48b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

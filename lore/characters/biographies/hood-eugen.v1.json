@@ -107,6 +107,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 218
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "胡德·歐根｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "醫院裡的心理煉金會成員",
+        "prose": "胡德·歐根在廷根精神病院活動，並屬於心理煉金會。他和達斯特·古德里安有組織上的聯繫，這使值夜者能透過後者追查精神病院內的異常。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與蘭爾烏斯接觸",
+        "prose": "蘭爾烏斯在廷根的活動牽涉胡德，後者的精神狀態隨著事件推進出現異常。值夜者查到這條線時，要從一名狀況已經失常的非凡者身上還原他與蘭爾烏斯的往來。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "深入心靈的調查",
+        "prose": "值夜者在精神病院對胡德展開調查，試圖透過心靈層面的追問找出他所知的內情。案件留下的線索把精神病院、蘭爾烏斯和真實造物主在廷根的活動連在一起。胡德最終被鄧恩·史密斯殺死。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }

@@ -97,6 +97,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 3
+    "source_stage_count": 3,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 186
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "A先生｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "地下聚會的召集者",
+        "prose": "A先生是極光會的神使，在貝克蘭德主持非凡者聚會。參與者可以在聚會交換配方、材料和消息，他則能藉由聚會向這群平時難以聯繫的非凡者散布委託。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "由搜查到降臨儀式",
+        "prose": "極光會在貝克蘭德尋找與愚者有關的人，A先生也牽涉真實造物主的降臨計畫。大霧霾期間，克萊恩被捲入儀式所在的地下區域，並與負責儀式的A先生正面衝突。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "遭到抹除",
+        "prose": "儀式現場的交鋒並未使A先生當場從故事中消失。其後他再次捲入貝克蘭德的非凡事件，最終遭到抹除。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ab9bac50a9cc.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "生平事件的原文章節與細節待核對"
+    ],
+    "quality_note": "依現有來源整理為連貫生平初稿，待使用者核對原作。"
   }
 }
