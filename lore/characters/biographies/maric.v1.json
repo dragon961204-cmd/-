@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "maric",
+  "name_zh": "馬里奇",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "馬里奇具有囚犯途徑的非凡能力，因與放縱派理念不合，選擇和莎倫共同離開。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "在地下活動中承受途徑本身的情緒衝動，努力以節制原則避免走向放縱。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "早期與外來合作人保持謹慎交易關係，逐漸建立情報與互助網絡。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "與節制派領袖、追兵及克萊恩的關係構成長期任務線，不只是可以重複刷新的商人。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "地下酒吧可作情報入口，但真正會面需經信任與保密門檻。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
