@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - '.github/workflows/import-lotm-278.yml'
+      - 'scripts/import_lotm_278.py'
 jobs:
   import:
     runs-on: ubuntu-latest
@@ -18,22 +19,6 @@ jobs:
           python-version: '3.11'
       - name: Install parser dependencies
         run: python -m pip install --disable-pip-version-check requests beautifulsoup4
-      - name: Inspect published-page HTML structure
-        run: |
-          python - <<'PY'
-          import requests
-          from bs4 import BeautifulSoup
-          u="https://www.lotmfanwiki.com/type/p.html"
-          r=requests.get(u,timeout=35)
-          print("HTTP",r.status_code,"LEN",len(r.content),"URL",r.url)
-          soup=BeautifulSoup(r.text,"html.parser")
-          print("TITLE",soup.title.get_text(" ",strip=True) if soup.title else "(none)")
-          print("TABLES",len(soup.select("table")),"BOLD",len(soup.select("b,strong")))
-          print("LINKS",len(soup.select("a[href]")),"DIVS",len(soup.select("div")))
-          print("HEAD",r.text[:4000])
-          print("LINKS FIRST",[(a.get_text(" ",strip=True)[:60],a.get("href")) for a in soup.select("a[href]")[:30]])
-          print("BOLD FIRST",[(x.get_text(" ",strip=True)[:70],str(x.parent)[:250]) for x in soup.select("b,strong")[:15]])
-          PY
       - name: Collect exactly 278 published character pages
         run: python scripts/import_lotm_278.py
       - name: Commit verified page catalog

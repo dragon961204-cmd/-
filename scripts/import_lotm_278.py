@@ -18,6 +18,8 @@ session = requests.Session()
 session.headers.update({"User-Agent": "LOTM-world-database-research/1.0 (character metadata only)"})
 response = session.get(SOURCE, timeout=35)
 response.raise_for_status()
+# Site serves UTF-8 but requests can misdetect a legacy single-byte charset.
+response.encoding = "utf-8"
 soup = BeautifulSoup(response.text, "html.parser")
 table = next((t for t in soup.select("table") if "名称" in t.get_text(" ", strip=True) and "章节" in t.get_text(" ", strip=True)), None)
 if table is None:
