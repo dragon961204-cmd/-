@@ -1,0 +1,558 @@
+{
+  "schema_version": "0.1",
+  "status": "research_draft",
+  "description": "第二批20名現存角色的原創背景摘要，非小說逐章校對完成版",
+  "count": 20,
+  "profiles": [
+    {
+      "character_id": "derrick-berg",
+      "name_zh": "戴里克·伯格",
+      "priority": "major",
+      "background_summary": "白銀城居民，生於被神棄之地的特殊環境；最初因探索與祈禱而與灰霧上的聚會建立聯繫。",
+      "story_arc_summary": "作為太陽，他所在城市漫長的孤立、尋求光明與生存的困境是重要敘事軸；其地位需按故事進展記錄。",
+      "location_context": "白銀城、塔羅會",
+      "game_design_notes": "被神棄之地探索、集體命運、教會及城市制度",
+      "connected_characters": [
+        "klein-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Derrick_Berg",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "emlyn-white",
+      "name_zh": "埃姆林·懷特",
+      "priority": "major",
+      "background_summary": "血族成員，初期對自身身分與族群抱有強烈認同，與大地母神教會發生特殊聯繫。",
+      "story_arc_summary": "參與塔羅會後逐漸承擔族群與更宏觀局勢中的責任；對教會與族群的態度具有張力。",
+      "location_context": "貝克蘭德、血族、塔羅會",
+      "game_design_notes": "血族支線、醫藥與教會接觸",
+      "connected_characters": [
+        "audrey-hall"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Emlyn_White",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "cattleya",
+      "name_zh": "嘉德麗雅",
+      "priority": "major",
+      "background_summary": "海上非凡者，與貝爾納黛及要素黎明有深厚淵源；以星之上將身分活躍。",
+      "story_arc_summary": "其知識、航海情報與對神秘女王的複雜情感，構成其塔羅會故事的重要部分。",
+      "location_context": "海上、塔羅會、要素黎明相關網絡",
+      "game_design_notes": "遠洋事件與高階知識線",
+      "connected_characters": [
+        "bernadette-gustav"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Cattleya",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "daly-simone",
+      "name_zh": "戴莉·西蒙妮",
+      "priority": "major",
+      "background_summary": "黑夜女神教會的通靈者，與廷根值夜者及鄧恩的故事關係密切。",
+      "story_arc_summary": "她與鄧恩的感情以及對廷根悲劇的回應是角色重要情感線索；不可錯置她的任職時段。",
+      "location_context": "廷根、貝克蘭德、黑夜女神教會",
+      "game_design_notes": "教會調查與廷根事件後續",
+      "connected_characters": [
+        "dunn-smith"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Daly_Simone",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "bernadette-gustav",
+      "name_zh": "貝爾納黛·古斯塔夫",
+      "priority": "major",
+      "background_summary": "羅塞爾的女兒，以神秘女王身分活躍於海上，與要素黎明關係密切。",
+      "story_arc_summary": "持續追索父親的日記、身世及歷史留下的謎團；其掌握的情報存在極高保密門檻。",
+      "location_context": "海上、因蒂斯歷史線、要素黎明",
+      "game_design_notes": "羅塞爾遺產與航海主線",
+      "connected_characters": [
+        "roselle-gustav",
+        "cattleya"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Bernadette_Gustav",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "adam",
+      "name_zh": "亞當",
+      "priority": "major",
+      "background_summary": "遠古太陽神相關歷史與當代隱秘博弈中的核心人物，外在形象和真正目的之間存在巨大落差。",
+      "story_arc_summary": "與真實造物主、神性權柄及末日準備相關的身分變化需要按原作時間段分層記錄。",
+      "location_context": "高序列隱秘勢力、歷史事件",
+      "game_design_notes": "只能作高序列長線謎團，不宜讓低序列玩家直接取得其全盤計畫",
+      "connected_characters": [
+        "amon"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Adam",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "amon",
+      "name_zh": "阿蒙",
+      "priority": "major",
+      "background_summary": "第四紀與天使家族歷史相關的高位存在，具有欺詐、分身及身分模糊等鮮明特徵。",
+      "story_arc_summary": "在克萊恩的冒險與末日世界局勢中扮演核心對抗者之一；不得讓玩家輕易識破或戰勝。",
+      "location_context": "第四紀遺產、神棄之地、後期各地",
+      "game_design_notes": "高危險情報事件與身份可信度考驗",
+      "connected_characters": [
+        "klein-moretti",
+        "adam"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Amon",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "pallez-zoroast",
+      "name_zh": "帕列斯·索羅亞斯德",
+      "priority": "major",
+      "background_summary": "索羅亞斯德家族的古老存在，與倫納德形成長期共生與保密關係。",
+      "story_arc_summary": "歷史生存經驗、與阿蒙相關的敵意及自身恢復是其主要動機之一。",
+      "location_context": "倫納德身邊、第四紀家族史",
+      "game_design_notes": "隱藏導師與身分保密支線",
+      "connected_characters": [
+        "leonard-mitchell",
+        "amon"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Pallez_Zoroast",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "will-auceptin",
+      "name_zh": "威爾·昂賽汀",
+      "priority": "major",
+      "background_summary": "命運領域的重要高序列人物，與生命學派及烏洛琉斯之間存在衝突脈絡。",
+      "story_arc_summary": "不斷重啟生命的特殊經歷與個人選擇相關；其外在年齡不代表能力與知識年齡。",
+      "location_context": "生命學派脈絡、貝克蘭德",
+      "game_design_notes": "命運途徑長線與機緣事件",
+      "connected_characters": [
+        "ouroboros",
+        "klein-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Will_Auceptin",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "ouroboros",
+      "name_zh": "烏洛琉斯",
+      "priority": "major",
+      "background_summary": "與真實造物主陣營及命運領域有深刻關係的高位非凡者。",
+      "story_arc_summary": "對命運與神性使命的服從，以及與威爾的角逐，構成其出場的主要背景。",
+      "location_context": "極光會相關網絡、歷史紀元",
+      "game_design_notes": "極光會高階權力與命運途徑線",
+      "connected_characters": [
+        "will-auceptin",
+        "adam"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Ouroboros",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "trissy",
+      "name_zh": "特莉絲",
+      "priority": "major",
+      "background_summary": "初期在貝克蘭德與魔女教派相關計畫中被捲入，個人命運受到魔女途徑及更高存在安排的強烈影響。",
+      "story_arc_summary": "其從受操控到嘗試反抗與自我選擇的變化，與王室相關陰謀相互交纏。",
+      "location_context": "貝克蘭德、魔女教派與王室陰謀",
+      "game_design_notes": "城市陰謀、隱匿身分與反抗支線",
+      "connected_characters": [
+        "katarina-pelle"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Trissy",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "tracy",
+      "name_zh": "特雷茜",
+      "priority": "major",
+      "background_summary": "活躍於海上的魔女非凡者，與卡特琳娜、魔女教派的關係影響其行動。",
+      "story_arc_summary": "海盜、個人情感與教派立場之間存在衝突；其能力階段需隨時間核實。",
+      "location_context": "海上、魔女教派",
+      "game_design_notes": "海盜勢力及魔女教派支線",
+      "connected_characters": [
+        "katarina-pelle"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tracy",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "katarina-pelle",
+      "name_zh": "卡特琳娜·佩萊",
+      "priority": "major",
+      "background_summary": "魔女教派重要高階人物，與特雷茜等人的血緣和組織關係交織。",
+      "story_arc_summary": "追逐教派利益並涉入重大陰謀，其行動目的不能簡化成普通地方 NPC 的利益。",
+      "location_context": "魔女教派、海上與多國陰謀",
+      "game_design_notes": "魔女教派高階路線",
+      "connected_characters": [
+        "tracy",
+        "trissy"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Katarina_Pelle",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "panatiya",
+      "name_zh": "潘娜蒂亞",
+      "priority": "major",
+      "background_summary": "魔女教派的高階成員，與貝克蘭德重大非凡事件和危險地帶有關。",
+      "story_arc_summary": "其劇情涉及特殊空間與高序列威脅，應保留事件條件而非自由刷新怪物。",
+      "location_context": "貝克蘭德相關事件地點",
+      "game_design_notes": "極高風險探索與事件敵人",
+      "connected_characters": [
+        "klein-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Panatiya",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "danitz",
+      "name_zh": "達尼茲",
+      "priority": "major",
+      "background_summary": "黃金夢想號的船員及海上冒險者，具有鮮明的膽量與實際求生考量。",
+      "story_arc_summary": "與格爾曼·斯帕羅及船長艾德雯娜的互動改變其經歷，後期也牽涉更大的宗教網絡。",
+      "location_context": "海上、拜亞姆及黃金夢想號",
+      "game_design_notes": "海上嚮導、委託、海盜情報",
+      "connected_characters": [
+        "klein-moretti",
+        "edwina-edwards"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Danitz",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "edwina-edwards",
+      "name_zh": "艾德雯娜·愛德華茲",
+      "priority": "major",
+      "background_summary": "黃金夢想號船長，以知識與紀律管理船員，涉入海上非凡世界的競爭。",
+      "story_arc_summary": "與船員、外部秘密及更大教會歷史有關；人物不只是單純海盜首領。",
+      "location_context": "海上、黃金夢想號",
+      "game_design_notes": "海上交易、學術與船隊支線",
+      "connected_characters": [
+        "danitz"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Edwina_Edwards",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "zaratul",
+      "name_zh": "查拉圖",
+      "priority": "major",
+      "background_summary": "占卜家途徑高階人物，與密修會、第四紀歷史及安提哥努斯相關秘密有密切關聯。",
+      "story_arc_summary": "其對高位非凡特性和權柄的追逐與克萊恩的成長存在不可忽略的衝突。",
+      "location_context": "密修會相關歷史與隱秘行動",
+      "game_design_notes": "占卜家途徑高序列危機線",
+      "connected_characters": [
+        "klein-moretti",
+        "amon"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Zaratul",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "suah",
+      "name_zh": "斯亞",
+      "priority": "major",
+      "background_summary": "玫瑰學派放縱派的重要高階存在，其立場與節制派的生存處境直接衝突。",
+      "story_arc_summary": "節制派與放縱派的敵對需要從信仰、權力與途徑理念解釋，不能等同遊戲中的善惡二分。",
+      "location_context": "玫瑰學派相關勢力區域",
+      "game_design_notes": "玫瑰學派放縱派主線的高階威脅",
+      "connected_characters": [
+        "reinette-tinekerr",
+        "sharron"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Suah",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "senor",
+      "name_zh": "塞尼奧爾",
+      "priority": "major",
+      "background_summary": "與玫瑰學派放縱派有關的海上非凡者，曾在海盜圈留下名聲。",
+      "story_arc_summary": "其命運與高序列非凡者及主角相關事件相連，需按原作發展處理狀態變更。",
+      "location_context": "海上、玫瑰學派",
+      "game_design_notes": "海盜追捕與囚犯途徑支線",
+      "connected_characters": [
+        "klein-moretti",
+        "suah"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Senor",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "daxter-guderian",
+      "name_zh": "達克斯特·古德里安",
+      "priority": "major",
+      "background_summary": "心理醫生，與心理鍊金會及廷根精神病院有聯繫；早期為值夜者接觸相關組織的重要情報途徑之一。",
+      "story_arc_summary": "其職業與秘密組織身份之間的風險需要由具體接觸和證據驅動。",
+      "location_context": "廷根、心理鍊金會",
+      "game_design_notes": "第一部早期情報與心理鍊金會伏筆",
+      "connected_characters": [
+        "dunn-smith"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Daxter_Guderian",
+          "verification": "needs_original_chapter"
+        },
+        {
+          "kind": "character_index",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    }
+  ]
+}
