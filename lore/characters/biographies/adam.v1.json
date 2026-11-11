@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "adam",
+  "name_zh": "亞當",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "亞當與遠古太陽神的歷史、觀眾途徑權柄及第四紀神靈布局有深刻聯繫。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "長期以隱秘方式影響黃昏隱士會、非凡政治與末日準備，外在的平和形象不能反映其全部目的。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "與真實造物主之間的歷史關係是第一部後期重大揭示，必須設為最高級別機密。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "第二部關於神性整合與外神對抗的進展需獨立記錄，不能把不同時期當成同一狀態。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "只能透過長線重大陰謀或高階角色視野接觸，不宜作普通街頭任務發放者。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
