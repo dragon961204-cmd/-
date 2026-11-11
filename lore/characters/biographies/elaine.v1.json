@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.1",
+  "character_id": "elaine",
+  "name_zh": "伊蓮",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0ba53c4406d1.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0ba53c4406d1.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Helene",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第562章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0562.html"
+    },
+    {
+      "label": "《宿命》第2卷·第244章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0244.html"
+    },
+    {
+      "label": "詭祕·580",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0580.html"
+    },
+    {
+      "label": "詭祕·234",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0234.html"
+    },
+    {
+      "label": "詭祕·457",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0457.html"
+    },
+    {
+      "label": "詭祕·575",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0575.html"
+    },
+    {
+      "label": "詭祕·578",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0578.html"
+    },
+    {
+      "label": "詭祕·292",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0292.html"
+    },
+    {
+      "label": "詭祕·294",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0294.html"
+    },
+    {
+      "label": "詭祕·572",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0572.html"
+    },
+    {
+      "label": "詭祕·570",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0570.html"
+    },
+    {
+      "label": "詭祕·579",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0579.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 138
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊蓮｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "逃離特雷茜的紅髮女子",
+        "prose": "伊蓮出身索倫家族，曾在海上經商，被疾病中將特雷茜擄走後逃出。特雷茜派人追查，羅思德群島的反抗軍也收到海神神諭，要找到並保護這名紅髮女子。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0ba53c4406d1.html",
+          "https://lordofthemysteries.fandom.com/wiki/Helene"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 572,
+          "end": 575
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·575",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0575.html"
+          },
+          {
+            "label": "詭祕·572",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0572.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "外貌被用來登上黑死號",
+        "prose": "克萊恩從伊蓮口中打聽特雷茜與船上的情形，再利用無面人的能力扮成她。米索爾將假伊蓮帶上黑死號，讓克萊恩得以接近特雷茜，也引來對方追查這次冒名。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0ba53c4406d1.html",
+          "https://lordofthemysteries.fandom.com/wiki/Helene"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 575,
+          "end": 602
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·580",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0580.html"
+          },
+          {
+            "label": "詭祕·575",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0575.html"
+          },
+          {
+            "label": "詭祕·578",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0578.html"
+          },
+          {
+            "label": "詭祕·579",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0579.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

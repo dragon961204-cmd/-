@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "blanche-sauron",
+  "name_zh": "布朗絲·索倫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-db9e68ef6ba7.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-db9e68ef6ba7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第400章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0400.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1041章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1041.html"
+    },
+    {
+      "label": "詭祕·66",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0066.html"
+    },
+    {
+      "label": "詭祕·266",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0266.html"
+    },
+    {
+      "label": "詭祕·335",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0335.html"
+    },
+    {
+      "label": "詭祕·582",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0582.html"
+    },
+    {
+      "label": "宿命·422",
+      "url": "https://lotmfanwiki.com/chapter/coi-0422.html"
+    },
+    {
+      "label": "宿命·447",
+      "url": "https://lotmfanwiki.com/chapter/coi-0447.html"
+    },
+    {
+      "label": "宿命·497",
+      "url": "https://lotmfanwiki.com/chapter/coi-0497.html"
+    },
+    {
+      "label": "宿命·410",
+      "url": "https://lotmfanwiki.com/chapter/coi-0410.html"
+    },
+    {
+      "label": "宿命·415",
+      "url": "https://lotmfanwiki.com/chapter/coi-0415.html"
+    },
+    {
+      "label": "宿命·416",
+      "url": "https://lotmfanwiki.com/chapter/coi-0416.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 131
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "布朗絲·索倫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "紅房子咖啡館的魔女",
+        "prose": "布朗絲出身索倫家族，拜黑之魔女為師，成為魔女教派成員。她在夏約鎮辦聚會，從賓客的異常查到至福會，並在碧翠絲死後用黑焰和冰霜處理異變。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-db9e68ef6ba7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 400,
+          "end": 419
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第400章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0400.html"
+          },
+          {
+            "label": "宿命·410",
+            "url": "https://lotmfanwiki.com/chapter/coi-0410.html"
+          },
+          {
+            "label": "宿命·415",
+            "url": "https://lotmfanwiki.com/chapter/coi-0415.html"
+          },
+          {
+            "label": "宿命·416",
+            "url": "https://lotmfanwiki.com/chapter/coi-0416.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "聯絡芙蘭卡與後續晉升",
+        "prose": "布朗絲負責芙蘭卡的考核與聯絡，要求她查清鐵血十字會偷運進特里爾的東西。兩人相識時布朗絲是歡愉魔女，後續記載則顯示她已晉升痛苦魔女。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-db9e68ef6ba7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 422,
+          "end": 1041
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第7卷·第1041章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1041.html"
+          },
+          {
+            "label": "宿命·422",
+            "url": "https://lotmfanwiki.com/chapter/coi-0422.html"
+          },
+          {
+            "label": "宿命·447",
+            "url": "https://lotmfanwiki.com/chapter/coi-0447.html"
+          },
+          {
+            "label": "宿命·497",
+            "url": "https://lotmfanwiki.com/chapter/coi-0497.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

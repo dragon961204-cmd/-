@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "robert-tizamo",
+  "name_zh": "羅伯特（蒂扎莫）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2c5b28f3c19d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2c5b28f3c19d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第662章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "《宿命》第4卷·第699章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+    },
+    {
+      "label": "宿命·679",
+      "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+    },
+    {
+      "label": "宿命·683",
+      "url": "https://lotmfanwiki.com/chapter/coi-0683.html"
+    },
+    {
+      "label": "宿命·850",
+      "url": "https://lotmfanwiki.com/chapter/coi-0850.html"
+    },
+    {
+      "label": "宿命·669",
+      "url": "https://lotmfanwiki.com/chapter/coi-0669.html"
+    },
+    {
+      "label": "宿命·678",
+      "url": "https://lotmfanwiki.com/chapter/coi-0678.html"
+    },
+    {
+      "label": "宿命·668",
+      "url": "https://lotmfanwiki.com/chapter/coi-0668.html"
+    },
+    {
+      "label": "宿命·676",
+      "url": "https://lotmfanwiki.com/chapter/coi-0676.html"
+    },
+    {
+      "label": "宿命·686",
+      "url": "https://lotmfanwiki.com/chapter/coi-0686.html"
+    },
+    {
+      "label": "宿命·681",
+      "url": "https://lotmfanwiki.com/chapter/coi-0681.html"
+    },
+    {
+      "label": "宿命·682",
+      "url": "https://lotmfanwiki.com/chapter/coi-0682.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 146
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "羅伯特（蒂扎莫）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "和阿芒迪娜訂婚的非凡者",
+        "prose": "羅伯特來自北大陸，與棕櫚莊園的阿芒迪娜訂婚。據她所說，他帶她去碰觸黑色巨石，讓她得到入夢的力量；巡查隊和將軍衛隊當時都不知道兩人擁有非凡能力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c5b28f3c19d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 662,
+          "end": 679
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第662章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+          },
+          {
+            "label": "宿命·679",
+            "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+          },
+          {
+            "label": "宿命·669",
+            "url": "https://lotmfanwiki.com/chapter/coi-0669.html"
+          },
+          {
+            "label": "宿命·678",
+            "url": "https://lotmfanwiki.com/chapter/coi-0678.html"
+          },
+          {
+            "label": "宿命·668",
+            "url": "https://lotmfanwiki.com/chapter/coi-0668.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "卡利神甫與夢節",
+        "prose": "羅伯特也是卡利神甫的情人。卡利說，自己曾帶他接觸古墓，三人的力量都由此而來。羅伯特能凝結寒冰作戰；加繆推測他是通靈者。後來阿芒迪娜已把他稱作前未婚夫。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c5b28f3c19d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 678,
+          "end": 805
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第699章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+          },
+          {
+            "label": "宿命·679",
+            "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+          },
+          {
+            "label": "宿命·683",
+            "url": "https://lotmfanwiki.com/chapter/coi-0683.html"
+          },
+          {
+            "label": "宿命·678",
+            "url": "https://lotmfanwiki.com/chapter/coi-0678.html"
+          },
+          {
+            "label": "宿命·686",
+            "url": "https://lotmfanwiki.com/chapter/coi-0686.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

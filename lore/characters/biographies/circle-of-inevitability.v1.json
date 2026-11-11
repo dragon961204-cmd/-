@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.1",
+  "character_id": "circle-of-inevitability",
+  "name_zh": "宿命之環",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0e7dede9c319.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0e7dede9c319.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第7卷·第1270章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1270.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1175章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1175.html"
+    },
+    {
+      "label": "宿命·1143",
+      "url": "https://lotmfanwiki.com/chapter/coi-1143.html"
+    },
+    {
+      "label": "宿命·83",
+      "url": "https://lotmfanwiki.com/chapter/coi-0083.html"
+    },
+    {
+      "label": "宿命·343",
+      "url": "https://lotmfanwiki.com/chapter/coi-0343.html"
+    },
+    {
+      "label": "宿命·467",
+      "url": "https://lotmfanwiki.com/chapter/coi-0467.html"
+    },
+    {
+      "label": "宿命·737",
+      "url": "https://lotmfanwiki.com/chapter/coi-0737.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    },
+    {
+      "label": "宿命·747",
+      "url": "https://lotmfanwiki.com/chapter/coi-0747.html"
+    },
+    {
+      "label": "宿命·446",
+      "url": "https://lotmfanwiki.com/chapter/coi-0446.html"
+    },
+    {
+      "label": "宿命·866",
+      "url": "https://lotmfanwiki.com/chapter/coi-0866.html"
+    },
+    {
+      "label": "宿命·867",
+      "url": "https://lotmfanwiki.com/chapter/coi-0867.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 169
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "宿命之環｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以宿命為名的外神",
+        "prose": "宿命之環是擁有循環和注定等象徵的舊日。紀堯姆·貝內及罪人組織接受祂的恩賜，科爾杜村的儀式和盧米安身上的宿命印記都與祂有關。忒爾彌波洛斯以祂的天使自居。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0e7dede9c319.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 83,
+          "end": 467
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·83",
+            "url": "https://lotmfanwiki.com/chapter/coi-0083.html"
+          },
+          {
+            "label": "宿命·343",
+            "url": "https://lotmfanwiki.com/chapter/coi-0343.html"
+          },
+          {
+            "label": "宿命·467",
+            "url": "https://lotmfanwiki.com/chapter/coi-0467.html"
+          },
+          {
+            "label": "宿命·150",
+            "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+          },
+          {
+            "label": "宿命·446",
+            "url": "https://lotmfanwiki.com/chapter/coi-0446.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "指引瓦贊解封",
+        "prose": "漩渦事件中，瓦贊依祂透過儀式傳下的方法，解開盧米安身上的愚者封印。他想救出忒爾彌波洛斯，出現的卻是阿蒙。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0e7dede9c319.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 866,
+          "end": 876
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·866",
+            "url": "https://lotmfanwiki.com/chapter/coi-0866.html"
+          },
+          {
+            "label": "宿命·867",
+            "url": "https://lotmfanwiki.com/chapter/coi-0867.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "末日之戰的轉折",
+        "prose": "終局混戰中，宿命之環起初與盧米安為敵，後來以永劫象徵完成救贖，親自進入盧米安的身體。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0e7dede9c319.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1150,
+          "end": 1177
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1175章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1175.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

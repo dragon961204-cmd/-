@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "salist-morora",
+  "name_zh": "莎莉絲特（摩羅拉）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2e43623b9fd6.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2e43623b9fd6.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第5卷·第846章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0846.html"
+    },
+    {
+      "label": "宿命·826",
+      "url": "https://lotmfanwiki.com/chapter/coi-0826.html"
+    },
+    {
+      "label": "宿命·836",
+      "url": "https://lotmfanwiki.com/chapter/coi-0836.html"
+    },
+    {
+      "label": "宿命·842",
+      "url": "https://lotmfanwiki.com/chapter/coi-0842.html"
+    },
+    {
+      "label": "宿命·801",
+      "url": "https://lotmfanwiki.com/chapter/coi-0801.html"
+    },
+    {
+      "label": "宿命·802",
+      "url": "https://lotmfanwiki.com/chapter/coi-0802.html"
+    },
+    {
+      "label": "宿命·823",
+      "url": "https://lotmfanwiki.com/chapter/coi-0823.html"
+    },
+    {
+      "label": "宿命·818",
+      "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+    },
+    {
+      "label": "宿命·824",
+      "url": "https://lotmfanwiki.com/chapter/coi-0824.html"
+    },
+    {
+      "label": "宿命·829",
+      "url": "https://lotmfanwiki.com/chapter/coi-0829.html"
+    },
+    {
+      "label": "宿命·832",
+      "url": "https://lotmfanwiki.com/chapter/coi-0832.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 134
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莎莉絲特（摩羅拉）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "隱瞞魔女身分的執法者",
+        "prose": "莎莉絲特在摩羅拉執法隊任職，表面已成為實驗人員，實際是序列5痛苦魔女。她和朱莉是情人；巡邏相遇時，盧米安察覺她似乎刻意不與朱莉相認。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2e43623b9fd6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 801,
+          "end": 823
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·801",
+            "url": "https://lotmfanwiki.com/chapter/coi-0801.html"
+          },
+          {
+            "label": "宿命·802",
+            "url": "https://lotmfanwiki.com/chapter/coi-0802.html"
+          },
+          {
+            "label": "宿命·823",
+            "url": "https://lotmfanwiki.com/chapter/coi-0823.html"
+          },
+          {
+            "label": "宿命·818",
+            "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "進入陵寢後身亡",
+        "prose": "莎莉絲特有機會輪值進入封存0-01的地下陵寢，也受到一定污染。她與朱莉利用鏡中世界前往屍骸山峰，最後死在當地，遺體析出痛苦魔女非凡特性。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2e43623b9fd6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 818,
+          "end": 846
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第846章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0846.html"
+          },
+          {
+            "label": "宿命·826",
+            "url": "https://lotmfanwiki.com/chapter/coi-0826.html"
+          },
+          {
+            "label": "宿命·836",
+            "url": "https://lotmfanwiki.com/chapter/coi-0836.html"
+          },
+          {
+            "label": "宿命·842",
+            "url": "https://lotmfanwiki.com/chapter/coi-0842.html"
+          },
+          {
+            "label": "宿命·823",
+            "url": "https://lotmfanwiki.com/chapter/coi-0823.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "第一部老尼爾往事中另有同名人物，此檔只寫摩羅拉執法者。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

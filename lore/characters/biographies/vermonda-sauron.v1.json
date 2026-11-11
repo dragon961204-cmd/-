@@ -1,0 +1,168 @@
+{
+  "schema_version": "1.1",
+  "character_id": "vermonda-sauron",
+  "name_zh": "佛蒙達·索倫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-940b94c0d7b6.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-940b94c0d7b6.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第341章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+    },
+    {
+      "label": "《宿命》第5卷·第795章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0795.html"
+    },
+    {
+      "label": "宿命·475",
+      "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+    },
+    {
+      "label": "宿命·480",
+      "url": "https://lotmfanwiki.com/chapter/coi-0480.html"
+    },
+    {
+      "label": "宿命·492",
+      "url": "https://lotmfanwiki.com/chapter/coi-0492.html"
+    },
+    {
+      "label": "宿命·372",
+      "url": "https://lotmfanwiki.com/chapter/coi-0372.html"
+    },
+    {
+      "label": "宿命·433",
+      "url": "https://lotmfanwiki.com/chapter/coi-0433.html"
+    },
+    {
+      "label": "宿命·434",
+      "url": "https://lotmfanwiki.com/chapter/coi-0434.html"
+    },
+    {
+      "label": "宿命·343",
+      "url": "https://lotmfanwiki.com/chapter/coi-0343.html"
+    },
+    {
+      "label": "宿命·347",
+      "url": "https://lotmfanwiki.com/chapter/coi-0347.html"
+    },
+    {
+      "label": "宿命·483",
+      "url": "https://lotmfanwiki.com/chapter/coi-0483.html"
+    },
+    {
+      "label": "宿命·368",
+      "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 199
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "佛蒙達·索倫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "王室栽培的征服者",
+        "prose": "據傳佛蒙達出身香檳支系，因國王賞識而受索倫王室重點栽培，後來成為獵人途徑的序列1征服者。他失控後被封在紅天鵝堡地宮，後裔則透過國王餅等儀式接觸他殘留的精神。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-940b94c0d7b6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 341,
+          "end": 434
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第341章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+          },
+          {
+            "label": "宿命·372",
+            "url": "https://lotmfanwiki.com/chapter/coi-0372.html"
+          },
+          {
+            "label": "宿命·433",
+            "url": "https://lotmfanwiki.com/chapter/coi-0433.html"
+          },
+          {
+            "label": "宿命·434",
+            "url": "https://lotmfanwiki.com/chapter/coi-0434.html"
+          },
+          {
+            "label": "宿命·343",
+            "url": "https://lotmfanwiki.com/chapter/coi-0343.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "化為災禍巨人後隕落",
+        "prose": "第四紀特里爾的封印鬆動時，佛蒙達化作失控的災禍巨人，在荒野一帶隕落。他留下的征服者非凡特性被紅天使梅迪奇奪走。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-940b94c0d7b6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 471,
+          "end": 492
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·475",
+            "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+          },
+          {
+            "label": "宿命·480",
+            "url": "https://lotmfanwiki.com/chapter/coi-0480.html"
+          },
+          {
+            "label": "宿命·492",
+            "url": "https://lotmfanwiki.com/chapter/coi-0492.html"
+          },
+          {
+            "label": "宿命·483",
+            "url": "https://lotmfanwiki.com/chapter/coi-0483.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "失控的成因浮現",
+        "prose": "後續揭露，羅塞爾與查拉圖曾設計使佛蒙達發瘋，走入第四紀特里爾。盧米安、阿不思和愛洛絲在迷宮深處聽見的是從第四紀特里爾傳來的虛幻嘶吼。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-940b94c0d7b6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 739,
+          "end": 744
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

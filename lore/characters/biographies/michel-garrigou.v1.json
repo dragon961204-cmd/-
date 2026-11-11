@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.1",
+  "character_id": "michel-garrigou",
+  "name_zh": "米歇爾·加里古",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f8080a7bb7e7.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f8080a7bb7e7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "宿命·44",
+      "url": "https://lotmfanwiki.com/chapter/coi-0044.html"
+    },
+    {
+      "label": "宿命·45",
+      "url": "https://lotmfanwiki.com/chapter/coi-0045.html"
+    },
+    {
+      "label": "宿命·51",
+      "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+    },
+    {
+      "label": "宿命·50",
+      "url": "https://lotmfanwiki.com/chapter/coi-0050.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 127
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "米歇爾·加里古｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "借住獵人家的副本堂神甫",
+        "prose": "米歇爾來自達列日，畢業於比戈爾神學院。到科爾杜村任副本堂神甫後，紀堯姆·貝內不准他住在教堂，他只得向獵人薩巴泰租屋。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f8080a7bb7e7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 44,
+          "end": 51
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·44",
+            "url": "https://lotmfanwiki.com/chapter/coi-0044.html"
+          },
+          {
+            "label": "宿命·45",
+            "url": "https://lotmfanwiki.com/chapter/coi-0045.html"
+          },
+          {
+            "label": "宿命·51",
+            "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+          },
+          {
+            "label": "宿命·50",
+            "url": "https://lotmfanwiki.com/chapter/coi-0050.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "逐漸受到異物污染",
+        "prose": "奧蘿爾派契約生物觀察他，見到他睡著後有蜥蜴狀生物從口中爬出。米歇爾後來對外界逐漸失去反應，除了吃飯、睡覺與催促禱告，幾乎不再理會其他事情。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f8080a7bb7e7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 45,
+          "end": 108
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·45",
+            "url": "https://lotmfanwiki.com/chapter/coi-0045.html"
+          },
+          {
+            "label": "宿命·51",
+            "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+          },
+          {
+            "label": "宿命·50",
+            "url": "https://lotmfanwiki.com/chapter/coi-0050.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "同一來源頁另含米歇爾·德伊特及米歇爾太太，此檔只指科爾杜副本堂神甫。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "safali",
+  "name_zh": "薩法莉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6e400915d203.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6e400915d203.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第129章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+    },
+    {
+      "label": "《宿命》第4卷·第499章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0499.html"
+    },
+    {
+      "label": "宿命·303",
+      "url": "https://lotmfanwiki.com/chapter/coi-0303.html"
+    },
+    {
+      "label": "宿命·463",
+      "url": "https://lotmfanwiki.com/chapter/coi-0463.html"
+    },
+    {
+      "label": "宿命·464",
+      "url": "https://lotmfanwiki.com/chapter/coi-0464.html"
+    },
+    {
+      "label": "宿命·473",
+      "url": "https://lotmfanwiki.com/chapter/coi-0473.html"
+    },
+    {
+      "label": "宿命·361",
+      "url": "https://lotmfanwiki.com/chapter/coi-0361.html"
+    },
+    {
+      "label": "宿命·456",
+      "url": "https://lotmfanwiki.com/chapter/coi-0456.html"
+    },
+    {
+      "label": "宿命·457",
+      "url": "https://lotmfanwiki.com/chapter/coi-0457.html"
+    },
+    {
+      "label": "宿命·470",
+      "url": "https://lotmfanwiki.com/chapter/coi-0470.html"
+    },
+    {
+      "label": "宿命·221",
+      "url": "https://lotmfanwiki.com/chapter/coi-0221.html"
+    },
+    {
+      "label": "宿命·453",
+      "url": "https://lotmfanwiki.com/chapter/coi-0453.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 161
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "薩法莉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "旅館裡的模特",
+        "prose": "薩法莉是住在金雞旅館309號房的人體模特，也是劇作家加布里埃爾的戀人。加布里埃爾打算搬走時邀她同行，她拒絕了，說自己要搬去一處名為旅舍的地方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6e400915d203.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 129,
+          "end": 361
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第129章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+          },
+          {
+            "label": "宿命·303",
+            "url": "https://lotmfanwiki.com/chapter/coi-0303.html"
+          },
+          {
+            "label": "宿命·361",
+            "url": "https://lotmfanwiki.com/chapter/coi-0361.html"
+          },
+          {
+            "label": "宿命·221",
+            "url": "https://lotmfanwiki.com/chapter/coi-0221.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "成為旅舍的房間",
+        "prose": "加布里埃爾循她的畫像追查，後來也受到旅舍污染。薩法莉的皮膚成為畫布般的表面，本身被用作旅舍12號房，普阿利斯等人住在其中。她告訴加布里埃爾，離開得靠妖精許可，或穿過市場大道的黑洞。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6e400915d203.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 456,
+          "end": 473
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·463",
+            "url": "https://lotmfanwiki.com/chapter/coi-0463.html"
+          },
+          {
+            "label": "宿命·464",
+            "url": "https://lotmfanwiki.com/chapter/coi-0464.html"
+          },
+          {
+            "label": "宿命·473",
+            "url": "https://lotmfanwiki.com/chapter/coi-0473.html"
+          },
+          {
+            "label": "宿命·456",
+            "url": "https://lotmfanwiki.com/chapter/coi-0456.html"
+          },
+          {
+            "label": "宿命·457",
+            "url": "https://lotmfanwiki.com/chapter/coi-0457.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

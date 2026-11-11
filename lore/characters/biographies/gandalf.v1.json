@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "gandalf",
+  "name_zh": "甘道夫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e719a15af175.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e719a15af175.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第66章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0066.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1056章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1056.html"
+    },
+    {
+      "label": "宿命·581",
+      "url": "https://lotmfanwiki.com/chapter/coi-0581.html"
+    },
+    {
+      "label": "宿命·211",
+      "url": "https://lotmfanwiki.com/chapter/coi-0211.html"
+    },
+    {
+      "label": "宿命·375",
+      "url": "https://lotmfanwiki.com/chapter/coi-0375.html"
+    },
+    {
+      "label": "宿命·411",
+      "url": "https://lotmfanwiki.com/chapter/coi-0411.html"
+    },
+    {
+      "label": "宿命·576",
+      "url": "https://lotmfanwiki.com/chapter/coi-0576.html"
+    },
+    {
+      "label": "宿命·376",
+      "url": "https://lotmfanwiki.com/chapter/coi-0376.html"
+    },
+    {
+      "label": "宿命·377",
+      "url": "https://lotmfanwiki.com/chapter/coi-0377.html"
+    },
+    {
+      "label": "宿命·49",
+      "url": "https://lotmfanwiki.com/chapter/coi-0049.html"
+    },
+    {
+      "label": "宿命·97",
+      "url": "https://lotmfanwiki.com/chapter/coi-0097.html"
+    },
+    {
+      "label": "宿命·392",
+      "url": "https://lotmfanwiki.com/chapter/coi-0392.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 136
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "甘道夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "帶領研究會及調查叛徒",
+        "prose": "甘道夫是卷毛狒狒研究會會長，雖然走戰士途徑，卻熱衷於研究神秘學。洛基一夥背叛的線索浮現後，他與海拉等人推動成立審查委員會，並參與制定可調查嫌疑人的契約。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e719a15af175.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 211,
+          "end": 412
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·211",
+            "url": "https://lotmfanwiki.com/chapter/coi-0211.html"
+          },
+          {
+            "label": "宿命·375",
+            "url": "https://lotmfanwiki.com/chapter/coi-0375.html"
+          },
+          {
+            "label": "宿命·411",
+            "url": "https://lotmfanwiki.com/chapter/coi-0411.html"
+          },
+          {
+            "label": "宿命·376",
+            "url": "https://lotmfanwiki.com/chapter/coi-0376.html"
+          },
+          {
+            "label": "宿命·377",
+            "url": "https://lotmfanwiki.com/chapter/coi-0377.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "擒獲並審訊吟遊詩人",
+        "prose": "祈海儀式中，甘道夫在米洛村一帶擒住逃跑的吟遊詩人，把他帶到夜之國。與海拉、芙蘭卡、盧米安共同審問後，甘道夫親手將他處決。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e719a15af175.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 580,
+          "end": 594
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·581",
+            "url": "https://lotmfanwiki.com/chapter/coi-0581.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "schema_version": "1.1",
+  "character_id": "nina-future",
+  "name_zh": "妮娜",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f752046dbd01.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f752046dbd01.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第640章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0640.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1163章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1163.html"
+    },
+    {
+      "label": "詭祕·645",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0645.html"
+    },
+    {
+      "label": "詭祕·657",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0657.html"
+    },
+    {
+      "label": "詭祕·1073",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1073.html"
+    },
+    {
+      "label": "詭祕·639",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+    },
+    {
+      "label": "詭祕·649",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0649.html"
+    },
+    {
+      "label": "詭祕·641",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0641.html"
+    },
+    {
+      "label": "詭祕·661",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0661.html"
+    },
+    {
+      "label": "詭祕·638",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0638.html"
+    },
+    {
+      "label": "詭祕·656",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0656.html"
+    },
+    {
+      "label": "詭祕·675",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0675.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 177
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "妮娜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "選擇留在海上的水手長",
+        "prose": "妮娜有弗薩克血統，曾到弗薩克東岸定居。據她自述，陸上的日子太沉悶，她更願意留在海上。她成為未來號水手長，負責帶水手調整風帆，也曾下海替嘉德麗雅取回遺跡深井中的黑泥。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f752046dbd01.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 639,
+          "end": 721
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第640章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0640.html"
+          },
+          {
+            "label": "詭祕·645",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0645.html"
+          },
+          {
+            "label": "詭祕·657",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0657.html"
+          },
+          {
+            "label": "詭祕·639",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+          },
+          {
+            "label": "詭祕·649",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0649.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "看管船員與實驗風險",
+        "prose": "嘉德麗雅要妮娜留意二副希斯的身心狀態。弗蘭克的實驗在甲板引發異變時，妮娜也直接要求他處理；船員里維爾死後，她代為主持了葬禮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f752046dbd01.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 651,
+          "end": 1309
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·657",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0657.html"
+          },
+          {
+            "label": "詭祕·1073",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1073.html"
+          },
+          {
+            "label": "詭祕·661",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0661.html"
+          },
+          {
+            "label": "詭祕·656",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0656.html"
+          },
+          {
+            "label": "詭祕·675",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0675.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "第二部仍留在未來號",
+        "prose": "《宿命之環》後期，妮娜仍在未來號上，隨嘉德麗雅的船員在狂暴海活動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f752046dbd01.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1163,
+          "end": 1163
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1163章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1163.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

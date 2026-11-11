@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "jebus",
+  "name_zh": "耶布斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-d8585964859a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-d8585964859a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第712章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0712.html"
+    },
+    {
+      "label": "《宿命》第5卷·第741章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0741.html"
+    },
+    {
+      "label": "宿命·715",
+      "url": "https://lotmfanwiki.com/chapter/coi-0715.html"
+    },
+    {
+      "label": "宿命·717",
+      "url": "https://lotmfanwiki.com/chapter/coi-0717.html"
+    },
+    {
+      "label": "宿命·718",
+      "url": "https://lotmfanwiki.com/chapter/coi-0718.html"
+    },
+    {
+      "label": "宿命·615",
+      "url": "https://lotmfanwiki.com/chapter/coi-0615.html"
+    },
+    {
+      "label": "宿命·621",
+      "url": "https://lotmfanwiki.com/chapter/coi-0621.html"
+    },
+    {
+      "label": "宿命·704",
+      "url": "https://lotmfanwiki.com/chapter/coi-0704.html"
+    },
+    {
+      "label": "宿命·713",
+      "url": "https://lotmfanwiki.com/chapter/coi-0713.html"
+    },
+    {
+      "label": "宿命·722",
+      "url": "https://lotmfanwiki.com/chapter/coi-0722.html"
+    },
+    {
+      "label": "宿命·716",
+      "url": "https://lotmfanwiki.com/chapter/coi-0716.html"
+    },
+    {
+      "label": "宿命·724",
+      "url": "https://lotmfanwiki.com/chapter/coi-0724.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 138
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "耶布斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在鏡後保護莫蘭",
+        "prose": "耶布斯是真理學派的人，受佩爾樂監督，負責看守莫蘭書房的鏡子。他把盧米安拉進鏡中伏擊，卻被制伏並變成綿羊，隨後由芙蘭卡帶離。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d8585964859a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 712,
+          "end": 718
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第712章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0712.html"
+          },
+          {
+            "label": "宿命·715",
+            "url": "https://lotmfanwiki.com/chapter/coi-0715.html"
+          },
+          {
+            "label": "宿命·717",
+            "url": "https://lotmfanwiki.com/chapter/coi-0717.html"
+          },
+          {
+            "label": "宿命·718",
+            "url": "https://lotmfanwiki.com/chapter/coi-0718.html"
+          },
+          {
+            "label": "宿命·713",
+            "url": "https://lotmfanwiki.com/chapter/coi-0713.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "供述到一半死亡",
+        "prose": "耶布斯在審訊中供稱，學派想利用莫蘭掌控政府，再找羅塞爾的陵寢和許願神燈。當他將要說出總部與監督者身分時，身體從內部炸開。芙蘭卡推測合約條款曾被人暗中更改。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d8585964859a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 713,
+          "end": 724
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·715",
+            "url": "https://lotmfanwiki.com/chapter/coi-0715.html"
+          },
+          {
+            "label": "宿命·717",
+            "url": "https://lotmfanwiki.com/chapter/coi-0717.html"
+          },
+          {
+            "label": "宿命·718",
+            "url": "https://lotmfanwiki.com/chapter/coi-0718.html"
+          },
+          {
+            "label": "宿命·713",
+            "url": "https://lotmfanwiki.com/chapter/coi-0713.html"
+          },
+          {
+            "label": "宿命·722",
+            "url": "https://lotmfanwiki.com/chapter/coi-0722.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

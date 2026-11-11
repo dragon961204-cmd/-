@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "pons-benet",
+  "name_zh": "蓬斯·貝內",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-fa862b0be844.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-fa862b0be844.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第8章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+    },
+    {
+      "label": "《宿命》第4卷·第634章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0634.html"
+    },
+    {
+      "label": "宿命·56",
+      "url": "https://lotmfanwiki.com/chapter/coi-0056.html"
+    },
+    {
+      "label": "宿命·21",
+      "url": "https://lotmfanwiki.com/chapter/coi-0021.html"
+    },
+    {
+      "label": "宿命·55",
+      "url": "https://lotmfanwiki.com/chapter/coi-0055.html"
+    },
+    {
+      "label": "宿命·220",
+      "url": "https://lotmfanwiki.com/chapter/coi-0220.html"
+    },
+    {
+      "label": "宿命·3",
+      "url": "https://lotmfanwiki.com/chapter/coi-0003.html"
+    },
+    {
+      "label": "宿命·5",
+      "url": "https://lotmfanwiki.com/chapter/coi-0005.html"
+    },
+    {
+      "label": "宿命·11",
+      "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+    },
+    {
+      "label": "宿命·12",
+      "url": "https://lotmfanwiki.com/chapter/coi-0012.html"
+    },
+    {
+      "label": "宿命·26",
+      "url": "https://lotmfanwiki.com/chapter/coi-0026.html"
+    },
+    {
+      "label": "宿命·38",
+      "url": "https://lotmfanwiki.com/chapter/coi-0038.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 127
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蓬斯·貝內｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "仗著兄長地位行事",
+        "prose": "蓬斯是科爾杜村本堂神甫紀堯姆的弟弟，也信仰宿命。他帶人追趕盧米安，多次進出過世的娜羅卡家；盧米安推測，他在搜集死者的頭髮和指甲。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fa862b0be844.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 8,
+          "end": 39
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第1卷·第8章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+          },
+          {
+            "label": "宿命·21",
+            "url": "https://lotmfanwiki.com/chapter/coi-0021.html"
+          },
+          {
+            "label": "宿命·11",
+            "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+          },
+          {
+            "label": "宿命·12",
+            "url": "https://lotmfanwiki.com/chapter/coi-0012.html"
+          },
+          {
+            "label": "宿命·26",
+            "url": "https://lotmfanwiki.com/chapter/coi-0026.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "暴力與儀式裡的消失",
+        "prose": "雷蒙德被蓬斯與打手按進河裡淹死，盧米安之後試圖報復。科爾杜教堂儀式開啟時，蓬斯遭塔納戈稻草人注視，身體隨即消失，只剩衣物落地。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fa862b0be844.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 101,
+          "end": 220
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·220",
+            "url": "https://lotmfanwiki.com/chapter/coi-0220.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

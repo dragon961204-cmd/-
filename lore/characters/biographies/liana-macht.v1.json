@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "liana-macht",
+  "name_zh": "莉亞娜夫人",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-745e2bf3a3c4.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-745e2bf3a3c4.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第753章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1087章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1087.html"
+    },
+    {
+      "label": "詭祕·763",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0763.html"
+    },
+    {
+      "label": "詭祕·785",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0785.html"
+    },
+    {
+      "label": "詭祕·1007",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1007.html"
+    },
+    {
+      "label": "詭祕·754",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+    },
+    {
+      "label": "詭祕·758",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0758.html"
+    },
+    {
+      "label": "詭祕·760",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0760.html"
+    },
+    {
+      "label": "詭祕·1005",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1005.html"
+    },
+    {
+      "label": "詭祕·1006",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1006.html"
+    },
+    {
+      "label": "詭祕·980",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0980.html"
+    },
+    {
+      "label": "詭祕·761",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0761.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 148
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莉亞娜夫人｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "馬赫特家的社交關係",
+        "prose": "莉亞娜是大律師的女兒、馬赫特議員的妻子及海柔爾的母親。她能為丈夫提供政治與警方的人脈，也曾與丈夫和埃萊克特拉主教共同拜訪道恩，之後邀他參與家中的社交活動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-745e2bf3a3c4.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 753,
+          "end": 860
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第4卷·第753章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+          },
+          {
+            "label": "詭祕·763",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0763.html"
+          },
+          {
+            "label": "詭祕·785",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0785.html"
+          },
+          {
+            "label": "詭祕·754",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+          },
+          {
+            "label": "詭祕·758",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0758.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "遭寄生與戰時去處",
+        "prose": "阿蒙分身的事件波及馬赫特家，莉亞娜也戴上了單片眼鏡，女兒因此受到重創。她脫離寄生後仍留有痕跡；戰事迫近時，丈夫打算讓她和海柔爾去麋鹿莊園避難。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-745e2bf3a3c4.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1005,
+          "end": 1087
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第5卷·第1087章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1087.html"
+          },
+          {
+            "label": "詭祕·1007",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1007.html"
+          },
+          {
+            "label": "詭祕·1005",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1005.html"
+          },
+          {
+            "label": "詭祕·1006",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1006.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

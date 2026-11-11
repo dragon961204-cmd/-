@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1",
+  "character_id": "nast-solomon",
+  "name_zh": "納斯特·所羅門",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-db6c52ee58d9.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-db6c52ee58d9.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第56章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0056.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1073章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1073.html"
+    },
+    {
+      "label": "詭祕·575",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0575.html"
+    },
+    {
+      "label": "詭祕·1020",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1020.html"
+    },
+    {
+      "label": "詭祕·502",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0502.html"
+    },
+    {
+      "label": "詭祕·599",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0599.html"
+    },
+    {
+      "label": "詭祕·924",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0924.html"
+    },
+    {
+      "label": "詭祕·237",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0237.html"
+    },
+    {
+      "label": "詭祕·292",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0292.html"
+    },
+    {
+      "label": "詭祕·496",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0496.html"
+    },
+    {
+      "label": "詭祕·159",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0159.html"
+    },
+    {
+      "label": "詭祕·178",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0178.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 176
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "納斯特·所羅門｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從羅塞爾時代活躍至五海",
+        "prose": "納斯特自稱是第四紀所羅門帝國後裔，也是大海盜薩維尼之子，持有羅塞爾敕封的白楓伯爵爵位。他走黑皇帝途徑，掌管幽靈船黑皇帝號，以五海之王的地位召集海盜大會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-db6c52ee58d9.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 56,
+          "end": 663
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第1卷·第56章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0056.html"
+          },
+          {
+            "label": "詭祕·575",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0575.html"
+          },
+          {
+            "label": "詭祕·502",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0502.html"
+          },
+          {
+            "label": "詭祕·599",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0599.html"
+          },
+          {
+            "label": "詭祕·237",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0237.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在黑皇帝號接待克萊恩",
+        "prose": "克萊恩曾借祕偶登上黑皇帝號拜會納斯特。納斯特以羅塞爾敕封的伯爵自居，認為羅塞爾最適合成為黑皇帝，也要求克萊恩尋找該途徑的褻瀆之牌。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-db6c52ee58d9.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 971,
+          "end": 972
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "第二部的海上諸王",
+        "prose": "《宿命之環》時，納斯特仍被列為海上諸王之一。他曾在迷霧海與阿爾傑交戰。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-db6c52ee58d9.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 438,
+          "end": 515
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

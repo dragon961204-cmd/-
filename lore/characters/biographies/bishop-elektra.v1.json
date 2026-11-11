@@ -1,0 +1,148 @@
+{
+  "schema_version": "1.1",
+  "character_id": "bishop-elektra",
+  "name_zh": "埃萊克特拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-85a9f059281b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-85a9f059281b.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://www.novelwiki.net/lord-of-the-mysteries/summaries/chapters-701-800/",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第753章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1084章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1084.html"
+    },
+    {
+      "label": "詭祕·764",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0764.html"
+    },
+    {
+      "label": "詭祕·780",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0780.html"
+    },
+    {
+      "label": "詭祕·979",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0979.html"
+    },
+    {
+      "label": "詭祕·214",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0214.html"
+    },
+    {
+      "label": "詭祕·289",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0289.html"
+    },
+    {
+      "label": "詭祕·565",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0565.html"
+    },
+    {
+      "label": "詭祕·713",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0713.html"
+    },
+    {
+      "label": "詭祕·754",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+    },
+    {
+      "label": "詭祕·756",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0756.html"
+    },
+    {
+      "label": "詭祕·779",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0779.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 155
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "埃萊克特拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "唐泰斯的教會聯絡人",
+        "prose": "埃萊克特拉是黑夜教會的主教，曾與馬赫特夫婦登門拜訪新到貝克蘭德的道恩·唐泰斯。道恩逐步與黑夜教會建立往來後，他依聖安東尼的指示邀請道恩演講，再把他引見給大主教。道恩曾在聖賽繆爾教堂捐款，並與他約定研讀教典。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-85a9f059281b.html",
+          "https://www.novelwiki.net/lord-of-the-mysteries/summaries/chapters-701-800/"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 750,
+          "end": 865
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第4卷·第753章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+          },
+          {
+            "label": "詭祕·764",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0764.html"
+          },
+          {
+            "label": "詭祕·780",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0780.html"
+          },
+          {
+            "label": "詭祕·754",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+          },
+          {
+            "label": "詭祕·756",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0756.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從布道到防空演習",
+        "prose": "埃萊克特拉繼續在聖賽繆爾教堂布道，與這批信徒保持聯絡。戰時防空成為教區事務後，他也親自登門傳達演習通知。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-85a9f059281b.html",
+          "https://www.novelwiki.net/lord-of-the-mysteries/summaries/chapters-701-800/"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 979,
+          "end": 1082
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·979",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0979.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

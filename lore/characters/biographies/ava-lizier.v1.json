@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ava-lizier",
+  "name_zh": "阿娃·利齊耶",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-10a0d7e156f8.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-10a0d7e156f8.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第7章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0007.html"
+    },
+    {
+      "label": "《宿命》第4卷·第539章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0539.html"
+    },
+    {
+      "label": "宿命·11",
+      "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+    },
+    {
+      "label": "宿命·30",
+      "url": "https://lotmfanwiki.com/chapter/coi-0030.html"
+    },
+    {
+      "label": "宿命·31",
+      "url": "https://lotmfanwiki.com/chapter/coi-0031.html"
+    },
+    {
+      "label": "宿命·42",
+      "url": "https://lotmfanwiki.com/chapter/coi-0042.html"
+    },
+    {
+      "label": "宿命·16",
+      "url": "https://lotmfanwiki.com/chapter/coi-0016.html"
+    },
+    {
+      "label": "宿命·28",
+      "url": "https://lotmfanwiki.com/chapter/coi-0028.html"
+    },
+    {
+      "label": "宿命·33",
+      "url": "https://lotmfanwiki.com/chapter/coi-0033.html"
+    },
+    {
+      "label": "宿命·8",
+      "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+    },
+    {
+      "label": "宿命·12",
+      "url": "https://lotmfanwiki.com/chapter/coi-0012.html"
+    },
+    {
+      "label": "宿命·21",
+      "url": "https://lotmfanwiki.com/chapter/coi-0021.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 167
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿娃·利齊耶｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "四旬節的春天精靈",
+        "prose": "阿娃是科爾杜村鞋匠的女兒，平日在河邊牧鵝，常和盧米安、雷蒙德等人往來。盧米安的夢裡，她如願當選四旬節的春天精靈，負責籌備祝福巡遊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10a0d7e156f8.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 7,
+          "end": 42
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第1卷·第7章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0007.html"
+          },
+          {
+            "label": "宿命·11",
+            "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+          },
+          {
+            "label": "宿命·30",
+            "url": "https://lotmfanwiki.com/chapter/coi-0030.html"
+          },
+          {
+            "label": "宿命·31",
+            "url": "https://lotmfanwiki.com/chapter/coi-0031.html"
+          },
+          {
+            "label": "宿命·42",
+            "url": "https://lotmfanwiki.com/chapter/coi-0042.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "現實中遭滅口",
+        "prose": "後來查到的現實經過顯示，阿娃察覺了村裡不尋常的事情，因而遭到滅口。這段死訊也讓盧米安得以把夢裡與村民相處的經驗，和現實中發生的災難區分開來。蘇茜根據盧米安回想的屍體狀態，推測她是被蓬斯一夥掐死後埋進墓園。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10a0d7e156f8.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 157,
+          "end": 202
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -342,7 +342,7 @@
     },
     {
       "id": "maveti",
-      "name_zh": null,
+      "name_zh": "麥維提",
       "name_en": "Maveti",
       "identity_status": "named_character",
       "affiliation_review": "community_index_only",
@@ -351,9 +351,15 @@
         {
           "kind": "community_index",
           "reference": "https://www.lotmfanwiki.com/type/p.html"
+        },
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-45f89a1d3de6.html"
         }
       ],
-      "aliases": [],
+      "aliases": [
+        "鋼鐵麥維提"
+      ],
       "first_appearance": null
     },
     {
@@ -3790,6 +3796,661 @@
         {
           "kind": "wiki_published_character_page",
           "reference": "https://lotmfanwiki.com/node/cn-p-047599c4e463.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "clarice",
+      "name_zh": "克拉麗絲",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9e387ce01ea2.html"
+        }
+      ],
+      "aliases": [
+        "黑之魔女"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "michel-garrigou",
+      "name_zh": "米歇爾·加里古",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "同一來源頁另含米歇爾·德伊特及米歇爾太太，此檔只指科爾杜副本堂神甫。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f8080a7bb7e7.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "batner-conte",
+      "name_zh": "巴特納·孔泰",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2c0af98442fb.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "circle-of-inevitability",
+      "name_zh": "宿命之環",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-0e7dede9c319.html"
+        }
+      ],
+      "aliases": [
+        "宿命邪神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "blanche-sauron",
+      "name_zh": "布朗絲·索倫",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-db9e68ef6ba7.html"
+        }
+      ],
+      "aliases": [
+        "布朗絲"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "julien-jenna-brother",
+      "name_zh": "朱利安（簡娜之兄）",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "同一來源頁另有第一部薩默爾家的女僕，兩者生平分開。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d8ee10974a9e.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "byers-berdan",
+      "name_zh": "拜爾斯（貝爾丹）",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "來源頁也列出烏托邦的同名警察，這裡只寫貝爾丹事件，兩段身分關係待核。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e8f8f0be4a32.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "i-have-a-friend",
+      "name_zh": "我有個朋友",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-61b8b20f07d6.html"
+        }
+      ],
+      "aliases": [
+        "皮埃爾·特里奧"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "father-montserrat",
+      "name_zh": "蒙塞拉特神父",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ebe6f7653cea.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "gidas",
+      "name_zh": "吉達斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-998967626e28.html"
+        }
+      ],
+      "aliases": [
+        "脹腫斷手"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "underworld-daoist",
+      "name_zh": "冥道人",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-629185ca5441.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "pons-benet",
+      "name_zh": "蓬斯·貝內",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-fa862b0be844.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "bishop-elektra",
+      "name_zh": "埃萊克特拉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-85a9f059281b.html"
+        }
+      ],
+      "aliases": [
+        "埃萊克特拉主教"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "robert-tizamo",
+      "name_zh": "羅伯特（蒂扎莫）",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2c5b28f3c19d.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "safali",
+      "name_zh": "薩法莉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-6e400915d203.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "elaine",
+      "name_zh": "伊蓮",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-0ba53c4406d1.html"
+        }
+      ],
+      "aliases": [
+        "紅髮伊蓮",
+        "Helene"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "gandalf",
+      "name_zh": "甘道夫",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e719a15af175.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ava-lizier",
+      "name_zh": "阿娃·利齊耶",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-10a0d7e156f8.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "montsouris-ghost",
+      "name_zh": "蒙蘇里鬼魂",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-4cc5ffe1c784.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "bouvar-pomperro",
+      "name_zh": "布瓦爾·蓬派羅",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c0c139b31d3a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "primordial-god-almighty",
+      "name_zh": "原初上帝",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-537be4cb2c07.html"
+        }
+      ],
+      "aliases": [
+        "原初上帝"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "heath-doyle",
+      "name_zh": "希斯·道爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-edfa69053b12.html"
+        }
+      ],
+      "aliases": [
+        "無血者"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "hibbert-hall",
+      "name_zh": "希伯特·霍爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f6eec26c9226.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "nast-solomon",
+      "name_zh": "納斯特·所羅門",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-db6c52ee58d9.html"
+        }
+      ],
+      "aliases": [
+        "五海之王"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "casimi-odora",
+      "name_zh": "卡西米·奧德拉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c26a7871fa67.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "chrismona",
+      "name_zh": "克麗絲芒娜",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1b26f0f5685e.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "annie-audrey-maid",
+      "name_zh": "安妮（奧黛麗的女僕）",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-0f59587e3b9b.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "reyaza",
+      "name_zh": "雷亞薩",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c71242803afa.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "shermane",
+      "name_zh": "雪曼",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2a3238772e3c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "nina-future",
+      "name_zh": "妮娜",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f752046dbd01.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "vermonda-sauron",
+      "name_zh": "佛蒙達·索倫",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-940b94c0d7b6.html"
+        }
+      ],
+      "aliases": [
+        "佛蒙達·香檳·索倫"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "misor-king",
+      "name_zh": "米索爾·金",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-baa6b38848f4.html"
+        }
+      ],
+      "aliases": [
+        "巧言者"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "liana-macht",
+      "name_zh": "莉亞娜夫人",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-745e2bf3a3c4.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jebus",
+      "name_zh": "耶布斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d8585964859a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ankewelt",
+      "name_zh": "安格爾威德",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-64d59402f7be.html"
+        }
+      ],
+      "aliases": [
+        "空想之龍"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "salist-morora",
+      "name_zh": "莎莉絲特（摩羅拉）",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "第一部老尼爾往事中另有同名人物，此檔只寫摩羅拉執法者。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2e43623b9fd6.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "lady-moon-nightwalk",
+      "name_zh": "月女士",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ee732376ed36.html"
+        }
+      ],
+      "aliases": [
+        "月夫人"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "cohinem",
+      "name_zh": "高希納姆",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-0490e2591c4f.html"
+        }
+      ],
+      "aliases": [
+        "天災女王"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "kaspars-kalinin",
+      "name_zh": "卡斯帕斯·坎立寧",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-16f0fb326d2e.html"
         }
       ],
       "aliases": [],

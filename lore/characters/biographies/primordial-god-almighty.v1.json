@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.1",
+  "character_id": "primordial-god-almighty",
+  "name_zh": "原初上帝",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-537be4cb2c07.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-537be4cb2c07.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第7卷·第1272章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1272.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1177章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1177.html"
+    },
+    {
+      "label": "宿命·1010",
+      "url": "https://lotmfanwiki.com/chapter/coi-1010.html"
+    },
+    {
+      "label": "宿命·1088",
+      "url": "https://lotmfanwiki.com/chapter/coi-1088.html"
+    },
+    {
+      "label": "宿命·1152",
+      "url": "https://lotmfanwiki.com/chapter/coi-1152.html"
+    },
+    {
+      "label": "詭祕·1347",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1347.html"
+    },
+    {
+      "label": "宿命·1090",
+      "url": "https://lotmfanwiki.com/chapter/coi-1090.html"
+    },
+    {
+      "label": "詭祕·1369",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1369.html"
+    },
+    {
+      "label": "宿命·1014",
+      "url": "https://lotmfanwiki.com/chapter/coi-1014.html"
+    },
+    {
+      "label": "宿命·1030",
+      "url": "https://lotmfanwiki.com/chapter/coi-1030.html"
+    },
+    {
+      "label": "宿命·1098",
+      "url": "https://lotmfanwiki.com/chapter/coi-1098.html"
+    },
+    {
+      "label": "宿命·1107",
+      "url": "https://lotmfanwiki.com/chapter/coi-1107.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 246
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "原初上帝｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "第一紀的支柱與遺骸",
+        "prose": "原初上帝是三支柱之一，與混沌海及觀眾等五條途徑相關。據黑夜女神所述，祂的遺骸在混沌海中形成第一塊褻瀆石板。祂曾在遠古太陽神體內甦醒，促使後者籌劃以死亡脫身。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-537be4cb2c07.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1272,
+          "end": 1369
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第7卷·第1272章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1272.html"
+          },
+          {
+            "label": "詭祕·1347",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1347.html"
+          },
+          {
+            "label": "詭祕·1369",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1369.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "跨紀元的復活安排",
+        "prose": "《宿命之環》陸續揭露，原初上帝留下了阿羅德斯與特殊鏡中世界的安排。按奇克的說法，部分安排還牽涉災禍之城、魔女和獵人途徑。愚者後來用暗金面具封住盧米安左肩上即將成形的臉，阻止一次復甦。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-537be4cb2c07.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1014,
+          "end": 1141
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1088",
+            "url": "https://lotmfanwiki.com/chapter/coi-1088.html"
+          },
+          {
+            "label": "宿命·1090",
+            "url": "https://lotmfanwiki.com/chapter/coi-1090.html"
+          },
+          {
+            "label": "宿命·1014",
+            "url": "https://lotmfanwiki.com/chapter/coi-1014.html"
+          },
+          {
+            "label": "宿命·1030",
+            "url": "https://lotmfanwiki.com/chapter/coi-1030.html"
+          },
+          {
+            "label": "宿命·1098",
+            "url": "https://lotmfanwiki.com/chapter/coi-1098.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "意識再次甦醒",
+        "prose": "末日混戰裡，墮落母神的新生權柄使盧米安體內的原初上帝意識再度活躍，後來又被毀滅之火燃燒。這段復甦涉及原初上帝自己的意志，與格里沙·亞當的身分須按事件區分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-537be4cb2c07.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1150,
+          "end": 1177
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1177章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1177.html"
+          },
+          {
+            "label": "宿命·1152",
+            "url": "https://lotmfanwiki.com/chapter/coi-1152.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

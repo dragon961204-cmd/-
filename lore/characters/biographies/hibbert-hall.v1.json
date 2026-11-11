@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hibbert-hall",
+  "name_zh": "希伯特·霍爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f6eec26c9226.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f6eec26c9226.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第254章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0254.html"
+    },
+    {
+      "label": "《詭祕》第8卷·第1393章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1393.html"
+    },
+    {
+      "label": "詭祕·309",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0309.html"
+    },
+    {
+      "label": "詭祕·864",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0864.html"
+    },
+    {
+      "label": "詭祕·1333",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1333.html"
+    },
+    {
+      "label": "詭祕·310",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0310.html"
+    },
+    {
+      "label": "詭祕·358",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0358.html"
+    },
+    {
+      "label": "詭祕·367",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0367.html"
+    },
+    {
+      "label": "詭祕·765",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0765.html"
+    },
+    {
+      "label": "詭祕·1040",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1040.html"
+    },
+    {
+      "label": "詭祕·1189",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1189.html"
+    },
+    {
+      "label": "詭祕·1214",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1214.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 130
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "希伯特·霍爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從伯爵長子到調查委員會",
+        "prose": "希伯特是霍爾家的長子。父親希望他在貴族特權受到削弱前累積實務經驗，安排他進入大氣污染調查委員會。擔任首席秘書時，他提議透過報刊揭露煙氣污染及工廠主的恐嚇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f6eec26c9226.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 309,
+          "end": 367
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·309",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0309.html"
+          },
+          {
+            "label": "詭祕·310",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0310.html"
+          },
+          {
+            "label": "詭祕·358",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0358.html"
+          },
+          {
+            "label": "詭祕·367",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0367.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "商業往來與內閣任職",
+        "prose": "他曾替奧黛麗談妥自行車公司股份，也與道恩·唐泰斯競購。戰爭前後，他仍參與家族與政治事務，後來轉任內閣秘書。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f6eec26c9226.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 765,
+          "end": 1341
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·864",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0864.html"
+          },
+          {
+            "label": "詭祕·1333",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1333.html"
+          },
+          {
+            "label": "詭祕·765",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0765.html"
+          },
+          {
+            "label": "詭祕·1040",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1040.html"
+          },
+          {
+            "label": "詭祕·1189",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1189.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

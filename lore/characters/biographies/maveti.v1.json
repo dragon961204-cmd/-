@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "maveti",
+  "name_zh": "麥維提",
+  "name_en": "Maveti",
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-45f89a1d3de6.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-45f89a1d3de6.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第518章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0518.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第845章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0845.html"
+    },
+    {
+      "label": "詭祕·527",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0527.html"
+    },
+    {
+      "label": "詭祕·530",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0530.html"
+    },
+    {
+      "label": "詭祕·521",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0521.html"
+    },
+    {
+      "label": "詭祕·545",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0545.html"
+    },
+    {
+      "label": "詭祕·507",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0507.html"
+    },
+    {
+      "label": "詭祕·526",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0526.html"
+    },
+    {
+      "label": "詭祕·520",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0520.html"
+    },
+    {
+      "label": "詭祕·531",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0531.html"
+    },
+    {
+      "label": "詭祕·534",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0534.html"
+    },
+    {
+      "label": "詭祕·528",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0528.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "麥維提｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "血之上將的二副",
+        "prose": "麥維提外號鋼鐵，是塞尼奧爾旗下的活屍非凡者。他與同夥在班西港一帶伏擊達尼茲。達尼茲認為他們是為寶藏而來，也因此想找機會反擊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-45f89a1d3de6.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 507,
+          "end": 526
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第518章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0518.html"
+          },
+          {
+            "label": "詭祕·521",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0521.html"
+          },
+          {
+            "label": "詭祕·507",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0507.html"
+          },
+          {
+            "label": "詭祕·526",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0526.html"
+          },
+          {
+            "label": "詭祕·520",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0520.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "敗在格爾曼手下",
+        "prose": "麥維提到拜亞姆後與亨特利等人監視香樹大道，最後被克萊恩以格爾曼身分擊殺。代罰者帶走他的遺體；蠕動的飢餓則放牧了他的靈魂，讓克萊恩能使用活屍的部分能力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-45f89a1d3de6.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 528,
+          "end": 568
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·530",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0530.html"
+          },
+          {
+            "label": "詭祕·545",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0545.html"
+          },
+          {
+            "label": "詭祕·531",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0531.html"
+          },
+          {
+            "label": "詭祕·534",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0534.html"
+          },
+          {
+            "label": "詭祕·528",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0528.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lady-moon-nightwalk",
+  "name_zh": "月女士",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-ee732376ed36.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-ee732376ed36.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第168章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0168.html"
+    },
+    {
+      "label": "《宿命》第5卷·第763章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0763.html"
+    },
+    {
+      "label": "宿命·205",
+      "url": "https://lotmfanwiki.com/chapter/coi-0205.html"
+    },
+    {
+      "label": "宿命·223",
+      "url": "https://lotmfanwiki.com/chapter/coi-0223.html"
+    },
+    {
+      "label": "宿命·490",
+      "url": "https://lotmfanwiki.com/chapter/coi-0490.html"
+    },
+    {
+      "label": "宿命·602",
+      "url": "https://lotmfanwiki.com/chapter/coi-0602.html"
+    },
+    {
+      "label": "宿命·170",
+      "url": "https://lotmfanwiki.com/chapter/coi-0170.html"
+    },
+    {
+      "label": "宿命·206",
+      "url": "https://lotmfanwiki.com/chapter/coi-0206.html"
+    },
+    {
+      "label": "宿命·371",
+      "url": "https://lotmfanwiki.com/chapter/coi-0371.html"
+    },
+    {
+      "label": "宿命·195",
+      "url": "https://lotmfanwiki.com/chapter/coi-0195.html"
+    },
+    {
+      "label": "宿命·207",
+      "url": "https://lotmfanwiki.com/chapter/coi-0207.html"
+    },
+    {
+      "label": "宿命·231",
+      "url": "https://lotmfanwiki.com/chapter/coi-0231.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 149
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "月女士｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以恩賜支持毒刺幫",
+        "prose": "月女士是夜遊會的半神，信奉偉大母親。她從幕後支持市場區毒刺幫，原打算在于格當選後再給羅傑恩賜，讓他成為播種者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ee732376ed36.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 195,
+          "end": 233
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·205",
+            "url": "https://lotmfanwiki.com/chapter/coi-0205.html"
+          },
+          {
+            "label": "宿命·223",
+            "url": "https://lotmfanwiki.com/chapter/coi-0223.html"
+          },
+          {
+            "label": "宿命·206",
+            "url": "https://lotmfanwiki.com/chapter/coi-0206.html"
+          },
+          {
+            "label": "宿命·195",
+            "url": "https://lotmfanwiki.com/chapter/coi-0195.html"
+          },
+          {
+            "label": "宿命·207",
+            "url": "https://lotmfanwiki.com/chapter/coi-0207.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以彼岸世界掩護至福會",
+        "prose": "暗影之樹災難中，她以彼岸世界隔開遭巨樹佔據的街道，協助至福會阻截外援。教會和第八局投入更多人手後，她借神胎與異常環境脫身。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ee732376ed36.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 254,
+          "end": 261
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "在第四紀特里爾失常",
+        "prose": "她後來深入第四紀特里爾，遭到觀眾途徑相關的瘟疫風暴影響，陷入瘋狂。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ee732376ed36.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 471,
+          "end": 484
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

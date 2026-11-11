@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "batner-conte",
+  "name_zh": "巴特納·孔泰",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2c0af98442fb.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2c0af98442fb.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第516章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0516.html"
+    },
+    {
+      "label": "《宿命》第4卷·第600章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0600.html"
+    },
+    {
+      "label": "宿命·525",
+      "url": "https://lotmfanwiki.com/chapter/coi-0525.html"
+    },
+    {
+      "label": "宿命·551",
+      "url": "https://lotmfanwiki.com/chapter/coi-0551.html"
+    },
+    {
+      "label": "宿命·553",
+      "url": "https://lotmfanwiki.com/chapter/coi-0553.html"
+    },
+    {
+      "label": "宿命·517",
+      "url": "https://lotmfanwiki.com/chapter/coi-0517.html"
+    },
+    {
+      "label": "宿命·520",
+      "url": "https://lotmfanwiki.com/chapter/coi-0520.html"
+    },
+    {
+      "label": "宿命·521",
+      "url": "https://lotmfanwiki.com/chapter/coi-0521.html"
+    },
+    {
+      "label": "宿命·324",
+      "url": "https://lotmfanwiki.com/chapter/coi-0324.html"
+    },
+    {
+      "label": "宿命·361",
+      "url": "https://lotmfanwiki.com/chapter/coi-0361.html"
+    },
+    {
+      "label": "宿命·514",
+      "url": "https://lotmfanwiki.com/chapter/coi-0514.html"
+    },
+    {
+      "label": "宿命·526",
+      "url": "https://lotmfanwiki.com/chapter/coi-0526.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "巴特納·孔泰｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從船上二副成為冒險家",
+        "prose": "巴特納自稱曾做過二副，後轉行冒險。他在法林港酒吧和盧米安聊起迷霧海的海盜，後又與他檢查被毀的醫院，提供魔鬼巫師布爾曼的消息。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c0af98442fb.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 514,
+          "end": 532
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第516章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0516.html"
+          },
+          {
+            "label": "宿命·525",
+            "url": "https://lotmfanwiki.com/chapter/coi-0525.html"
+          },
+          {
+            "label": "宿命·517",
+            "url": "https://lotmfanwiki.com/chapter/coi-0517.html"
+          },
+          {
+            "label": "宿命·520",
+            "url": "https://lotmfanwiki.com/chapter/coi-0520.html"
+          },
+          {
+            "label": "宿命·521",
+            "url": "https://lotmfanwiki.com/chapter/coi-0521.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "桑塔港遇綁與返航",
+        "prose": "巴特納與新結識的情人諾爾菲到桑塔港，被拉托關在地下室，用來引導盧米安租船。獲釋後，兩人替盧米安另租一艘帆船。事情結束後，他在碼頭與諾爾菲道別，回到法林港。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c0af98442fb.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 551,
+          "end": 600
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第600章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0600.html"
+          },
+          {
+            "label": "宿命·551",
+            "url": "https://lotmfanwiki.com/chapter/coi-0551.html"
+          },
+          {
+            "label": "宿命·553",
+            "url": "https://lotmfanwiki.com/chapter/coi-0553.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

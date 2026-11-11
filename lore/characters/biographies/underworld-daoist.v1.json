@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.1",
+  "character_id": "underworld-daoist",
+  "name_zh": "冥道人",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-629185ca5441.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-629185ca5441.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第373章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0373.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1159章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1159.html"
+    },
+    {
+      "label": "宿命·764",
+      "url": "https://lotmfanwiki.com/chapter/coi-0764.html"
+    },
+    {
+      "label": "宿命·806",
+      "url": "https://lotmfanwiki.com/chapter/coi-0806.html"
+    },
+    {
+      "label": "宿命·1091",
+      "url": "https://lotmfanwiki.com/chapter/coi-1091.html"
+    },
+    {
+      "label": "宿命·1152",
+      "url": "https://lotmfanwiki.com/chapter/coi-1152.html"
+    },
+    {
+      "label": "詭祕·934",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0934.html"
+    },
+    {
+      "label": "宿命·356",
+      "url": "https://lotmfanwiki.com/chapter/coi-0356.html"
+    },
+    {
+      "label": "宿命·726",
+      "url": "https://lotmfanwiki.com/chapter/coi-0726.html"
+    },
+    {
+      "label": "宿命·730",
+      "url": "https://lotmfanwiki.com/chapter/coi-0730.html"
+    },
+    {
+      "label": "宿命·374",
+      "url": "https://lotmfanwiki.com/chapter/coi-0374.html"
+    },
+    {
+      "label": "宿命·676",
+      "url": "https://lotmfanwiki.com/chapter/coi-0676.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 174
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "冥道人｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "捨身入河的掌教",
+        "prose": "冥道人是蒿里一脈的掌教。盔甲幽影最先提及他為鎮壓血皇帝而進入河中；其意識仍能施加影響，但他本人已無法走出永暗之河。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-629185ca5441.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 373,
+          "end": 374
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第373章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0373.html"
+          },
+          {
+            "label": "宿命·374",
+            "url": "https://lotmfanwiki.com/chapter/coi-0374.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "夢節的恩賜與掌心烙印",
+        "prose": "盧米安推斷，阿芒迪娜透過古墓得到的力量來自冥道人。冥道人留下的死亡烙印也封住盧米安右掌上的圖鐸殘餘氣息，曾幫他抵擋侵蝕並進入冥界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-629185ca5441.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 676,
+          "end": 860
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·764",
+            "url": "https://lotmfanwiki.com/chapter/coi-0764.html"
+          },
+          {
+            "label": "宿命·806",
+            "url": "https://lotmfanwiki.com/chapter/coi-0806.html"
+          },
+          {
+            "label": "宿命·726",
+            "url": "https://lotmfanwiki.com/chapter/coi-0726.html"
+          },
+          {
+            "label": "宿命·730",
+            "url": "https://lotmfanwiki.com/chapter/coi-0730.html"
+          },
+          {
+            "label": "宿命·676",
+            "url": "https://lotmfanwiki.com/chapter/coi-0676.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "封印遭血皇帝氣息衝破",
+        "prose": "掌心的封印內留有恩賜，讓盧米安能短暫使用戰爭主教的力量。血皇帝的殘餘氣息後來不斷膨脹，最終衝破這道封印。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-629185ca5441.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1035,
+          "end": 1108
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1091",
+            "url": "https://lotmfanwiki.com/chapter/coi-1091.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

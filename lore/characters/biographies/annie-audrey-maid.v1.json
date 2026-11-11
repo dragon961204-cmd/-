@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "annie-audrey-maid",
+  "name_zh": "安妮（奧黛麗的女僕）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0f59587e3b9b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0f59587e3b9b.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第8章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0008.html"
+    },
+    {
+      "label": "《詭祕》第8卷·第1363章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1363.html"
+    },
+    {
+      "label": "詭祕·130",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0130.html"
+    },
+    {
+      "label": "詭祕·557",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0557.html"
+    },
+    {
+      "label": "詭祕·613",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0613.html"
+    },
+    {
+      "label": "詭祕·41",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0041.html"
+    },
+    {
+      "label": "詭祕·152",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0152.html"
+    },
+    {
+      "label": "詭祕·293",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0293.html"
+    },
+    {
+      "label": "詭祕·383",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0383.html"
+    },
+    {
+      "label": "詭祕·449",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0449.html"
+    },
+    {
+      "label": "詭祕·107",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0107.html"
+    },
+    {
+      "label": "詭祕·859",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0859.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 126
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "安妮（奧黛麗的女僕）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "貼身照料與代為聯絡",
+        "prose": "安妮替奧黛麗接收家書、電報及社交邀請，也代她準備下午茶的請柬。外出時，她常陪同奧黛麗和蘇茜；奧黛麗也曾藉蘇茜把她引開，取得短暫獨處的機會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0f59587e3b9b.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 41,
+          "end": 449
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·130",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0130.html"
+          },
+          {
+            "label": "詭祕·41",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0041.html"
+          },
+          {
+            "label": "詭祕·152",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0152.html"
+          },
+          {
+            "label": "詭祕·293",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0293.html"
+          },
+          {
+            "label": "詭祕·383",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0383.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "隨行於慈善與戰時活動",
+        "prose": "安妮後來隨奧黛麗出入助學基金和慈善晚會，也把從病患口中聽到的鬼影傳聞告訴她。她所見多是奧黛麗的日常社交和慈善活動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0f59587e3b9b.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 859,
+          "end": 1097
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·859",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0859.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

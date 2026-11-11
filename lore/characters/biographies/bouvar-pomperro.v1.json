@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "bouvar-pomperro",
+  "name_zh": "布瓦爾·蓬派羅",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c0c139b31d3a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c0c139b31d3a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第332章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0332.html"
+    },
+    {
+      "label": "《宿命》第3卷·第480章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0480.html"
+    },
+    {
+      "label": "宿命·446",
+      "url": "https://lotmfanwiki.com/chapter/coi-0446.html"
+    },
+    {
+      "label": "宿命·395",
+      "url": "https://lotmfanwiki.com/chapter/coi-0395.html"
+    },
+    {
+      "label": "宿命·441",
+      "url": "https://lotmfanwiki.com/chapter/coi-0441.html"
+    },
+    {
+      "label": "宿命·443",
+      "url": "https://lotmfanwiki.com/chapter/coi-0443.html"
+    },
+    {
+      "label": "宿命·444",
+      "url": "https://lotmfanwiki.com/chapter/coi-0444.html"
+    },
+    {
+      "label": "宿命·445",
+      "url": "https://lotmfanwiki.com/chapter/coi-0445.html"
+    },
+    {
+      "label": "宿命·447",
+      "url": "https://lotmfanwiki.com/chapter/coi-0447.html"
+    },
+    {
+      "label": "宿命·453",
+      "url": "https://lotmfanwiki.com/chapter/coi-0453.html"
+    },
+    {
+      "label": "宿命·448",
+      "url": "https://lotmfanwiki.com/chapter/coi-0448.html"
+    },
+    {
+      "label": "宿命·442",
+      "url": "https://lotmfanwiki.com/chapter/coi-0442.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 148
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "布瓦爾·蓬派羅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "罪人的聯絡員",
+        "prose": "布瓦爾負責替罪人組織聯繫信徒和經營相關產業。紀堯姆指認他是自己的聯絡人。布瓦爾在露臺街遭伏擊，雖然以影子替換等能力逃跑，最後仍踩中陷阱，被盧米安變成小公牛。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c0c139b31d3a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 332,
+          "end": 444
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第332章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0332.html"
+          },
+          {
+            "label": "宿命·395",
+            "url": "https://lotmfanwiki.com/chapter/coi-0395.html"
+          },
+          {
+            "label": "宿命·441",
+            "url": "https://lotmfanwiki.com/chapter/coi-0441.html"
+          },
+          {
+            "label": "宿命·443",
+            "url": "https://lotmfanwiki.com/chapter/coi-0443.html"
+          },
+          {
+            "label": "宿命·444",
+            "url": "https://lotmfanwiki.com/chapter/coi-0444.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "屍體預言受到反噬",
+        "prose": "簡娜用黑焰殺死布瓦爾，眾人再利用屍體預言瓦贊的去向。預言指向旅舍的房間，屍體隨即發生污染與異變；魔術師女士後來指出其中有近似學徒途徑的污染。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c0c139b31d3a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 446,
+          "end": 453
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·446",
+            "url": "https://lotmfanwiki.com/chapter/coi-0446.html"
+          },
+          {
+            "label": "宿命·447",
+            "url": "https://lotmfanwiki.com/chapter/coi-0447.html"
+          },
+          {
+            "label": "宿命·453",
+            "url": "https://lotmfanwiki.com/chapter/coi-0453.html"
+          },
+          {
+            "label": "宿命·448",
+            "url": "https://lotmfanwiki.com/chapter/coi-0448.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

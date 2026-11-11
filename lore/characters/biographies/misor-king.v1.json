@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "misor-king",
+  "name_zh": "米索爾·金",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-baa6b38848f4.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-baa6b38848f4.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第580章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0580.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第845章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0845.html"
+    },
+    {
+      "label": "詭祕·599",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0599.html"
+    },
+    {
+      "label": "詭祕·584",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0584.html"
+    },
+    {
+      "label": "詭祕·598",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0598.html"
+    },
+    {
+      "label": "詭祕·581",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0581.html"
+    },
+    {
+      "label": "詭祕·602",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0602.html"
+    },
+    {
+      "label": "詭祕·562",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0562.html"
+    },
+    {
+      "label": "詭祕·597",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0597.html"
+    },
+    {
+      "label": "詭祕·600",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0600.html"
+    },
+    {
+      "label": "詭祕·601",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0601.html"
+    },
+    {
+      "label": "詭祕·603",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0603.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 123
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "米索爾·金｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從齊林格斯麾下轉到黑死號",
+        "prose": "米索爾外號巧言者，原是齊林格斯手下的船長，後被特雷茜收服，成為黑死號三副。他是序列6腐化男爵，也曾親自帶冒充伊蓮的克萊恩上船。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-baa6b38848f4.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 580,
+          "end": 584
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第580章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0580.html"
+          },
+          {
+            "label": "詭祕·584",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0584.html"
+          },
+          {
+            "label": "詭祕·581",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0581.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "調查假伊蓮時遇害",
+        "prose": "特雷茜派米索爾回拜亞姆追查冒名者。他在酒吧找奧茲爾打聽達尼茲的消息，最後被格爾曼獵殺。其靈體與非凡特性由蠕動的飢餓收納。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-baa6b38848f4.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 584,
+          "end": 602
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·599",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0599.html"
+          },
+          {
+            "label": "詭祕·584",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0584.html"
+          },
+          {
+            "label": "詭祕·598",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0598.html"
+          },
+          {
+            "label": "詭祕·602",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0602.html"
+          },
+          {
+            "label": "詭祕·597",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0597.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

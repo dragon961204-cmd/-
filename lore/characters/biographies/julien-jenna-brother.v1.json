@@ -1,0 +1,129 @@
+{
+  "schema_version": "1.1",
+  "character_id": "julien-jenna-brother",
+  "name_zh": "朱利安（簡娜之兄）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-d8ee10974a9e.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-d8ee10974a9e.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第8卷·第1179章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1179.html"
+    },
+    {
+      "label": "宿命·1076",
+      "url": "https://lotmfanwiki.com/chapter/coi-1076.html"
+    },
+    {
+      "label": "宿命·241",
+      "url": "https://lotmfanwiki.com/chapter/coi-0241.html"
+    },
+    {
+      "label": "宿命·264",
+      "url": "https://lotmfanwiki.com/chapter/coi-0264.html"
+    },
+    {
+      "label": "宿命·239",
+      "url": "https://lotmfanwiki.com/chapter/coi-0239.html"
+    },
+    {
+      "label": "宿命·240",
+      "url": "https://lotmfanwiki.com/chapter/coi-0240.html"
+    },
+    {
+      "label": "宿命·245",
+      "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+    },
+    {
+      "label": "宿命·247",
+      "url": "https://lotmfanwiki.com/chapter/coi-0247.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 118
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "朱利安（簡娜之兄）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "母親死後失去原有生活",
+        "prose": "朱利安是艾洛蒂的兒子，和妹妹簡娜一同照顧住院的母親。艾洛蒂在醫院墜樓身亡，兄妹把她的骨灰送進地下墓穴。朱利安此後陷入自責，後來又遭工廠解雇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d8ee10974a9e.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 239,
+          "end": 258
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·241",
+            "url": "https://lotmfanwiki.com/chapter/coi-0241.html"
+          },
+          {
+            "label": "宿命·239",
+            "url": "https://lotmfanwiki.com/chapter/coi-0239.html"
+          },
+          {
+            "label": "宿命·240",
+            "url": "https://lotmfanwiki.com/chapter/coi-0240.html"
+          },
+          {
+            "label": "宿命·245",
+            "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+          },
+          {
+            "label": "宿命·247",
+            "url": "https://lotmfanwiki.com/chapter/coi-0247.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "離開特里爾再重新成家",
+        "prose": "朱利安前往勒塞爾港交流學習，回到特里爾後由簡娜陪同到工廠拜訪貝拉。他後來與貝拉結婚，定居蘇希特。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d8ee10974a9e.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 264,
+          "end": 1077
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1076",
+            "url": "https://lotmfanwiki.com/chapter/coi-1076.html"
+          },
+          {
+            "label": "宿命·264",
+            "url": "https://lotmfanwiki.com/chapter/coi-0264.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "同一來源頁另有第一部薩默爾家的女僕，兩者生平分開。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

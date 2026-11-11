@@ -5,11 +5,11 @@
   "purpose": "278 verified source-page URLs vs named character IDs; suggestion-only, pending human review",
   "counts": {
     "exact_name_candidate": 41,
-    "manual_alias_candidate": 19,
+    "manual_alias_candidate": 24,
     "partial_name_candidate": 10,
     "ambiguous": 0,
-    "unmatched": 97,
-    "new_character_candidate_created": 111
+    "unmatched": 57,
+    "new_character_candidate_created": 146
   },
   "identity_confirmation_count": 0,
   "entries": [
@@ -1008,11 +1008,13 @@
       "first_appearance_label": "宿命·417",
       "source_chapters_count": "68",
       "source_facts_count": "97",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "clarice"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 68,
@@ -1919,11 +1921,13 @@
       "first_appearance_label": "诡秘·633",
       "source_chapters_count": "32",
       "source_facts_count": "44",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "michel-garrigou"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "同一來源頁另含米歇爾·德伊特及米歇爾太太，此檔只指科爾杜副本堂神甫。"
     },
     {
       "source_page_number": 129,
@@ -1947,11 +1951,13 @@
       "first_appearance_label": "宿命·516",
       "source_chapters_count": "26",
       "source_facts_count": "34",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "batner-conte"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 131,
@@ -2078,11 +2084,13 @@
       "first_appearance_label": "诡秘·1270",
       "source_chapters_count": "23",
       "source_facts_count": "38",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "circle-of-inevitability"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 140,
@@ -2121,11 +2129,13 @@
       "first_appearance_label": "宿命·400",
       "source_chapters_count": "28",
       "source_facts_count": "37",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "blanche-sauron"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 143,
@@ -2291,11 +2301,13 @@
       "first_appearance_label": "诡秘·215",
       "source_chapters_count": "32",
       "source_facts_count": "44",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "julien-jenna-brother"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "同一來源頁另有第一部薩默爾家的女僕，兩者生平分開。"
     },
     {
       "source_page_number": 155,
@@ -2304,11 +2316,13 @@
       "first_appearance_label": "诡秘·11",
       "source_chapters_count": "17",
       "source_facts_count": "26",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "byers-berdan"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "來源頁也列出烏托邦的同名警察，這裡只寫貝爾丹事件，兩段身分關係待核。"
     },
     {
       "source_page_number": 156,
@@ -2450,11 +2464,13 @@
       "first_appearance_label": "宿命·377",
       "source_chapters_count": "25",
       "source_facts_count": "43",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "i-have-a-friend"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 166,
@@ -2579,11 +2595,13 @@
       "first_appearance_label": "宿命·604",
       "source_chapters_count": "20",
       "source_facts_count": "38",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "father-montserrat"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 175,
@@ -2635,11 +2653,13 @@
       "first_appearance_label": "宿命·318",
       "source_chapters_count": "37",
       "source_facts_count": "32",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "gidas"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 179,
@@ -2661,11 +2681,13 @@
       "first_appearance_label": "宿命·373",
       "source_chapters_count": "56",
       "source_facts_count": "45",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "underworld-daoist"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 181,
@@ -2734,11 +2756,13 @@
       "first_appearance_label": "宿命·8",
       "source_chapters_count": "29",
       "source_facts_count": "36",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "pons-benet"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 186,
@@ -2923,11 +2947,13 @@
       "first_appearance_label": "诡秘·753",
       "source_chapters_count": "20",
       "source_facts_count": "27",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "bishop-elektra"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 199,
@@ -2949,11 +2975,13 @@
       "first_appearance_label": "宿命·662",
       "source_chapters_count": "21",
       "source_facts_count": "38",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "robert-tizamo"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 201,
@@ -2962,11 +2990,13 @@
       "first_appearance_label": "宿命·129",
       "source_chapters_count": "15",
       "source_facts_count": "26",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "safali"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 202,
@@ -2990,11 +3020,13 @@
       "first_appearance_label": "诡秘·562",
       "source_chapters_count": "22",
       "source_facts_count": "34",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "elaine"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 204,
@@ -3003,11 +3035,13 @@
       "first_appearance_label": "诡秘·66",
       "source_chapters_count": "34",
       "source_facts_count": "28",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "gandalf"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 205,
@@ -3016,11 +3050,13 @@
       "first_appearance_label": "宿命·7",
       "source_chapters_count": "32",
       "source_facts_count": "31",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "ava-lizier"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 206,
@@ -3029,11 +3065,13 @@
       "first_appearance_label": "宿命·123",
       "source_chapters_count": "34",
       "source_facts_count": "41",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "montsouris-ghost"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 207,
@@ -3057,11 +3095,13 @@
       "first_appearance_label": "宿命·332",
       "source_chapters_count": "20",
       "source_facts_count": "28",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "bouvar-pomperro"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 209,
@@ -3083,11 +3123,13 @@
       "first_appearance_label": "诡秘·518",
       "source_chapters_count": "33",
       "source_facts_count": "34",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "maveti"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 211,
@@ -3096,11 +3138,13 @@
       "first_appearance_label": "诡秘·1272",
       "source_chapters_count": "29",
       "source_facts_count": "30",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "primordial-god-almighty"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 212,
@@ -3135,11 +3179,13 @@
       "first_appearance_label": "诡秘·638",
       "source_chapters_count": "24",
       "source_facts_count": "28",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "heath-doyle"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 215,
@@ -3148,11 +3194,13 @@
       "first_appearance_label": "诡秘·254",
       "source_chapters_count": "28",
       "source_facts_count": "27",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "hibbert-hall"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 216,
@@ -3161,11 +3209,13 @@
       "first_appearance_label": "诡秘·56",
       "source_chapters_count": "39",
       "source_facts_count": "34",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "nast-solomon"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 217,
@@ -3174,11 +3224,13 @@
       "first_appearance_label": "诡秘·458",
       "source_chapters_count": "16",
       "source_facts_count": "24",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "casimi-odora"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 218,
@@ -3187,11 +3239,13 @@
       "first_appearance_label": "宿命·349",
       "source_chapters_count": "29",
       "source_facts_count": "35",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "chrismona"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 219,
@@ -3200,11 +3254,13 @@
       "first_appearance_label": "诡秘·8",
       "source_chapters_count": "32",
       "source_facts_count": "20",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "annie-audrey-maid"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 220,
@@ -3213,11 +3269,13 @@
       "first_appearance_label": "宿命·642",
       "source_chapters_count": "26",
       "source_facts_count": "36",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "reyaza"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 221,
@@ -3239,11 +3297,13 @@
       "first_appearance_label": "诡秘·820",
       "source_chapters_count": "18",
       "source_facts_count": "20",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "shermane"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 223,
@@ -3252,11 +3312,13 @@
       "first_appearance_label": "诡秘·640",
       "source_chapters_count": "26",
       "source_facts_count": "24",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "nina-future"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 224,
@@ -3265,11 +3327,13 @@
       "first_appearance_label": "宿命·341",
       "source_chapters_count": "26",
       "source_facts_count": "29",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "vermonda-sauron"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 225,
@@ -3291,11 +3355,13 @@
       "first_appearance_label": "诡秘·580",
       "source_chapters_count": "18",
       "source_facts_count": "21",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "misor-king"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 227,
@@ -3343,11 +3409,13 @@
       "first_appearance_label": "诡秘·753",
       "source_chapters_count": "21",
       "source_facts_count": "22",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "liana-macht"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 231,
@@ -3356,11 +3424,13 @@
       "first_appearance_label": "宿命·712",
       "source_chapters_count": "19",
       "source_facts_count": "25",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "jebus"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 232,
@@ -3369,11 +3439,13 @@
       "first_appearance_label": "诡秘·238",
       "source_chapters_count": "44",
       "source_facts_count": "30",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "ankewelt"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 233,
@@ -3434,11 +3506,13 @@
       "first_appearance_label": "诡秘·164",
       "source_chapters_count": "27",
       "source_facts_count": "28",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "salist-morora"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "第一部老尼爾往事中另有同名人物，此檔只寫摩羅拉執法者。"
     },
     {
       "source_page_number": 238,
@@ -3447,11 +3521,13 @@
       "first_appearance_label": "宿命·170",
       "source_chapters_count": "33",
       "source_facts_count": "31",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "lady-moon-nightwalk"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 239,
@@ -3460,11 +3536,13 @@
       "first_appearance_label": "诡秘·549",
       "source_chapters_count": "19",
       "source_facts_count": "28",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "cohinem"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 240,
@@ -3590,11 +3668,13 @@
       "first_appearance_label": "诡秘·225",
       "source_chapters_count": "19",
       "source_facts_count": "21",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "new_character_candidate_created",
+      "candidate_character_ids": [
+        "kaspars-kalinin"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
-      "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
+      "review_notes": "已建立人物檔與生平初稿，待使用者核對。"
     },
     {
       "source_page_number": 250,

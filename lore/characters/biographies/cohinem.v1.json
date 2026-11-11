@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "cohinem",
+  "name_zh": "高希納姆",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0490e2591c4f.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0490e2591c4f.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第549章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0549.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1311章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1311.html"
+    },
+    {
+      "label": "詭祕·1186",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1186.html"
+    },
+    {
+      "label": "詭祕·568",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+    },
+    {
+      "label": "詭祕·570",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0570.html"
+    },
+    {
+      "label": "詭祕·609",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0609.html"
+    },
+    {
+      "label": "詭祕·755",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0755.html"
+    },
+    {
+      "label": "詭祕·593",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0593.html"
+    },
+    {
+      "label": "詭祕·566",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0566.html"
+    },
+    {
+      "label": "詭祕·704",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0704.html"
+    },
+    {
+      "label": "詭祕·1066",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1066.html"
+    },
+    {
+      "label": "詭祕·1067",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 156
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "高希納姆｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "精靈王后與天災遺物",
+        "prose": "高希納姆是精靈王的附屬神，也是精靈一族的王后，稱號天災女王。克萊恩從刻有她名字的金杯與精靈遺跡追查她，後來得知卡維圖瓦借她留下的部分特性成為半神，其餘仍在天災之書裡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0490e2591c4f.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 549,
+          "end": 704
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第549章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0549.html"
+          },
+          {
+            "label": "詭祕·568",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+          },
+          {
+            "label": "詭祕·570",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0570.html"
+          },
+          {
+            "label": "詭祕·609",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0609.html"
+          },
+          {
+            "label": "詭祕·593",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0593.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "珊瑚宮殿中的託付",
+        "prose": "高希納姆的身影後來出現在珊瑚宮殿。她與阿爾傑接觸，將一件與天災之書有關的事物託付給他，請他將其送往西大陸。到第一部第七卷，阿爾傑仍未完成這項託付。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0490e2591c4f.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1066,
+          "end": 1311
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第7卷·第1311章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1311.html"
+          },
+          {
+            "label": "詭祕·1186",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1186.html"
+          },
+          {
+            "label": "詭祕·1066",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1066.html"
+          },
+          {
+            "label": "詭祕·1067",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

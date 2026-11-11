@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.1",
+  "character_id": "gidas",
+  "name_zh": "吉達斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-998967626e28.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-998967626e28.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第318章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0318.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1160章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1160.html"
+    },
+    {
+      "label": "宿命·1059",
+      "url": "https://lotmfanwiki.com/chapter/coi-1059.html"
+    },
+    {
+      "label": "宿命·711",
+      "url": "https://lotmfanwiki.com/chapter/coi-0711.html"
+    },
+    {
+      "label": "宿命·1035",
+      "url": "https://lotmfanwiki.com/chapter/coi-1035.html"
+    },
+    {
+      "label": "宿命·1102",
+      "url": "https://lotmfanwiki.com/chapter/coi-1102.html"
+    },
+    {
+      "label": "宿命·1123",
+      "url": "https://lotmfanwiki.com/chapter/coi-1123.html"
+    },
+    {
+      "label": "宿命·320",
+      "url": "https://lotmfanwiki.com/chapter/coi-0320.html"
+    },
+    {
+      "label": "宿命·350",
+      "url": "https://lotmfanwiki.com/chapter/coi-0350.html"
+    },
+    {
+      "label": "宿命·767",
+      "url": "https://lotmfanwiki.com/chapter/coi-0767.html"
+    },
+    {
+      "label": "宿命·656",
+      "url": "https://lotmfanwiki.com/chapter/coi-0656.html"
+    },
+    {
+      "label": "宿命·665",
+      "url": "https://lotmfanwiki.com/chapter/coi-0665.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 163
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "吉達斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "與脹腫斷手立約",
+        "prose": "吉達斯起初以靈界斷手的模樣出現。他讓盧米安借用靈界穿梭，條件是盧米安必須替他找回身體；契約用無法取得神性作為違約代價。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-998967626e28.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 318,
+          "end": 320
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第318章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0318.html"
+          },
+          {
+            "label": "宿命·320",
+            "url": "https://lotmfanwiki.com/chapter/coi-0320.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在摩羅拉重組身體",
+        "prose": "盧米安在摩羅拉完成找回身體的約定。吉達斯遭朱莉和瓦納克攻擊後嘗試重組，卻受到0-01的力量限制，一度成為它的傀儡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-998967626e28.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 799,
+          "end": 843
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "雙生子身分揭曉",
+        "prose": "之後的線索揭示，吉達斯是偉大母親的雙生子之一、歐彌貝拉之弟。他最後被盧米安納入新任紅祭司軍團。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-998967626e28.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1059,
+          "end": 1151
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1059",
+            "url": "https://lotmfanwiki.com/chapter/coi-1059.html"
+          },
+          {
+            "label": "宿命·1102",
+            "url": "https://lotmfanwiki.com/chapter/coi-1102.html"
+          },
+          {
+            "label": "宿命·1123",
+            "url": "https://lotmfanwiki.com/chapter/coi-1123.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

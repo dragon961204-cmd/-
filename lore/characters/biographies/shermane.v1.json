@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "shermane",
+  "name_zh": "雪曼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2a3238772e3c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2a3238772e3c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第820章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0820.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1314章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1314.html"
+    },
+    {
+      "label": "詭祕·200",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0200.html"
+    },
+    {
+      "label": "詭祕·1019",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1019.html"
+    },
+    {
+      "label": "詭祕·1141",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1141.html"
+    },
+    {
+      "label": "詭祕·1347",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1347.html"
+    },
+    {
+      "label": "詭祕·994",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0994.html"
+    },
+    {
+      "label": "詭祕·1018",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1018.html"
+    },
+    {
+      "label": "詭祕·1022",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1022.html"
+    },
+    {
+      "label": "詭祕·1020",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1020.html"
+    },
+    {
+      "label": "詭祕·999",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0999.html"
+    },
+    {
+      "label": "詭祕·1016",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1016.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 158
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "雪曼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從休的線人到魔女雪曼",
+        "prose": "雪曼最早以謝爾曼之名活動，是休的朋友與線人，一直認為自己本應是女性。她接受特莉絲交付的任務、服食魔藥成為魔女，之後改名雪曼。休認出她時，她請休別打擾自己剛開始的新生活。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2a3238772e3c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 820,
+          "end": 1018
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第4卷·第820章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0820.html"
+          },
+          {
+            "label": "詭祕·994",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0994.html"
+          },
+          {
+            "label": "詭祕·1018",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1018.html"
+          },
+          {
+            "label": "詭祕·999",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0999.html"
+          },
+          {
+            "label": "詭祕·1016",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1016.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "碼頭區的最後一面",
+        "prose": "雪曼與宮廷侍衛長斯特福德來往，並迅速懷孕。她追查斯特福德真正效忠誰時失控，最後死在休的槍下。雪曼死後留下的非凡特性與盒子融合，成為休所持有的封印物。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2a3238772e3c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1016,
+          "end": 1314
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第7卷·第1314章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1314.html"
+          },
+          {
+            "label": "詭祕·1019",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1019.html"
+          },
+          {
+            "label": "詭祕·1141",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1141.html"
+          },
+          {
+            "label": "詭祕·1018",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1018.html"
+          },
+          {
+            "label": "詭祕·1022",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1022.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

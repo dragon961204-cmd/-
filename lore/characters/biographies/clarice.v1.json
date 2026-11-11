@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.1",
+  "character_id": "clarice",
+  "name_zh": "克拉麗絲",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9e387ce01ea2.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9e387ce01ea2.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第417章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0417.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1146章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1146.html"
+    },
+    {
+      "label": "宿命·622",
+      "url": "https://lotmfanwiki.com/chapter/coi-0622.html"
+    },
+    {
+      "label": "宿命·753",
+      "url": "https://lotmfanwiki.com/chapter/coi-0753.html"
+    },
+    {
+      "label": "宿命·1130",
+      "url": "https://lotmfanwiki.com/chapter/coi-1130.html"
+    },
+    {
+      "label": "宿命·466",
+      "url": "https://lotmfanwiki.com/chapter/coi-0466.html"
+    },
+    {
+      "label": "宿命·739",
+      "url": "https://lotmfanwiki.com/chapter/coi-0739.html"
+    },
+    {
+      "label": "宿命·1094",
+      "url": "https://lotmfanwiki.com/chapter/coi-1094.html"
+    },
+    {
+      "label": "宿命·454",
+      "url": "https://lotmfanwiki.com/chapter/coi-0454.html"
+    },
+    {
+      "label": "宿命·719",
+      "url": "https://lotmfanwiki.com/chapter/coi-0719.html"
+    },
+    {
+      "label": "宿命·468",
+      "url": "https://lotmfanwiki.com/chapter/coi-0468.html"
+    },
+    {
+      "label": "宿命·497",
+      "url": "https://lotmfanwiki.com/chapter/coi-0497.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 190
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "克拉麗絲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黑之魔女接掌特里爾的教務",
+        "prose": "克拉麗絲是以顏色為稱號的不老魔女，也是布朗絲的老師。她自述來特里爾是為了管理教派與清理鏡中人。她讓芙蘭卡監視鐵血十字會，後來又透過鏡面聯絡，準備介入對鏡中人莫蘭的調查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e387ce01ea2.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 454,
+          "end": 719
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·622",
+            "url": "https://lotmfanwiki.com/chapter/coi-0622.html"
+          },
+          {
+            "label": "宿命·466",
+            "url": "https://lotmfanwiki.com/chapter/coi-0466.html"
+          },
+          {
+            "label": "宿命·454",
+            "url": "https://lotmfanwiki.com/chapter/coi-0454.html"
+          },
+          {
+            "label": "宿命·719",
+            "url": "https://lotmfanwiki.com/chapter/coi-0719.html"
+          },
+          {
+            "label": "宿命·468",
+            "url": "https://lotmfanwiki.com/chapter/coi-0468.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "獎賞與夢中的襲擊",
+        "prose": "芙蘭卡交出鏡中人的情報後，克拉麗絲以痛苦魔藥的材料獎賞她，並透露教派的高層架構。到了夢境都市，克拉麗絲的形象從鏡中襲向芙蘭卡，被盧米安斬碎。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e387ce01ea2.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 753,
+          "end": 896
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·753",
+            "url": "https://lotmfanwiki.com/chapter/coi-0753.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "現實中的決裂",
+        "prose": "夢境交鋒之後，兩人又在現實決裂。克拉麗絲遭舊日之盒轉移到冥界，死在那裡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e387ce01ea2.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1110,
+          "end": 1110
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "casimi-odora",
+  "name_zh": "卡西米·奧德拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c26a7871fa67.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c26a7871fa67.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第458章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0458.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1310章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1310.html"
+    },
+    {
+      "label": "詭祕·639",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+    },
+    {
+      "label": "詭祕·1238",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1238.html"
+    },
+    {
+      "label": "詭祕·797",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0797.html"
+    },
+    {
+      "label": "詭祕·539",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0539.html"
+    },
+    {
+      "label": "詭祕·459",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0459.html"
+    },
+    {
+      "label": "詭祕·802",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0802.html"
+    },
+    {
+      "label": "詭祕·803",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0803.html"
+    },
+    {
+      "label": "詭祕·949",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0949.html"
+    },
+    {
+      "label": "詭祕·950",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0950.html"
+    },
+    {
+      "label": "詭祕·969",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0969.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 147
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "卡西米·奧德拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "沉睡侯爵的代言者",
+        "prose": "卡西米是活了兩百多年的血族男爵，見過因蒂斯的羅塞爾時代，後來搬到魯恩。他替沉睡在黑鐵棺中的祖父尼拜斯出面，也曾親自帶埃姆林去見祖父。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c26a7871fa67.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 458,
+          "end": 459
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第458章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0458.html"
+          },
+          {
+            "label": "詭祕·459",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0459.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "傳達考驗與血族上層的指示",
+        "prose": "尼拜斯委託卡西米向年輕血族布置考驗，卡西米也提醒埃姆林，原始月亮信徒會獵殺血族來調配魔藥。埃姆林後來和血族高層有更多往來時，卡西米又替祖父傳話，並帶他去見奧爾默。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c26a7871fa67.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 539,
+          "end": 969
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·639",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+          },
+          {
+            "label": "詭祕·797",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0797.html"
+          },
+          {
+            "label": "詭祕·539",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0539.html"
+          },
+          {
+            "label": "詭祕·802",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0802.html"
+          },
+          {
+            "label": "詭祕·803",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0803.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.1",
+  "character_id": "montsouris-ghost",
+  "name_zh": "蒙蘇里鬼魂",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-4cc5ffe1c784.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-4cc5ffe1c784.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第120章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0120.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1117章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1117.html"
+    },
+    {
+      "label": "宿命·268",
+      "url": "https://lotmfanwiki.com/chapter/coi-0268.html"
+    },
+    {
+      "label": "宿命·123",
+      "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+    },
+    {
+      "label": "宿命·208",
+      "url": "https://lotmfanwiki.com/chapter/coi-0208.html"
+    },
+    {
+      "label": "宿命·125",
+      "url": "https://lotmfanwiki.com/chapter/coi-0125.html"
+    },
+    {
+      "label": "宿命·190",
+      "url": "https://lotmfanwiki.com/chapter/coi-0190.html"
+    },
+    {
+      "label": "宿命·126",
+      "url": "https://lotmfanwiki.com/chapter/coi-0126.html"
+    },
+    {
+      "label": "宿命·86",
+      "url": "https://lotmfanwiki.com/chapter/coi-0086.html"
+    },
+    {
+      "label": "宿命·91",
+      "url": "https://lotmfanwiki.com/chapter/coi-0091.html"
+    },
+    {
+      "label": "宿命·131",
+      "url": "https://lotmfanwiki.com/chapter/coi-0131.html"
+    },
+    {
+      "label": "宿命·229",
+      "url": "https://lotmfanwiki.com/chapter/coi-0229.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 129
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蒙蘇里鬼魂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "地底傳聞成為追殺",
+        "prose": "蒙蘇里鬼魂在特里爾地底出沒，弗拉芒及其家人就是受害者。盧米安遭它襲擊後，借墮落水銀抽離與它相遇的命運；暗影之樹事件裡，它又闖入異度空間，侵蝕了巨樹。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4cc5ffe1c784.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 123,
+          "end": 262
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·123",
+            "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+          },
+          {
+            "label": "宿命·208",
+            "url": "https://lotmfanwiki.com/chapter/coi-0208.html"
+          },
+          {
+            "label": "宿命·125",
+            "url": "https://lotmfanwiki.com/chapter/coi-0125.html"
+          },
+          {
+            "label": "宿命·190",
+            "url": "https://lotmfanwiki.com/chapter/coi-0190.html"
+          },
+          {
+            "label": "宿命·126",
+            "url": "https://lotmfanwiki.com/chapter/coi-0126.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "被第四日消融",
+        "prose": "鬼魂後來在第四紀特里爾再度出現，最終被0級封印物第四日消融。此前官方非凡者曾因地下環境危險，無法將它徹底清除。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4cc5ffe1c784.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1099,
+          "end": 1101
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "reyaza",
+  "name_zh": "雷亞薩",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c71242803afa.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c71242803afa.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第642章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0642.html"
+    },
+    {
+      "label": "《宿命》第4卷·第699章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+    },
+    {
+      "label": "宿命·685",
+      "url": "https://lotmfanwiki.com/chapter/coi-0685.html"
+    },
+    {
+      "label": "宿命·669",
+      "url": "https://lotmfanwiki.com/chapter/coi-0669.html"
+    },
+    {
+      "label": "宿命·693",
+      "url": "https://lotmfanwiki.com/chapter/coi-0693.html"
+    },
+    {
+      "label": "宿命·694",
+      "url": "https://lotmfanwiki.com/chapter/coi-0694.html"
+    },
+    {
+      "label": "宿命·651",
+      "url": "https://lotmfanwiki.com/chapter/coi-0651.html"
+    },
+    {
+      "label": "宿命·655",
+      "url": "https://lotmfanwiki.com/chapter/coi-0655.html"
+    },
+    {
+      "label": "宿命·662",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·644",
+      "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+    },
+    {
+      "label": "宿命·654",
+      "url": "https://lotmfanwiki.com/chapter/coi-0654.html"
+    },
+    {
+      "label": "宿命·671",
+      "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "雷亞薩｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "巡查隊副隊長重查舊案",
+        "prose": "雷亞薩曾帶加繆調查派洛斯港的連環殺人案，並多次救過他的命。他一度懷疑兇手就在巡查隊。盧米安帶來特瓦納科的頭顱後，雷亞薩從靈的層面確認身分，同意提供舊案資料。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c71242803afa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 642,
+          "end": 654
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第642章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0642.html"
+          },
+          {
+            "label": "宿命·651",
+            "url": "https://lotmfanwiki.com/chapter/coi-0651.html"
+          },
+          {
+            "label": "宿命·644",
+            "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+          },
+          {
+            "label": "宿命·654",
+            "url": "https://lotmfanwiki.com/chapter/coi-0654.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在黑色古墓前崩解",
+        "prose": "雷亞薩是死神途徑非凡者，也接受靈教團皇室派高層交辦的任務。他前往蒂扎莫鎮，夢節時出現在黑色古墓前，最終在當地崩解身亡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c71242803afa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 662,
+          "end": 699
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第699章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+          },
+          {
+            "label": "宿命·685",
+            "url": "https://lotmfanwiki.com/chapter/coi-0685.html"
+          },
+          {
+            "label": "宿命·669",
+            "url": "https://lotmfanwiki.com/chapter/coi-0669.html"
+          },
+          {
+            "label": "宿命·693",
+            "url": "https://lotmfanwiki.com/chapter/coi-0693.html"
+          },
+          {
+            "label": "宿命·694",
+            "url": "https://lotmfanwiki.com/chapter/coi-0694.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

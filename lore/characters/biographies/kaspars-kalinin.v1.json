@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "kaspars-kalinin",
+  "name_zh": "卡斯帕斯·坎立寧",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-16f0fb326d2e.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-16f0fb326d2e.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第225章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0225.html"
+    },
+    {
+      "label": "《詭祕》第2卷·第433章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0433.html"
+    },
+    {
+      "label": "詭祕·277",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0277.html"
+    },
+    {
+      "label": "詭祕·278",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0278.html"
+    },
+    {
+      "label": "詭祕·329",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0329.html"
+    },
+    {
+      "label": "詭祕·232",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0232.html"
+    },
+    {
+      "label": "詭祕·239",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0239.html"
+    },
+    {
+      "label": "詭祕·246",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0246.html"
+    },
+    {
+      "label": "詭祕·256",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0256.html"
+    },
+    {
+      "label": "詭祕·233",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0233.html"
+    },
+    {
+      "label": "詭祕·241",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0241.html"
+    },
+    {
+      "label": "詭祕·328",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0328.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 147
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "卡斯帕斯·坎立寧｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "勇敢者酒吧的軍火商",
+        "prose": "卡斯帕斯在勇敢者酒吧販賣黑市武器，熟識數個非凡圈子。伊恩把克萊恩介紹給他後，他不僅提供購買槍彈的管道，也帶克萊恩去參加非凡聚會、與馬里奇見面。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-16f0fb326d2e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 225,
+          "end": 256
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第225章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0225.html"
+          },
+          {
+            "label": "詭祕·232",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0232.html"
+          },
+          {
+            "label": "詭祕·239",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0239.html"
+          },
+          {
+            "label": "詭祕·246",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0246.html"
+          },
+          {
+            "label": "詭祕·256",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0256.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "捲入追捕後身亡",
+        "prose": "玫瑰學派追兵開始在酒吧周圍活動後，卡斯帕斯一度離開，回來後又替克萊恩準備炸藥。警方說他睡著時被棉被悶死；克萊恩懷疑，這是追兵找不到莎倫與馬里奇後的報復。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-16f0fb326d2e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 328,
+          "end": 433
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第433章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0433.html"
+          },
+          {
+            "label": "詭祕·329",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0329.html"
+          },
+          {
+            "label": "詭祕·328",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0328.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

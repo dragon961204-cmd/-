@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "father-montserrat",
+  "name_zh": "蒙塞拉特神父",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-ebe6f7653cea.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-ebe6f7653cea.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第604章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0604.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1057章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1057.html"
+    },
+    {
+      "label": "宿命·606",
+      "url": "https://lotmfanwiki.com/chapter/coi-0606.html"
+    },
+    {
+      "label": "宿命·605",
+      "url": "https://lotmfanwiki.com/chapter/coi-0605.html"
+    },
+    {
+      "label": "宿命·607",
+      "url": "https://lotmfanwiki.com/chapter/coi-0607.html"
+    },
+    {
+      "label": "宿命·612",
+      "url": "https://lotmfanwiki.com/chapter/coi-0612.html"
+    },
+    {
+      "label": "宿命·663",
+      "url": "https://lotmfanwiki.com/chapter/coi-0663.html"
+    },
+    {
+      "label": "宿命·609",
+      "url": "https://lotmfanwiki.com/chapter/coi-0609.html"
+    },
+    {
+      "label": "宿命·608",
+      "url": "https://lotmfanwiki.com/chapter/coi-0608.html"
+    },
+    {
+      "label": "宿命·610",
+      "url": "https://lotmfanwiki.com/chapter/coi-0610.html"
+    },
+    {
+      "label": "宿命·711",
+      "url": "https://lotmfanwiki.com/chapter/coi-0711.html"
+    },
+    {
+      "label": "宿命·740",
+      "url": "https://lotmfanwiki.com/chapter/coi-0740.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 121
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蒙塞拉特神父｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "船上布道與治療",
+        "prose": "蒙塞拉特是大地母神教會的序列8醫師，在船上的祈禱室主持布道。盧加諾夢遊、險些遭人取走內臟後，曾經由他的禱告與引導清除污染。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ebe6f7653cea.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 604,
+          "end": 608
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第604章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0604.html"
+          },
+          {
+            "label": "宿命·606",
+            "url": "https://lotmfanwiki.com/chapter/coi-0606.html"
+          },
+          {
+            "label": "宿命·605",
+            "url": "https://lotmfanwiki.com/chapter/coi-0605.html"
+          },
+          {
+            "label": "宿命·607",
+            "url": "https://lotmfanwiki.com/chapter/coi-0607.html"
+          },
+          {
+            "label": "宿命·608",
+            "url": "https://lotmfanwiki.com/chapter/coi-0608.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "背離教會與神子",
+        "prose": "蒙塞拉特後來宣稱大地母親是偉大母親的投影，暴露了自己的立場。他曾孕育神子，在和盧米安交手後死亡，遺體由大地母神教會帶走。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ebe6f7653cea.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 607,
+          "end": 612
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·607",
+            "url": "https://lotmfanwiki.com/chapter/coi-0607.html"
+          },
+          {
+            "label": "宿命·612",
+            "url": "https://lotmfanwiki.com/chapter/coi-0612.html"
+          },
+          {
+            "label": "宿命·609",
+            "url": "https://lotmfanwiki.com/chapter/coi-0609.html"
+          },
+          {
+            "label": "宿命·608",
+            "url": "https://lotmfanwiki.com/chapter/coi-0608.html"
+          },
+          {
+            "label": "宿命·610",
+            "url": "https://lotmfanwiki.com/chapter/coi-0610.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -3,9 +3,9 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 229,
-    "individual_draft": 198,
-    "index_only": 31,
+    "indexed": 268,
+    "individual_draft": 238,
+    "index_only": 30,
     "verified": 0,
     "chapter_checked_claims": 12,
     "bios_with_some_chapter_checked_claims": 5,
@@ -282,10 +282,10 @@
     },
     {
       "character_id": "maveti",
-      "name_zh": null,
+      "name_zh": "麥維提",
       "tier": "C",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/maveti.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
@@ -2412,6 +2412,357 @@
       "name_zh": "歐內斯·博雅爾",
       "tier": null,
       "biography_path": "lore/characters/biographies/ernes-boyar.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "clarice",
+      "name_zh": "克拉麗絲",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/clarice.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "michel-garrigou",
+      "name_zh": "米歇爾·加里古",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/michel-garrigou.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "batner-conte",
+      "name_zh": "巴特納·孔泰",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/batner-conte.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "circle-of-inevitability",
+      "name_zh": "宿命之環",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/circle-of-inevitability.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "blanche-sauron",
+      "name_zh": "布朗絲·索倫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/blanche-sauron.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "julien-jenna-brother",
+      "name_zh": "朱利安（簡娜之兄）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/julien-jenna-brother.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "byers-berdan",
+      "name_zh": "拜爾斯（貝爾丹）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/byers-berdan.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "i-have-a-friend",
+      "name_zh": "我有個朋友",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/i-have-a-friend.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "father-montserrat",
+      "name_zh": "蒙塞拉特神父",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/father-montserrat.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gidas",
+      "name_zh": "吉達斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gidas.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "underworld-daoist",
+      "name_zh": "冥道人",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/underworld-daoist.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "pons-benet",
+      "name_zh": "蓬斯·貝內",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/pons-benet.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "bishop-elektra",
+      "name_zh": "埃萊克特拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/bishop-elektra.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "robert-tizamo",
+      "name_zh": "羅伯特（蒂扎莫）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/robert-tizamo.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "safali",
+      "name_zh": "薩法莉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/safali.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "elaine",
+      "name_zh": "伊蓮",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/elaine.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gandalf",
+      "name_zh": "甘道夫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gandalf.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ava-lizier",
+      "name_zh": "阿娃·利齊耶",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ava-lizier.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "montsouris-ghost",
+      "name_zh": "蒙蘇里鬼魂",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/montsouris-ghost.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "bouvar-pomperro",
+      "name_zh": "布瓦爾·蓬派羅",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/bouvar-pomperro.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "primordial-god-almighty",
+      "name_zh": "原初上帝",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/primordial-god-almighty.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "heath-doyle",
+      "name_zh": "希斯·道爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/heath-doyle.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hibbert-hall",
+      "name_zh": "希伯特·霍爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hibbert-hall.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "nast-solomon",
+      "name_zh": "納斯特·所羅門",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/nast-solomon.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "casimi-odora",
+      "name_zh": "卡西米·奧德拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/casimi-odora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "chrismona",
+      "name_zh": "克麗絲芒娜",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/chrismona.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "annie-audrey-maid",
+      "name_zh": "安妮（奧黛麗的女僕）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/annie-audrey-maid.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "reyaza",
+      "name_zh": "雷亞薩",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/reyaza.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "shermane",
+      "name_zh": "雪曼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/shermane.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "nina-future",
+      "name_zh": "妮娜",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/nina-future.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "vermonda-sauron",
+      "name_zh": "佛蒙達·索倫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/vermonda-sauron.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "misor-king",
+      "name_zh": "米索爾·金",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/misor-king.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "liana-macht",
+      "name_zh": "莉亞娜夫人",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/liana-macht.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "jebus",
+      "name_zh": "耶布斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/jebus.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ankewelt",
+      "name_zh": "安格爾威德",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ankewelt.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "salist-morora",
+      "name_zh": "莎莉絲特（摩羅拉）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/salist-morora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lady-moon-nightwalk",
+      "name_zh": "月女士",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/lady-moon-nightwalk.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "cohinem",
+      "name_zh": "高希納姆",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/cohinem.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kaspars-kalinin",
+      "name_zh": "卡斯帕斯·坎立寧",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kaspars-kalinin.v1.json",
       "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": []

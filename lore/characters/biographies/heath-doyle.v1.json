@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.1",
+  "character_id": "heath-doyle",
+  "name_zh": "希斯·道爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-edfa69053b12.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-edfa69053b12.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第638章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0638.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1163章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1163.html"
+    },
+    {
+      "label": "詭祕·245",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0245.html"
+    },
+    {
+      "label": "詭祕·478",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0478.html"
+    },
+    {
+      "label": "詭祕·647",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0647.html"
+    },
+    {
+      "label": "詭祕·922",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0922.html"
+    },
+    {
+      "label": "詭祕·639",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+    },
+    {
+      "label": "詭祕·657",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0657.html"
+    },
+    {
+      "label": "詭祕·658",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0658.html"
+    },
+    {
+      "label": "詭祕·661",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0661.html"
+    },
+    {
+      "label": "詭祕·923",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0923.html"
+    },
+    {
+      "label": "詭祕·995",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0995.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 166
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "希斯·道爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "未來號上的薔薇主教",
+        "prose": "希斯是嘉德麗雅的二副，人稱無血者。他以薔薇主教的血肉能力吞下襲向船長和水手的怪物肉塊。嘉德麗雅仍讓妮娜留意他的疲勞與精神狀態，以防未知聲音引發異變。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-edfa69053b12.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 638,
+          "end": 661
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第638章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0638.html"
+          },
+          {
+            "label": "詭祕·647",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0647.html"
+          },
+          {
+            "label": "詭祕·639",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+          },
+          {
+            "label": "詭祕·657",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0657.html"
+          },
+          {
+            "label": "詭祕·658",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0658.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在拜亞姆監視夏爾夫",
+        "prose": "他替嘉德麗雅搬走夏爾夫住處的神奇物品與信徒遺留物，並監視工匠的訪客。他曾讓牛肉在地上融化蠕動，畫出一名陌生訪客的樣貌。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-edfa69053b12.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 923,
+          "end": 995
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·923",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0923.html"
+          },
+          {
+            "label": "詭祕·995",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0995.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "第二部仍在未來號",
+        "prose": "到了《宿命之環》，希斯仍是未來號的二副，和嘉德麗雅的船員一起活動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-edfa69053b12.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1163,
+          "end": 1163
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1163章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1163.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}
