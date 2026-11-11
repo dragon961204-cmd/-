@@ -1,0 +1,630 @@
+{
+  "schema_version": "0.1",
+  "status": "research_draft",
+  "description": "首批20名核心人物的原創背景摘要，經二手來源核對，尚未全部逐章查驗小說；遊戲事件用途均為設計建議，非原作事件。",
+  "count": 20,
+  "profiles": [
+    {
+      "character_id": "klein-moretti",
+      "name_zh": "克萊恩·莫雷蒂",
+      "priority": "major",
+      "background_summary": "第一部核心人物；原身是廷根出身的歷史系畢業生，周明瑞醒來後承接其身分與生活。初期與兄妹同住，因韋爾奇和娜婭相關事件接觸值夜者，從尋求生存與了解異常開始踏入非凡世界。",
+      "story_arc_summary": "以普通青年的家庭與生計為起點，逐漸形成愚者與塔羅會的複合身分；原作後期身分及力量不可套用到1349年序章。",
+      "location_context": "廷根、莫雷蒂家庭、黑荊棘安保公司",
+      "game_design_notes": "早期可作同時代 NPC；遇見條件取決於日期與玩家行動。不可直接公開其灰霧身分。",
+      "connected_characters": [
+        "welch-mcgovern",
+        "naya",
+        "dunn-smith",
+        "leonard-mitchell",
+        "melissa-moretti",
+        "benson-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Klein_Moretti",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "dunn-smith",
+      "name_zh": "鄧恩·史密斯",
+      "priority": "major",
+      "background_summary": "廷根值夜者小隊的隊長，隸屬黑夜女神教會，在黑荊棘安保公司的掩護下處理超自然案件。擁有處理非凡案件的經驗，與隊員的信任關係是廷根篇的重要支柱。",
+      "story_arc_summary": "他的經歷和小隊處境與廷根重大陰謀緊密相連；應區分原作預設事件及玩家成功干預後的分歧。",
+      "location_context": "廷根、黑荊棘安保公司、值夜者小隊",
+      "game_design_notes": "官方非凡者招聘、調查、教會委託入口。玩家無法一見面就獲得秘密情報。",
+      "connected_characters": [
+        "klein-moretti",
+        "leonard-mitchell",
+        "old-neil",
+        "daly-simone",
+        "ince-zangwill"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Dunn_Smith",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "name_zh": "倫納德·米切爾",
+      "priority": "major",
+      "background_summary": "廷根值夜者，幼時在黑夜女神教會所辦孤兒院成長。性格較隨性，後來的復仇與追查使他走向紅手套及其他隱秘關係。",
+      "story_arc_summary": "體內與帕列斯·索羅亞斯德的關係為其重要隱秘；塔羅會、紅手套以及後期實力都不是一開始就同時具備。",
+      "location_context": "廷根→後期貝克蘭德及官方行動",
+      "game_design_notes": "可為玩家的調查伙伴或追查對象；1349年不能直接套用後期紅手套隊長身分。",
+      "connected_characters": [
+        "pallez-zoroast",
+        "klein-moretti",
+        "dunn-smith",
+        "ince-zangwill"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Leonard_Mitchell",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "old-neil",
+      "name_zh": "老尼爾",
+      "priority": "major",
+      "background_summary": "原值夜者非凡者，年長後在黑荊棘安保公司擔任文職並教授克萊恩神秘學。他對已故未婚妻的思念與對神秘知識的追尋，是其個人悲劇的核心。",
+      "story_arc_summary": "曾受到隱匿賢者相關污染，命運與失控風險密切相連。其知識豐富並不代表能安全提供所有魔藥配方。",
+      "location_context": "廷根、黑荊棘安保公司、地下交易場所",
+      "game_design_notes": "用作神秘學導師、地下市場線索；重大劇情需按日期與情報門檻啟動。",
+      "connected_characters": [
+        "klein-moretti",
+        "dunn-smith",
+        "rozanne"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Old_Neil",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hidden_Sage",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "azik-eggers",
+      "name_zh": "阿茲克·艾格斯",
+      "priority": "major",
+      "background_summary": "克萊恩的前任大學教員，早期對自己的記憶缺失和身世感到困惑。他與第四紀及死神途徑有深刻聯繫，真實身分遠遠超出普通教師。",
+      "story_arc_summary": "反覆找回記憶是角色核心；玩家在早期不應先得知其高序列身分或歷史。",
+      "location_context": "廷根學術圈→後期多地行動",
+      "game_design_notes": "歷史研究、拉姆德遺跡及高階非凡秘密的慢熱線索；避免用作低序列玩家的萬能救援。",
+      "connected_characters": [
+        "klein-moretti",
+        "ince-zangwill"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Azik_Eggers",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Azik_Eggers/History",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "melissa-moretti",
+      "name_zh": "梅麗莎·莫雷蒂",
+      "priority": "supporting",
+      "background_summary": "莫雷蒂家庭成員，克萊恩的妹妹，具備實際動手與機械方面的興趣和能力。她的日常生活呈現普通家庭的經濟與教育壓力。",
+      "story_arc_summary": "家庭牽掛及周遭非凡事件對其生活的影響要循序漸進；不能預設知道克萊恩所有秘密。",
+      "location_context": "廷根莫雷蒂家庭",
+      "game_design_notes": "日常生活、城市民生、工業教育的支線，非戰鬥 NPC。",
+      "connected_characters": [
+        "klein-moretti",
+        "benson-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Melissa_Moretti",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "benson-moretti",
+      "name_zh": "班森·莫雷蒂",
+      "priority": "supporting",
+      "background_summary": "莫雷蒂家庭長兄，負責工作與家庭生計，在貧窮與向上流動的社會結構中努力維持一家人的生活。",
+      "story_arc_summary": "是描繪魯恩城市中下階層生活與階級機會的重要人物，不能無理由讓他知曉教會最高秘密。",
+      "location_context": "廷根莫雷蒂家庭",
+      "game_design_notes": "適合勞動市場、住房、收入與家庭社交事件。",
+      "connected_characters": [
+        "klein-moretti",
+        "melissa-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Benson_Moretti",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "ince-zangwill",
+      "name_zh": "因斯·贊格威爾",
+      "priority": "major",
+      "background_summary": "曾任黑夜女神教會大主教，因晉升不順而叛逃並攜走0-08阿勒蘇霍德之筆。他在廷根暗中設計連鎖事件，利用偶然與安排推進自身目的。",
+      "story_arc_summary": "其與廷根事件、聖賽琳娜骨灰及克萊恩小隊命運有直接因果；早期是隱藏威脅，不能當普通公開街頭 NPC。",
+      "location_context": "暗中活動於廷根，之後前往其他地區",
+      "game_design_notes": "重大主線對抗人物；玩家必須依線索和能力階段追查，不能直接觸發高階正面戰鬥。",
+      "connected_characters": [
+        "dunn-smith",
+        "klein-moretti",
+        "azik-eggers"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Ince_Zangwill",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "audrey-hall",
+      "name_zh": "奧黛麗·霍爾",
+      "priority": "major",
+      "background_summary": "魯恩貴族霍爾家族的女兒，生活在貝克蘭德上流社交圈。她因對神秘學的好奇成為塔羅會最初的成員之一，後來又接觸心理鍊金會。",
+      "story_arc_summary": "由富裕貴族到理解社會痛苦與個人責任的變化，是其重要成長軸。她不同時期的組織關係需要分開。",
+      "location_context": "貝克蘭德貴族圈、塔羅會",
+      "game_design_notes": "上流社會、觀眾途徑及慈善事件；與普通玩家直接見面有階級與社交門檻。",
+      "connected_characters": [
+        "fors-wall",
+        "xio-derecha",
+        "klein-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Audrey_Hall",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Audrey_Hall/Relationships",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "alger-wilson",
+      "name_zh": "阿爾傑·威爾遜",
+      "priority": "major",
+      "background_summary": "風暴之主教會相關非凡者，兼具海上行動經驗與情報交易能力。是塔羅會初期成員之一，擅長以訊息交換和審慎判斷謀取機會。",
+      "story_arc_summary": "對身份與目的有充分保密動機，早期玩家不會輕易知道其塔羅會身分。",
+      "location_context": "海上、教會、塔羅會",
+      "game_design_notes": "海上航線、教會任務及非凡交易情報；公開與秘密隸屬需分開。",
+      "connected_characters": [
+        "klein-moretti",
+        "audrey-hall"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Alger_Wilson",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "fors-wall",
+      "name_zh": "佛爾思·沃爾",
+      "priority": "major",
+      "background_summary": "貝克蘭德小說家，原以普通人的職業與社交關係為生活基礎，逐漸接觸學徒途徑及塔羅會。與休的友誼和相關委託貫穿其早期活動。",
+      "story_arc_summary": "以寫作者、獨立接案者和非凡者的多重生活描繪階級邊緣；不能在初登場時賦予其後期天使能力。",
+      "location_context": "貝克蘭德、休的社交網絡",
+      "game_design_notes": "委託、情報與文化界線索。",
+      "connected_characters": [
+        "xio-derecha",
+        "audrey-hall"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Fors_Wall",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "xio-derecha",
+      "name_zh": "休·迪爾查",
+      "priority": "major",
+      "background_summary": "在貝克蘭德以仲裁、調查、委託為主要活動的小個子女性，與佛爾思關係密切。她的家族遭遇和對公正的追求塑造其行動。",
+      "story_arc_summary": "其接近官方組織的經過與時間都應保持時序；無法把她在第二部的高階身分提前放入。",
+      "location_context": "貝克蘭德委託人、街區與上流社交邊緣",
+      "game_design_notes": "底層社會調解、調查與執法支線。",
+      "connected_characters": [
+        "fors-wall",
+        "audrey-hall"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Xio_Derecha",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "sharron",
+      "name_zh": "莎倫",
+      "priority": "major",
+      "background_summary": "玫瑰學派節制派成員，與馬里奇因理念衝突脫離學派主流勢力，活動於貝克蘭德。她行事謹慎而節制，並尋求保護自身與同伴的力量。",
+      "story_arc_summary": "節制哲學與其遭遇是背景核心；切忌把節制派寫成天生無條件友善，仍有敵人與嚴格保密規則。",
+      "location_context": "貝克蘭德、節制派地下網絡",
+      "game_design_notes": "玫瑰學派雙派系主線節制分支重要人物。",
+      "connected_characters": [
+        "maric",
+        "reinette-tinekerr"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Sharron",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Maric",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "maric",
+      "name_zh": "馬里奇",
+      "priority": "major",
+      "background_summary": "囚犯途徑的非凡者，因反對玫瑰學派的放縱派理念，與莎倫一同逃離組織並在貝克蘭德活動。他承受途徑帶來的衝動，也努力以節制原則控制自己。",
+      "story_arc_summary": "可透過地下酒吧和非凡交易網絡接觸，但應有隱匿身分、風險與階段性信任門檻。",
+      "location_context": "貝克蘭德地下圈",
+      "game_design_notes": "節制派任務、地下消息、敵對派系追捕。",
+      "connected_characters": [
+        "sharron",
+        "reinette-tinekerr"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Maric",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "roselle-gustav",
+      "name_zh": "羅塞爾·古斯塔夫",
+      "priority": "major",
+      "background_summary": "因蒂斯歷史上的關鍵人物，對科技、政治制度、文化與非凡世界留下巨大影響。他的日記是後世接觸古代秘密的重要線索。",
+      "story_arc_summary": "主要作為歷史人物與遺產來源，不應在1349年城市地圖上任意當現役 NPC。",
+      "location_context": "歷史回憶、遺跡、日記與研究",
+      "game_design_notes": "歷史主線與知識資料庫節點。",
+      "connected_characters": [
+        "bernadette-gustav"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Roselle_Gustav",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "lumian-lee",
+      "name_zh": "盧米安·李",
+      "priority": "major",
+      "background_summary": "《宿命之環》核心人物，在因蒂斯科爾杜村與收養他的姐姐奧蘿爾生活。其成長與異常夢境、外神相關命運及逐步接觸非凡世界有密切關係。",
+      "story_arc_summary": "他的故事屬1358年前後第二部時間段；不應讓1349年的廷根玩家直接遇見其後期身分。",
+      "location_context": "科爾杜→特里爾等第二部舞台",
+      "game_design_notes": "後期年代劇情樞紐，若玩家改變世界史，需重新演算其背景事件。",
+      "connected_characters": [
+        "aurore-lee",
+        "franca-roland",
+        "jenna"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Lumian_Lee",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "aurore-lee",
+      "name_zh": "奧蘿爾·李",
+      "priority": "major",
+      "background_summary": "盧米安的養姐，在科爾杜村以寫作維生，掌握神秘學知識；她也與卷毛狒狒研究會有關，身分牽涉更深層的秘密與過去。",
+      "story_arc_summary": "其身世涉及第二部重大劇透，角色知識分層極為重要；研究會須在1352年之後才可能出現。",
+      "location_context": "科爾杜、因蒂斯、卷毛狒狒研究會",
+      "game_design_notes": "科爾杜事件與後期世界真相的線索；不可提前加入1349年的場景。",
+      "connected_characters": [
+        "lumian-lee",
+        "franca-roland"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurore_Lee",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "franca-roland",
+      "name_zh": "芙蘭卡·羅蘭",
+      "priority": "major",
+      "background_summary": "《宿命之環》中與特里爾地下勢力、魔女途徑及卷毛狒狒研究會有關的重要人物，也逐漸與盧米安等人形成合作關係。",
+      "story_arc_summary": "涉及原有世界與現世身分的秘密，以及魔女教派和塔羅會關係的變化；年份與真正加入時點需核實。",
+      "location_context": "特里爾及第二部事件網絡",
+      "game_design_notes": "第二部組織滲透與身份隱瞞的主線人物。",
+      "connected_characters": [
+        "lumian-lee",
+        "jenna",
+        "aurore-lee"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Franca_Roland",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "jenna",
+      "name_zh": "簡娜",
+      "priority": "major",
+      "background_summary": "《宿命之環》特里爾篇的重要角色，原有普通人的工作與家庭負擔，後在城市動亂與非凡事件中改變人生，與盧米安、芙蘭卡形成緊密合作。",
+      "story_arc_summary": "不能以第二部後期位階代替其初登場背景；身份變動應按劇情事件記錄。",
+      "location_context": "特里爾社會底層與娛樂圈",
+      "game_design_notes": "特里爾民生、職業與危險接觸線；第二部時期優先。",
+      "connected_characters": [
+        "lumian-lee",
+        "franca-roland"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Jenna",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    },
+    {
+      "character_id": "reinette-tinekerr",
+      "name_zh": "蕾妮特·緹尼科爾",
+      "priority": "major",
+      "background_summary": "玫瑰學派節制派高層存在，和莎倫、馬里奇的經歷有密切聯繫。她後來以特殊形式與克萊恩形成聯絡和合作。",
+      "story_arc_summary": "其真正力量、非凡背景與登場方式必須按照原作節點；玩家不應隨意召喚高階援助。",
+      "location_context": "節制派網絡、後期信使關係",
+      "game_design_notes": "玫瑰學派高階事件的關鍵支持角色，但出場需有可信條件。",
+      "connected_characters": [
+        "sharron",
+        "maric",
+        "klein-moretti"
+      ],
+      "canon_status": "needs_verification",
+      "source_level": "secondary_reference",
+      "sources": [
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lotmfanwiki.com/type/p.html",
+          "anchor": "人物索引",
+          "verification": "source_checked_not_novel_line_by_line"
+        },
+        {
+          "kind": "secondary_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Reinette_Tinekerr",
+          "anchor": "角色頁",
+          "verification": "source_checked_not_novel_line_by_line"
+        }
+      ],
+      "story_time_review": "required",
+      "player_knowledge": "must_be_gated"
+    }
+  ]
+}
