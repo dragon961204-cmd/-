@@ -5,10 +5,10 @@
   "purpose": "278 verified source-page URLs vs named character IDs; suggestion-only, pending human review",
   "counts": {
     "exact_name_candidate": 41,
-    "manual_alias_candidate": 12,
+    "manual_alias_candidate": 17,
     "partial_name_candidate": 10,
     "ambiguous": 0,
-    "unmatched": 215
+    "unmatched": 210
   },
   "identity_confirmation_count": 0,
   "entries": [
@@ -851,8 +851,10 @@
       "first_appearance_label": "诡秘·2",
       "source_chapters_count": "98",
       "source_facts_count": "107",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "benson-moretti"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
       "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
@@ -905,8 +907,10 @@
       "first_appearance_label": "诡秘·14",
       "source_chapters_count": "92",
       "source_facts_count": "100",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "daly-simone"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
       "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
@@ -1037,8 +1041,10 @@
       "first_appearance_label": "诡秘·217",
       "source_chapters_count": "98",
       "source_facts_count": "113",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "bethel-abraham"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
       "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
@@ -1413,8 +1419,10 @@
       "first_appearance_label": "诡秘·2",
       "source_chapters_count": "68",
       "source_facts_count": "57",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "george-augustus-iii"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
       "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
@@ -3394,8 +3402,10 @@
       "first_appearance_label": "诡秘·216",
       "source_chapters_count": "27",
       "source_facts_count": "25",
-      "match_status": "unmatched",
-      "candidate_character_ids": [],
+      "match_status": "manual_alias_candidate",
+      "candidate_character_ids": [
+        "bethel-abraham"
+      ],
       "confirmed_character_id": null,
       "user_review_status": "pending",
       "review_notes": "同名或相似名只是候選比對，未經使用者審核；百科頁面與角色實體不一定一對一。"
