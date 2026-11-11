@@ -1,0 +1,419 @@
+{
+  "schema_version": "1.0",
+  "character_id": "roselle-gustav",
+  "name_zh": "羅塞爾·古斯塔夫",
+  "name_en": "Roselle Gustav",
+  "canonical_identity": {
+    "original_name": "黃濤",
+    "aliases": [
+      "羅塞爾大帝",
+      "凱撒大帝",
+      "蒸汽之子"
+    ],
+    "birth_date": "第五紀1125年10月11日",
+    "original_origin": "舊時代中國",
+    "later_origin": "因蒂斯王國",
+    "identity_secrecy": "最高機密：黃濤的來歷及源堡牽連"
+  },
+  "importance": "A",
+  "status": "expanded_draft_secondary_sources",
+  "sections": [
+    {
+      "part": 1,
+      "title": "黃濤與原本的世界",
+      "summary": "黃濤原本生活在舊時代的中國。與克萊恩類似，他對自己所處時代的認知被後來揭示的世界真相顛覆。其『穿越』並不是單純前往另一個毫無關係的異世界，而與源堡安排、漫長時間斷層及舊文明的遺產有關。這些真相在遊戲中應屬最高層級的隱藏情報。",
+      "source_ids": [
+        "s1",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "1143年甦醒於因蒂斯",
+      "summary": "第五紀1143年2月，黃濤在因蒂斯的羅塞爾·古斯塔夫身上甦醒。他帶來舊世界的技術、文化及政治知識，初期仍以返回故鄉為念，逐漸尋找可利用的宗教與非凡資源。其非凡之路不是從一開始就具有最高位格。",
+      "source_ids": [
+        "s1",
+        "s4",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "接觸工匠教會與通識者途徑",
+      "summary": "羅塞爾選擇與當時的工匠之神教會建立聯繫，走上通識者途徑，並藉此進入非凡世界。他的技術創新、知識積累與工匠途徑能力相互推動；但早期配方、晉升時點與知識來源需逐項核對日記。",
+      "source_ids": [
+        "s3",
+        "s6"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "發明、產業與技術革新",
+      "summary": "他運用前世記憶推動機械與工業發展，並在因蒂斯社會形成名望與政治資本。原作中此類『發明』不應全部視為他毫無外部條件即可完成的獨創成果；應連結當地工匠、資本、教會與技術傳播條件。",
+      "source_ids": [
+        "s1",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 5,
+      "title": "政治改革與共和國",
+      "summary": "羅塞爾逐步捲入因蒂斯政治，推翻舊有的索倫王朝秩序，成為共和體制中的執政官。他與工匠教會、永恆烈陽教會以及政治軍事同盟的關係既包含合作，也存在立場衝突。政治歷程應分階段研究，不可一行概括為『稱帝』。",
+      "source_ids": [
+        "s4",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 6,
+      "title": "家人、婚姻與逐漸形成的歸屬",
+      "summary": "他與瑪蒂爾達·阿貝爾結婚，育有貝爾納黛、夏爾與博諾瓦等子女。貝爾納黛尤其與他晚年的秘密和後續命運緊密相連。羅塞爾對故鄉的懷念與對新家庭的牽掛共同構成其動機，並影響他晚年的選擇。",
+      "source_ids": [
+        "s1",
+        "s5",
+        "s6"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 7,
+      "title": "黃昏隱士會與世界隱秘真相",
+      "summary": "晉升後的羅塞爾接觸黃昏隱士會及更深的隱秘歷史，逐步知曉超越世俗政治的神靈、權柄和世界末日相關秘密。這些接觸不代表他與該組織在所有時期都完全利益一致；必須將加入、交易和結盟分開。",
+      "source_ids": [
+        "s1",
+        "s2",
+        "s3"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 8,
+      "title": "1192年稱帝",
+      "summary": "第五紀1192年，他將因蒂斯共和國轉變成帝國並自稱凱撒大帝。這一政治轉變與後續的黑皇帝途徑需求息息相關，但當時公共政治理由與他私下追求的非凡目標不可混為一談。",
+      "source_ids": [
+        "s4",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 9,
+      "title": "途徑轉換與污染",
+      "summary": "在高序列道路上，他曾由通識者途徑轉向窺秘人途徑，達到序列1知識皇帝；隨後又走向非相鄰的黑皇帝途徑，試圖處理來自外神的污染與自身生存危機。具體過程涉及月亮、外神及復活安排，需要嚴格區分初期猜測、第一部揭示和第二部補充的事實。",
+      "source_ids": [
+        "s2",
+        "s3",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 10,
+      "title": "1198年刺殺與隱藏的後手",
+      "summary": "第五紀1198年，羅塞爾在政變與多方勢力行動中遭到刺殺，因蒂斯帝制隨之終結。他事先建立的黑皇帝復活安排，以及受到污染的狀態，使其結局並非簡單的『已死』。玩家於1349年的一般社會資訊只能知道歷史上的被刺殺皇帝，不能直接知道高層真相。",
+      "source_ids": [
+        "s1",
+        "s4",
+        "s5"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 11,
+      "title": "日記、褻瀆之牌與後世影響",
+      "summary": "羅塞爾的日記以舊世界文字書寫，對後來的克萊恩具有獨特意義。他留下的褻瀆之牌涉及通往神位的情報；這些遺產成為各組織追索的資源，也構成玩家可能接觸他的主要方式。",
+      "source_ids": [
+        "s1",
+        "s6"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "part": 12,
+      "title": "1359年《宿命之環》後續",
+      "summary": "第二部進一步推進羅塞爾的復活、污染和對抗外神相關計畫。不同來源對死亡、再生與結局的寫法必須以原作情節順序加以區分；本稿暫不把單一百科狀態欄視為最終結論。",
+      "source_ids": [
+        "s2",
+        "s4"
+      ],
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [
+    {
+      "date": "1125-10-11",
+      "summary": "出生於因蒂斯",
+      "precision": "month_or_day",
+      "sources": [
+        "s1"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1143-02",
+      "summary": "黃濤甦醒，承接羅塞爾身分",
+      "precision": "month_or_day",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1143",
+      "summary": "接觸工匠教會、開始通識者途徑",
+      "precision": "year",
+      "sources": [
+        "s3"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1155-05-19",
+      "summary": "長女貝爾納黛出生",
+      "precision": "month_or_day",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1173",
+      "summary": "推翻舊王朝後的共和政權及執政官生涯（月份、事件細節待核）",
+      "precision": "year",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1192",
+      "summary": "因蒂斯由共和國改為帝國，羅塞爾稱帝",
+      "precision": "year",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1194",
+      "summary": "探索通往南大陸的新航線，推動殖民擴張",
+      "precision": "year",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1198",
+      "summary": "晉升黑皇帝相關進程、刺殺與復活安排（需細化前後）",
+      "precision": "year",
+      "sources": [
+        "s4"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1349",
+      "summary": "原作第一部開篇時羅塞爾主要以歷史人物、日記和遺物影響世界",
+      "precision": "year",
+      "sources": [
+        "s1"
+      ],
+      "verification": "secondary_only"
+    },
+    {
+      "date": "1359",
+      "summary": "第二部相關重大後續，具體章節待核",
+      "precision": "year",
+      "sources": [
+        "s2"
+      ],
+      "verification": "secondary_only"
+    }
+  ],
+  "family": [
+    {
+      "name": "瑪蒂爾達·阿貝爾",
+      "relation": "配偶",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "name": "貝爾納黛·古斯塔夫",
+      "relation": "長女",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "name": "夏爾·古斯塔夫",
+      "relation": "長子",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "name": "博諾瓦·古斯塔夫",
+      "relation": "次子",
+      "sources": [
+        "s5"
+      ]
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-steam",
+      "relationship": "early_support_and_faith",
+      "from": "1143年起",
+      "to": "後期關係複雜",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "organization_id": "twilight-hermit-order",
+      "relationship": "member_or_collaborator",
+      "from": "未知",
+      "to": "未知",
+      "sources": [
+        "s1",
+        "s5"
+      ]
+    },
+    {
+      "organization_id": "gustav-family",
+      "relationship": "family_member",
+      "from": "出生及家庭",
+      "to": "未知",
+      "sources": [
+        "s5"
+      ]
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "通識者／完美者",
+      "stages": "序列9通識者至序列2知識導師；詳細逐階時點待核",
+      "source_ids": [
+        "s3"
+      ],
+      "verified": "secondary_only"
+    },
+    {
+      "pathway": "窺秘人／隱者",
+      "stages": "序列1知識皇帝",
+      "source_ids": [
+        "s3"
+      ],
+      "verified": "secondary_only"
+    },
+    {
+      "pathway": "律師／黑皇帝",
+      "stages": "序列0黑皇帝，非相鄰途徑轉換",
+      "source_ids": [
+        "s3",
+        "s5"
+      ],
+      "verified": "secondary_only"
+    }
+  ],
+  "relationships": [
+    {
+      "character_id": "bernadette-gustav",
+      "type": "father_daughter",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "character_id": "zaratul",
+      "type": "historical_ally",
+      "sources": [
+        "s5"
+      ]
+    },
+    {
+      "character_id": "klein-moretti",
+      "type": "later_interaction",
+      "sources": [
+        "s1"
+      ]
+    }
+  ],
+  "game_integration": {
+    "canon_as_of_1349": "對一般人而言是被刺殺的因蒂斯歷史皇帝；日記、工業遺產、官方史書與遺跡可能成為線索。",
+    "ordinary_knowledge": [
+      "因蒂斯政治與工業改革者",
+      "歷史上被刺殺的皇帝",
+      "留下技術和制度影響"
+    ],
+    "restricted_knowledge": [
+      "黃濤身分",
+      "日記文字的真實性質",
+      "黃昏隱士會及真正晉升動機",
+      "外神污染及復活狀態"
+    ],
+    "potential_events": [
+      "尋獲日記殘頁並辨識內容",
+      "調查因蒂斯工業遺產",
+      "參與貝爾納黛相關情報線",
+      "探索與黑皇帝復活相關的遺跡"
+    ],
+    "design_status": "game_original_proposals_not_canon",
+    "chronology_rules": [
+      "1349年羅塞爾不能被設為普通城市中可交談NPC",
+      "其後期真相只對符合知識條件的玩家開放",
+      "歷史改動只能由相容的過往介入或當代後果引發"
+    ]
+  },
+  "source_registry": {
+    "s1": {
+      "kind": "secondary_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Roselle_Gustav",
+      "level": "secondary"
+    },
+    "s2": {
+      "kind": "secondary_character_history",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Roselle_Gustav/History",
+      "level": "secondary"
+    },
+    "s3": {
+      "kind": "secondary_progress",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Roselle_Gustav/Progress",
+      "level": "secondary"
+    },
+    "s4": {
+      "kind": "secondary_timeline",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Timeline",
+      "level": "secondary"
+    },
+    "s5": {
+      "kind": "secondary_chinese_wiki",
+      "url": "https://lom.huijiwiki.com/wiki/罗塞尔",
+      "level": "secondary"
+    },
+    "s6": {
+      "kind": "diary_index",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Roselle%27s_Diary_in_a_Chronological_Order",
+      "level": "secondary"
+    }
+  },
+  "verification": {
+    "status": "expanded_draft",
+    "original_novel_chapters_verified": 0,
+    "high_priority_checks": [
+      "1143年初期精確晉升時間",
+      "1173年共和政治歷程",
+      "1192至1198年間各途徑轉換的順序",
+      "第二部1359年結局的原作章節與身份變化"
+    ],
+    "notes": "這是自行撰寫的結構化傳記，已比先前三句摘要完整，但尚未逐章核對，不能計為完成驗收。"
+  }
+}
