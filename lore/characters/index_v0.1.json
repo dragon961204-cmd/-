@@ -2243,6 +2243,218 @@
       ],
       "aliases": [],
       "first_appearance": "诡秘·3"
+    },
+    {
+      "id": "charlie",
+      "name_zh": "查理",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9d5d0767224a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "albus-medici",
+      "name_zh": "阿不思·梅迪奇",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c55d632b87e8.html"
+        }
+      ],
+      "aliases": [
+        "阿不思"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "angouleme",
+      "name_zh": "昂古萊姆",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a337da8b0e4b.html"
+        }
+      ],
+      "aliases": [
+        "007"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "valentine",
+      "name_zh": "瓦倫泰",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e89d5f55f49c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "lia",
+      "name_zh": "莉雅",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-52f21f356f37.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ryan-vitia",
+      "name_zh": "萊恩",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1a98f3e5b612.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "louis-lund",
+      "name_zh": "路易斯·隆德",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-10a293a657aa.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hazel-macht",
+      "name_zh": "海柔爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9856f2af9cc1.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "qunas-kilgor",
+      "name_zh": "丘納斯·科爾格",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-417b5c05ce0a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "darkwill",
+      "name_zh": "達克威爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1faa8d99fbe6.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "utralavsky",
+      "name_zh": "烏特拉夫斯基神父",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2d06878479cd.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "elland",
+      "name_zh": "艾爾蘭",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-6bbf9c2eb32b.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "lanevus",
+      "name_zh": "蘭爾烏斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立人物候選，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e16e268ad87c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
     }
   ]
 }

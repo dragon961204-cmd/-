@@ -143,6 +143,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 188
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "永恆烈陽｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從純白天使到因蒂斯正神",
+        "prose": "奧賽庫斯曾以純白天使的身分侍奉遠古太陽神。遠古太陽神隕落時，祂取得太陽相關權柄，後來成為永恆烈陽。因蒂斯是祂在第五紀的重要信仰中心。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與舊主遺留的衝突",
+        "prose": "亞當重新聚攏遠古太陽神的力量時，永恆烈陽手中的權柄也再次成為爭奪的目標。第一部末期，祂在眾神於星界的對抗中受制於自己的神國。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "末期的危機",
+        "prose": "第二部開場時，科爾杜村仍有永恆烈陽教會的本堂神甫。到了末期，偉大母親透過神子的布局波及永恆烈陽，祂最終在這場危機中隕落。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

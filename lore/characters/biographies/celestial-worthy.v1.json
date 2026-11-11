@@ -167,6 +167,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 8
+    "source_stage_count": 8,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 215
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "天尊｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "源堡的舊主人",
+        "prose": "福生玄黃天尊是前代詭秘之主，與源堡及愚者、門、錯誤三條途徑的權柄相連。祂留下的尊名在克萊恩穿越前接觸的儀式裡出現，源堡也保存了前紀元人類被懸掛與沉睡的痕跡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在愚者體內復甦",
+        "prose": "克萊恩的位格越接近詭秘之主，天尊的意志便越能在他身上復甦。克萊恩與阿蒙爭奪源堡時利用了這股力量，戰後則不得不以沉睡迎接與天尊更長久的對抗。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "夢境裡的拉鋸",
+        "prose": "《宿命之環》中，愚人節的部分成員受到天尊影響。盧米安等人進入克萊恩的夢境後，圍繞周明瑞是否醒來的每一步行動，也牽動了天尊與克萊恩的爭奪。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

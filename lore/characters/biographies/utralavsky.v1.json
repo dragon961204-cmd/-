@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "utralavsky",
+  "name_zh": "烏特拉夫斯基神父",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2d06878479cd.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2d06878479cd.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第302章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0302.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1050章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1050.html"
+    },
+    {
+      "label": "詭祕·307",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0307.html"
+    },
+    {
+      "label": "詭祕·316",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0316.html"
+    },
+    {
+      "label": "詭祕·338",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0338.html"
+    },
+    {
+      "label": "宿命·480",
+      "url": "https://lotmfanwiki.com/chapter/coi-0480.html"
+    },
+    {
+      "label": "詭祕·308",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0308.html"
+    },
+    {
+      "label": "詭祕·366",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0366.html"
+    },
+    {
+      "label": "詭祕·372",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0372.html"
+    },
+    {
+      "label": "詭祕·595",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0595.html"
+    },
+    {
+      "label": "詭祕·306",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0306.html"
+    },
+    {
+      "label": "詭祕·309",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0309.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 153
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "烏特拉夫斯基神父｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "豐收教堂的神父",
+        "prose": "烏特拉夫斯基在貝克蘭德主持豐收教堂，曾請克萊恩借助心魘蠟燭對付他過去的人格。他後來把闖入教堂的埃姆林留在地下室，要求對方閱讀母神教典；兩人隨後也一起為病患分發藥劑。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2d06878479cd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "戰時的豐收教堂",
+        "prose": "戰事爆發後，烏特拉夫斯基因出身弗薩克而遭到懷疑。倫納德帶人到教堂時，他沒有反抗，接受黑夜教會的保護性關押。第一部後期，他的行蹤又延伸到南大陸。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2d06878479cd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

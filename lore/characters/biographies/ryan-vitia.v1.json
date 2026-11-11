@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ryan-vitia",
+  "name_zh": "萊恩",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1a98f3e5b612.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1a98f3e5b612.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第1章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0001.html"
+    },
+    {
+      "label": "《宿命》第5卷·第756章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0756.html"
+    },
+    {
+      "label": "詭祕·463",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0463.html"
+    },
+    {
+      "label": "詭祕·666",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0666.html"
+    },
+    {
+      "label": "詭祕·670",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0670.html"
+    },
+    {
+      "label": "宿命·98",
+      "url": "https://lotmfanwiki.com/chapter/coi-0098.html"
+    },
+    {
+      "label": "宿命·51",
+      "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+    },
+    {
+      "label": "宿命·80",
+      "url": "https://lotmfanwiki.com/chapter/coi-0080.html"
+    },
+    {
+      "label": "宿命·338",
+      "url": "https://lotmfanwiki.com/chapter/coi-0338.html"
+    },
+    {
+      "label": "詭祕·1116",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1116.html"
+    },
+    {
+      "label": "宿命·6",
+      "url": "https://lotmfanwiki.com/chapter/coi-0006.html"
+    },
+    {
+      "label": "宿命·15",
+      "url": "https://lotmfanwiki.com/chapter/coi-0015.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 145
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "萊恩｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "進入科爾杜村",
+        "prose": "萊恩與莉雅、瓦倫泰以官方調查員身分來到科爾杜村。三人最初透過盧米安接觸村內的居民和傳聞，後來把調查轉向本堂神甫及村裡正在發生的異常。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1a98f3e5b612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從夜戰到教堂",
+        "prose": "隨著情勢惡化，萊恩等人與盧米安一方合作，在住處遭遇襲擊後繼續追查教堂的儀式。事後揭露，萊恩與同伴曾被捲入盧米安的真實夢境，他們在村中的部分經歷也由此得到解釋。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1a98f3e5b612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

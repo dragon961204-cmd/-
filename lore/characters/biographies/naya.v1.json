@@ -65,5 +65,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 122
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "娜婭｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "霍伊大學的研究同伴",
+        "prose": "娜婭在廷根的霍伊大學與克萊恩、韋爾奇相識，幾人因歷史研究而往來。韋爾奇取得安提哥努斯家族筆記後，她也參加了對筆記內容的解讀。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Naya"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "筆記案中的死亡",
+        "prose": "三人接觸筆記後發生異常，娜婭和韋爾奇都在事件中死亡。值夜者隨後循兩人的死因追查留下的筆記，也找上同樣參加過解讀的克萊恩。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Naya"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

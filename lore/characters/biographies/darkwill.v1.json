@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "darkwill",
+  "name_zh": "達克威爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1faa8d99fbe6.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1faa8d99fbe6.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第241章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0241.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第612章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0612.html"
+    },
+    {
+      "label": "詭祕·256",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0256.html"
+    },
+    {
+      "label": "詭祕·586",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0586.html"
+    },
+    {
+      "label": "詭祕·592",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0592.html"
+    },
+    {
+      "label": "詭祕·602",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0602.html"
+    },
+    {
+      "label": "詭祕·608",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0608.html"
+    },
+    {
+      "label": "詭祕·335",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0335.html"
+    },
+    {
+      "label": "詭祕·585",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0585.html"
+    },
+    {
+      "label": "詭祕·591",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0591.html"
+    },
+    {
+      "label": "詭祕·580",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0580.html"
+    },
+    {
+      "label": "詭祕·583",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0583.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 135
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "達克威爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "拜亞姆的草藥店",
+        "prose": "達克威爾在拜亞姆開店賣藥，也託人尋找失蹤的老師羅伊·金。克萊恩曾在那裡買藥治病，後來又把老師遭軍方扣押的消息帶給達克威爾。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1faa8d99fbe6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "護送概率之骰",
+        "prose": "老師留下的信要求達克威爾把骰子送給奧拉維島的敲鐘人。達克威爾僱用格爾曼護送，在海上親身遭遇骰子改變運勢所帶來的危險，最後才在奧拉維把它交到卡諾手中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1faa8d99fbe6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

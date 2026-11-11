@@ -65,5 +65,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 176
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊莉莎白｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從護符到生日晚宴",
+        "prose": "伊莉莎白與梅麗莎、賽琳娜交好，自己也對神秘學有興趣。她先在地下市場請克萊恩幫忙挑選送給賽琳娜的護符，後來在生日晚宴重遇他，才知道他是梅麗莎的哥哥。賽琳娜的魔鏡失控時，伊莉莎白協助克萊恩處理。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Elizabeth"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "古堡之後的惡夢",
+        "prose": "假期裡，伊莉莎白去過拉姆德小鎮附近的廢棄古堡，此後反覆夢到被黑甲騎士追趕。她前往廷根的占卜俱樂部請克萊恩解夢，兩人的往來於是從賽琳娜家的事件延伸到另一處古老遺址。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Elizabeth"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

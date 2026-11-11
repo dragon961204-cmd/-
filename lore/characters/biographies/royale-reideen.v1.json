@@ -73,5 +73,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 142
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "Royale Reideen｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在廷根擔任值夜者",
+        "prose": "Royale Reideen 在黑荊棘安保公司工作的同時，也是鄧恩帶領的廷根值夜者。克萊恩加入前她已在這支隊伍服勤，在同一批人中接觸到值夜者的輪值及地方調查。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Royale_Reideen"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以不眠者的能力服勤",
+        "prose": "她以不眠者途徑的低序列能力執行隊內勤務。現有可定位的敘事集中在廷根時期，她和隊友的共同職責也構成了克萊恩所見的地方值夜者日常。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Royale_Reideen"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

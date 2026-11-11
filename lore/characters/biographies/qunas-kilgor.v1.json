@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "qunas-kilgor",
+  "name_zh": "丘納斯·科爾格",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-417b5c05ce0a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-417b5c05ce0a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第889章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0889.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1220章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1220.html"
+    },
+    {
+      "label": "詭祕·943",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0943.html"
+    },
+    {
+      "label": "詭祕·1025",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1025.html"
+    },
+    {
+      "label": "詭祕·1030",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1030.html"
+    },
+    {
+      "label": "詭祕·949",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0949.html"
+    },
+    {
+      "label": "詭祕·1029",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1029.html"
+    },
+    {
+      "label": "詭祕·1059",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1059.html"
+    },
+    {
+      "label": "詭祕·996",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0996.html"
+    },
+    {
+      "label": "詭祕·998",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0998.html"
+    },
+    {
+      "label": "詭祕·893",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0893.html"
+    },
+    {
+      "label": "詭祕·895",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0895.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 132
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "丘納斯·科爾格｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "軍情九處與霧霾舊案",
+        "prose": "丘納斯·科爾格在軍情九處擔任要職。克萊恩追查大霧霾和王室的秘密工程時，逐步確定丘納斯與這些行動有關，便利用道恩·唐泰斯的社交身分接近他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-417b5c05ce0a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "玫歌莊園之戰",
+        "prose": "克萊恩在玫歌莊園與丘納斯交戰，最終將他變成祕偶。此後丘納斯的身分與非凡能力仍被克萊恩利用，在他追查喬治三世儀式的行動中發揮作用。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-417b5c05ce0a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "louis-lund",
+  "name_zh": "路易斯·隆德",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-10a293a657aa.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-10a293a657aa.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第5卷·第1076章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1076.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1117章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1117.html"
+    },
+    {
+      "label": "宿命·204",
+      "url": "https://lotmfanwiki.com/chapter/coi-0204.html"
+    },
+    {
+      "label": "宿命·65",
+      "url": "https://lotmfanwiki.com/chapter/coi-0065.html"
+    },
+    {
+      "label": "宿命·128",
+      "url": "https://lotmfanwiki.com/chapter/coi-0128.html"
+    },
+    {
+      "label": "宿命·163",
+      "url": "https://lotmfanwiki.com/chapter/coi-0163.html"
+    },
+    {
+      "label": "宿命·39",
+      "url": "https://lotmfanwiki.com/chapter/coi-0039.html"
+    },
+    {
+      "label": "宿命·40",
+      "url": "https://lotmfanwiki.com/chapter/coi-0040.html"
+    },
+    {
+      "label": "宿命·108",
+      "url": "https://lotmfanwiki.com/chapter/coi-0108.html"
+    },
+    {
+      "label": "宿命·52",
+      "url": "https://lotmfanwiki.com/chapter/coi-0052.html"
+    },
+    {
+      "label": "宿命·120",
+      "url": "https://lotmfanwiki.com/chapter/coi-0120.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 145
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "路易斯·隆德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "普阿利斯夫人的管家",
+        "prose": "路易斯·隆德在科爾杜村替普阿利斯夫人辦事。村中的災難發生前，他隨夫人、行政官及女僕離開，後來一起抵達特里爾，也因此被警方列為科爾杜案的追查對象。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10a293a657aa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從被追蹤到傳遞消息",
+        "prose": "盧米安請安東尼追查隆德，並與芙蘭卡在市場區制伏他，藉此向普阿利斯提出會面。之後，隆德仍替夫人轉述消息，也成了盧米安追查其住處與彼岸世界的情報來源。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10a293a657aa.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

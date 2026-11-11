@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 143
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "斯亞｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "放縱派的神孽",
+        "prose": "斯亞以被縛之神的子嗣和囚犯途徑的高位存在著稱。玫瑰學派分裂後，祂成為放縱派在高位力量上的支柱；節制派離開學派之後，仍得面對這一方派出的追兵。",
+        "source_pages": [
+          "https://novelwiki.net/lord-of-the-mysteries/characters/suah/",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在拜亞姆插手戰局",
+        "prose": "拜亞姆的交鋒中，斯亞能隔著距離伸出異常的手臂干涉，將原本由各方非凡者參與的衝突推到天使層級。海王亞恩·考特曼等力量介入後，祂未能繼續控制當地戰局。",
+        "source_pages": [
+          "https://novelwiki.net/lord-of-the-mysteries/characters/suah/",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

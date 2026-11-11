@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "西迦·特昂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在黑荊棘安保公司任職",
+        "prose": "西迦·特昂在克萊恩加入以前已是廷根值夜者。她和鄧恩、倫納德等人都在以黑荊棘安保公司為掩護的小隊工作，依值夜者的安排處理守備及非凡事件。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Seeka_Tron",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "廷根小隊的交接",
+        "prose": "克萊恩加入時，西迦已在小隊內承擔輪值工作。公司的接待、查案和封印物守備由不同成員分工，她也因此是克萊恩從普通職員生活轉向教會勤務時接觸到的同僚之一。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Seeka_Tron",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

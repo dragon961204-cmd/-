@@ -105,6 +105,40 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 153
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "赫密斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古代語言的傳承",
+        "prose": "赫密斯是存活至第五紀的古代非凡者。後世神秘學家仍以祂的名字稱呼古赫密斯語，並用這門語言念誦儀式咒文。對克萊恩等人而言，赫密斯最初是學習神秘學時反覆見到的名字。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從日記到心理鍊金會",
+        "prose": "羅塞爾記下了祂與黃昏隱士會聚會的關聯，使克萊恩得以把古代傳說與仍在運作的組織連起來。赫密斯後來在心理鍊金會以暴怒先生的身分現身，介入該會後期的行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4e40469a8075.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

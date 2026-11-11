@@ -143,6 +143,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 205
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "風暴之主｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "風天使列奧德羅",
+        "prose": "列奧德羅曾是遠古太陽神麾下的風天使。遠古太陽神死亡後，祂取得風暴相關權柄，後來以風暴之主的身分建立正統教會，其影響力遍及海上與港口。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在神棄之地得知真名",
+        "prose": "克萊恩進入神棄之地後，掌握了列奧德羅的真名，並利用呼喚真名引來雷霆。對被困在黑暗中的人而言，原本只有神學意義的遠古名字，在此成了可以引發現實效果的知識。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "再度捲入太陽神之爭",
+        "prose": "當亞當著手重聚遠古太陽神的權柄，列奧德羅也成為對抗祂的神靈之一。第一部末期的星界交鋒，延續了祂自背叛之宴以來與舊主遺留的衝突。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

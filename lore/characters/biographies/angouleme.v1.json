@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "angouleme",
+  "name_zh": "昂古萊姆",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a337da8b0e4b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a337da8b0e4b.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第142章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0142.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1102章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1102.html"
+    },
+    {
+      "label": "宿命·198",
+      "url": "https://lotmfanwiki.com/chapter/coi-0198.html"
+    },
+    {
+      "label": "宿命·245",
+      "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+    },
+    {
+      "label": "宿命·468",
+      "url": "https://lotmfanwiki.com/chapter/coi-0468.html"
+    },
+    {
+      "label": "宿命·498",
+      "url": "https://lotmfanwiki.com/chapter/coi-0498.html"
+    },
+    {
+      "label": "宿命·196",
+      "url": "https://lotmfanwiki.com/chapter/coi-0196.html"
+    },
+    {
+      "label": "宿命·228",
+      "url": "https://lotmfanwiki.com/chapter/coi-0228.html"
+    },
+    {
+      "label": "宿命·141",
+      "url": "https://lotmfanwiki.com/chapter/coi-0141.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    },
+    {
+      "label": "宿命·212",
+      "url": "https://lotmfanwiki.com/chapter/coi-0212.html"
+    },
+    {
+      "label": "宿命·216",
+      "url": "https://lotmfanwiki.com/chapter/coi-0216.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 173
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "昂古萊姆｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "白天的執事與會內代號",
+        "prose": "昂古萊姆在永恆烈陽教會任職，並以007為代號參與卷毛狒狒研究會。芙蘭卡向他提供市場區的情報，他則利用教會資料查出聖羅伯斯教堂舊墓園與第四紀特里爾封印的關聯，再將消息交給她。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a337da8b0e4b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "出任機動小隊隊長",
+        "prose": "特里爾的危機過後，昂古萊姆負責組織教區直屬的淨化者機動小隊。他與芙蘭卡的聯繫仍在持續，在莫蘭·阿維尼一案中，他給盧米安等人提供府邸的安保地圖，事後又經由官方程序追查鏡中世界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a337da8b0e4b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

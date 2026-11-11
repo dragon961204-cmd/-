@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "elland",
+  "name_zh": "艾爾蘭",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6bbf9c2eb32b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6bbf9c2eb32b.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第490章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0490.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第737章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0737.html"
+    },
+    {
+      "label": "詭祕·542",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0542.html"
+    },
+    {
+      "label": "詭祕·494",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0494.html"
+    },
+    {
+      "label": "詭祕·544",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0544.html"
+    },
+    {
+      "label": "詭祕·709",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0709.html"
+    },
+    {
+      "label": "詭祕·491",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0491.html"
+    },
+    {
+      "label": "詭祕·492",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0492.html"
+    },
+    {
+      "label": "詭祕·496",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0496.html"
+    },
+    {
+      "label": "詭祕·504",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0504.html"
+    },
+    {
+      "label": "詭祕·505",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0505.html"
+    },
+    {
+      "label": "詭祕·507",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0507.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 175
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "艾爾蘭｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "白瑪瑙號與班西港",
+        "prose": "艾爾蘭擔任白瑪瑙號船長，途中遭海盜逼近，遂在班西港向軍方發報。到了風暴教堂，他發現牧師已遇害，自己也被捲進港口的異變。脫身後，他再向風暴教會通報，並把主教留下的非凡特性交還代罰者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6bbf9c2eb32b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "成為軍方聯絡人",
+        "prose": "到了拜亞姆，艾爾蘭以軍方人員的身分與格爾曼合作，並把他引見給烏斯·肯特。軍方開始關注格爾曼後，艾爾蘭一度私下提醒他避免再用同一身分登記住宿，自己也因這層往來受到隔離調查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6bbf9c2eb32b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

@@ -175,6 +175,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 209
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "欲望母樹｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "玫瑰學派背後的外神",
+        "prose": "欲望母樹透過污染與信仰滲入地球，玫瑰學派放縱派是祂施加影響的主要渠道之一。放縱派壯大後，莎倫與馬里奇等節制派成員逃離學派，仍持續遭到追捕。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-da42e6cfdcd1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以陷阱引出源堡持有者",
+        "prose": "克萊恩在奧拉維島遭遇牽涉欲望母樹的陷阱。他一路追查放縱派、眷者與神祕儀式，直到接觸外神與地球屏障的真相，才逐漸了解這些行動背後的存在。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-da42e6cfdcd1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "從海上到特里爾",
+        "prose": "《宿命之環》裡，至福會以祂為信仰核心。蘇珊娜·馬蒂斯等人的獻祭企圖將這股影響帶入特里爾市場區，使欲望母樹的活動從海上與南大陸延伸到盧米安的生活圈。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-da42e6cfdcd1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

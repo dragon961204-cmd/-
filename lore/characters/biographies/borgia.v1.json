@@ -73,5 +73,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 148
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "博爾吉亞｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從貝克蘭德到廷根",
+        "prose": "博爾吉亞和艾尤爾、洛絡塔受命協助廷根值夜者，把與安提哥努斯家族有關的封印物送到當地。廷根一方已有比伯的線索，外來小隊帶來的封印物則提供了追蹤手段。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Borgia"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "比伯案的現場",
+        "prose": "博爾吉亞隨隊追查到倉庫，與廷根隊員一起面對比伯失控與筆記爭奪。當時的任務需要兩地值夜者共同看管封印物和處理現場危險，他的已知經歷也主要集中在這次調派。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Borgia"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

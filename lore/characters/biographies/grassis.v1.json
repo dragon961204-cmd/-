@@ -65,5 +65,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 126
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "格拉西斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在占卜俱樂部遇見克萊恩",
+        "prose": "格拉西斯是廷根占卜俱樂部的訪客。克萊恩開始在俱樂部替人占卜時，格拉西斯的委託讓他有了接觸地方市民與投資消息的機會。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Grassis"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "牽連鐵礦騙局",
+        "prose": "格拉西斯曾為一項投資向克萊恩求卜。克萊恩後來追查蘭爾烏斯時，認出這筆投資與對方兜售的鐵礦有關，才把俱樂部裡的一次委託與廷根的詐騙案連起來。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Grassis"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

@@ -92,5 +92,48 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未摘錄小說段落"
+  "copyright_note": "原創摘要，未摘錄小說段落",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 228
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "遠古太陽神｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從切爾諾貝利甦醒",
+        "prose": "遠古太陽神的來歷可追溯到前紀元。祂從切爾諾貝利一帶的混沌海甦醒，在古神支配世界的年代崛起，逐步取得多條相鄰途徑的權柄。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "太陽神的秩序",
+        "prose": "祂擊敗多位古神，讓人類得以建立由太陽神信仰維繫的秩序。白銀城和月城在世界陷入黑暗後仍保存了與祂相關的傳說；亞當和阿蒙則以祂的子嗣身分進入後世的歷史。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "背叛之宴",
+        "prose": "為了應付體內甦醒的意志，遠古太陽神安排以死亡和復活脫離困局。純白天使、風天使與智天使在祂死後瓜分了部分權柄，讓原定安排偏離預期。祂的遺留分別牽涉真實造物主與亞當，直到第五紀仍在左右神位之爭。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

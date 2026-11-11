@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "valentine",
+  "name_zh": "瓦倫泰",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e89d5f55f49c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e89d5f55f49c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第1章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0001.html"
+    },
+    {
+      "label": "《宿命》第4卷·第584章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0584.html"
+    },
+    {
+      "label": "宿命·130",
+      "url": "https://lotmfanwiki.com/chapter/coi-0130.html"
+    },
+    {
+      "label": "宿命·108",
+      "url": "https://lotmfanwiki.com/chapter/coi-0108.html"
+    },
+    {
+      "label": "宿命·245",
+      "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+    },
+    {
+      "label": "宿命·504",
+      "url": "https://lotmfanwiki.com/chapter/coi-0504.html"
+    },
+    {
+      "label": "宿命·51",
+      "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+    },
+    {
+      "label": "宿命·63",
+      "url": "https://lotmfanwiki.com/chapter/coi-0063.html"
+    },
+    {
+      "label": "宿命·67",
+      "url": "https://lotmfanwiki.com/chapter/coi-0067.html"
+    },
+    {
+      "label": "宿命·11",
+      "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+    },
+    {
+      "label": "宿命·62",
+      "url": "https://lotmfanwiki.com/chapter/coi-0062.html"
+    },
+    {
+      "label": "宿命·101",
+      "url": "https://lotmfanwiki.com/chapter/coi-0101.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 163
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瓦倫泰｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜村的聯合調查",
+        "prose": "瓦倫泰與萊恩、莉雅同行，調查科爾杜村的異常。面對受污染的生物時，他以太陽途徑的力量淨化，也曾用聖水救治兩名同伴，但未能立刻解除他們受到的影響。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e89d5f55f49c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "請調特里爾",
+        "prose": "科爾杜村的倖存者在特里爾出現後，瓦倫泰主動請調，加入當地淨化者的調查。此後他與昂古萊姆、伊姆雷等人合作，曾輪值保護議員于格·阿圖瓦，也在市場區和深谷修道院相關案件中接觸簡娜提供的線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e89d5f55f49c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

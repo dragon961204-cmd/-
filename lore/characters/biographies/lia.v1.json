@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lia",
+  "name_zh": "莉雅",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-52f21f356f37.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-52f21f356f37.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第1章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0001.html"
+    },
+    {
+      "label": "《宿命》第3卷·第383章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0383.html"
+    },
+    {
+      "label": "宿命·82",
+      "url": "https://lotmfanwiki.com/chapter/coi-0082.html"
+    },
+    {
+      "label": "宿命·130",
+      "url": "https://lotmfanwiki.com/chapter/coi-0130.html"
+    },
+    {
+      "label": "宿命·304",
+      "url": "https://lotmfanwiki.com/chapter/coi-0304.html"
+    },
+    {
+      "label": "宿命·382",
+      "url": "https://lotmfanwiki.com/chapter/coi-0382.html"
+    },
+    {
+      "label": "宿命·339",
+      "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+    },
+    {
+      "label": "宿命·380",
+      "url": "https://lotmfanwiki.com/chapter/coi-0380.html"
+    },
+    {
+      "label": "宿命·381",
+      "url": "https://lotmfanwiki.com/chapter/coi-0381.html"
+    },
+    {
+      "label": "宿命·36",
+      "url": "https://lotmfanwiki.com/chapter/coi-0036.html"
+    },
+    {
+      "label": "宿命·51",
+      "url": "https://lotmfanwiki.com/chapter/coi-0051.html"
+    },
+    {
+      "label": "宿命·56",
+      "url": "https://lotmfanwiki.com/chapter/coi-0056.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 159
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莉雅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜的第八局調查員",
+        "prose": "莉雅與萊恩、瓦倫泰到科爾杜村調查。她曾潛入貝內的房間協助確認他的異常，也邀請奧蘿爾擔任第八局線人。教堂儀式逼近時，她透過夢境占卜追查村民的聚集地，跟同伴一起趕到教堂。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-52f21f356f37.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在特里爾再次出現",
+        "prose": "莉雅在科爾杜的調查與盧米安的真實夢境交織。離開村子後，盧米安在特里爾認出她，當時她在名為「獨自一人」的酒吧擔任酒保。那家酒吧同時也是第八局在當地的據點。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-52f21f356f37.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

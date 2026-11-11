@@ -151,6 +151,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 202
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "大地母神｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "教會與血族",
+        "prose": "大地母神在第五紀以豐收、孕育及醫療相關的神職受到崇拜。埃姆林被烏特拉夫斯基神父留在豐收教堂後，血族與母神教會之間原本隱藏的聯繫也逐步進入故事。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "莉莉絲的真身",
+        "prose": "大地母神的真身是血族始祖莉莉絲。祂以歐彌貝拉的身分經營了漫長的布局，真相在黑夜女神與戰神的交鋒中揭開，莉莉絲也在這場戰爭中協助黑夜女神。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "母巢與侵蝕",
+        "prose": "《宿命之環》中，外神對地球的影響加劇，母親與月亮相關權柄再次遭到爭奪。莉莉絲受到侵蝕，後期的沉睡與隕落也成為母巢爭奪的一部分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

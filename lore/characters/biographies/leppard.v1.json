@@ -65,5 +65,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 160
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "雷帕德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "刊登廣告尋找投資",
+        "prose": "雷帕德是貝克蘭德的發明家。他接觸羅塞爾留下的手稿後，著手設計可用腳踏驅動的交通工具，並在報上尋找投資人。以夏洛克身分活動的克萊恩看到廣告後，建議他改做自行車，並出資換取股份。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Leppard"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從原型到公司",
+        "prose": "雷帕德做出原型後，依試用意見修改設計，再申請專利、尋找後續投資。弗拉米·凱奇加入後，幾人組成貝克蘭德自行車公司，雷帕德的原型遂進入正式生產和銷售。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Leppard"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

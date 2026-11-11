@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lanevus",
+  "name_zh": "蘭爾烏斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e16e268ad87c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e16e268ad87c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第62章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0062.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1202章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1202.html"
+    },
+    {
+      "label": "詭祕·185",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0185.html"
+    },
+    {
+      "label": "詭祕·287",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0287.html"
+    },
+    {
+      "label": "詭祕·175",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0175.html"
+    },
+    {
+      "label": "詭祕·288",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0288.html"
+    },
+    {
+      "label": "詭祕·851",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0851.html"
+    },
+    {
+      "label": "詭祕·184",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0184.html"
+    },
+    {
+      "label": "詭祕·285",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0285.html"
+    },
+    {
+      "label": "詭祕·115",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0115.html"
+    },
+    {
+      "label": "詭祕·116",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0116.html"
+    },
+    {
+      "label": "詭祕·186",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0186.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 166
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蘭爾烏斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根的假鐵礦",
+        "prose": "蘭爾烏斯在廷根以開採鐵礦為名募集資金，隨後帶著款項離開。他同時與胡德·歐根接觸，利用梅高歐絲進行與真實造物主子嗣有關的儀式，留下了後來引爆廷根災難的禍根。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e16e268ad87c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在貝克蘭德被找到",
+        "prose": "蘭爾烏斯離開廷根後改名在貝克蘭德碼頭一帶生活，身上仍帶有真實造物主的神性。克萊恩透過塔羅會的人脈找到他，並把消息交給教會。值夜者前去逮捕時，他逃入下水道，最後被追上的克萊恩殺死。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e16e268ad87c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

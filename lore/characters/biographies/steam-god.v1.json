@@ -143,6 +143,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 192
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蒸汽與機械之神｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從工匠到蒸汽時代",
+        "prose": "蒸汽與機械之神曾以工匠之神的稱號受到崇拜。羅塞爾推動的發明與工業變革改變了因蒂斯和周邊國家，祂的教會也由工匠的信仰中心逐漸成為機械工業時代的重要力量。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在眾神之間選擇立場",
+        "prose": "教會在因蒂斯與魯恩都有組織，也以機械、封印物和非凡技術參與地方事務。第一部末期的星界宮殿之戰，則使祂直接捲入各位正神之間的衝突。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "末日前的技術與傳承",
+        "prose": "到了《宿命之環》，祂掌握的資訊相關能力在危機中再次出現。祂後來拜入天師門下，與西大陸的傳承建立了新的關係。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

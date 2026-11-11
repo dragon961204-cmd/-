@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hazel-macht",
+  "name_zh": "海柔爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9856f2af9cc1.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9856f2af9cc1.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第759章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0759.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1134章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1134.html"
+    },
+    {
+      "label": "詭祕·1004",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1004.html"
+    },
+    {
+      "label": "詭祕·1007",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1007.html"
+    },
+    {
+      "label": "詭祕·1031",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1031.html"
+    },
+    {
+      "label": "詭祕·785",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0785.html"
+    },
+    {
+      "label": "詭祕·819",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0819.html"
+    },
+    {
+      "label": "詭祕·982",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0982.html"
+    },
+    {
+      "label": "詭祕·985",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0985.html"
+    },
+    {
+      "label": "詭祕·761",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0761.html"
+    },
+    {
+      "label": "詭祕·771",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0771.html"
+    },
+    {
+      "label": "詭祕·823",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0823.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 142
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "海柔爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "貝克蘭德的下水道",
+        "prose": "海柔爾出身馬赫特議員家中，私下接觸偷盜者途徑。她在下水道活動時，與寄身老鼠的高位非凡者建立聯繫，原先避開家人的非凡生活因此牽涉到更危險的追逐。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9856f2af9cc1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "阿蒙進入家門",
+        "prose": "阿蒙追索同途徑的力量時，危險從下水道延伸到馬赫特家。海柔爾親眼目睹家中異常，承受嚴重的精神創傷。奧黛麗後來以心理治療介入，協助她處理這段經歷。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9856f2af9cc1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

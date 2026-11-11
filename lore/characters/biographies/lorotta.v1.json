@@ -73,5 +73,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "洛絡塔｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "攜封印物前往廷根",
+        "prose": "洛絡塔是貝克蘭德教區的值夜者，走死神途徑，也能在交戰中提供火力。廷根追查安提哥努斯家族筆記時，她和艾尤爾、博爾吉亞把用於追索血脈的封印物帶去支援。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Lorotta"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在倉庫與地方小隊聯手",
+        "prose": "追蹤把兩地的值夜者帶到比伯所在的倉庫。比伯失控之後，洛絡塔等人又須面對趁亂介入的燕尾服小丑。這次支援是她在廷根案中可追溯的主要行動。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Lorotta"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

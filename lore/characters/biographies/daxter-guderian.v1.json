@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 155
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "達克斯特·古德里安｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在精神病院接觸心理鍊金會",
+        "prose": "達克斯特在廷根精神病院任醫師，照料胡德·歐根時受到對方引介，接觸心理鍊金會。為取得觀眾魔藥的材料，他又到地下交易場所購買所需物品，並在那裡碰上克萊恩。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Daxter_Guderian",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "成為調查的消息來源",
+        "prose": "克萊恩追查達克斯特的工作地點後，提出合作。達克斯特後來提供讀心者的配方，也讓克萊恩得知胡德的精神狀況出現異常，使值夜者得以把醫院內的變化與正在追查的案件連起來。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Daxter_Guderian",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

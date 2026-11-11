@@ -151,6 +151,47 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 220
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "偉大母親｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "月亮背後的意志",
+        "prose": "墮落母神以偉大母親等身分接受信仰。地球上的原始月亮崇拜和月亮途徑的異常逐漸顯露與祂的聯繫。祂的權柄有一部分在古老的分裂中留在地球，母巢因此成為祂在屏障之外仍要爭取的目標。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-41049987c96b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以信徒孕育神子",
+        "prose": "《宿命之環》裡，偉大母親透過信徒和恩賜將影響擴展到特里爾。普阿利斯夫人的經歷揭示，祂能讓地方性的邪神崇拜演變成孕育神子的計畫。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-41049987c96b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "末日逼近",
+        "prose": "屏障變弱後，墮落母神的行動逐漸從信徒身上的間接影響走向直接降臨。祂與地球一方圍繞母巢的交鋒，將原本分散在各地的孕育與污染事件連成同一場權柄爭奪。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-41049987c96b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

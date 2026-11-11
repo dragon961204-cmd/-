@@ -73,5 +73,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "傑森｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在勇敢者酒吧附近設伏",
+        "prose": "傑森和泰爾隨史蒂夫來到貝克蘭德，目標是莎倫與馬里奇。他們盯住勇敢者酒吧，也借幫派對卡斯帕斯施壓，企圖利用熟人之間的聯絡把兩名離開學派的人引出來。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Jason"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "追捕遭到反擊",
+        "prose": "莎倫和馬里奇找來夏洛克·莫里亞蒂合作，讓原本單向的追捕變成雙方都有準備的交戰。傑森在莎倫與夏洛克一方的反擊中死亡，三人的追捕行動就此瓦解。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Jason"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "charlie",
+  "name_zh": "查理",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9d5d0767224a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9d5d0767224a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第112章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0112.html"
+    },
+    {
+      "label": "《宿命》第5卷·第876章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0876.html"
+    },
+    {
+      "label": "宿命·253",
+      "url": "https://lotmfanwiki.com/chapter/coi-0253.html"
+    },
+    {
+      "label": "宿命·184",
+      "url": "https://lotmfanwiki.com/chapter/coi-0184.html"
+    },
+    {
+      "label": "宿命·402",
+      "url": "https://lotmfanwiki.com/chapter/coi-0402.html"
+    },
+    {
+      "label": "宿命·504",
+      "url": "https://lotmfanwiki.com/chapter/coi-0504.html"
+    },
+    {
+      "label": "宿命·113",
+      "url": "https://lotmfanwiki.com/chapter/coi-0113.html"
+    },
+    {
+      "label": "宿命·134",
+      "url": "https://lotmfanwiki.com/chapter/coi-0134.html"
+    },
+    {
+      "label": "宿命·135",
+      "url": "https://lotmfanwiki.com/chapter/coi-0135.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    },
+    {
+      "label": "宿命·140",
+      "url": "https://lotmfanwiki.com/chapter/coi-0140.html"
+    },
+    {
+      "label": "宿命·141",
+      "url": "https://lotmfanwiki.com/chapter/coi-0141.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 190
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "查理｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "金雞旅館的畫像",
+        "prose": "查理住在金雞旅館時，受到蘇珊娜·馬蒂斯的惡靈糾纏。他一度因夢中的威脅不敢向教會求助，最後仍採納盧米安的建議。淨化者趕來救下他，他隨後拆掉了房間裡那幅與蘇珊娜有關的畫像。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9d5d0767224a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "舞廳與教堂",
+        "prose": "查理在盧米安安排下成為微風舞廳的侍者，後來又遭至福會成員誘拐。事件後，他接受昂古萊姆提供的教會文職，搬出旅館，在聖羅伯斯教堂地下辦公。這份工作讓他有機會把官方動向告訴盧米安，但他後來因隱瞞案情受到處分，終至失業。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9d5d0767224a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

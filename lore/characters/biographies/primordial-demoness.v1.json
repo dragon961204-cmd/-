@@ -175,6 +175,38 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 152
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "原初魔女｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "魔女途徑的神位",
+        "prose": "奇克以原初魔女之名成為魔女教派所奉的神靈。教派成員透過儀式、封印物和神眷與祂建立聯繫。第五紀的魯恩，特莉絲成為神眷者後，便一直試圖擺脫教派替她安排的命運。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從愚者晉升到特里爾",
+        "prose": "克萊恩爭取愚者神位時，原初魔女曾介入圍攻。到了《宿命之環》，魔女教派的活動又把盧米安一行帶向鏡中世界，原初魔女與第四紀災禍留下的關聯也隨調查逐漸浮現。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

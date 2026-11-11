@@ -61,5 +61,51 @@
       "關係在不同年份的狀態"
     ]
   },
-  "copyright_note": "僅原創摘要；未收錄小說原文"
+  "copyright_note": "僅原創摘要；未收錄小說原文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 244
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "馬里奇｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "跟莎倫離開學派",
+        "prose": "馬里奇走囚犯途徑，與莎倫同屬玫瑰學派的節制派。放縱派取得優勢後，兩人離開學派，在貝克蘭德借勇敢者酒吧一帶的地下人脈藏身。馬里奇在那裡遇上以夏洛克·莫里亞蒂身分活動的克萊恩。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0182ae9bab02.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從躲避追捕到聯手反擊",
+        "prose": "史蒂夫、傑森與泰爾追到貝克蘭德後，馬里奇和莎倫找克萊恩合作。他們利用對追兵及其非凡手段的了解反制這次圍捕，之後仍共同活動，也請克萊恩協助取得圖坦西斯二世的木乃伊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0182ae9bab02.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "在第二部延續聯繫",
+        "prose": "《宿命之環》時期，馬里奇仍以節制派一方的身分在外行動。桑塔港及特里爾的事件先後讓他與盧米安一行產生交集，莎倫一方與玫瑰學派放縱派的衝突也延續到了這一時期。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0182ae9bab02.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

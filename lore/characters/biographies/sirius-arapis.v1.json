@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 152
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "西里斯·阿瑞匹斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "尋找霍納奇斯的材料",
+        "prose": "西里斯在廷根蒐集與霍納奇斯山脈有關的資料，並與哈納斯一同把安提哥努斯家族筆記交到韋爾奇手中。他也與蘭爾烏斯有接觸，後來廷根的邪神儀式沿著這條線取得了必要的資訊。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Sirius_Arapis",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在圖書館遭到攔截",
+        "prose": "克萊恩循筆記查到西里斯，在圖書館偶然碰見他。西里斯試圖逃走時遭克萊恩射殺，克萊恩隨後透過通靈得到小丑魔藥的配方，也確定此人牽涉更深的神秘學網絡。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Sirius_Arapis",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

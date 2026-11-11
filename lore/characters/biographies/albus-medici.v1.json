@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "albus-medici",
+  "name_zh": "阿不思·梅迪奇",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c55d632b87e8.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c55d632b87e8.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第283章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0283.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1120章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1120.html"
+    },
+    {
+      "label": "宿命·426",
+      "url": "https://lotmfanwiki.com/chapter/coi-0426.html"
+    },
+    {
+      "label": "宿命·429",
+      "url": "https://lotmfanwiki.com/chapter/coi-0429.html"
+    },
+    {
+      "label": "宿命·430",
+      "url": "https://lotmfanwiki.com/chapter/coi-0430.html"
+    },
+    {
+      "label": "宿命·423",
+      "url": "https://lotmfanwiki.com/chapter/coi-0423.html"
+    },
+    {
+      "label": "宿命·797",
+      "url": "https://lotmfanwiki.com/chapter/coi-0797.html"
+    },
+    {
+      "label": "宿命·827",
+      "url": "https://lotmfanwiki.com/chapter/coi-0827.html"
+    },
+    {
+      "label": "宿命·831",
+      "url": "https://lotmfanwiki.com/chapter/coi-0831.html"
+    },
+    {
+      "label": "宿命·285",
+      "url": "https://lotmfanwiki.com/chapter/coi-0285.html"
+    },
+    {
+      "label": "宿命·427",
+      "url": "https://lotmfanwiki.com/chapter/coi-0427.html"
+    },
+    {
+      "label": "宿命·284",
+      "url": "https://lotmfanwiki.com/chapter/coi-0284.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 153
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿不思·梅迪奇｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "鐵血十字會的獵人",
+        "prose": "阿不思·梅迪奇在加德納麾下活動，曾幫忙追查紀堯姆·貝內。他與盧米安同走獵人途徑，兩人在組織中有共同任務，也一直提防對方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c55d632b87e8.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在摩羅拉爭奪封印物",
+        "prose": "離開鐵血十字會後，阿不思仍借重其人脈。他在摩羅拉與古辛合作，也曾因共同對手與盧米安短暫聯手。登上屍骸山峰時，他把梅迪奇家族的血滴在封印物0-01的旗幟上，隨後躍入通往特殊鏡中世界的漩渦。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c55d632b87e8.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
+}

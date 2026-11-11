@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 149
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "博提斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從亞伯拉罕家族走向極光會",
+        "prose": "博提斯曾受亞伯拉罕家族栽培，在門途徑上取得力量，後來背叛家族並成為極光會的秘之聖者。這使他取得的空間手段反過來成為亞伯拉罕家族及其後繼者必須應付的威脅。",
+        "source_pages": [
+          "https://lotmfanwiki.com/chapter/lotm-1199.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與佛爾思一方交戰",
+        "prose": "塔羅會以佛爾思為誘餌設局。博提斯用舊日之盒擄走她後，遭嘉德麗雅與奧黛麗聯手截擊。博提斯在交戰中失控，最終被嘉德麗雅擊殺，舊日之盒也落到塔羅會手中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/chapter/lotm-1199.html",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

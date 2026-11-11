@@ -73,5 +73,39 @@
     "complete": false,
     "chapter_verified": false
   },
-  "copyright_note": "原創摘要，未收錄小說正文"
+  "copyright_note": "原創摘要，未收錄小說正文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 147
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "肯利·懷特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從文職申請轉任",
+        "prose": "肯利原先是黑荊棘安保公司的文職人員，後來自己申請成為正式值夜者，並以不眠者身分參與前線行動。這次選擇使他從協助小隊運作，轉為直接承擔非凡案件的風險。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Kenley_White"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "雪倫夫人一案",
+        "prose": "肯利與鄧恩、克萊恩一同出手逮捕雪倫夫人，行動中卻死於封印物3-0217。事後披露，他的死亡也在0-08的安排之中。教會與警方後來向其家屬發放撫卹。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Kenley_White"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

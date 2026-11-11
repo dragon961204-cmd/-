@@ -55,5 +55,41 @@
       "當期組織隸屬與關係"
     ],
     "chapter_checked_count": 0
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 143
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "哈納斯·文森特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根的占卜與筆記",
+        "prose": "哈納斯以占卜和神秘學活動接觸廷根居民，賽琳娜曾向他學習儀式。克萊恩後來透過占卜追查安提哥努斯家族筆記，發現哈納斯與西里斯曾把它交給韋爾奇。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Hanass_Vincent",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "夢境調查後死亡",
+        "prose": "賽琳娜的魔鏡事件讓值夜者開始留意哈納斯。鄧恩從夢境追查他的活動，發現與隱秘信仰相關的危險。哈納斯不久後死亡，值夜者只能再從其同夥及相關物品追查下去。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Hanass_Vincent",
+          "https://lotmfanwiki.com/type/p.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
   }
 }

@@ -92,5 +92,39 @@
     "complete": false,
     "original_chapters_checked": 0
   },
-  "copyright_note": "原創摘要，未轉載原作小說全文"
+  "copyright_note": "原創摘要，未轉載原作小說全文",
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 140
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "尼姆｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "守著灰霧的月城",
+        "prose": "尼姆是月城的大祭司。月城在神棄之地延續了先祖守望灰霧邊界的使命，他身為黑暗途徑的半神，一方面參與維持城市的儀式，一方面負責應付城外黑暗中的危險。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Nim"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "接觸格爾曼與外面的世界",
+        "prose": "格爾曼·斯帕羅來到月城後，尼姆代表居民與他交涉。這次接觸讓月城居民獲得新的食物與信仰選擇，也使尼姆得以帶領人們重新考慮如何離開神棄之地。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Nim"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "原文章節、早年背景或後續去向待使用者核對"
+    ],
+    "quality_note": "依來源資料撰寫的生平初稿，待使用者審核。"
+  }
 }

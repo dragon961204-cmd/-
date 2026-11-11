@@ -3,8 +3,8 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 137,
-    "individual_draft": 105,
+    "indexed": 150,
+    "individual_draft": 118,
     "index_only": 32,
     "verified": 0,
     "chapter_checked_claims": 12,
@@ -1584,6 +1584,123 @@
       "name_zh": "蒸汽與機械之神",
       "tier": "A",
       "biography_path": "lore/characters/biographies/steam-god.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "charlie",
+      "name_zh": "查理",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/charlie.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "albus-medici",
+      "name_zh": "阿不思·梅迪奇",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/albus-medici.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "angouleme",
+      "name_zh": "昂古萊姆",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/angouleme.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "valentine",
+      "name_zh": "瓦倫泰",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/valentine.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lia",
+      "name_zh": "莉雅",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/lia.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ryan-vitia",
+      "name_zh": "萊恩",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ryan-vitia.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "louis-lund",
+      "name_zh": "路易斯·隆德",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/louis-lund.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hazel-macht",
+      "name_zh": "海柔爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hazel-macht.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "qunas-kilgor",
+      "name_zh": "丘納斯·科爾格",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/qunas-kilgor.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "darkwill",
+      "name_zh": "達克威爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/darkwill.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "utralavsky",
+      "name_zh": "烏特拉夫斯基神父",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/utralavsky.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "elland",
+      "name_zh": "艾爾蘭",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/elland.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lanevus",
+      "name_zh": "蘭爾烏斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/lanevus.v1.json",
       "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": []
