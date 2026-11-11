@@ -1,0 +1,163 @@
+{
+  "schema_version": "0.1",
+  "scope": "初始研究名單，不宣稱完整；所有組織存在、中文名、時間狀態需要原作回查",
+  "count_policy": "獨立組織與派系分開；教會與官方機構另分類",
+  "organizations": [
+    {
+      "id": "tarot-club",
+      "name_zh": "塔羅會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "aurora-order",
+      "name_zh": "極光會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "rose-school-of-thought",
+      "name_zh": "玫瑰學派",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "secret-order",
+      "name_zh": "密修會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "psychology-alchemists",
+      "name_zh": "心理鍊金會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "life-school-of-thought",
+      "name_zh": "生命學派",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "moses-ascetic-order",
+      "name_zh": "摩斯苦修會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "demoness-sect",
+      "name_zh": "魔女教派",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "numinous-episcopate",
+      "name_zh": "靈教團",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "iron-and-blood-cross-order",
+      "name_zh": "鐵血十字會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "element-dawn",
+      "name_zh": "要素黎明",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "twilight-hermit-order",
+      "name_zh": "黃昏隱士會",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "rose-redemption",
+      "name_zh": "救贖薔薇",
+      "category": "historical_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    },
+    {
+      "id": "blood-sanctify-sect",
+      "name_zh": "拜血教",
+      "category": "secret_organization",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [],
+      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+    }
+  ],
+  "factions": [
+    {
+      "id": "rose-school-temperance",
+      "parent_id": "rose-school-of-thought",
+      "name_zh": "節制派",
+      "canon_status": "needs_verification",
+      "sources": []
+    },
+    {
+      "id": "rose-school-indulgence",
+      "parent_id": "rose-school-of-thought",
+      "name_zh": "放縱派",
+      "canon_status": "needs_verification",
+      "sources": []
+    }
+  ]
+}
