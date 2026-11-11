@@ -151,6 +151,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 579
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "威爾·昂賽汀｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "命運途徑的古老存在",
+        "prose": "威爾·昂賽汀是命運途徑的重要高位存在，與生命學派的歷史和水銀之蛇位格相關。他並非從普通嬰兒開始逐次服用低序列魔藥的新人；其轉生與生命循環牽涉高階非凡能力，因而可以在幼小外表下保有不相稱的認知。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與烏洛琉斯的競爭",
+        "prose": "命運途徑兩名高位存在之間的爭奪，影響威爾採取何種身分和活動方式。他需要避開敵手的追索，利用與自身道路相容的運氣、預兆及轉生手段安排局勢。這也是他不能隨意公開行蹤與力量的原因之一。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與克萊恩建立聯繫",
+        "prose": "克萊恩在貝克蘭德追查特殊委託和命運線索時逐漸接觸威爾。威爾提供與運氣、命運和高位非凡世界有關的資訊，有時也以較日常、甚至帶孩子氣的方式提出需求。兩人之間存在互利交換，並不是完全沒有條件的師徒關係。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "嬰兒外表與家庭",
+        "prose": "威爾在某些時期以嬰兒或孩子的身分生活，受到普通家庭照護。這種形態容易使外人忽略其高位身份，但家庭並不因此完全掌握他的神秘學秘密。對世界模擬而言，同一人物必須同時保存真正身份與各次轉生的公開身份，不能只靠單一姓名與固定外觀。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "愚者相關合作",
+        "prose": "隨克萊恩晉升與世界末日壓力加劇，威爾的力量和對命運的理解成為重要資源。然而命運並不代表全知，對高位爭鬥的干預也可能讓他承擔風險。他與塔羅會及愚者信仰的聯繫應明確區分合作、信仰與正式入會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "後期權柄與命運",
+        "prose": "第一部後期到第二部的命運權柄格局繼續發展，威爾與烏洛琉斯及更高層次存在的關係亦需要按時間更新。人物傳記目前保留這些變化的研究欄位，具體晉升、行動和結局不應根據『水銀之蛇』頭銜直接猜測。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a96e18b0cabd.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

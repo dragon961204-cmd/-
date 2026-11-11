@@ -183,6 +183,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 507
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "黑夜女神｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古老年代的阿曼妮西斯",
+        "prose": "黑夜女神的真名是阿曼妮西斯，其起源早於第五紀教會和現代王國制度。她與魔狼古神時代的歷史有密切關係，並經歷多次神靈秩序變動。祂的古老身份屬極高位秘密，普通神職人員和信眾不會完整知曉。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "教會與王國生活",
+        "prose": "黑夜女神教會在魯恩等地有深厚的社會基礎，擔任祈禱、慈善、教育及處理非凡事件的職能。值夜者與紅手套只是整個教會運作的一部分，與普通神職或民間信徒的權責不同。教會的實際制度不等於女神親自指揮每一次地方調查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "克萊恩的早年聯繫",
+        "prose": "克萊恩從廷根值夜者的工作開始接觸女神信仰，並在日後得到更高層次的關注。早期隊員所知的，是教會儀式與封印物的基本規範；隨故事推進，女神與源堡、古老神性意志及克萊恩道路的關係才逐漸浮現。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "死神與戰神相關權柄",
+        "prose": "祂後來介入涉及戰神、死神與相鄰途徑的重大神靈事件。這些行動與國際戰爭、神靈同盟及末日危機密切相關，但不能將戰爭中每件地方政治決策都歸為祂的直接意旨。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "與愚者的合作",
+        "prose": "隨克萊恩晉升，女神與其合作的地位和性質逐漸變化。從普通非凡者難以理解的庇護，到神靈之間涉及世界命運的安排，這段關係不能簡化成永恆固定的教會上下級。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "末日前夕與第二部",
+        "prose": "祂在第二部仍是影響神靈秩序的重要存在，其權柄和知情程度不同於第一部早期的女神教會形象。人物傳記必須分出古神歷史、第五紀信仰體系、世界大戰與末日四個時間區段。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

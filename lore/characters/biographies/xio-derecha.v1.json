@@ -175,6 +175,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 12
+    "source_stage_count": 12,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 612
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "休·迪爾查｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "迪爾查家族變故",
+        "prose": "休·迪爾查出身有一定社會地位的家庭，父親的遭遇使她與原本生活的上層秩序疏離。她對司法、權力與真相格外敏感，不願單純相信貴族或官方對事件的解釋。家庭留下的責任，是她在貝克蘭德尋找收入與情報的主要原因。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "貝克蘭德的賞金獵人",
+        "prose": "休在城市地下圈子裡以賞金獵人和仲裁者途徑非凡者身分活動。身材嬌小卻擅長施壓與調解，讓她在碼頭、酒館與秘密交易場所形成自己的聲望。她處理案件時常要在獲取賞金、幫助受害者與避免惹怒大勢力之間權衡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與佛爾思的友誼",
+        "prose": "佛爾思·沃爾是休長期信任的朋友，兩人個性相反：休更勤於行動，佛爾思偏好安穩與躲避麻煩。她們彼此補足，一起接觸各種委託與非凡事件。休的工作也不斷讓佛爾思了解地下世界，而佛爾思的成長又將休帶向更高層級的神秘學組織。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "塔羅會的審判",
+        "prose": "休在逐步獲得與塔羅會相關的線索後，以『審判』的身分加入。她從直接執法和追查個案，逐漸學會利用跨國組織的情報資源理解政治陰謀。這種成長與她追尋家族舊事的目標相連，也讓她必須在對真相的執著與對朋友的保護之間做選擇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "軍情九處與政治暗流",
+        "prose": "休與魯恩官方情報體系產生聯繫，接觸到普通賞金獵人無法取得的案件與職務。她的官方身分、地下人脈和塔羅會秘密職責不能在同一時間點被玩家視為公開資訊。王國的權力運作與戰爭，使她對法律及秩序的理解變得更複雜。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "後期與第二部",
+        "prose": "她沿仲裁者途徑繼續提升，參與塔羅會後續行動與更大規模的世界局勢。到第二部，休已不再是只靠零散委託維生的地下賞金獵人，而是能接觸高位非凡世界的重要角色。其具體職務變動、序列晉升與父親案件的結局，仍需由使用者逐項核對。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-714eeb528537.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

@@ -183,6 +183,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 530
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "真實造物主｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古太陽神隕落後的存在",
+        "prose": "真實造物主的形成源自遠古太陽神隕落與人格、權柄的複雜變化。祂的歷史與薩斯利爾及亞當密不可分，但不能在每個年代都直接用遠古太陽神的完整人格或神位替代。祂的稱號和信徒理解之間，也存在不小距離。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "第四紀的信仰陰影",
+        "prose": "第四紀王朝興替、所羅門帝國及救贖薔薇相關歷史，使真實造物主成為影響政治和非凡勢力的重要神靈。祂的影響不總透過公開教會呈現，而常以秘密信仰、古老儀式和高序列眷屬的方式出現。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "極光會與神使",
+        "prose": "第五紀極光會將真實造物主奉為信仰核心，其成員透過神使、祈禱和行動傳達所理解的神意。蘭爾烏斯和梅高歐絲等廷根事件的相關人物，讓克萊恩很早就接觸這份信仰帶來的危機。低序列信眾不必然了解神靈的真實起源。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "神棄之地與白銀城",
+        "prose": "在神棄之地，真實造物主的相關信仰與白銀城長老洛薇雅產生聯繫，進而造成居民對未來道路的分歧。對長期生活於黑暗中的城市而言，來自外部的神諭既可能帶來希望，也可能帶來新的風險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "亞當的長期安排",
+        "prose": "亞當與真實造物主之間的關係既有相同的遠古起源，也有不同時期的行動立場和人格狀態。兩者的接近與融合牽涉觀眾、倒吊人等相關途徑的更高位格，不能只視為兩個勢力之間的普通合併。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "第二部的神靈格局",
+        "prose": "到了《宿命之環》，亞當與真實造物主後續的權柄與人格變化繼續影響世界。資料庫應分開保存形成、極光會信仰、與亞當融合等階段，並避免把後期神靈知識提前交給廷根時期的普通角色。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

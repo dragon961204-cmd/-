@@ -144,6 +144,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 500
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "喬治·奧古斯都三世｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "魯恩王國的君主",
+        "prose": "喬治·奧古斯都三世位居魯恩王國權力頂點，維持王室、議會、軍隊和各大教會之間的政治平衡。對普通居民而言，他首先是報章與官方儀式中出現的國王；其真正非凡道路和秘密計畫則被嚴密隱藏。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "政治與王室利益",
+        "prose": "他的統治包含貴族特權、外交競爭和社會改革爭議。王國上層的利益與普通居民的生活處境往往存在巨大落差；這些公共政策和政治盤算，亦形成他推進秘密非凡目標的外部條件。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "黑皇帝道路與陵寢",
+        "prose": "喬治三世暗中追求黑皇帝途徑的神位，需準備特殊的陵寢與儀式。這項龐大計畫涉及工程、保密、材料和大量政治配合，並非單靠一份魔藥配方就能晉升。對外公開的王室工程與實際目的之間存在距離。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "秘密同盟與相關案件",
+        "prose": "他為達成目標與多方非凡勢力建立秘密聯繫，王室與魔女教派等組織在部分事件中出現利益交集。這不能直接證明所有相關勢力都有永久而公開的同盟；真正的合作範圍和時間仍要按案件記錄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "貝克蘭德與儀式破局",
+        "prose": "克萊恩和其他非凡者逐步察覺國王計畫的異常，並在關鍵儀式前後展開阻止行動。這場衝突不僅影響喬治三世個人的晉升，也改變魯恩政府在世界大戰期間的權力結構。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "身後政治影響",
+        "prose": "喬治三世的結局讓王室與國家機構必須繼續維持公共秩序。遊戲資料須把在位期間的國王權限、秘密晉升者的權限和死亡後的歷史影響分開，避免把歷史政治人物設為永遠可互動的在位NPC。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-daedd6d7c677.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

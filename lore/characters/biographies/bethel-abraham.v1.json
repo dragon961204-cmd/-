@@ -198,6 +198,82 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 11
+    "source_stage_count": 11,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 605
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伯特利·亞伯拉罕｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "亞伯拉罕家族的先祖",
+        "prose": "伯特利·亞伯拉罕出身第四紀的重要天使家族，是學徒途徑極高位格的存在。他的能力與空間、旅行及門的權柄相關，在王朝與諸神爭奪權勢的年代具有特殊地位。後人對他的尊稱和畏懼並存，但早期家族成員並不知道他後來所承受的一切。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "第四紀秩序與流放",
+        "prose": "四皇之戰及第四紀末期的力量變動，使伯特利遭遇遠離物質世界的長期封印與放逐。這段經歷不是普通旅行，而是讓他無法自由返回人間的世界級事件。亞伯拉罕家族失去頂層保護後，逐漸走向衰弱。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "滿月囈語與家族詛咒",
+        "prose": "家族後代在滿月時受到特殊囈語干擾，影響非凡道路的延續與成員生存。對多里安等後裔而言，『門先生』既代表家族曾有的榮光，也成為長期困擾族人的神秘威脅。因不知道囈語背後完整真相，部分人仍試圖藉儀式或其他方式尋求先祖回應。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "佛爾思與家族傳承",
+        "prose": "佛爾思因學徒途徑而接觸亞伯拉罕家族，透過多里安的教導逐漸了解家族歷史。她與門先生本人未必在早期直接見面，卻不斷受到其留下的非凡傳承與滿月異象影響。這條間接聯繫最後牽涉塔羅會與更高層次的世界危機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "外神污染與歸來",
+        "prose": "伯特利的困境與星空及外神污染相連，使『讓門先生回歸』成為極其危險的選擇。第五紀後期相關儀式展開時，其自身意志、被污染狀態與外部勢力的圖謀互相衝突。這段劇情不能簡化為家族英雄獲救，更不能把其在封印前後的立場視為沒有變化。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "遺產與結局",
+        "prose": "伯特利在關鍵時刻的抉擇深刻影響亞伯拉罕家族、佛爾思和學徒途徑後續權柄格局。無論在資料庫或RPG中，都應把其作為古老先祖、被囚的門先生及污染危機核心等不同階段拆開記錄，並保留與天尊、愚者道路的關聯。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9fba75909089.html",
+          "https://lotmfanwiki.com/node/cn-p-2c5e432335f8.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

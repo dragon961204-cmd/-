@@ -154,6 +154,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 510
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "薩斯利爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "遠古太陽神的暗面",
+        "prose": "薩斯利爾與遠古太陽神的人格和權柄安排直接相關，被稱為『暗天使』。他不是一般意義上獨立出生、靠普通序列逐步晉升的天使，而是古太陽神處理自身神性與精神危機時形成的特殊存在。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "第三紀的天使之王",
+        "prose": "在遠古太陽神建立信仰秩序的年代，薩斯利爾位居天使之王的重要位置，並接觸第一塊褻瀆石板等高度機密事物。眾天使之王之間的關係既有共同信仰，也潛藏著權柄和未來安排方面的分歧。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "救贖薔薇的計畫",
+        "prose": "面對遠古太陽神體內更古老意志逐漸甦醒的危機，救贖薔薇展開重要計畫。薩斯利爾在其中具有特殊角色，其行動動機不能簡化為單純的忠誠或背叛；這牽涉遠古太陽神嘗試保留自我與避免更大災難的安排。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "背叛之宴與人格後續",
+        "prose": "遠古太陽神的隕落造成神格、人格與非凡特性的深刻變動，亞當和真實造物主的後續亦與之相關。對薩斯利爾而言，歷史上的本體、後續殘留意識與其他人格延續不能被當成完全一致的單一NPC。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "巨人王庭的殘靈",
+        "prose": "第五紀白銀城探索巨人王庭時，遭遇與暗天使殘留力量相關的秘密。這條支線讓戴里克、科林等人接觸到神棄之地漫長歷史的核心，也讓克萊恩獲得理解遠古太陽神事件的重要線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "在世界史中的意義",
+        "prose": "薩斯利爾的故事同時連結古太陽神、八大天使之王、救贖薔薇、混沌海及神棄之地。傳記需要保留其特殊起源、歷史主體與後世殘留物三種層次，並由使用者最終確認各層是否具有獨立意識。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bea8e96c7fad.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

@@ -292,6 +292,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 582
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "鄧恩·史密斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根值夜者小隊長",
+        "prose": "鄧恩·史密斯是黑夜女神教會廷根值夜者小隊的隊長，工作據點設在黑荊棘安保公司。他的隊伍既要處理居民報案、追查異常儀式與看守封印物，也必須在官方規章與突發危險之間迅速判斷。鄧恩表現沉穩、對年輕隊員有耐心，偶爾卻受途徑能力和精神負擔影響而健忘。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cd7cf34e5621.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "帶領克萊恩入門",
+        "prose": "韋爾奇與娜婭的案件讓鄧恩注意到倖存的克萊恩。相較於直接將異常倖存者視為敵人，他安排調查、觀察與吸收，最終使克萊恩進入值夜者體系。鄧恩向新人傳達非凡者需要尊重規章、理解扮演與控制魔藥風險的觀念，也讓克萊恩逐漸把小隊視為值得依靠的同伴。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cd7cf34e5621.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "小隊中的責任",
+        "prose": "鄧恩必須協調戴莉、倫納德、弗萊、羅亞爾等不同性格的同僚；他並非全知的指揮官，而是經常只能根據不完整的線索做出決定。封印物的使用、外部隊伍協助和逐步升高的異常案件，都要求他兼顧民眾安全和隊員生命。這份責任也讓他傾向親自承擔最危險的工作。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cd7cf34e5621.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "因斯陰謀與梅高歐絲",
+        "prose": "廷根的種種異常最終與因斯·贊格威爾持有的特殊封印物及更深層陰謀交會。梅高歐絲事件把值夜者逼入幾乎不可能承受的危機。鄧恩選擇站在第一線，以隊長的身分承受代價；事件造成的損失也直接改變了克萊恩和倫納德後續人生道路。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cd7cf34e5621.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "身後影響",
+        "prose": "鄧恩的故事在第一部早期結束，但並沒有因此退出世界觀的重要因果鏈。克萊恩對廷根、隊員與普通人的感情，倫納德轉向更高危任務的選擇，都與這段經歷相連。遊戲資料須保留鄧恩生前與身後兩種截然不同的可遇見狀態，不能因主角後期力量提升就將他改寫成長期活動的NPC。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cd7cf34e5621.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

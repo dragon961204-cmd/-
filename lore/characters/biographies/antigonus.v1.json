@@ -150,6 +150,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 494
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "安提哥努斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "魔狼古神的後裔",
+        "prose": "安提哥努斯是古神弗雷格拉的子嗣，具有遠早於第五紀人類王國的神秘血統。其家族歷史還牽涉天之母親及古神時期的種族秩序，不能直接用普通貴族家族的誕生與政治興衰模式描述。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "第四紀的占卜家家族",
+        "prose": "安提哥努斯家族在第四紀以占卜家途徑的高位力量聞名，掌握對後世非凡者至關重要的知識與非凡物品。相關家族筆記在第五紀重新流出，最終引發克萊恩早期經歷與廷根值夜者的調查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "半個愚者與古老意志",
+        "prose": "安提哥努斯曾達到近似『半個愚者』的位格，容納愚者途徑唯一性，其力量與源堡及更高層次的古老意志形成危險關聯。高位權柄帶來的並非單純的控制力，也可能讓其自身人格被其他意志侵蝕。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "霍納奇斯山脈的封印",
+        "prose": "失控與神靈級衝突後，他的狀態與霍納奇斯山脈深處相關，形成世人不易觸及的高危秘密。早期值夜者僅追查家族筆記和異常囈語，並不代表已經理解山脈深處的全部真相。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "克萊恩的晉升道路",
+        "prose": "克萊恩沿占卜家途徑晉升時，不斷接觸安提哥努斯留下的遺物、歷史和高序列力量。到了後期，安提哥努斯的身分與狀態直接成為愚者道路競爭的重要節點，彼此並不是普通仇敵或友人關係。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "後期的位格變化",
+        "prose": "隨愚者途徑權柄重新分配，安提哥努斯的狀態出現重大變化。不能把第四紀半個愚者的能力、霍納奇斯的封印狀態與第一部結尾的處境混寫成同一時刻；具體經歷和結局由使用者核對來源階段。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-69dae8e87645.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }

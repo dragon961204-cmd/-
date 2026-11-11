@@ -182,6 +182,76 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 577
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "科林·伊利亞特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "白銀城的首席",
+        "prose": "科林·伊利亞特是神棄之地白銀城的重要領導者。城市長年受黑暗與怪物威脅，必須依賴巡邏、探索和非凡者制度維持存續。他作為首席不只負責指揮戰鬥，也必須在資源稀缺、情報有限的條件下，判斷哪些風險值得整座城市承擔。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "漫長探索的責任",
+        "prose": "白銀城世代尋找通往正常世界的道路，許多探索隊為此付出生命。科林延續前人未完成的目標，逐漸成為能在絕望中維持秩序的人物。他對古老信仰抱有敬意，卻不會因某個訊息自稱神諭就放棄自身判斷。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "對戴里克的態度",
+        "prose": "戴里克加入塔羅會及接觸外界後，帶回異常知識和新的可能。科林必須同時考慮少年是否可信、城市能否承擔接觸外部存在的風險，以及那些情報是否真的能讓居民離開黑暗。兩人的關係不僅是首席對年輕隊員的命令，也包含對下一代的期待。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "洛薇雅與城內分歧",
+        "prose": "洛薇雅在白銀城的宗教立場及對真實造物主的信仰，與城市管理及探索方向產生衝突。科林既需要警戒潛在污染，也不能忽視追尋出路的迫切需要；其決定展現的是艱難環境中的領導權衡，而非普通官員的教條命令。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "巨人王庭最後遠征",
+        "prose": "科林率隊走向巨人王庭，面對暗天使殘留力量與神棄之地最深處的秘密。這場遠征需要的不只是戰力，也包括犧牲、信任和對歷史錯誤的承擔。他在關鍵時刻選擇為白銀城的未來付出代價。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "遺志與新白銀城",
+        "prose": "雖然科林未能以普通人的方式見證城市之後的所有生活，但後來白銀城居民得以走出神棄之地，其努力與抉擇構成重要基礎。應以歷史領導者與逝者來記錄他對戴里克及新白銀城的影響，不得將後期的城市行政職務自動賦予他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8b08b8f6279d.html"
+        ],
+        "status": "narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "完整章節與確切時序",
+      "組織任職起訖與序列的每次晉升",
+      "關係轉折和後期狀態精確時間點"
+    ],
+    "quality_note": "原創連貫生平摘要待使用者核對；不代表完成逐章驗證。"
   }
 }
