@@ -1,0 +1,130 @@
+{
+  "schema_version": "1.0",
+  "source_page_id": "cn-p-8c1fe7cdf1ec",
+  "source_title": "胡德·欧根",
+  "source_title_traditional": "胡德·歐根",
+  "original_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+  "index_metrics": {
+    "chapters": "16",
+    "facts": "21",
+    "first_appearance": "诡秘·117"
+  },
+  "source_navigation": {
+    "headings": [
+      "別名與尊名",
+      "生平綱要",
+      "瘋人院裏的協助者 第1卷 小丑 · 第117–210章",
+      "關鍵事件",
+      "心靈世界中的追問",
+      "能力與序列",
+      "關係圖",
+      "關係",
+      "外貌與形象描寫",
+      "作者設定集"
+    ],
+    "compact_infobox_fields": {},
+    "chapter_links": [
+      {
+        "label": "《詭祕》第1卷·第117章",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0117.html"
+      },
+      {
+        "label": "《詭祕》第5卷·第985章",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0985.html"
+      },
+      {
+        "label": "詭祕·174",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0174.html"
+      },
+      {
+        "label": "詭祕·175",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0175.html"
+      },
+      {
+        "label": "詭祕·185",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0185.html"
+      },
+      {
+        "label": "詭祕·142",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0142.html"
+      },
+      {
+        "label": "詭祕·17",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0017.html"
+      },
+      {
+        "label": "詭祕·31",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0031.html"
+      },
+      {
+        "label": "詭祕·46",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0046.html"
+      },
+      {
+        "label": "詭祕·116",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0116.html"
+      },
+      {
+        "label": "詭祕·155",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0155.html"
+      },
+      {
+        "label": "詭祕·156",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0156.html"
+      }
+    ]
+  },
+  "biography_stage_outline": [
+    {
+      "stage": 1,
+      "heading": "瘋人院裏的協助者 第1卷 小丑 · 第117–210章",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 2,
+      "heading": "心靈世界中的追問",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 3,
+      "heading": "能力與序列",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 4,
+      "heading": "關係圖",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 5,
+      "heading": "外貌與形象描寫",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 6,
+      "heading": "作者設定集",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-8c1fe7cdf1ec.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    }
+  ],
+  "identity_resolution": {
+    "source_page_number": 254,
+    "match_status": "exact_name_candidate",
+    "candidate_character_ids": [
+      "hood-eugen"
+    ],
+    "verified_character_id": null,
+    "needs_user_review": true
+  },
+  "research_status": {
+    "source_page_fetch": "complete",
+    "biography": "not_validated",
+    "user_review": "pending"
+  },
+  "citation_policy": "只存索引標題與極短的事實資料欄，沒有轉存百科的生平正文或小說原文"
+}

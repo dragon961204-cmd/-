@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "source_page_id": "cn-p-65d8ef02b0b9",
+  "source_title": "韦尔奇",
+  "source_title_traditional": "韋爾奇",
+  "original_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+  "index_metrics": {
+    "chapters": "37",
+    "facts": "33",
+    "first_appearance": "诡秘·9"
+  },
+  "source_navigation": {
+    "headings": [
+      "別名與尊名",
+      "生平綱要",
+      "筆記與自殺 第1卷 小丑 · 第9–103章",
+      "歸葬康斯頓",
+      "關係圖",
+      "關係",
+      "相關物品",
+      "外貌與形象描寫"
+    ],
+    "compact_infobox_fields": {},
+    "chapter_links": [
+      {
+        "label": "《詭祕》第1卷·第9章",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0009.html"
+      },
+      {
+        "label": "《詭祕》第1卷·第143章",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0143.html"
+      },
+      {
+        "label": "詭祕·10",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0010.html"
+      },
+      {
+        "label": "詭祕·42",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0042.html"
+      },
+      {
+        "label": "詭祕·103",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0103.html"
+      },
+      {
+        "label": "詭祕·24",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0024.html"
+      },
+      {
+        "label": "詭祕·38",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0038.html"
+      },
+      {
+        "label": "詭祕·14",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0014.html"
+      },
+      {
+        "label": "詭祕·22",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0022.html"
+      },
+      {
+        "label": "詭祕·1297",
+        "url": "https://lotmfanwiki.com/chapter/lotm-1297.html"
+      },
+      {
+        "label": "詭祕·210",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0210.html"
+      },
+      {
+        "label": "詭祕·100",
+        "url": "https://lotmfanwiki.com/chapter/lotm-0100.html"
+      }
+    ]
+  },
+  "biography_stage_outline": [
+    {
+      "stage": 1,
+      "heading": "筆記與自殺 第1卷 小丑 · 第9–103章",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 2,
+      "heading": "歸葬康斯頓",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 3,
+      "heading": "關係圖",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 4,
+      "heading": "相關物品",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 5,
+      "heading": "外貌與形象描寫",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-65d8ef02b0b9.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    }
+  ],
+  "identity_resolution": {
+    "source_page_number": 264,
+    "match_status": "partial_name_candidate",
+    "candidate_character_ids": [
+      "welch-mcgovern"
+    ],
+    "verified_character_id": null,
+    "needs_user_review": true
+  },
+  "research_status": {
+    "source_page_fetch": "complete",
+    "biography": "not_validated",
+    "user_review": "pending"
+  },
+  "citation_policy": "只存索引標題與極短的事實資料欄，沒有轉存百科的生平正文或小說原文"
+}

@@ -1,0 +1,122 @@
+{
+  "schema_version": "1.0",
+  "source_page_id": "cn-p-a7bf04e1cd6b",
+  "source_title": "雷蒙德",
+  "source_title_traditional": "雷蒙德",
+  "original_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+  "index_metrics": {
+    "chapters": "37",
+    "facts": "34",
+    "first_appearance": "宿命·3"
+  },
+  "source_navigation": {
+    "headings": [
+      "別名與尊名",
+      "生平綱要",
+      "科爾杜村的朋友 第1卷 夢魘 · 第3–108章",
+      "死因的確認 第2–3、7卷 · 第202–278章、第1045章",
+      "關係圖",
+      "關係",
+      "外貌與形象描寫",
+      "作者設定集"
+    ],
+    "compact_infobox_fields": {},
+    "chapter_links": [
+      {
+        "label": "《宿命》第1卷·第3章",
+        "url": "https://lotmfanwiki.com/chapter/coi-0003.html"
+      },
+      {
+        "label": "《宿命》第7卷·第1045章",
+        "url": "https://lotmfanwiki.com/chapter/coi-1045.html"
+      },
+      {
+        "label": "宿命·5",
+        "url": "https://lotmfanwiki.com/chapter/coi-0005.html"
+      },
+      {
+        "label": "宿命·20",
+        "url": "https://lotmfanwiki.com/chapter/coi-0020.html"
+      },
+      {
+        "label": "宿命·104",
+        "url": "https://lotmfanwiki.com/chapter/coi-0104.html"
+      },
+      {
+        "label": "宿命·7",
+        "url": "https://lotmfanwiki.com/chapter/coi-0007.html"
+      },
+      {
+        "label": "宿命·11",
+        "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+      },
+      {
+        "label": "宿命·16",
+        "url": "https://lotmfanwiki.com/chapter/coi-0016.html"
+      },
+      {
+        "label": "宿命·8",
+        "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+      },
+      {
+        "label": "宿命·30",
+        "url": "https://lotmfanwiki.com/chapter/coi-0030.html"
+      },
+      {
+        "label": "宿命·31",
+        "url": "https://lotmfanwiki.com/chapter/coi-0031.html"
+      },
+      {
+        "label": "宿命·63",
+        "url": "https://lotmfanwiki.com/chapter/coi-0063.html"
+      }
+    ]
+  },
+  "biography_stage_outline": [
+    {
+      "stage": 1,
+      "heading": "科爾杜村的朋友 第1卷 夢魘 · 第3–108章",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 2,
+      "heading": "死因的確認 第2–3、7卷 · 第202–278章、第1045章",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 3,
+      "heading": "關係圖",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 4,
+      "heading": "外貌與形象描寫",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    },
+    {
+      "stage": 5,
+      "heading": "作者設定集",
+      "source_url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "notes": "由來源頁段落標題提取；尚非核實的小說事件，無原創生平敘述"
+    }
+  ],
+  "identity_resolution": {
+    "source_page_number": 170,
+    "match_status": "partial_name_candidate",
+    "candidate_character_ids": [
+      "davy-raymond"
+    ],
+    "verified_character_id": null,
+    "needs_user_review": true
+  },
+  "research_status": {
+    "source_page_fetch": "complete",
+    "biography": "not_validated",
+    "user_review": "pending"
+  },
+  "citation_policy": "只存索引標題與極短的事實資料欄，沒有轉存百科的生平正文或小說原文"
+}

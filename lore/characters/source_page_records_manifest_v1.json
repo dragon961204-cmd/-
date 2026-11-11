@@ -1,0 +1,2689 @@
+{
+  "schema_version": "1.0",
+  "created": "2026-11-11",
+  "source_pages": 278,
+  "unique_ids": 278,
+  "notes": "來源頁逐頁建檔完成；這是研究索引與生平階段提綱，**不是278份完整傳記**。由來源頁面編號做永久鍵，不以中文姓名作唯一鍵。",
+  "statuses": {
+    "source_fetched": 278,
+    "biographies_validated": 0
+  },
+  "entries": [
+    {
+      "source_page_id": "cn-p-33746a77d29d",
+      "source_title": "盧米安",
+      "record": "lore/characters/source_page_records/cn-p-33746a77d29d.json",
+      "candidate_character_ids": [
+        "lumian-lee"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 21,
+      "first_appearance": "诡秘·302"
+    },
+    {
+      "source_page_id": "cn-p-ef5f0ffca4b0",
+      "source_title": "克萊恩",
+      "record": "lore/characters/source_page_records/cn-p-ef5f0ffca4b0.json",
+      "candidate_character_ids": [
+        "klein-moretti"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 23,
+      "first_appearance": "诡秘·1"
+    },
+    {
+      "source_page_id": "cn-p-9f8c2d06a60f",
+      "source_title": "芙蘭卡",
+      "record": "lore/characters/source_page_records/cn-p-9f8c2d06a60f.json",
+      "candidate_character_ids": [
+        "franca-roland"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 21,
+      "first_appearance": "宿命·153"
+    },
+    {
+      "source_page_id": "cn-p-9f60885478fb",
+      "source_title": "簡娜",
+      "record": "lore/characters/source_page_records/cn-p-9f60885478fb.json",
+      "candidate_character_ids": [
+        "jenna"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 18,
+      "first_appearance": "诡秘·166"
+    },
+    {
+      "source_page_id": "cn-p-b6201f5c4c1b",
+      "source_title": "奧黛麗",
+      "record": "lore/characters/source_page_records/cn-p-b6201f5c4c1b.json",
+      "candidate_character_ids": [
+        "audrey-hall"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 23,
+      "first_appearance": "诡秘·5"
+    },
+    {
+      "source_page_id": "cn-p-57e9626b8612",
+      "source_title": "“魔術師”女士",
+      "record": "lore/characters/source_page_records/cn-p-57e9626b8612.json",
+      "candidate_character_ids": [
+        "fors-wall"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 26,
+      "first_appearance": "诡秘·107"
+    },
+    {
+      "source_page_id": "cn-p-61827728a33d",
+      "source_title": "阿爾傑",
+      "record": "lore/characters/source_page_records/cn-p-61827728a33d.json",
+      "candidate_character_ids": [
+        "alger-wilson"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 22,
+      "first_appearance": "诡秘·5"
+    },
+    {
+      "source_page_id": "cn-p-39ce48173be2",
+      "source_title": "戴裏克",
+      "record": "lore/characters/source_page_records/cn-p-39ce48173be2.json",
+      "candidate_character_ids": [
+        "derrick-berg"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 24,
+      "first_appearance": "诡秘·137"
+    },
+    {
+      "source_page_id": "cn-p-651b36914bba",
+      "source_title": "倫納德",
+      "record": "lore/characters/source_page_records/cn-p-651b36914bba.json",
+      "candidate_character_ids": [
+        "leonard-mitchell"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 22,
+      "first_appearance": "诡秘·17"
+    },
+    {
+      "source_page_id": "cn-p-c79adb2ab4d9",
+      "source_title": "安東尼",
+      "record": "lore/characters/source_page_records/cn-p-c79adb2ab4d9.json",
+      "candidate_character_ids": [
+        "anthony-reid"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 17,
+      "first_appearance": "宿命·118"
+    },
+    {
+      "source_page_id": "cn-p-64b55e89180a",
+      "source_title": "嘉德麗雅",
+      "record": "lore/characters/source_page_records/cn-p-64b55e89180a.json",
+      "candidate_character_ids": [
+        "cattleya"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 21,
+      "first_appearance": "诡秘·292"
+    },
+    {
+      "source_page_id": "cn-p-9735d656fa1d",
+      "source_title": "埃姆林·懷特",
+      "record": "lore/characters/source_page_records/cn-p-9735d656fa1d.json",
+      "candidate_character_ids": [
+        "emlyn-white"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 22,
+      "first_appearance": "诡秘·316"
+    },
+    {
+      "source_page_id": "cn-p-e4e11eebaa1c",
+      "source_title": "阿蒙",
+      "record": "lore/characters/source_page_records/cn-p-e4e11eebaa1c.json",
+      "candidate_character_ids": [
+        "amon"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 20,
+      "first_appearance": "诡秘·355"
+    },
+    {
+      "source_page_id": "cn-p-279740237fb7",
+      "source_title": "達尼茲",
+      "record": "lore/characters/source_page_records/cn-p-279740237fb7.json",
+      "candidate_character_ids": [
+        "danitz"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 14,
+      "first_appearance": "诡秘·499"
+    },
+    {
+      "source_page_id": "cn-p-714eeb528537",
+      "source_title": "休",
+      "record": "lore/characters/source_page_records/cn-p-714eeb528537.json",
+      "candidate_character_ids": [
+        "xio-derecha"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 20,
+      "first_appearance": "诡秘·112"
+    },
+    {
+      "source_page_id": "cn-p-ac5e19d32139",
+      "source_title": "路德維希",
+      "record": "lore/characters/source_page_records/cn-p-ac5e19d32139.json",
+      "candidate_character_ids": [
+        "ludwig"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 16,
+      "first_appearance": "宿命·311"
+    },
+    {
+      "source_page_id": "cn-p-4e2aec8425d4",
+      "source_title": "奧蘿爾",
+      "record": "lore/characters/source_page_records/cn-p-4e2aec8425d4.json",
+      "candidate_character_ids": [
+        "aurore-lee"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 16,
+      "first_appearance": "宿命·1"
+    },
+    {
+      "source_page_id": "cn-p-b300f73a6402",
+      "source_title": "羅塞爾大帝",
+      "record": "lore/characters/source_page_records/cn-p-b300f73a6402.json",
+      "candidate_character_ids": [
+        "roselle-gustav"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 19,
+      "first_appearance": "诡秘·4"
+    },
+    {
+      "source_page_id": "cn-p-cd7cf34e5621",
+      "source_title": "鄧恩·史密斯",
+      "record": "lore/characters/source_page_records/cn-p-cd7cf34e5621.json",
+      "candidate_character_ids": [
+        "dunn-smith"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 13,
+      "first_appearance": "诡秘·10"
+    },
+    {
+      "source_page_id": "cn-p-dadb6de000dc",
+      "source_title": "真實造物主",
+      "record": "lore/characters/source_page_records/cn-p-dadb6de000dc.json",
+      "candidate_character_ids": [
+        "true-creator"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 20,
+      "first_appearance": "诡秘·18"
+    },
+    {
+      "source_page_id": "cn-p-8b08b8f6279d",
+      "source_title": "科林·伊利亞特",
+      "record": "lore/characters/source_page_records/cn-p-8b08b8f6279d.json",
+      "candidate_character_ids": [
+        "colin-iliad"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 16,
+      "first_appearance": "诡秘·219"
+    },
+    {
+      "source_page_id": "cn-p-281ebb304662",
+      "source_title": "盧加諾",
+      "record": "lore/characters/source_page_records/cn-p-281ebb304662.json",
+      "candidate_character_ids": [
+        "lugano-toscano"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 13,
+      "first_appearance": "宿命·288"
+    },
+    {
+      "source_page_id": "cn-p-66980eb3da05",
+      "source_title": "查拉圖",
+      "record": "lore/characters/source_page_records/cn-p-66980eb3da05.json",
+      "candidate_character_ids": [
+        "zaratul"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 21,
+      "first_appearance": "诡秘·59"
+    },
+    {
+      "source_page_id": "cn-p-08b0679523be",
+      "source_title": "安德森",
+      "record": "lore/characters/source_page_records/cn-p-08b0679523be.json",
+      "candidate_character_ids": [
+        "anderson-hood"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 16,
+      "first_appearance": "诡秘·649"
+    },
+    {
+      "source_page_id": "cn-p-b78f2777eb5d",
+      "source_title": "莎倫",
+      "record": "lore/characters/source_page_records/cn-p-b78f2777eb5d.json",
+      "candidate_character_ids": [
+        "sharron"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 19,
+      "first_appearance": "诡秘·248"
+    },
+    {
+      "source_page_id": "cn-p-fc12503fa6a6",
+      "source_title": "貝爾納黛",
+      "record": "lore/characters/source_page_records/cn-p-fc12503fa6a6.json",
+      "candidate_character_ids": [
+        "bernadette-gustav"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 19,
+      "first_appearance": "诡秘·264"
+    },
+    {
+      "source_page_id": "cn-p-9e899191db95",
+      "source_title": "羅珊",
+      "record": "lore/characters/source_page_records/cn-p-9e899191db95.json",
+      "candidate_character_ids": [
+        "rozanne"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 12,
+      "first_appearance": "诡秘·19"
+    },
+    {
+      "source_page_id": "cn-p-34f83b503735",
+      "source_title": "黑夜女神",
+      "record": "lore/characters/source_page_records/cn-p-34f83b503735.json",
+      "candidate_character_ids": [
+        "evernight-goddess"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 19,
+      "first_appearance": "诡秘·1"
+    },
+    {
+      "source_page_id": "cn-p-3d041f4bbedd",
+      "source_title": "阿茲克",
+      "record": "lore/characters/source_page_records/cn-p-3d041f4bbedd.json",
+      "candidate_character_ids": [
+        "azik-eggers"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 19,
+      "first_appearance": "诡秘·9"
+    },
+    {
+      "source_page_id": "cn-p-595fe5aca2ba",
+      "source_title": "蘇茜",
+      "record": "lore/characters/source_page_records/cn-p-595fe5aca2ba.json",
+      "candidate_character_ids": [
+        "susie"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 17,
+      "first_appearance": "诡秘·8"
+    },
+    {
+      "source_page_id": "cn-p-0182ae9bab02",
+      "source_title": "馬里奇",
+      "record": "lore/characters/source_page_records/cn-p-0182ae9bab02.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·233"
+    },
+    {
+      "source_page_id": "cn-p-36f11a6db1ae",
+      "source_title": "梅迪奇",
+      "record": "lore/characters/source_page_records/cn-p-36f11a6db1ae.json",
+      "candidate_character_ids": [
+        "medici"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 18,
+      "first_appearance": "诡秘·262"
+    },
+    {
+      "source_page_id": "cn-p-9bdb2381a54a",
+      "source_title": "加德納.馬丁",
+      "record": "lore/characters/source_page_records/cn-p-9bdb2381a54a.json",
+      "candidate_character_ids": [
+        "gardner-martin"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 12,
+      "first_appearance": "宿命·167"
+    },
+    {
+      "source_page_id": "cn-p-c1c649ad40fa",
+      "source_title": "蕾妮特·緹尼科爾",
+      "record": "lore/characters/source_page_records/cn-p-c1c649ad40fa.json",
+      "candidate_character_ids": [
+        "reinette-tinekerr"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 12,
+      "first_appearance": "诡秘·597"
+    },
+    {
+      "source_page_id": "cn-p-ca42cdd0de8d",
+      "source_title": "梅麗莎",
+      "record": "lore/characters/source_page_records/cn-p-ca42cdd0de8d.json",
+      "candidate_character_ids": [
+        "melissa-moretti"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 11,
+      "first_appearance": "诡秘·2"
+    },
+    {
+      "source_page_id": "cn-p-a9cb839f4d9d",
+      "source_title": "紀堯姆.貝內",
+      "record": "lore/characters/source_page_records/cn-p-a9cb839f4d9d.json",
+      "candidate_character_ids": [
+        "guillaume-benet"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 13,
+      "first_appearance": "宿命·2"
+    },
+    {
+      "source_page_id": "cn-p-10ad8d8f76ba",
+      "source_title": "弗蘭克·李",
+      "record": "lore/characters/source_page_records/cn-p-10ad8d8f76ba.json",
+      "candidate_character_ids": [
+        "frank-lee"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 10,
+      "first_appearance": "诡秘·638"
+    },
+    {
+      "source_page_id": "cn-p-9d5d0767224a",
+      "source_title": "查理",
+      "record": "lore/characters/source_page_records/cn-p-9d5d0767224a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·11"
+    },
+    {
+      "source_page_id": "cn-p-c55d632b87e8",
+      "source_title": "阿不思",
+      "record": "lore/characters/source_page_records/cn-p-c55d632b87e8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·283"
+    },
+    {
+      "source_page_id": "cn-p-36cd76a73805",
+      "source_title": "原初魔女",
+      "record": "lore/characters/source_page_records/cn-p-36cd76a73805.json",
+      "candidate_character_ids": [
+        "primordial-demoness"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 18,
+      "first_appearance": "诡秘·61"
+    },
+    {
+      "source_page_id": "cn-p-68caba5092db",
+      "source_title": "帕列斯·索羅亞斯德",
+      "record": "lore/characters/source_page_records/cn-p-68caba5092db.json",
+      "candidate_character_ids": [
+        "pallez-zoroast"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·225"
+    },
+    {
+      "source_page_id": "cn-p-a96e18b0cabd",
+      "source_title": "威爾·昂賽汀",
+      "record": "lore/characters/source_page_records/cn-p-a96e18b0cabd.json",
+      "candidate_character_ids": [
+        "will-auceptin"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 17,
+      "first_appearance": "诡秘·326"
+    },
+    {
+      "source_page_id": "cn-p-77cb98c5511f",
+      "source_title": "海拉",
+      "record": "lore/characters/source_page_records/cn-p-77cb98c5511f.json",
+      "candidate_character_ids": [
+        "hela"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 12,
+      "first_appearance": "宿命·48"
+    },
+    {
+      "source_page_id": "cn-p-4c1eaba9437c",
+      "source_title": "天尊",
+      "record": "lore/characters/source_page_records/cn-p-4c1eaba9437c.json",
+      "candidate_character_ids": [
+        "celestial-worthy"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 17,
+      "first_appearance": "诡秘·57"
+    },
+    {
+      "source_page_id": "cn-p-a9db4c921431",
+      "source_title": "亞利斯塔.圖鐸",
+      "record": "lore/characters/source_page_records/cn-p-a9db4c921431.json",
+      "candidate_character_ids": [
+        "alista-tudor"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 21,
+      "first_appearance": "诡秘·9"
+    },
+    {
+      "source_page_id": "cn-p-a337da8b0e4b",
+      "source_title": "007",
+      "record": "lore/characters/source_page_records/cn-p-a337da8b0e4b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·142"
+    },
+    {
+      "source_page_id": "cn-p-e89d5f55f49c",
+      "source_title": "瓦倫泰",
+      "record": "lore/characters/source_page_records/cn-p-e89d5f55f49c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·1"
+    },
+    {
+      "source_page_id": "cn-p-33eb92d22a34",
+      "source_title": "普阿利斯夫人",
+      "record": "lore/characters/source_page_records/cn-p-33eb92d22a34.json",
+      "candidate_character_ids": [
+        "madame-pualis"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 10,
+      "first_appearance": "宿命·2"
+    },
+    {
+      "source_page_id": "cn-p-8c5ac10ec360",
+      "source_title": "特莉絲",
+      "record": "lore/characters/source_page_records/cn-p-8c5ac10ec360.json",
+      "candidate_character_ids": [
+        "trissy"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·56"
+    },
+    {
+      "source_page_id": "cn-p-769f20df4be7",
+      "source_title": "加繆",
+      "record": "lore/characters/source_page_records/cn-p-769f20df4be7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·639"
+    },
+    {
+      "source_page_id": "cn-p-52f21f356f37",
+      "source_title": "莉雅",
+      "record": "lore/characters/source_page_records/cn-p-52f21f356f37.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·1"
+    },
+    {
+      "source_page_id": "cn-p-69d1ed50f574",
+      "source_title": "洛薇雅",
+      "record": "lore/characters/source_page_records/cn-p-69d1ed50f574.json",
+      "candidate_character_ids": [
+        "lovia-tiffany"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·138"
+    },
+    {
+      "source_page_id": "cn-p-8f022cc58daf",
+      "source_title": "K先生",
+      "record": "lore/characters/source_page_records/cn-p-8f022cc58daf.json",
+      "candidate_character_ids": [
+        "mr-k"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 10,
+      "first_appearance": "宿命·123"
+    },
+    {
+      "source_page_id": "cn-p-b6b14eaad5eb",
+      "source_title": "阿芒迪娜",
+      "record": "lore/characters/source_page_records/cn-p-b6b14eaad5eb.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·662"
+    },
+    {
+      "source_page_id": "cn-p-d907aab88988",
+      "source_title": "塞尼奧爾",
+      "record": "lore/characters/source_page_records/cn-p-d907aab88988.json",
+      "candidate_character_ids": [
+        "senor"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 7,
+      "first_appearance": "诡秘·495"
+    },
+    {
+      "source_page_id": "cn-p-2c1a4f47e126",
+      "source_title": "老尼爾",
+      "record": "lore/characters/source_page_records/cn-p-2c1a4f47e126.json",
+      "candidate_character_ids": [
+        "old-neil"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 6,
+      "first_appearance": "诡秘·19"
+    },
+    {
+      "source_page_id": "cn-p-6a71505634ac",
+      "source_title": "艾德雯娜",
+      "record": "lore/characters/source_page_records/cn-p-6a71505634ac.json",
+      "candidate_character_ids": [
+        "edwina-edwards"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 13,
+      "first_appearance": "诡秘·292"
+    },
+    {
+      "source_page_id": "cn-p-1a98f3e5b612",
+      "source_title": "萊恩",
+      "record": "lore/characters/source_page_records/cn-p-1a98f3e5b612.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·1"
+    },
+    {
+      "source_page_id": "cn-p-ea477ac6ef6a",
+      "source_title": "班森",
+      "record": "lore/characters/source_page_records/cn-p-ea477ac6ef6a.json",
+      "candidate_character_ids": [
+        "benson-moretti"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·2"
+    },
+    {
+      "source_page_id": "cn-p-a727fb5e113e",
+      "source_title": "盧米安.李",
+      "record": "lore/characters/source_page_records/cn-p-a727fb5e113e.json",
+      "candidate_character_ids": [
+        "lumian-lee"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 12,
+      "first_appearance": "诡秘·264"
+    },
+    {
+      "source_page_id": "cn-p-e13cf6397fea",
+      "source_title": "艾辛格·斯坦頓",
+      "record": "lore/characters/source_page_records/cn-p-e13cf6397fea.json",
+      "candidate_character_ids": [
+        "isengard-stanton"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 9,
+      "first_appearance": "诡秘·157"
+    },
+    {
+      "source_page_id": "cn-p-41049987c96b",
+      "source_title": "偉大母親",
+      "record": "lore/characters/source_page_records/cn-p-41049987c96b.json",
+      "candidate_character_ids": [
+        "mother-goddess-of-depravity"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 12,
+      "first_appearance": "诡秘·362"
+    },
+    {
+      "source_page_id": "cn-p-2c194ca7d453",
+      "source_title": "戴莉",
+      "record": "lore/characters/source_page_records/cn-p-2c194ca7d453.json",
+      "candidate_character_ids": [
+        "daly-simone"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 10,
+      "first_appearance": "诡秘·14"
+    },
+    {
+      "source_page_id": "cn-p-10a293a657aa",
+      "source_title": "路易斯.隆德",
+      "record": "lore/characters/source_page_records/cn-p-10a293a657aa.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·1076"
+    },
+    {
+      "source_page_id": "cn-p-3d05572742c8",
+      "source_title": "西索",
+      "record": "lore/characters/source_page_records/cn-p-3d05572742c8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·377"
+    },
+    {
+      "source_page_id": "cn-p-9856f2af9cc1",
+      "source_title": "海柔爾",
+      "record": "lore/characters/source_page_records/cn-p-9856f2af9cc1.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·759"
+    },
+    {
+      "source_page_id": "cn-p-9e387ce01ea2",
+      "source_title": "黑之魔女",
+      "record": "lore/characters/source_page_records/cn-p-9e387ce01ea2.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "宿命·417"
+    },
+    {
+      "source_page_id": "cn-p-9c31ebd50ba0",
+      "source_title": "因斯·贊格威爾",
+      "record": "lore/characters/source_page_records/cn-p-9c31ebd50ba0.json",
+      "candidate_character_ids": [
+        "ince-zangwill"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·19"
+    },
+    {
+      "source_page_id": "cn-p-fbbb62939e8a",
+      "source_title": "瓦爾特",
+      "record": "lore/characters/source_page_records/cn-p-fbbb62939e8a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·738"
+    },
+    {
+      "source_page_id": "cn-p-417b5c05ce0a",
+      "source_title": "丘納斯·科爾格",
+      "record": "lore/characters/source_page_records/cn-p-417b5c05ce0a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·889"
+    },
+    {
+      "source_page_id": "cn-p-1faa8d99fbe6",
+      "source_title": "達克威爾",
+      "record": "lore/characters/source_page_records/cn-p-1faa8d99fbe6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·241"
+    },
+    {
+      "source_page_id": "cn-p-2d06878479cd",
+      "source_title": "烏特拉夫斯基神父",
+      "record": "lore/characters/source_page_records/cn-p-2d06878479cd.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·302"
+    },
+    {
+      "source_page_id": "cn-p-9fba75909089",
+      "source_title": "“門”先生",
+      "record": "lore/characters/source_page_records/cn-p-9fba75909089.json",
+      "candidate_character_ids": [
+        "bethel-abraham"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 12,
+      "first_appearance": "诡秘·217"
+    },
+    {
+      "source_page_id": "cn-p-f3a9b431bb33",
+      "source_title": "潘娜蒂亞",
+      "record": "lore/characters/source_page_records/cn-p-f3a9b431bb33.json",
+      "candidate_character_ids": [
+        "panatiya"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·475"
+    },
+    {
+      "source_page_id": "cn-p-15c1e0f29384",
+      "source_title": "恩尤尼",
+      "record": "lore/characters/source_page_records/cn-p-15c1e0f29384.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·978"
+    },
+    {
+      "source_page_id": "cn-p-6bbf9c2eb32b",
+      "source_title": "艾爾蘭",
+      "record": "lore/characters/source_page_records/cn-p-6bbf9c2eb32b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·490"
+    },
+    {
+      "source_page_id": "cn-p-6ef131d07024",
+      "source_title": "朱莉",
+      "record": "lore/characters/source_page_records/cn-p-6ef131d07024.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·1313"
+    },
+    {
+      "source_page_id": "cn-p-e45f9cf34143",
+      "source_title": "永恆烈陽",
+      "record": "lore/characters/source_page_records/cn-p-e45f9cf34143.json",
+      "candidate_character_ids": [
+        "eternal-blazing-sun"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 10,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-a8d3d20e2d52",
+      "source_title": "歐彌貝拉",
+      "record": "lore/characters/source_page_records/cn-p-a8d3d20e2d52.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 14,
+      "first_appearance": "诡秘·523"
+    },
+    {
+      "source_page_id": "cn-p-2343e0f32d46",
+      "source_title": "阿里安娜",
+      "record": "lore/characters/source_page_records/cn-p-2343e0f32d46.json",
+      "candidate_character_ids": [
+        "arianna"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·950"
+    },
+    {
+      "source_page_id": "cn-p-97dcd03d4503",
+      "source_title": "赫溫·蘭比斯",
+      "record": "lore/characters/source_page_records/cn-p-97dcd03d4503.json",
+      "candidate_character_ids": [
+        "hvin-rambis"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 10,
+      "first_appearance": "诡秘·889"
+    },
+    {
+      "source_page_id": "cn-p-f9c482016066",
+      "source_title": "佩爾樂",
+      "record": "lore/characters/source_page_records/cn-p-f9c482016066.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·179"
+    },
+    {
+      "source_page_id": "cn-p-1337be261340",
+      "source_title": "理查德森",
+      "record": "lore/characters/source_page_records/cn-p-1337be261340.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·748"
+    },
+    {
+      "source_page_id": "cn-p-f5768e8e8f15",
+      "source_title": "霍爾伯爵",
+      "record": "lore/characters/source_page_records/cn-p-f5768e8e8f15.json",
+      "candidate_character_ids": [
+        "count-hall"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 8,
+      "first_appearance": "诡秘·8"
+    },
+    {
+      "source_page_id": "cn-p-899f9cbb617d",
+      "source_title": "瓦贊.桑松",
+      "record": "lore/characters/source_page_records/cn-p-899f9cbb617d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·408"
+    },
+    {
+      "source_page_id": "cn-p-e81c2e2eb881",
+      "source_title": "艾彌留斯·利維特",
+      "record": "lore/characters/source_page_records/cn-p-e81c2e2eb881.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·620"
+    },
+    {
+      "source_page_id": "cn-p-7d765623b9c2",
+      "source_title": "多里安·格雷·亞伯拉罕",
+      "record": "lore/characters/source_page_records/cn-p-7d765623b9c2.json",
+      "candidate_character_ids": [
+        "dorian-gray-abraham"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·404"
+    },
+    {
+      "source_page_id": "cn-p-3f2c165b8249",
+      "source_title": "大地母神",
+      "record": "lore/characters/source_page_records/cn-p-3f2c165b8249.json",
+      "candidate_character_ids": [
+        "earth-mother"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 12,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-2f28b3dfa3a3",
+      "source_title": "蘇珊娜.馬蒂斯",
+      "record": "lore/characters/source_page_records/cn-p-2f28b3dfa3a3.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·112"
+    },
+    {
+      "source_page_id": "cn-p-e4a31a23d758",
+      "source_title": "艾倫·克瑞斯",
+      "record": "lore/characters/source_page_records/cn-p-e4a31a23d758.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·245"
+    },
+    {
+      "source_page_id": "cn-p-da42e6cfdcd1",
+      "source_title": "慾望母樹",
+      "record": "lore/characters/source_page_records/cn-p-da42e6cfdcd1.json",
+      "candidate_character_ids": [
+        "mother-tree-of-desire"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 15,
+      "first_appearance": "诡秘·624"
+    },
+    {
+      "source_page_id": "cn-p-ab9bac50a9cc",
+      "source_title": "A先生",
+      "record": "lore/characters/source_page_records/cn-p-ab9bac50a9cc.json",
+      "candidate_character_ids": [
+        "mr-a"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·130"
+    },
+    {
+      "source_page_id": "cn-p-b7228e462eb0",
+      "source_title": "莫蘭.阿維尼",
+      "record": "lore/characters/source_page_records/cn-p-b7228e462eb0.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·614"
+    },
+    {
+      "source_page_id": "cn-p-da9f77830dc8",
+      "source_title": "胡安.奧羅",
+      "record": "lore/characters/source_page_records/cn-p-da9f77830dc8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·546"
+    },
+    {
+      "source_page_id": "cn-p-06ac75d7fa42",
+      "source_title": "拿波瑞狄斯利",
+      "record": "lore/characters/source_page_records/cn-p-06ac75d7fa42.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·180"
+    },
+    {
+      "source_page_id": "cn-p-a0ccb583faa9",
+      "source_title": "拉託.吉亞羅",
+      "record": "lore/characters/source_page_records/cn-p-a0ccb583faa9.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·377"
+    },
+    {
+      "source_page_id": "cn-p-a67009da2599",
+      "source_title": "瑞雅",
+      "record": "lore/characters/source_page_records/cn-p-a67009da2599.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·661"
+    },
+    {
+      "source_page_id": "cn-p-4a41fd0b0807",
+      "source_title": "布里涅爾男爵",
+      "record": "lore/characters/source_page_records/cn-p-4a41fd0b0807.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·117"
+    },
+    {
+      "source_page_id": "cn-p-44a38271b78c",
+      "source_title": "齊林格斯",
+      "record": "lore/characters/source_page_records/cn-p-44a38271b78c.json",
+      "candidate_character_ids": [
+        "qilangos"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 9,
+      "first_appearance": "诡秘·145"
+    },
+    {
+      "source_page_id": "cn-p-53df6eb1ccae",
+      "source_title": "特雷茜",
+      "record": "lore/characters/source_page_records/cn-p-53df6eb1ccae.json",
+      "candidate_character_ids": [
+        "tracy"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·292"
+    },
+    {
+      "source_page_id": "cn-p-daedd6d7c677",
+      "source_title": "喬治三世",
+      "record": "lore/characters/source_page_records/cn-p-daedd6d7c677.json",
+      "candidate_character_ids": [
+        "george-augustus-iii"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·2"
+    },
+    {
+      "source_page_id": "cn-p-8653377d38f9",
+      "source_title": "死神",
+      "record": "lore/characters/source_page_records/cn-p-8653377d38f9.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 13,
+      "first_appearance": "诡秘·28"
+    },
+    {
+      "source_page_id": "cn-p-e16e268ad87c",
+      "source_title": "蘭爾烏斯",
+      "record": "lore/characters/source_page_records/cn-p-e16e268ad87c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·62"
+    },
+    {
+      "source_page_id": "cn-p-85ce0d7844a5",
+      "source_title": "隱匿賢者",
+      "record": "lore/characters/source_page_records/cn-p-85ce0d7844a5.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·61"
+    },
+    {
+      "source_page_id": "cn-p-7bd9fee60e24",
+      "source_title": "風暴之主",
+      "record": "lore/characters/source_page_records/cn-p-7bd9fee60e24.json",
+      "candidate_character_ids": [
+        "lord-of-storms"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 10,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-1eda6af17544",
+      "source_title": "恩佐",
+      "record": "lore/characters/source_page_records/cn-p-1eda6af17544.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·908"
+    },
+    {
+      "source_page_id": "cn-p-37ae8be05456",
+      "source_title": "伊康瑟·伯納德",
+      "record": "lore/characters/source_page_records/cn-p-37ae8be05456.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·351"
+    },
+    {
+      "source_page_id": "cn-p-345b2c212bfd",
+      "source_title": "卡維圖瓦",
+      "record": "lore/characters/source_page_records/cn-p-345b2c212bfd.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·536"
+    },
+    {
+      "source_page_id": "cn-p-63bf512a814d",
+      "source_title": "維爾杜",
+      "record": "lore/characters/source_page_records/cn-p-63bf512a814d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·1298"
+    },
+    {
+      "source_page_id": "cn-p-f97d917f54f9",
+      "source_title": "路德維爾",
+      "record": "lore/characters/source_page_records/cn-p-f97d917f54f9.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·35"
+    },
+    {
+      "source_page_id": "cn-p-3c343a95ba2e",
+      "source_title": "弗萊",
+      "record": "lore/characters/source_page_records/cn-p-3c343a95ba2e.json",
+      "candidate_character_ids": [
+        "frye"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 7,
+      "first_appearance": "诡秘·42"
+    },
+    {
+      "source_page_id": "cn-p-f33904804385",
+      "source_title": "加布裏埃爾",
+      "record": "lore/characters/source_page_records/cn-p-f33904804385.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·129"
+    },
+    {
+      "source_page_id": "cn-p-8238a96dcf49",
+      "source_title": "卡特琳娜",
+      "record": "lore/characters/source_page_records/cn-p-8238a96dcf49.json",
+      "candidate_character_ids": [
+        "katarina-pelle"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·588"
+    },
+    {
+      "source_page_id": "cn-p-c91fe198ae9d",
+      "source_title": "哈里森",
+      "record": "lore/characters/source_page_records/cn-p-c91fe198ae9d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·507"
+    },
+    {
+      "source_page_id": "cn-p-89dc7f623097",
+      "source_title": "于格.阿圖瓦",
+      "record": "lore/characters/source_page_records/cn-p-89dc7f623097.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·170"
+    },
+    {
+      "source_page_id": "cn-p-4f33c322ab0c",
+      "source_title": "普伊弗伯爵",
+      "record": "lore/characters/source_page_records/cn-p-4f33c322ab0c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·339"
+    },
+    {
+      "source_page_id": "cn-p-406fdbf46ed7",
+      "source_title": "克里斯托",
+      "record": "lore/characters/source_page_records/cn-p-406fdbf46ed7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·153"
+    },
+    {
+      "source_page_id": "cn-p-7ae8d276426a",
+      "source_title": "蒸汽與機械之神",
+      "record": "lore/characters/source_page_records/cn-p-7ae8d276426a.json",
+      "candidate_character_ids": [
+        "steam-god"
+      ],
+      "match_status": "new_character_candidate_created",
+      "stage_count": 11,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-4853c2f4fde7",
+      "source_title": "馬赫特議員",
+      "record": "lore/characters/source_page_records/cn-p-4853c2f4fde7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·753"
+    },
+    {
+      "source_page_id": "cn-p-27606653b71a",
+      "source_title": "烏洛琉斯",
+      "record": "lore/characters/source_page_records/cn-p-27606653b71a.json",
+      "candidate_character_ids": [
+        "ouroboros"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 10,
+      "first_appearance": "诡秘·467"
+    },
+    {
+      "source_page_id": "cn-p-27ed60b8615d",
+      "source_title": "莫貝特",
+      "record": "lore/characters/source_page_records/cn-p-27ed60b8615d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·697"
+    },
+    {
+      "source_page_id": "cn-p-bea8e96c7fad",
+      "source_title": "薩斯利爾",
+      "record": "lore/characters/source_page_records/cn-p-bea8e96c7fad.json",
+      "candidate_character_ids": [
+        "sasrir"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·666"
+    },
+    {
+      "source_page_id": "cn-p-c173d6e41912",
+      "source_title": "文德爾",
+      "record": "lore/characters/source_page_records/cn-p-c173d6e41912.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·1330"
+    },
+    {
+      "source_page_id": "cn-p-29b349ed9952",
+      "source_title": "塔利姆",
+      "record": "lore/characters/source_page_records/cn-p-29b349ed9952.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·245"
+    },
+    {
+      "source_page_id": "cn-p-e94e7231539b",
+      "source_title": "吟遊詩人",
+      "record": "lore/characters/source_page_records/cn-p-e94e7231539b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·377"
+    },
+    {
+      "source_page_id": "cn-p-1a7fae240920",
+      "source_title": "教授",
+      "record": "lore/characters/source_page_records/cn-p-1a7fae240920.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·376"
+    },
+    {
+      "source_page_id": "cn-p-27a30707e737",
+      "source_title": "伊恩",
+      "record": "lore/characters/source_page_records/cn-p-27a30707e737.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·215"
+    },
+    {
+      "source_page_id": "cn-p-f8080a7bb7e7",
+      "source_title": "米歇爾",
+      "record": "lore/characters/source_page_records/cn-p-f8080a7bb7e7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·633"
+    },
+    {
+      "source_page_id": "cn-p-9c168938a7f7",
+      "source_title": "皮埃爾.貝里",
+      "record": "lore/characters/source_page_records/cn-p-9c168938a7f7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·4"
+    },
+    {
+      "source_page_id": "cn-p-2c0af98442fb",
+      "source_title": "巴特納",
+      "record": "lore/characters/source_page_records/cn-p-2c0af98442fb.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·516"
+    },
+    {
+      "source_page_id": "cn-p-1eb10494cf32",
+      "source_title": "克里維斯",
+      "record": "lore/characters/source_page_records/cn-p-1eb10494cf32.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·492"
+    },
+    {
+      "source_page_id": "cn-p-32c95cc14b77",
+      "source_title": "瑪麗夫人",
+      "record": "lore/characters/source_page_records/cn-p-32c95cc14b77.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·242"
+    },
+    {
+      "source_page_id": "cn-p-548dda9ab4b3",
+      "source_title": "布提斯",
+      "record": "lore/characters/source_page_records/cn-p-548dda9ab4b3.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·374"
+    },
+    {
+      "source_page_id": "cn-p-debb373e155b",
+      "source_title": "堂娜",
+      "record": "lore/characters/source_page_records/cn-p-debb373e155b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·493"
+    },
+    {
+      "source_page_id": "cn-p-8986b0826749",
+      "source_title": "瘋女",
+      "record": "lore/characters/source_page_records/cn-p-8986b0826749.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·377"
+    },
+    {
+      "source_page_id": "cn-p-f1641d6f0946",
+      "source_title": "邁克·約瑟夫",
+      "record": "lore/characters/source_page_records/cn-p-f1641d6f0946.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·270"
+    },
+    {
+      "source_page_id": "cn-p-5522c41b0f1d",
+      "source_title": "克雷斯泰·塞西瑪",
+      "record": "lore/characters/source_page_records/cn-p-5522c41b0f1d.json",
+      "candidate_character_ids": [
+        "crestet-cesimir"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 8,
+      "first_appearance": "诡秘·166"
+    },
+    {
+      "source_page_id": "cn-p-b01a44a38552",
+      "source_title": "夏塔絲",
+      "record": "lore/characters/source_page_records/cn-p-b01a44a38552.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·506"
+    },
+    {
+      "source_page_id": "cn-p-0e7dede9c319",
+      "source_title": "宿命之環",
+      "record": "lore/characters/source_page_records/cn-p-0e7dede9c319.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 12,
+      "first_appearance": "诡秘·1270"
+    },
+    {
+      "source_page_id": "cn-p-69dae8e87645",
+      "source_title": "安提哥努斯",
+      "record": "lore/characters/source_page_records/cn-p-69dae8e87645.json",
+      "candidate_character_ids": [
+        "antigonus"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 11,
+      "first_appearance": "诡秘·833"
+    },
+    {
+      "source_page_id": "cn-p-101d4a616384",
+      "source_title": "瓦納克",
+      "record": "lore/characters/source_page_records/cn-p-101d4a616384.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·798"
+    },
+    {
+      "source_page_id": "cn-p-db9e68ef6ba7",
+      "source_title": "布朗絲.索倫",
+      "record": "lore/characters/source_page_records/cn-p-db9e68ef6ba7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·400"
+    },
+    {
+      "source_page_id": "cn-p-c7fa2ca085af",
+      "source_title": "索斯特",
+      "record": "lore/characters/source_page_records/cn-p-c7fa2ca085af.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·402"
+    },
+    {
+      "source_page_id": "cn-p-6d30b83d8f7b",
+      "source_title": "烏黯魔狼",
+      "record": "lore/characters/source_page_records/cn-p-6d30b83d8f7b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·1170"
+    },
+    {
+      "source_page_id": "cn-p-9ea07c9e9c16",
+      "source_title": "布爾曼",
+      "record": "lore/characters/source_page_records/cn-p-9ea07c9e9c16.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·521"
+    },
+    {
+      "source_page_id": "cn-p-08cbc3803a6a",
+      "source_title": "那位女士",
+      "record": "lore/characters/source_page_records/cn-p-08cbc3803a6a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "宿命·6"
+    },
+    {
+      "source_page_id": "cn-p-e5342d25de3d",
+      "source_title": "尼根公爵",
+      "record": "lore/characters/source_page_records/cn-p-e5342d25de3d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·8"
+    },
+    {
+      "source_page_id": "cn-p-c12365f6b54c",
+      "source_title": "愛洛絲",
+      "record": "lore/characters/source_page_records/cn-p-c12365f6b54c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·367"
+    },
+    {
+      "source_page_id": "cn-p-9a1d263170fa",
+      "source_title": "奧斯塔.特魯爾",
+      "record": "lore/characters/source_page_records/cn-p-9a1d263170fa.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·113"
+    },
+    {
+      "source_page_id": "cn-p-ea04bbd0af4d",
+      "source_title": "最初那位造物主",
+      "record": "lore/characters/source_page_records/cn-p-ea04bbd0af4d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 14,
+      "first_appearance": "诡秘·433"
+    },
+    {
+      "source_page_id": "cn-p-173651dbfdf6",
+      "source_title": "科恩黎",
+      "record": "lore/characters/source_page_records/cn-p-173651dbfdf6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·42"
+    },
+    {
+      "source_page_id": "cn-p-ae2fee4704bb",
+      "source_title": "老科勒",
+      "record": "lore/characters/source_page_records/cn-p-ae2fee4704bb.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·353"
+    },
+    {
+      "source_page_id": "cn-p-f082db416852",
+      "source_title": "伊麗莎白",
+      "record": "lore/characters/source_page_records/cn-p-f082db416852.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·70"
+    },
+    {
+      "source_page_id": "cn-p-d8ee10974a9e",
+      "source_title": "朱利安",
+      "record": "lore/characters/source_page_records/cn-p-d8ee10974a9e.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·215"
+    },
+    {
+      "source_page_id": "cn-p-e8f8f0be4a32",
+      "source_title": "拜爾斯",
+      "record": "lore/characters/source_page_records/cn-p-e8f8f0be4a32.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·11"
+    },
+    {
+      "source_page_id": "cn-p-6711615bdf0d",
+      "source_title": "夏爾夫",
+      "record": "lore/characters/source_page_records/cn-p-6711615bdf0d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·902"
+    },
+    {
+      "source_page_id": "cn-p-de124147e5c1",
+      "source_title": "格羅塞爾",
+      "record": "lore/characters/source_page_records/cn-p-de124147e5c1.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·576"
+    },
+    {
+      "source_page_id": "cn-p-5bb8154885be",
+      "source_title": "“玩偶”信使",
+      "record": "lore/characters/source_page_records/cn-p-5bb8154885be.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·276"
+    },
+    {
+      "source_page_id": "cn-p-c662948bd5a5",
+      "source_title": "燈神",
+      "record": "lore/characters/source_page_records/cn-p-c662948bd5a5.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "诡秘·1145"
+    },
+    {
+      "source_page_id": "cn-p-fb8730bf5918",
+      "source_title": "知識與智慧之神",
+      "record": "lore/characters/source_page_records/cn-p-fb8730bf5918.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-f87a97653596",
+      "source_title": "雪倫夫人",
+      "record": "lore/characters/source_page_records/cn-p-f87a97653596.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·174"
+    },
+    {
+      "source_page_id": "cn-p-3a5669dab6b7",
+      "source_title": "埃德薩克王子",
+      "record": "lore/characters/source_page_records/cn-p-3a5669dab6b7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·438"
+    },
+    {
+      "source_page_id": "cn-p-3bf08374a931",
+      "source_title": "黛西",
+      "record": "lore/characters/source_page_records/cn-p-3bf08374a931.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·373"
+    },
+    {
+      "source_page_id": "cn-p-6d55bc3191e1",
+      "source_title": "格林",
+      "record": "lore/characters/source_page_records/cn-p-6d55bc3191e1.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·59"
+    },
+    {
+      "source_page_id": "cn-p-61b8b20f07d6",
+      "source_title": "我有個朋友",
+      "record": "lore/characters/source_page_records/cn-p-61b8b20f07d6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·377"
+    },
+    {
+      "source_page_id": "cn-p-8802625902dd",
+      "source_title": "哈爾.康斯坦丁",
+      "record": "lore/characters/source_page_records/cn-p-8802625902dd.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·292"
+    },
+    {
+      "source_page_id": "cn-p-713bb72c71a6",
+      "source_title": "卡利神甫",
+      "record": "lore/characters/source_page_records/cn-p-713bb72c71a6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·663"
+    },
+    {
+      "source_page_id": "cn-p-beabd9fa1f3f",
+      "source_title": "斯塔琳·薩默爾",
+      "record": "lore/characters/source_page_records/cn-p-beabd9fa1f3f.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·215"
+    },
+    {
+      "source_page_id": "cn-p-a7e3ce89750a",
+      "source_title": "古辛",
+      "record": "lore/characters/source_page_records/cn-p-a7e3ce89750a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·798"
+    },
+    {
+      "source_page_id": "cn-p-a7bf04e1cd6b",
+      "source_title": "雷蒙德",
+      "record": "lore/characters/source_page_records/cn-p-a7bf04e1cd6b.json",
+      "candidate_character_ids": [
+        "davy-raymond"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 5,
+      "first_appearance": "宿命·3"
+    },
+    {
+      "source_page_id": "cn-p-1e2f34c1f427",
+      "source_title": "格萊林特子爵",
+      "record": "lore/characters/source_page_records/cn-p-1e2f34c1f427.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·61"
+    },
+    {
+      "source_page_id": "cn-p-ea9706356a3a",
+      "source_title": "X先生",
+      "record": "lore/characters/source_page_records/cn-p-ea9706356a3a.json",
+      "candidate_character_ids": [
+        "mr-x"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 7,
+      "first_appearance": "诡秘·646"
+    },
+    {
+      "source_page_id": "cn-p-7753cc3baaf2",
+      "source_title": "衰敗君王",
+      "record": "lore/characters/source_page_records/cn-p-7753cc3baaf2.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·1270"
+    },
+    {
+      "source_page_id": "cn-p-ebe6f7653cea",
+      "source_title": "蒙塞拉特神父",
+      "record": "lore/characters/source_page_records/cn-p-ebe6f7653cea.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·604"
+    },
+    {
+      "source_page_id": "cn-p-187dc4bfee0c",
+      "source_title": "斯厄阿",
+      "record": "lore/characters/source_page_records/cn-p-187dc4bfee0c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "诡秘·725"
+    },
+    {
+      "source_page_id": "cn-p-adf73835633d",
+      "source_title": "西蒙",
+      "record": "lore/characters/source_page_records/cn-p-adf73835633d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·153"
+    },
+    {
+      "source_page_id": "cn-p-af4ad974ba5a",
+      "source_title": "伊姆雷",
+      "record": "lore/characters/source_page_records/cn-p-af4ad974ba5a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·217"
+    },
+    {
+      "source_page_id": "cn-p-998967626e28",
+      "source_title": "吉達斯",
+      "record": "lore/characters/source_page_records/cn-p-998967626e28.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "宿命·318"
+    },
+    {
+      "source_page_id": "cn-p-6f33e9a6f331",
+      "source_title": "巴音費爾",
+      "record": "lore/characters/source_page_records/cn-p-6f33e9a6f331.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·503"
+    },
+    {
+      "source_page_id": "cn-p-629185ca5441",
+      "source_title": "冥道人",
+      "record": "lore/characters/source_page_records/cn-p-629185ca5441.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·373"
+    },
+    {
+      "source_page_id": "cn-p-ee2d1170ed98",
+      "source_title": "于爾根",
+      "record": "lore/characters/source_page_records/cn-p-ee2d1170ed98.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·222"
+    },
+    {
+      "source_page_id": "cn-p-94c8d666d5ac",
+      "source_title": "阿爾弗雷德",
+      "record": "lore/characters/source_page_records/cn-p-94c8d666d5ac.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·176"
+    },
+    {
+      "source_page_id": "cn-p-e8ed0b3e6b1c",
+      "source_title": "辛西婭",
+      "record": "lore/characters/source_page_records/cn-p-e8ed0b3e6b1c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·621"
+    },
+    {
+      "source_page_id": "cn-p-05de66b7ba72",
+      "source_title": "“黑蠍”羅傑",
+      "record": "lore/characters/source_page_records/cn-p-05de66b7ba72.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·132"
+    },
+    {
+      "source_page_id": "cn-p-fa862b0be844",
+      "source_title": "蓬斯.貝內",
+      "record": "lore/characters/source_page_records/cn-p-fa862b0be844.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·8"
+    },
+    {
+      "source_page_id": "cn-p-7561e0e646ac",
+      "source_title": "貝克朗",
+      "record": "lore/characters/source_page_records/cn-p-7561e0e646ac.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·228"
+    },
+    {
+      "source_page_id": "cn-p-9d3624a8bd05",
+      "source_title": "霍拉米克·海頓",
+      "record": "lore/characters/source_page_records/cn-p-9d3624a8bd05.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·324"
+    },
+    {
+      "source_page_id": "cn-p-58a17884538c",
+      "source_title": "安東尼·史蒂文森",
+      "record": "lore/characters/source_page_records/cn-p-58a17884538c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·474"
+    },
+    {
+      "source_page_id": "cn-p-03f2fe5b6789",
+      "source_title": "孽龍",
+      "record": "lore/characters/source_page_records/cn-p-03f2fe5b6789.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·1079"
+    },
+    {
+      "source_page_id": "cn-p-8f14de3e0fa7",
+      "source_title": "卡拉特",
+      "record": "lore/characters/source_page_records/cn-p-8f14de3e0fa7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·537"
+    },
+    {
+      "source_page_id": "cn-p-433293322936",
+      "source_title": "卡平",
+      "record": "lore/characters/source_page_records/cn-p-433293322936.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·271"
+    },
+    {
+      "source_page_id": "cn-p-0deb435c3d71",
+      "source_title": "奧爾森",
+      "record": "lore/characters/source_page_records/cn-p-0deb435c3d71.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·274"
+    },
+    {
+      "source_page_id": "cn-p-495367879d2c",
+      "source_title": "埃夫先生",
+      "record": "lore/characters/source_page_records/cn-p-495367879d2c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·113"
+    },
+    {
+      "source_page_id": "cn-p-91de7365aa04",
+      "source_title": "腓力將軍",
+      "record": "lore/characters/source_page_records/cn-p-91de7365aa04.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·308"
+    },
+    {
+      "source_page_id": "cn-p-2ea2fbfc75d5",
+      "source_title": "梅高歐絲",
+      "record": "lore/characters/source_page_records/cn-p-2ea2fbfc75d5.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·116"
+    },
+    {
+      "source_page_id": "cn-p-047599c4e463",
+      "source_title": "歐內斯·博雅爾",
+      "record": "lore/characters/source_page_records/cn-p-047599c4e463.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·969"
+    },
+    {
+      "source_page_id": "cn-p-be89bfc38868",
+      "source_title": "龍澤爾",
+      "record": "lore/characters/source_page_records/cn-p-be89bfc38868.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·697"
+    },
+    {
+      "source_page_id": "cn-p-85a9f059281b",
+      "source_title": "埃萊克特拉",
+      "record": "lore/characters/source_page_records/cn-p-85a9f059281b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·753"
+    },
+    {
+      "source_page_id": "cn-p-b2acd53de209",
+      "source_title": "盔甲幽影",
+      "record": "lore/characters/source_page_records/cn-p-b2acd53de209.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·319"
+    },
+    {
+      "source_page_id": "cn-p-2c5b28f3c19d",
+      "source_title": "羅伯特",
+      "record": "lore/characters/source_page_records/cn-p-2c5b28f3c19d.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·662"
+    },
+    {
+      "source_page_id": "cn-p-6e400915d203",
+      "source_title": "薩法莉",
+      "record": "lore/characters/source_page_records/cn-p-6e400915d203.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·129"
+    },
+    {
+      "source_page_id": "cn-p-4e40469a8075",
+      "source_title": "赫密斯",
+      "record": "lore/characters/source_page_records/cn-p-4e40469a8075.json",
+      "candidate_character_ids": [
+        "hermes"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 9,
+      "first_appearance": "诡秘·418"
+    },
+    {
+      "source_page_id": "cn-p-0ba53c4406d1",
+      "source_title": "伊蓮",
+      "record": "lore/characters/source_page_records/cn-p-0ba53c4406d1.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·562"
+    },
+    {
+      "source_page_id": "cn-p-e719a15af175",
+      "source_title": "甘道夫",
+      "record": "lore/characters/source_page_records/cn-p-e719a15af175.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·66"
+    },
+    {
+      "source_page_id": "cn-p-10a0d7e156f8",
+      "source_title": "阿娃",
+      "record": "lore/characters/source_page_records/cn-p-10a0d7e156f8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·7"
+    },
+    {
+      "source_page_id": "cn-p-4cc5ffe1c784",
+      "source_title": "蒙蘇里鬼魂",
+      "record": "lore/characters/source_page_records/cn-p-4cc5ffe1c784.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·123"
+    },
+    {
+      "source_page_id": "cn-p-621430cc602f",
+      "source_title": "亞恩·考特曼",
+      "record": "lore/characters/source_page_records/cn-p-621430cc602f.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·540"
+    },
+    {
+      "source_page_id": "cn-p-c0c139b31d3a",
+      "source_title": "布瓦爾.蓬派羅",
+      "record": "lore/characters/source_page_records/cn-p-c0c139b31d3a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·332"
+    },
+    {
+      "source_page_id": "cn-p-fd321065b065",
+      "source_title": "彭登",
+      "record": "lore/characters/source_page_records/cn-p-fd321065b065.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·925"
+    },
+    {
+      "source_page_id": "cn-p-45f89a1d3de6",
+      "source_title": "麥維提",
+      "record": "lore/characters/source_page_records/cn-p-45f89a1d3de6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·518"
+    },
+    {
+      "source_page_id": "cn-p-537be4cb2c07",
+      "source_title": "原初上帝",
+      "record": "lore/characters/source_page_records/cn-p-537be4cb2c07.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "诡秘·1272"
+    },
+    {
+      "source_page_id": "cn-p-a4ae5a83d4ef",
+      "source_title": "伊思蘭特",
+      "record": "lore/characters/source_page_records/cn-p-a4ae5a83d4ef.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·339"
+    },
+    {
+      "source_page_id": "cn-p-46d98b0a4c4c",
+      "source_title": "魯爾",
+      "record": "lore/characters/source_page_records/cn-p-46d98b0a4c4c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·114"
+    },
+    {
+      "source_page_id": "cn-p-edfa69053b12",
+      "source_title": "希斯·道爾",
+      "record": "lore/characters/source_page_records/cn-p-edfa69053b12.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·638"
+    },
+    {
+      "source_page_id": "cn-p-f6eec26c9226",
+      "source_title": "希伯特",
+      "record": "lore/characters/source_page_records/cn-p-f6eec26c9226.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·254"
+    },
+    {
+      "source_page_id": "cn-p-db6c52ee58d9",
+      "source_title": "納斯特",
+      "record": "lore/characters/source_page_records/cn-p-db6c52ee58d9.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·56"
+    },
+    {
+      "source_page_id": "cn-p-c26a7871fa67",
+      "source_title": "卡西米·奧德拉",
+      "record": "lore/characters/source_page_records/cn-p-c26a7871fa67.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·458"
+    },
+    {
+      "source_page_id": "cn-p-1b26f0f5685e",
+      "source_title": "克麗絲芒娜",
+      "record": "lore/characters/source_page_records/cn-p-1b26f0f5685e.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·349"
+    },
+    {
+      "source_page_id": "cn-p-0f59587e3b9b",
+      "source_title": "安妮",
+      "record": "lore/characters/source_page_records/cn-p-0f59587e3b9b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 3,
+      "first_appearance": "诡秘·8"
+    },
+    {
+      "source_page_id": "cn-p-c71242803afa",
+      "source_title": "雷亞薩",
+      "record": "lore/characters/source_page_records/cn-p-c71242803afa.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·642"
+    },
+    {
+      "source_page_id": "cn-p-685bacca8cfa",
+      "source_title": "夏綠蒂.卡爾維諾",
+      "record": "lore/characters/source_page_records/cn-p-685bacca8cfa.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·90"
+    },
+    {
+      "source_page_id": "cn-p-2a3238772e3c",
+      "source_title": "雪曼",
+      "record": "lore/characters/source_page_records/cn-p-2a3238772e3c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·820"
+    },
+    {
+      "source_page_id": "cn-p-f752046dbd01",
+      "source_title": "妮娜",
+      "record": "lore/characters/source_page_records/cn-p-f752046dbd01.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·640"
+    },
+    {
+      "source_page_id": "cn-p-940b94c0d7b6",
+      "source_title": "佛蒙達.索倫",
+      "record": "lore/characters/source_page_records/cn-p-940b94c0d7b6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·341"
+    },
+    {
+      "source_page_id": "cn-p-51cd5049ac17",
+      "source_title": "酒保",
+      "record": "lore/characters/source_page_records/cn-p-51cd5049ac17.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·16"
+    },
+    {
+      "source_page_id": "cn-p-baa6b38848f4",
+      "source_title": "米索爾·金",
+      "record": "lore/characters/source_page_records/cn-p-baa6b38848f4.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·580"
+    },
+    {
+      "source_page_id": "cn-p-4677b2649a80",
+      "source_title": "尼基拉",
+      "record": "lore/characters/source_page_records/cn-p-4677b2649a80.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·727"
+    },
+    {
+      "source_page_id": "cn-p-2a250fe95244",
+      "source_title": "安小天",
+      "record": "lore/characters/source_page_records/cn-p-2a250fe95244.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·968"
+    },
+    {
+      "source_page_id": "cn-p-d2bda14a9315",
+      "source_title": "赫拉貝格",
+      "record": "lore/characters/source_page_records/cn-p-d2bda14a9315.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·793"
+    },
+    {
+      "source_page_id": "cn-p-745e2bf3a3c4",
+      "source_title": "莉亞娜夫人",
+      "record": "lore/characters/source_page_records/cn-p-745e2bf3a3c4.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·753"
+    },
+    {
+      "source_page_id": "cn-p-d8585964859a",
+      "source_title": "耶布斯",
+      "record": "lore/characters/source_page_records/cn-p-d8585964859a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·712"
+    },
+    {
+      "source_page_id": "cn-p-64d59402f7be",
+      "source_title": "安格爾威德",
+      "record": "lore/characters/source_page_records/cn-p-64d59402f7be.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 11,
+      "first_appearance": "诡秘·238"
+    },
+    {
+      "source_page_id": "cn-p-7b8f9fedc488",
+      "source_title": "列斯",
+      "record": "lore/characters/source_page_records/cn-p-7b8f9fedc488.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·792"
+    },
+    {
+      "source_page_id": "cn-p-398556320df0",
+      "source_title": "斯圖亞特",
+      "record": "lore/characters/source_page_records/cn-p-398556320df0.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·299"
+    },
+    {
+      "source_page_id": "cn-p-8384b00f48f7",
+      "source_title": "洛耀",
+      "record": "lore/characters/source_page_records/cn-p-8384b00f48f7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·42"
+    },
+    {
+      "source_page_id": "cn-p-f800e5ad7e8c",
+      "source_title": "韋特·希爾蒙",
+      "record": "lore/characters/source_page_records/cn-p-f800e5ad7e8c.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·899"
+    },
+    {
+      "source_page_id": "cn-p-2e43623b9fd6",
+      "source_title": "莎莉絲特",
+      "record": "lore/characters/source_page_records/cn-p-2e43623b9fd6.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "诡秘·164"
+    },
+    {
+      "source_page_id": "cn-p-ee732376ed36",
+      "source_title": "月女士",
+      "record": "lore/characters/source_page_records/cn-p-ee732376ed36.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·170"
+    },
+    {
+      "source_page_id": "cn-p-0490e2591c4f",
+      "source_title": "高希納姆",
+      "record": "lore/characters/source_page_records/cn-p-0490e2591c4f.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·549"
+    },
+    {
+      "source_page_id": "cn-p-60b75db76f0a",
+      "source_title": "倫塔司",
+      "record": "lore/characters/source_page_records/cn-p-60b75db76f0a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "宿命·209"
+    },
+    {
+      "source_page_id": "cn-p-8a48afb94a3b",
+      "source_title": "巨人王",
+      "record": "lore/characters/source_page_records/cn-p-8a48afb94a3b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 12,
+      "first_appearance": "诡秘·180"
+    },
+    {
+      "source_page_id": "cn-p-a6921ad8ddf7",
+      "source_title": "吉爾希艾斯",
+      "record": "lore/characters/source_page_records/cn-p-a6921ad8ddf7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·636"
+    },
+    {
+      "source_page_id": "cn-p-8f008b7369e8",
+      "source_title": "羅薩戈",
+      "record": "lore/characters/source_page_records/cn-p-8f008b7369e8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·248"
+    },
+    {
+      "source_page_id": "cn-p-c6d7951cac82",
+      "source_title": "盧克·薩默爾",
+      "record": "lore/characters/source_page_records/cn-p-c6d7951cac82.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 3,
+      "first_appearance": "诡秘·215"
+    },
+    {
+      "source_page_id": "cn-p-bc32d8694768",
+      "source_title": "馬格特",
+      "record": "lore/characters/source_page_records/cn-p-bc32d8694768.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·126"
+    },
+    {
+      "source_page_id": "cn-p-d88183a9863f",
+      "source_title": "“鐵錘”艾特",
+      "record": "lore/characters/source_page_records/cn-p-d88183a9863f.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·158"
+    },
+    {
+      "source_page_id": "cn-p-0f968a962ddc",
+      "source_title": "格伊",
+      "record": "lore/characters/source_page_records/cn-p-0f968a962ddc.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·792"
+    },
+    {
+      "source_page_id": "cn-p-8c2dfd63d5b1",
+      "source_title": "薩科塔",
+      "record": "lore/characters/source_page_records/cn-p-8c2dfd63d5b1.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·174"
+    },
+    {
+      "source_page_id": "cn-p-16f0fb326d2e",
+      "source_title": "卡斯帕斯",
+      "record": "lore/characters/source_page_records/cn-p-16f0fb326d2e.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "诡秘·225"
+    },
+    {
+      "source_page_id": "cn-p-bd636690585e",
+      "source_title": "德維爾爵士",
+      "record": "lore/characters/source_page_records/cn-p-bd636690585e.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·29"
+    },
+    {
+      "source_page_id": "cn-p-a80c4d5235f3",
+      "source_title": "海之總督",
+      "record": "lore/characters/source_page_records/cn-p-a80c4d5235f3.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·545"
+    },
+    {
+      "source_page_id": "cn-p-2c5e432335f8",
+      "source_title": "‘門’先生",
+      "record": "lore/characters/source_page_records/cn-p-2c5e432335f8.json",
+      "candidate_character_ids": [
+        "bethel-abraham"
+      ],
+      "match_status": "manual_alias_candidate",
+      "stage_count": 13,
+      "first_appearance": "诡秘·216"
+    },
+    {
+      "source_page_id": "cn-p-cb0749b6c9e4",
+      "source_title": "邁普.邁爾",
+      "record": "lore/characters/source_page_records/cn-p-cb0749b6c9e4.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·180"
+    },
+    {
+      "source_page_id": "cn-p-8c1fe7cdf1ec",
+      "source_title": "胡德·歐根",
+      "record": "lore/characters/source_page_records/cn-p-8c1fe7cdf1ec.json",
+      "candidate_character_ids": [
+        "hood-eugen"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 6,
+      "first_appearance": "诡秘·117"
+    },
+    {
+      "source_page_id": "cn-p-e95c7a021100",
+      "source_title": "伊萊特",
+      "record": "lore/characters/source_page_records/cn-p-e95c7a021100.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·340"
+    },
+    {
+      "source_page_id": "cn-p-9e801b888ef3",
+      "source_title": "被縛之神",
+      "record": "lore/characters/source_page_records/cn-p-9e801b888ef3.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·180"
+    },
+    {
+      "source_page_id": "cn-p-dcb4abd4452e",
+      "source_title": "戰神",
+      "record": "lore/characters/source_page_records/cn-p-dcb4abd4452e.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "source_page_id": "cn-p-7fc0d0c1db03",
+      "source_title": "海納斯·凡森特",
+      "record": "lore/characters/source_page_records/cn-p-7fc0d0c1db03.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·38"
+    },
+    {
+      "source_page_id": "cn-p-3747dfcb28b0",
+      "source_title": "肯達爾",
+      "record": "lore/characters/source_page_records/cn-p-3747dfcb28b0.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "宿命·115"
+    },
+    {
+      "source_page_id": "cn-p-278f3939a48b",
+      "source_title": "賽琳娜",
+      "record": "lore/characters/source_page_records/cn-p-278f3939a48b.json",
+      "candidate_character_ids": [
+        "selena-wood"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 4,
+      "first_appearance": "诡秘·24"
+    },
+    {
+      "source_page_id": "cn-p-e1c2e22af631",
+      "source_title": "瑞爾·比伯",
+      "record": "lore/characters/source_page_records/cn-p-e1c2e22af631.json",
+      "candidate_character_ids": [
+        "biber"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 7,
+      "first_appearance": "诡秘·46"
+    },
+    {
+      "source_page_id": "cn-p-043fbe7a8894",
+      "source_title": "燕尾服小丑",
+      "record": "lore/characters/source_page_records/cn-p-043fbe7a8894.json",
+      "candidate_character_ids": [
+        "tuxedo-clown"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 6,
+      "first_appearance": "诡秘·73"
+    },
+    {
+      "source_page_id": "cn-p-d3f615a46b14",
+      "source_title": "傑克",
+      "record": "lore/characters/source_page_records/cn-p-d3f615a46b14.json",
+      "candidate_character_ids": [
+        "jake-young"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 10,
+      "first_appearance": "诡秘·53"
+    },
+    {
+      "source_page_id": "cn-p-65d8ef02b0b9",
+      "source_title": "韋爾奇",
+      "record": "lore/characters/source_page_records/cn-p-65d8ef02b0b9.json",
+      "candidate_character_ids": [
+        "welch-mcgovern"
+      ],
+      "match_status": "partial_name_candidate",
+      "stage_count": 5,
+      "first_appearance": "诡秘·9"
+    },
+    {
+      "source_page_id": "cn-p-e21c97ca087f",
+      "source_title": "科洛博",
+      "record": "lore/characters/source_page_records/cn-p-e21c97ca087f.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·644"
+    },
+    {
+      "source_page_id": "cn-p-03956eec01b8",
+      "source_title": "辛德拉斯男爵",
+      "record": "lore/characters/source_page_records/cn-p-03956eec01b8.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·177"
+    },
+    {
+      "source_page_id": "cn-p-03bc70c3ac3b",
+      "source_title": "麥斯洛",
+      "record": "lore/characters/source_page_records/cn-p-03bc70c3ac3b.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 3,
+      "first_appearance": "宿命·661"
+    },
+    {
+      "source_page_id": "cn-p-38cc4773907a",
+      "source_title": "格蕾嘉莉",
+      "record": "lore/characters/source_page_records/cn-p-38cc4773907a.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·313"
+    },
+    {
+      "source_page_id": "cn-p-44b602cf4faf",
+      "source_title": "女士",
+      "record": "lore/characters/source_page_records/cn-p-44b602cf4faf.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "宿命·5"
+    },
+    {
+      "source_page_id": "cn-p-d9f660125eb4",
+      "source_title": "哈曼",
+      "record": "lore/characters/source_page_records/cn-p-d9f660125eb4.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 4,
+      "first_appearance": "宿命·147"
+    },
+    {
+      "source_page_id": "cn-p-32efee3afa28",
+      "source_title": "史蒂夫",
+      "record": "lore/characters/source_page_records/cn-p-32efee3afa28.json",
+      "candidate_character_ids": [
+        "steve"
+      ],
+      "match_status": "exact_name_candidate",
+      "stage_count": 5,
+      "first_appearance": "诡秘·331"
+    },
+    {
+      "source_page_id": "cn-p-74e1931969d7",
+      "source_title": "默爾索",
+      "record": "lore/characters/source_page_records/cn-p-74e1931969d7.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "诡秘·224"
+    },
+    {
+      "source_page_id": "cn-p-9f93d4259251",
+      "source_title": "弗雷格拉",
+      "record": "lore/characters/source_page_records/cn-p-9f93d4259251.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 10,
+      "first_appearance": "诡秘·169"
+    },
+    {
+      "source_page_id": "cn-p-9b25b8936627",
+      "source_title": "尼拜斯",
+      "record": "lore/characters/source_page_records/cn-p-9b25b8936627.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 8,
+      "first_appearance": "诡秘·458"
+    },
+    {
+      "source_page_id": "cn-p-976c56a3e3bb",
+      "source_title": "蘇尼亞索列姆",
+      "record": "lore/characters/source_page_records/cn-p-976c56a3e3bb.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 9,
+      "first_appearance": "诡秘·313"
+    },
+    {
+      "source_page_id": "cn-p-0ec70209bbb2",
+      "source_title": "海神",
+      "record": "lore/characters/source_page_records/cn-p-0ec70209bbb2.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 7,
+      "first_appearance": "诡秘·542"
+    },
+    {
+      "source_page_id": "cn-p-e290c05f4480",
+      "source_title": "貝奧斯特",
+      "record": "lore/characters/source_page_records/cn-p-e290c05f4480.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 5,
+      "first_appearance": "宿命·5"
+    },
+    {
+      "source_page_id": "cn-p-a4012b51b913",
+      "source_title": "弗拉芒",
+      "record": "lore/characters/source_page_records/cn-p-a4012b51b913.json",
+      "candidate_character_ids": [],
+      "match_status": "unmatched",
+      "stage_count": 6,
+      "first_appearance": "宿命·229"
+    }
+  ]
+}
