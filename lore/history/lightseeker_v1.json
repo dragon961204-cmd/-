@@ -1,0 +1,2093 @@
+{
+  "schema_version": "1.0",
+  "id": "lightseeker",
+  "name_zh": "第五紀｜逐光者",
+  "scope": "承接《紅祭司》的王室晉升計畫，整理第六卷戰事、神棄之地與白銀城遠征。",
+  "source_revision": "6602d0fac91ea982b5638b2d43109edb5dfb8d34",
+  "previous_timeline": {
+    "path": "lore/history/red_priest_v1.json",
+    "last_event_id": "red-priest-royal-investigation"
+  },
+  "ordering_note": "章節範圍用於定位人物傳記所載的生涯分段。喬治三世的條目跨第五卷籌備至第六卷餘波。月城交涉的精確章次與各事件日曆日期待核。",
+  "phases": {
+    "royal": "王室與戰爭",
+    "parallel": "並行支線",
+    "forsaken": "神棄之地"
+  },
+  "locations": {
+    "loen": {
+      "name_zh": "魯恩王國"
+    },
+    "forsaken-land": {
+      "name_zh": "神棄之地"
+    },
+    "moon-city": {
+      "name_zh": "月城"
+    },
+    "silver-city": {
+      "name_zh": "白銀城"
+    },
+    "giant-court": {
+      "name_zh": "巨人王庭"
+    },
+    "backlund": {
+      "name_zh": "貝克蘭德"
+    }
+  },
+  "events": [
+    {
+      "id": "lightseeker-royal-fall",
+      "name_zh": "喬治三世的黑皇帝儀式失敗",
+      "phase": "royal",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1024,
+          "end": 1189
+        }
+      },
+      "location_id": "loen",
+      "summary": "克萊恩等人阻止喬治三世的黑皇帝晉升。喬治三世隕落，魯恩王室須在戰爭期間處理權力變動。",
+      "related_character_ids": [
+        "klein-moretti",
+        "george-augustus-iii"
+      ],
+      "related_organization_ids": [
+        "augustus-family"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "喬治三世的黑皇帝儀式失敗",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/george-augustus-iii.v1.json",
+          "locator": "喬治三世的黑皇帝儀式失敗",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "國王死訊與陵寢儀式分別取證。章節範圍涵蓋第五卷籌備及第六卷餘波，儀式精確章次待核。"
+      }
+    },
+    {
+      "id": "lightseeker-amon",
+      "name_zh": "克萊恩與阿蒙在神棄之地交鋒",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1167,
+          "end": 1266
+        }
+      },
+      "location_id": "forsaken-land",
+      "summary": "阿蒙與克萊恩的衝突進入神棄之地。傳記另有克萊恩擺脫寄生的事件標題。",
+      "related_character_ids": [
+        "klein-moretti",
+        "amon"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "克萊恩與阿蒙在神棄之地交鋒",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/amon.v1.json",
+          "locator": "克萊恩與阿蒙在神棄之地交鋒",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "須辨認寄生與分身，脫身的具體過程待核。"
+      }
+    },
+    {
+      "id": "lightseeker-moon",
+      "name_zh": "格爾曼與月城接觸",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": null
+        }
+      },
+      "location_id": "moon-city",
+      "summary": "尼姆代表月城居民與格爾曼交涉。這次接觸讓居民獲得新的食物與信仰選擇，並重新考慮如何離開神棄之地。",
+      "related_character_ids": [
+        "nim",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/nim.v1.json",
+          "locator": "格爾曼與月城接觸",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "格爾曼與月城接觸",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "月城居民可知交涉及其影響，格爾曼的其他身分須另查。精確章次待核。"
+      }
+    },
+    {
+      "id": "lightseeker-alger",
+      "name_zh": "阿爾傑探索精靈遺跡並走向半神",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1163,
+          "end": 1228
+        }
+      },
+      "location_id": null,
+      "summary": "阿爾傑在這一階段接觸精靈遺跡與高希納姆的遺物。考特曼傳記記有教會審核和主持晉升的安排。",
+      "related_character_ids": [
+        "alger-wilson",
+        "jahn-kottman"
+      ],
+      "related_organization_ids": [
+        "church-storms"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/alger-wilson.v1.json",
+          "locator": "阿爾傑探索精靈遺跡並走向半神",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/jahn-kottman.v1.json",
+          "locator": "阿爾傑探索精靈遺跡並走向半神",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "遺物、教會審核和晉升經過各有取得條件。"
+      }
+    },
+    {
+      "id": "lightseeker-bernadette",
+      "name_zh": "貝爾納黛交出神燈並駛向迷霧",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1161,
+          "end": 1266
+        }
+      },
+      "location_id": null,
+      "summary": "貝爾納黛的本卷生涯分段記有交出神燈與駛向迷霧。其行動延續對羅塞爾日記及遺物的追查。",
+      "related_character_ids": [
+        "bernadette-gustav"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/bernadette-gustav.v1.json",
+          "locator": "貝爾納黛交出神燈並駛向迷霧",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "神燈交接條件、去向與航程細節須另取線索。"
+      }
+    },
+    {
+      "id": "lightseeker-cattleya",
+      "name_zh": "嘉德麗雅的祕之聖者獵殺與神燈線索",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1174,
+          "end": 1239
+        }
+      },
+      "location_id": null,
+      "summary": "嘉德麗雅的傳記將獵殺祕之聖者與神燈列為本卷事件。參與者、具體章次與神燈交接先後待核。",
+      "related_character_ids": [
+        "cattleya"
+      ],
+      "related_organization_ids": [
+        "aurora-order"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/cattleya.v1.json",
+          "locator": "嘉德麗雅的祕之聖者獵殺與神燈線索",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "獵殺行動與非凡物品各自查證。"
+      }
+    },
+    {
+      "id": "lightseeker-audrey",
+      "name_zh": "奧黛麗的半神晉升與貝克蘭德戰事",
+      "phase": "royal",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1187,
+          "end": 1258
+        }
+      },
+      "location_id": "backlund",
+      "summary": "奧黛麗在本卷晉升半神。其傳記將晉升與貝克蘭德之戰列入同一生涯分段。",
+      "related_character_ids": [
+        "audrey-hall"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/audrey-hall.v1.json",
+          "locator": "奧黛麗的半神晉升與貝克蘭德戰事",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "戰事可由公共消息追查，奧黛麗的序列變動屬祕密。"
+      }
+    },
+    {
+      "id": "lightseeker-cesimir",
+      "name_zh": "塞西瑪參與貝克蘭德防衛",
+      "phase": "royal",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1180,
+          "end": 1265
+        }
+      },
+      "location_id": "backlund",
+      "summary": "塞西瑪在本卷晉升半神並參與貝克蘭德防衛。",
+      "related_character_ids": [
+        "crestet-cesimir"
+      ],
+      "related_organization_ids": [
+        "church-evernight"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/crestet-cesimir.v1.json",
+          "locator": "塞西瑪參與貝克蘭德防衛",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "教會任務與晉升細節依職務權限取得。"
+      }
+    },
+    {
+      "id": "lightseeker-colin",
+      "name_zh": "科林晉升銀騎士",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1158,
+          "end": 1266
+        }
+      },
+      "location_id": "silver-city",
+      "summary": "白銀城首席科林的本卷傳記記有銀騎士晉升及最後一戰。",
+      "related_character_ids": [
+        "colin-iliad"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/colin-iliad.v1.json",
+          "locator": "科林晉升銀騎士",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "白銀城居民可接觸公開職務，晉升細節須循當事人或隊伍紀錄。"
+      }
+    },
+    {
+      "id": "lightseeker-derrick",
+      "name_zh": "戴里克晉升無暗者",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1216,
+          "end": 1262
+        }
+      },
+      "location_id": "silver-city",
+      "summary": "戴里克的本卷傳記記有無暗者晉升，之後與白銀城隊伍面對暗天使。",
+      "related_character_ids": [
+        "derrick-berg"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "locator": "戴里克晉升無暗者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "晉升經過及與塔羅會的聯繫各有知情範圍。"
+      }
+    },
+    {
+      "id": "lightseeker-court",
+      "name_zh": "白銀城隊伍進入巨人王庭",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1253,
+          "end": 1265
+        }
+      },
+      "location_id": "giant-court",
+      "summary": "科林率隊前往巨人王庭，戴里克與洛薇雅參與。探索隊在陰影宮殿遭遇與薩斯利爾有關的殘留力量。",
+      "related_character_ids": [
+        "colin-iliad",
+        "derrick-berg",
+        "lovia-tiffany",
+        "sasrir"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [
+        "lightseeker-colin",
+        "lightseeker-derrick"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/colin-iliad.v1.json",
+          "locator": "白銀城隊伍進入巨人王庭",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "locator": "白銀城隊伍進入巨人王庭",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/lovia-tiffany.v1.json",
+          "locator": "白銀城隊伍進入巨人王庭",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/sasrir.v1.json",
+          "locator": "白銀城隊伍進入巨人王庭",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "遠征路線、遭遇及殘留力量的性質須分別取證。"
+      }
+    },
+    {
+      "id": "lightseeker-battle",
+      "name_zh": "白銀城遠征隊對抗暗天使",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1253,
+          "end": 1266
+        }
+      },
+      "location_id": "giant-court",
+      "summary": "遠征隊與薩斯利爾相關力量交戰。洛薇雅死亡，科林為白銀城的出路付出代價，戴里克等倖存者繼續完成探索。",
+      "related_character_ids": [
+        "colin-iliad",
+        "derrick-berg",
+        "lovia-tiffany",
+        "sasrir"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [
+        "lightseeker-court"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/colin-iliad.v1.json",
+          "locator": "白銀城遠征隊對抗暗天使",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "locator": "白銀城遠征隊對抗暗天使",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/lovia-tiffany.v1.json",
+          "locator": "白銀城遠征隊對抗暗天使",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/sasrir.v1.json",
+          "locator": "白銀城遠征隊對抗暗天使",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "遠征的傷亡與暗天使身分有不同知情門檻。"
+      }
+    },
+    {
+      "id": "lightseeker-exit",
+      "name_zh": "白銀城找到通往外界的道路",
+      "phase": "forsaken",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1216,
+          "end": 1266
+        }
+      },
+      "location_id": "forsaken-land",
+      "summary": "巨人王庭遠征後，白銀城獲得通往外界的道路。定居與宗教安排屬後續階段。",
+      "related_character_ids": [
+        "derrick-berg",
+        "colin-iliad"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [
+        "lightseeker-battle"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "locator": "白銀城找到通往外界的道路",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/colin-iliad.v1.json",
+          "locator": "白銀城找到通往外界的道路",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "居民可由遷徙安排得知出路，塔羅會的介入需要另有情報。離開與定居的精確時間待核。"
+      }
+    }
+  ],
+  "indexes": {
+    "by_character": {
+      "klein-moretti": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-moon"
+      ],
+      "george-augustus-iii": [
+        "lightseeker-royal-fall"
+      ],
+      "amon": [
+        "lightseeker-amon"
+      ],
+      "nim": [
+        "lightseeker-moon"
+      ],
+      "alger-wilson": [
+        "lightseeker-alger"
+      ],
+      "jahn-kottman": [
+        "lightseeker-alger"
+      ],
+      "bernadette-gustav": [
+        "lightseeker-bernadette"
+      ],
+      "cattleya": [
+        "lightseeker-cattleya"
+      ],
+      "audrey-hall": [
+        "lightseeker-audrey"
+      ],
+      "crestet-cesimir": [
+        "lightseeker-cesimir"
+      ],
+      "colin-iliad": [
+        "lightseeker-colin",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "derrick-berg": [
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "lovia-tiffany": [
+        "lightseeker-court",
+        "lightseeker-battle"
+      ],
+      "sasrir": [
+        "lightseeker-court",
+        "lightseeker-battle"
+      ]
+    },
+    "by_organization": {
+      "augustus-family": [
+        "lightseeker-royal-fall"
+      ],
+      "church-storms": [
+        "lightseeker-alger"
+      ],
+      "aurora-order": [
+        "lightseeker-cattleya"
+      ],
+      "church-evernight": [
+        "lightseeker-cesimir"
+      ],
+      "city-of-silver": [
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ]
+    },
+    "by_phase": {
+      "royal": [
+        "lightseeker-royal-fall",
+        "lightseeker-audrey",
+        "lightseeker-cesimir"
+      ],
+      "forsaken": [
+        "lightseeker-amon",
+        "lightseeker-moon",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "parallel": [
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya"
+      ]
+    },
+    "by_chapter": {
+      "1024": [
+        "lightseeker-royal-fall"
+      ],
+      "1025": [
+        "lightseeker-royal-fall"
+      ],
+      "1026": [
+        "lightseeker-royal-fall"
+      ],
+      "1027": [
+        "lightseeker-royal-fall"
+      ],
+      "1028": [
+        "lightseeker-royal-fall"
+      ],
+      "1029": [
+        "lightseeker-royal-fall"
+      ],
+      "1030": [
+        "lightseeker-royal-fall"
+      ],
+      "1031": [
+        "lightseeker-royal-fall"
+      ],
+      "1032": [
+        "lightseeker-royal-fall"
+      ],
+      "1033": [
+        "lightseeker-royal-fall"
+      ],
+      "1034": [
+        "lightseeker-royal-fall"
+      ],
+      "1035": [
+        "lightseeker-royal-fall"
+      ],
+      "1036": [
+        "lightseeker-royal-fall"
+      ],
+      "1037": [
+        "lightseeker-royal-fall"
+      ],
+      "1038": [
+        "lightseeker-royal-fall"
+      ],
+      "1039": [
+        "lightseeker-royal-fall"
+      ],
+      "1040": [
+        "lightseeker-royal-fall"
+      ],
+      "1041": [
+        "lightseeker-royal-fall"
+      ],
+      "1042": [
+        "lightseeker-royal-fall"
+      ],
+      "1043": [
+        "lightseeker-royal-fall"
+      ],
+      "1044": [
+        "lightseeker-royal-fall"
+      ],
+      "1045": [
+        "lightseeker-royal-fall"
+      ],
+      "1046": [
+        "lightseeker-royal-fall"
+      ],
+      "1047": [
+        "lightseeker-royal-fall"
+      ],
+      "1048": [
+        "lightseeker-royal-fall"
+      ],
+      "1049": [
+        "lightseeker-royal-fall"
+      ],
+      "1050": [
+        "lightseeker-royal-fall"
+      ],
+      "1051": [
+        "lightseeker-royal-fall"
+      ],
+      "1052": [
+        "lightseeker-royal-fall"
+      ],
+      "1053": [
+        "lightseeker-royal-fall"
+      ],
+      "1054": [
+        "lightseeker-royal-fall"
+      ],
+      "1055": [
+        "lightseeker-royal-fall"
+      ],
+      "1056": [
+        "lightseeker-royal-fall"
+      ],
+      "1057": [
+        "lightseeker-royal-fall"
+      ],
+      "1058": [
+        "lightseeker-royal-fall"
+      ],
+      "1059": [
+        "lightseeker-royal-fall"
+      ],
+      "1060": [
+        "lightseeker-royal-fall"
+      ],
+      "1061": [
+        "lightseeker-royal-fall"
+      ],
+      "1062": [
+        "lightseeker-royal-fall"
+      ],
+      "1063": [
+        "lightseeker-royal-fall"
+      ],
+      "1064": [
+        "lightseeker-royal-fall"
+      ],
+      "1065": [
+        "lightseeker-royal-fall"
+      ],
+      "1066": [
+        "lightseeker-royal-fall"
+      ],
+      "1067": [
+        "lightseeker-royal-fall"
+      ],
+      "1068": [
+        "lightseeker-royal-fall"
+      ],
+      "1069": [
+        "lightseeker-royal-fall"
+      ],
+      "1070": [
+        "lightseeker-royal-fall"
+      ],
+      "1071": [
+        "lightseeker-royal-fall"
+      ],
+      "1072": [
+        "lightseeker-royal-fall"
+      ],
+      "1073": [
+        "lightseeker-royal-fall"
+      ],
+      "1074": [
+        "lightseeker-royal-fall"
+      ],
+      "1075": [
+        "lightseeker-royal-fall"
+      ],
+      "1076": [
+        "lightseeker-royal-fall"
+      ],
+      "1077": [
+        "lightseeker-royal-fall"
+      ],
+      "1078": [
+        "lightseeker-royal-fall"
+      ],
+      "1079": [
+        "lightseeker-royal-fall"
+      ],
+      "1080": [
+        "lightseeker-royal-fall"
+      ],
+      "1081": [
+        "lightseeker-royal-fall"
+      ],
+      "1082": [
+        "lightseeker-royal-fall"
+      ],
+      "1083": [
+        "lightseeker-royal-fall"
+      ],
+      "1084": [
+        "lightseeker-royal-fall"
+      ],
+      "1085": [
+        "lightseeker-royal-fall"
+      ],
+      "1086": [
+        "lightseeker-royal-fall"
+      ],
+      "1087": [
+        "lightseeker-royal-fall"
+      ],
+      "1088": [
+        "lightseeker-royal-fall"
+      ],
+      "1089": [
+        "lightseeker-royal-fall"
+      ],
+      "1090": [
+        "lightseeker-royal-fall"
+      ],
+      "1091": [
+        "lightseeker-royal-fall"
+      ],
+      "1092": [
+        "lightseeker-royal-fall"
+      ],
+      "1093": [
+        "lightseeker-royal-fall"
+      ],
+      "1094": [
+        "lightseeker-royal-fall"
+      ],
+      "1095": [
+        "lightseeker-royal-fall"
+      ],
+      "1096": [
+        "lightseeker-royal-fall"
+      ],
+      "1097": [
+        "lightseeker-royal-fall"
+      ],
+      "1098": [
+        "lightseeker-royal-fall"
+      ],
+      "1099": [
+        "lightseeker-royal-fall"
+      ],
+      "1100": [
+        "lightseeker-royal-fall"
+      ],
+      "1101": [
+        "lightseeker-royal-fall"
+      ],
+      "1102": [
+        "lightseeker-royal-fall"
+      ],
+      "1103": [
+        "lightseeker-royal-fall"
+      ],
+      "1104": [
+        "lightseeker-royal-fall"
+      ],
+      "1105": [
+        "lightseeker-royal-fall"
+      ],
+      "1106": [
+        "lightseeker-royal-fall"
+      ],
+      "1107": [
+        "lightseeker-royal-fall"
+      ],
+      "1108": [
+        "lightseeker-royal-fall"
+      ],
+      "1109": [
+        "lightseeker-royal-fall"
+      ],
+      "1110": [
+        "lightseeker-royal-fall"
+      ],
+      "1111": [
+        "lightseeker-royal-fall"
+      ],
+      "1112": [
+        "lightseeker-royal-fall"
+      ],
+      "1113": [
+        "lightseeker-royal-fall"
+      ],
+      "1114": [
+        "lightseeker-royal-fall"
+      ],
+      "1115": [
+        "lightseeker-royal-fall"
+      ],
+      "1116": [
+        "lightseeker-royal-fall"
+      ],
+      "1117": [
+        "lightseeker-royal-fall"
+      ],
+      "1118": [
+        "lightseeker-royal-fall"
+      ],
+      "1119": [
+        "lightseeker-royal-fall"
+      ],
+      "1120": [
+        "lightseeker-royal-fall"
+      ],
+      "1121": [
+        "lightseeker-royal-fall"
+      ],
+      "1122": [
+        "lightseeker-royal-fall"
+      ],
+      "1123": [
+        "lightseeker-royal-fall"
+      ],
+      "1124": [
+        "lightseeker-royal-fall"
+      ],
+      "1125": [
+        "lightseeker-royal-fall"
+      ],
+      "1126": [
+        "lightseeker-royal-fall"
+      ],
+      "1127": [
+        "lightseeker-royal-fall"
+      ],
+      "1128": [
+        "lightseeker-royal-fall"
+      ],
+      "1129": [
+        "lightseeker-royal-fall"
+      ],
+      "1130": [
+        "lightseeker-royal-fall"
+      ],
+      "1131": [
+        "lightseeker-royal-fall"
+      ],
+      "1132": [
+        "lightseeker-royal-fall"
+      ],
+      "1133": [
+        "lightseeker-royal-fall"
+      ],
+      "1134": [
+        "lightseeker-royal-fall"
+      ],
+      "1135": [
+        "lightseeker-royal-fall"
+      ],
+      "1136": [
+        "lightseeker-royal-fall"
+      ],
+      "1137": [
+        "lightseeker-royal-fall"
+      ],
+      "1138": [
+        "lightseeker-royal-fall"
+      ],
+      "1139": [
+        "lightseeker-royal-fall"
+      ],
+      "1140": [
+        "lightseeker-royal-fall"
+      ],
+      "1141": [
+        "lightseeker-royal-fall"
+      ],
+      "1142": [
+        "lightseeker-royal-fall"
+      ],
+      "1143": [
+        "lightseeker-royal-fall"
+      ],
+      "1144": [
+        "lightseeker-royal-fall"
+      ],
+      "1145": [
+        "lightseeker-royal-fall"
+      ],
+      "1146": [
+        "lightseeker-royal-fall"
+      ],
+      "1147": [
+        "lightseeker-royal-fall"
+      ],
+      "1148": [
+        "lightseeker-royal-fall"
+      ],
+      "1149": [
+        "lightseeker-royal-fall"
+      ],
+      "1150": [
+        "lightseeker-royal-fall"
+      ],
+      "1151": [
+        "lightseeker-royal-fall"
+      ],
+      "1152": [
+        "lightseeker-royal-fall"
+      ],
+      "1153": [
+        "lightseeker-royal-fall"
+      ],
+      "1154": [
+        "lightseeker-royal-fall"
+      ],
+      "1155": [
+        "lightseeker-royal-fall"
+      ],
+      "1156": [
+        "lightseeker-royal-fall"
+      ],
+      "1157": [
+        "lightseeker-royal-fall"
+      ],
+      "1158": [
+        "lightseeker-royal-fall",
+        "lightseeker-colin"
+      ],
+      "1159": [
+        "lightseeker-royal-fall",
+        "lightseeker-colin"
+      ],
+      "1160": [
+        "lightseeker-royal-fall",
+        "lightseeker-colin"
+      ],
+      "1161": [
+        "lightseeker-royal-fall",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1162": [
+        "lightseeker-royal-fall",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1163": [
+        "lightseeker-royal-fall",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1164": [
+        "lightseeker-royal-fall",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1165": [
+        "lightseeker-royal-fall",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1166": [
+        "lightseeker-royal-fall",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1167": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1168": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1169": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1170": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1171": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1172": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1173": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-colin"
+      ],
+      "1174": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1175": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1176": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1177": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1178": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1179": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-colin"
+      ],
+      "1180": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1181": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1182": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1183": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1184": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1185": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1186": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1187": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1188": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1189": [
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1190": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1191": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1192": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1193": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1194": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1195": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1196": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1197": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1198": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1199": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1200": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1201": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1202": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1203": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1204": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1205": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1206": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1207": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1208": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1209": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1210": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1211": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1212": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1213": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1214": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1215": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin"
+      ],
+      "1216": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1217": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1218": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1219": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1220": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1221": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1222": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1223": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1224": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1225": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1226": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1227": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1228": [
+        "lightseeker-amon",
+        "lightseeker-alger",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1229": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1230": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1231": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1232": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1233": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1234": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1235": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1236": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1237": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1238": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1239": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cattleya",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1240": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1241": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1242": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1243": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1244": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1245": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1246": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1247": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1248": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1249": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1250": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1251": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1252": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-exit"
+      ],
+      "1253": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1254": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1255": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1256": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1257": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1258": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-audrey",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1259": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1260": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1261": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1262": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1263": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1264": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1265": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-cesimir",
+        "lightseeker-colin",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "1266": [
+        "lightseeker-amon",
+        "lightseeker-bernadette",
+        "lightseeker-colin",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ]
+    }
+  }
+}
