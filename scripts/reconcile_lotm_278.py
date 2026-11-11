@@ -25,6 +25,11 @@ assert len(source["entries"])==278,"Source catalog must have 278 published pages
 manual={
     "“魔術師”女士":"fors-wall",
     "休":"xio-derecha",
+    "馬里奇":"maric",
+    "班森":"benson-moretti",
+    "戴莉":"daly-simone",
+    "“門”先生":"bethel-abraham",
+    "喬治三世":"george-augustus-iii",
     "羅塞爾大帝":"roselle-gustav",
     "克萊恩":"klein-moretti",
     "盧米安":"lumian-lee",
