@@ -1291,6 +1291,231 @@
           "reference": "https://www.lotmfanwiki.com/type/p.html"
         }
       ]
+    },
+    {
+      "character_id": "lorotta",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "borgia",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "bredt",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "cesare-francis",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "jasmine",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "adelaide",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "dwayne-nighthawks",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "hitte",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "grey-captain",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "davy-raymond",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "cindy-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "bob-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "albert-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "eric-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "tuxedo-clown",
+      "organization_id": "secret-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
     }
   ]
 }
