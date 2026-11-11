@@ -24,6 +24,7 @@ people=index["characters"]
 assert len(source["entries"])==278,"Source catalog must have 278 published pages"
 manual={
     "“魔術師”女士":"fors-wall",
+    "休":"xio-derecha",
     "羅塞爾大帝":"roselle-gustav",
     "克萊恩":"klein-moretti",
     "盧米安":"lumian-lee",
@@ -41,6 +42,7 @@ manual={
     "威爾昂賽汀":"will-auceptin",
     "鄧恩史密斯":"dunn-smith",
 }
+manual={norm(k):v for k,v in manual.items()}
 canonical={}
 for p in people:
     names=[p.get("name_zh") or "",p.get("name_en") or ""]
