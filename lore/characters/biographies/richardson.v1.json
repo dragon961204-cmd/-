@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "richardson",
+  "name_zh": "理查德森",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1337be261340.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1337be261340.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第749章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0749.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1031章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1031.html"
+    },
+    {
+      "label": "詭祕·975",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0975.html"
+    },
+    {
+      "label": "詭祕·1012",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1012.html"
+    },
+    {
+      "label": "詭祕·1017",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1017.html"
+    },
+    {
+      "label": "詭祕·754",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+    },
+    {
+      "label": "詭祕·773",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0773.html"
+    },
+    {
+      "label": "詭祕·818",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0818.html"
+    },
+    {
+      "label": "詭祕·753",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+    },
+    {
+      "label": "詭祕·755",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0755.html"
+    },
+    {
+      "label": "詭祕·756",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0756.html"
+    },
+    {
+      "label": "詭祕·757",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0757.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 217
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "理查德森｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從東拜朗來到貝克蘭德",
+        "prose": "理查德森在東拜朗的殖民莊園長大，成年後才被帶到貝克蘭德。失業時，他向協助家庭僕人的協會求職，經管家瓦爾特選中，成了道恩·唐泰斯的貼身男僕。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1337be261340.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "舊識與死神信仰",
+        "prose": "南大陸來人夜訪他的房間，令克萊恩注意到他的過去。自稱其舊識的戈多普斯說，理查德森母子曾在莊園為奴；理查德森到了貝克蘭德後，仍在私下以靈舞祈求死神保護。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1337be261340.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "從男僕轉任莊園執事",
+        "prose": "克萊恩考慮到理查德森回南大陸可能被舊識認出，讓他留在貝克蘭德處理事務。理查德森其後改任瓦爾特的助理，替雇主實地查看郊外莊園，最後受派管理玫歌莊園。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1337be261340.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "madam-sharon",
+  "name_zh": "雪倫夫人",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f87a97653596.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f87a97653596.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第174章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0174.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第627章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0627.html"
+    },
+    {
+      "label": "詭祕·64",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0064.html"
+    },
+    {
+      "label": "詭祕·96",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0096.html"
+    },
+    {
+      "label": "詭祕·196",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0196.html"
+    },
+    {
+      "label": "詭祕·199",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0199.html"
+    },
+    {
+      "label": "詭祕·194",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0194.html"
+    },
+    {
+      "label": "詭祕·197",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0197.html"
+    },
+    {
+      "label": "詭祕·201",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0201.html"
+    },
+    {
+      "label": "詭祕·204",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0204.html"
+    },
+    {
+      "label": "詭祕·200",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0200.html"
+    },
+    {
+      "label": "詭祕·172",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0172.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 208
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "雪倫夫人｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "霍伊家族的遺孀",
+        "prose": "雪倫夫人原本是男性，服下女巫魔藥後成為女性，並在魔女教派活動。她以霍伊家族老男爵遺孀的身分進入廷根上層，長期替政界與商界人士牽線，私下則已晉升歡愉魔女。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f87a97653596.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "殺害梅納德議員",
+        "prose": "她為了加深新黨與保守黨的對立，殺死新黨議員梅納德，對警方稱他猝死。梅納德夫人另請黑荊棘安保公司查案，克萊恩潛入雪倫的住所，從占卜與保險櫃裡的物品找到非凡線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f87a97653596.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "在圍捕中身亡",
+        "prose": "鄧恩、肯利與克萊恩一同前往圍捕。肯利在行動中犧牲，克萊恩最後開槍殺死雪倫，並於事後通靈取得歡愉魔藥的配方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f87a97653596.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

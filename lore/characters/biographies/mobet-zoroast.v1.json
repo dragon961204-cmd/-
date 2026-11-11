@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "mobet-zoroast",
+  "name_zh": "莫貝特·索羅亞斯德",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-27ed60b8615d.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-27ed60b8615d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第697章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0697.html"
+    },
+    {
+      "label": "《宿命》第6卷·第928章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0928.html"
+    },
+    {
+      "label": "詭祕·718",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0718.html"
+    },
+    {
+      "label": "詭祕·699",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0699.html"
+    },
+    {
+      "label": "詭祕·1062",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1062.html"
+    },
+    {
+      "label": "詭祕·1064",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1064.html"
+    },
+    {
+      "label": "詭祕·1066",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1066.html"
+    },
+    {
+      "label": "詭祕·576",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0576.html"
+    },
+    {
+      "label": "詭祕·577",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0577.html"
+    },
+    {
+      "label": "詭祕·692",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0692.html"
+    },
+    {
+      "label": "詭祕·700",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0700.html"
+    },
+    {
+      "label": "詭祕·701",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0701.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 223
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莫貝特·索羅亞斯德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "第四紀失蹤的子爵",
+        "prose": "莫貝特出身索羅亞斯德家族，是所羅門帝國的子爵、偷盜者途徑的竊夢家。帕列斯是他的曾祖父；一場戰爭後莫貝特失蹤，家族長久不知他被困在《格羅塞爾遊記》裡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27ed60b8615d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與夏塔絲並肩作戰",
+        "prose": "莫貝特在書中與精靈夏塔絲成婚，並加入格羅塞爾的隊伍。在對付冰霜巨龍尤里斯安時，他偷走巨龍準備付諸行動的念頭，替同伴爭取進攻機會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27ed60b8615d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "離書後與夏塔絲同葬",
+        "prose": "尤里斯安死後，莫貝特和夏塔絲得以離開書中世界，卻很快衰老死去。艾德雯娜後來把兩人的遺骸帶往蘇尼亞島，葬在精靈遺跡一帶。倫納德其後也曾藉夏塔絲的夢向莫貝特的身影打聽帕列斯。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27ed60b8615d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "mary-gale",
+  "name_zh": "瑪麗夫人",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-32c95cc14b77.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-32c95cc14b77.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第242章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+    },
+    {
+      "label": "《宿命》第3卷·第324章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0324.html"
+    },
+    {
+      "label": "詭祕·340",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0340.html"
+    },
+    {
+      "label": "詭祕·358",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0358.html"
+    },
+    {
+      "label": "詭祕·760",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0760.html"
+    },
+    {
+      "label": "詭祕·794",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0794.html"
+    },
+    {
+      "label": "詭祕·243",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0243.html"
+    },
+    {
+      "label": "詭祕·246",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0246.html"
+    },
+    {
+      "label": "詭祕·309",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0309.html"
+    },
+    {
+      "label": "詭祕·244",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0244.html"
+    },
+    {
+      "label": "詭祕·269",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0269.html"
+    },
+    {
+      "label": "詭祕·325",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0325.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 211
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瑪麗夫人｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "查明丈夫的婚外情",
+        "prose": "瑪麗的丈夫多拉古是考伊姆公司的經理。她透過薩默爾太太委託夏洛克調查，拿到丈夫與情婦往來的照片後，兩人的婚姻進入協議離婚階段。她也請塔利姆推薦夏洛克加入克拉格俱樂部，替他支付初始會費。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32c95cc14b77.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "調查工廠污染",
+        "prose": "瑪麗參與大氣污染調查時，收到附有殘破玩偶的恐嚇信。她報警後再次找上夏洛克，將自己在調查中受到的壓力告訴他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32c95cc14b77.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "考伊姆公司的股權角力",
+        "prose": "後來，瑪麗與友人聯手爭取公司控制權，並質押股份借款。公司有股份出售時，她請道恩·唐泰斯出面收購並簽協議，試圖把這部分股份納入自己一方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-32c95cc14b77.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

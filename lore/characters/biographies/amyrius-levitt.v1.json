@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "amyrius-levitt",
+  "name_zh": "艾彌留斯·利維特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e81c2e2eb881.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e81c2e2eb881.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第620章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0620.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1094章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1094.html"
+    },
+    {
+      "label": "詭祕·621",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0621.html"
+    },
+    {
+      "label": "詭祕·624",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0624.html"
+    },
+    {
+      "label": "詭祕·625",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+    },
+    {
+      "label": "詭祕·626",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0626.html"
+    },
+    {
+      "label": "詭祕·709",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0709.html"
+    },
+    {
+      "label": "詭祕·996",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0996.html"
+    },
+    {
+      "label": "詭祕·622",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0622.html"
+    },
+    {
+      "label": "詭祕·623",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0623.html"
+    },
+    {
+      "label": "詭祕·631",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0631.html"
+    },
+    {
+      "label": "詭祕·630",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0630.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 220
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "艾彌留斯·利維特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "利維特家的海軍上將",
+        "prose": "艾彌留斯出身魯恩的利維特家族，兄長任上議院議員，弟弟奧斯頓曾是奧拉維島總督。他本人是序列4織法者，統率魯恩部署在中蘇尼亞海的海軍。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e81c2e2eb881.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "奧拉維島的替身",
+        "prose": "艾彌留斯需要秘密離開幾天，便透過比爾特聘請能改換外貌的格爾曼，以契約約束他的扮演並交付符咒。克萊恩代替他期間，既遇到奧斯頓失去總督職位的風波，也被迫處理辛西婭受污染後的異變。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e81c2e2eb881.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "回到國防部",
+        "prose": "艾彌留斯回來後聽取了克萊恩的報告，接受替身在突發事件中的處置。他隨後被調回貝克蘭德，失去海軍統帥一職，後來重新獲得任用，主導國防部事務。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e81c2e2eb881.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

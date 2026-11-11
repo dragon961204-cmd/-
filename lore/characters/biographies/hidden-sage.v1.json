@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hidden-sage",
+  "name_zh": "隱匿賢者",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-85ce0d7844a5.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-85ce0d7844a5.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第61章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0061.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1090章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1090.html"
+    },
+    {
+      "label": "宿命·28",
+      "url": "https://lotmfanwiki.com/chapter/coi-0028.html"
+    },
+    {
+      "label": "宿命·440",
+      "url": "https://lotmfanwiki.com/chapter/coi-0440.html"
+    },
+    {
+      "label": "宿命·1072",
+      "url": "https://lotmfanwiki.com/chapter/coi-1072.html"
+    },
+    {
+      "label": "詭祕·292",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0292.html"
+    },
+    {
+      "label": "詭祕·535",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0535.html"
+    },
+    {
+      "label": "宿命·1071",
+      "url": "https://lotmfanwiki.com/chapter/coi-1071.html"
+    },
+    {
+      "label": "詭祕·164",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0164.html"
+    },
+    {
+      "label": "詭祕·180",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "詭祕·985",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0985.html"
+    },
+    {
+      "label": "詭祕·217",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0217.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 213
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "隱匿賢者｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "活過來的唯一性",
+        "prose": "隱匿賢者起初是窺秘人途徑未人格化的唯一性，後來受到偉大母親影響而活化，成為摩斯苦修會奉信的存在。祂可以把神秘學知識直接灌入同途徑非凡者的腦中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-85ce0d7844a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從廷根到第二部",
+        "prose": "老尼爾等人受到祂的低語和知識影響，這也是克萊恩早期接觸到的途徑風險。到了《宿命之環》，強行灌輸知識的現象變得更嚴重，窺秘人所受的威脅也促使芙蘭卡尋求同途徑人士協助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-85ce0d7844a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "獵殺隱匿賢者",
+        "prose": "芙蘭卡聯絡研究會裡的巫師，海拉等人提供協助。愚者一方與蒸汽與機械之神等力量參與圍獵，最終利用資訊粉碎的手段消滅隱匿賢者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-85ce0d7844a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

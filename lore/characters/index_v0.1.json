@@ -2455,6 +2455,686 @@
       ],
       "aliases": [],
       "first_appearance": null
+    },
+    {
+      "id": "camus-castiya",
+      "name_zh": "加繆·卡斯蒂亞",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-769f20df4be7.html"
+        }
+      ],
+      "aliases": [
+        "加繆"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "amandina",
+      "name_zh": "阿芒迪娜",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-b6b14eaad5eb.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hiso-tupian",
+      "name_zh": "西索",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-3d05572742c8.html"
+        }
+      ],
+      "aliases": [
+        "特瓦納科·圖皮安"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "walter-butler",
+      "name_zh": "瓦爾特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-fbbb62939e8a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "richardson",
+      "name_zh": "理查德森",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1337be261340.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "amyrius-levitt",
+      "name_zh": "艾彌留斯·利維特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e81c2e2eb881.html"
+        }
+      ],
+      "aliases": [
+        "織法者"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "susanna-matisse",
+      "name_zh": "蘇珊娜·馬蒂斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2f28b3dfa3a3.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "aaron-ceres",
+      "name_zh": "艾倫·克瑞斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e4a31a23d758.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "moran-avigny",
+      "name_zh": "莫蘭·阿維尼",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-b7228e462eb0.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "baron-brignais",
+      "name_zh": "布里涅爾男爵",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-4a41fd0b0807.html"
+        }
+      ],
+      "aliases": [
+        "布里涅爾"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "salinger",
+      "name_zh": "薩林格爾",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-8653377d38f9.html"
+        }
+      ],
+      "aliases": [
+        "冥皇",
+        "死神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "hidden-sage",
+      "name_zh": "隱匿賢者",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-85ce0d7844a5.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "enzo",
+      "name_zh": "恩佐",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1eda6af17544.html"
+        },
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-15c1e0f29384.html"
+        }
+      ],
+      "aliases": [
+        "恩尤尼"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "ikanser-bernard",
+      "name_zh": "伊康瑟·伯納德",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-37ae8be05456.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kalvetua",
+      "name_zh": "卡維圖瓦",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-345b2c212bfd.html"
+        }
+      ],
+      "aliases": [
+        "海神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "ludwell",
+      "name_zh": "路德維爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f97d917f54f9.html"
+        }
+      ],
+      "aliases": [
+        "地獄上將"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "gabriel-playwright",
+      "name_zh": "加布里埃爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f33904804385.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hugues-artois",
+      "name_zh": "于格·阿圖瓦",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-89dc7f623097.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "macht",
+      "name_zh": "馬赫特議員",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-4853c2f4fde7.html"
+        }
+      ],
+      "aliases": [
+        "馬赫特"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "mobet-zoroast",
+      "name_zh": "莫貝特·索羅亞斯德",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-27ed60b8615d.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "talim-dumont",
+      "name_zh": "塔利姆",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-29b349ed9952.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ian-wright",
+      "name_zh": "伊恩·賴特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-27a30707e737.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "cleves",
+      "name_zh": "克里維斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-1eb10494cf32.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mary-gale",
+      "name_zh": "瑪麗夫人",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-32c95cc14b77.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "donna-blanche",
+      "name_zh": "堂娜",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-debb373e155b.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mike-joseph",
+      "name_zh": "邁克·約瑟夫",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f1641d6f0946.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "siatas",
+      "name_zh": "夏塔絲",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-b01a44a38552.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kotar",
+      "name_zh": "科塔爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-6d30b83d8f7b.html"
+        }
+      ],
+      "aliases": [
+        "烏黯魔狼",
+        "願望之神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "pallas-negan",
+      "name_zh": "帕拉斯·尼根",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e5342d25de3d.html"
+        }
+      ],
+      "aliases": [
+        "尼根公爵"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "old-kohler",
+      "name_zh": "老科勒",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ae2fee4704bb.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "groselle",
+      "name_zh": "格羅塞爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-de124147e5c1.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "djinn",
+      "name_zh": "燈神",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c662948bd5a5.html"
+        }
+      ],
+      "aliases": [
+        "永恆的燈神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "herabergen",
+      "name_zh": "赫拉伯根",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html"
+        }
+      ],
+      "aliases": [
+        "知識與智慧之神",
+        "智天使",
+        "智慧之龍"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "madam-sharon",
+      "name_zh": "雪倫夫人",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f87a97653596.html"
+        }
+      ],
+      "aliases": [
+        "歡愉魔女"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "edessak-augustus",
+      "name_zh": "埃德薩克·奧古斯都",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-3a5669dab6b7.html"
+        }
+      ],
+      "aliases": [
+        "埃德薩克王子"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "daisy",
+      "name_zh": "黛西",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-3bf08374a931.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jurgen-cooper",
+      "name_zh": "于爾根",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ee2d1170ed98.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "mego-seus",
+      "name_zh": "梅高歐絲",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2ea2fbfc75d5.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "longzel-edward",
+      "name_zh": "龍澤爾·愛德華",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-be89bfc38868.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jahn-kottman",
+      "name_zh": "亞恩·考特曼",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "依已收錄來源頁建立候選身分，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-621430cc602f.html"
+        }
+      ],
+      "aliases": [
+        "海王"
+      ],
+      "first_appearance": null
     }
   ]
 }

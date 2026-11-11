@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "mego-seus",
+  "name_zh": "梅高歐絲",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2ea2fbfc75d5.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2ea2fbfc75d5.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第116章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0116.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1255章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1255.html"
+    },
+    {
+      "label": "詭祕·210",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0210.html"
+    },
+    {
+      "label": "詭祕·16",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0016.html"
+    },
+    {
+      "label": "詭祕·17",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0017.html"
+    },
+    {
+      "label": "詭祕·30",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0030.html"
+    },
+    {
+      "label": "詭祕·31",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0031.html"
+    },
+    {
+      "label": "詭祕·115",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0115.html"
+    },
+    {
+      "label": "詭祕·175",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0175.html"
+    },
+    {
+      "label": "詭祕·184",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0184.html"
+    },
+    {
+      "label": "詭祕·19",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0019.html"
+    },
+    {
+      "label": "詭祕·212",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0212.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 208
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "梅高歐絲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "被蘭爾烏斯欺騙",
+        "prose": "梅高歐絲是廷根居民，被蘭爾烏斯騙成未婚妻。蘭爾烏斯請胡德·歐根協助舉行儀式，利用她孕育真實造物主的子嗣；她的家人則因鐵礦投資被騙，曾帶她到占卜俱樂部求助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2ea2fbfc75d5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "走進黑荊棘安保公司",
+        "prose": "懷孕七個多月時，她在0-08的安排下來到值夜者所在的黑荊棘安保公司。異變爆發後，鄧恩等人為阻止邪神子嗣降臨而迎戰，梅高歐絲與胎兒最終一同被消滅。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2ea2fbfc75d5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "身後留下的線索",
+        "prose": "這場戰鬥也使鄧恩犧牲。克萊恩後來推測因斯帶走了胎兒留下的臍帶；追上因斯復仇時，他仍記得梅高歐絲在廷根事件中所受的傷害。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2ea2fbfc75d5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

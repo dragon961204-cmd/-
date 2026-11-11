@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hugues-artois",
+  "name_zh": "于格·阿圖瓦",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-89dc7f623097.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-89dc7f623097.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第603章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0603.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1158章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1158.html"
+    },
+    {
+      "label": "宿命·222",
+      "url": "https://lotmfanwiki.com/chapter/coi-0222.html"
+    },
+    {
+      "label": "宿命·259",
+      "url": "https://lotmfanwiki.com/chapter/coi-0259.html"
+    },
+    {
+      "label": "宿命·308",
+      "url": "https://lotmfanwiki.com/chapter/coi-0308.html"
+    },
+    {
+      "label": "宿命·195",
+      "url": "https://lotmfanwiki.com/chapter/coi-0195.html"
+    },
+    {
+      "label": "宿命·231",
+      "url": "https://lotmfanwiki.com/chapter/coi-0231.html"
+    },
+    {
+      "label": "宿命·196",
+      "url": "https://lotmfanwiki.com/chapter/coi-0196.html"
+    },
+    {
+      "label": "宿命·245",
+      "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+    },
+    {
+      "label": "宿命·252",
+      "url": "https://lotmfanwiki.com/chapter/coi-0252.html"
+    },
+    {
+      "label": "宿命·253",
+      "url": "https://lotmfanwiki.com/chapter/coi-0253.html"
+    },
+    {
+      "label": "宿命·660",
+      "url": "https://lotmfanwiki.com/chapter/coi-0660.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 202
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "于格·阿圖瓦｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從少校轉入國會",
+        "prose": "于格在軍中升到少校，退役後由腓力將軍引入政界。他代表開明黨競選特里爾市場區議席，以增加工廠和工作機會為訴求，獲得原本互相競爭的薩瓦黨與毒刺幫共同支持。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-89dc7f623097.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在宴會上遇刺",
+        "prose": "當選之後，于格表面以溫和的議員姿態活動，私下則庇護多個邪神的信徒。市場區發生恐怖事件後，簡娜在宴會上接近他並將其刺殺。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-89dc7f623097.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死後浮出的軍中舊案",
+        "prose": "于格死後，國會追究教會在保護議員一事上的責任。他在戰場上擅自撤退、未通知其他陣地的舊事也再被追查，安東尼正是當年曾向軍方控告他的人之一。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-89dc7f623097.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

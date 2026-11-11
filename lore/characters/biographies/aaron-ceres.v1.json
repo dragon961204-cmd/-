@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "aaron-ceres",
+  "name_zh": "艾倫·克瑞斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e4a31a23d758.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e4a31a23d758.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第245章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0245.html"
+    },
+    {
+      "label": "《詭祕》第8卷·第1357章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1357.html"
+    },
+    {
+      "label": "詭祕·739",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0739.html"
+    },
+    {
+      "label": "詭祕·255",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0255.html"
+    },
+    {
+      "label": "詭祕·326",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0326.html"
+    },
+    {
+      "label": "詭祕·340",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0340.html"
+    },
+    {
+      "label": "詭祕·246",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0246.html"
+    },
+    {
+      "label": "詭祕·325",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0325.html"
+    },
+    {
+      "label": "詭祕·339",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0339.html"
+    },
+    {
+      "label": "詭祕·386",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0386.html"
+    },
+    {
+      "label": "詭祕·402",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0402.html"
+    },
+    {
+      "label": "詭祕·422",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0422.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 193
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "艾倫·克瑞斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "外科手術後的霉運",
+        "prose": "艾倫是貝克蘭德的外科醫師，也是克拉格俱樂部會員。他曾為年幼的威爾·昂賽汀安排截肢手術，之後接連遇到倒楣事，收下對方的紙鶴後又開始做惡夢。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4a31a23d758.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以孩子的身分重生",
+        "prose": "艾倫將經歷告訴夏洛克·莫里亞蒂時，尚不知道病人其實是命運之蛇。威爾後來重生為艾倫和妻子維爾瑪的孩子，使克萊恩能藉探望一家人與威爾保持聯絡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4a31a23d758.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "事業轉好",
+        "prose": "孩子出生後，艾倫的工作運勢好轉，並獲得貴族賞識。到第一部後期，他已擁有一間為貝克蘭德上流社會提供服務的私人醫院。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4a31a23d758.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

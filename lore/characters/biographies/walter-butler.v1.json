@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.1",
+  "character_id": "walter-butler",
+  "name_zh": "瓦爾特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-fbbb62939e8a.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-fbbb62939e8a.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Walter",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第738章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0738.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1088章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1088.html"
+    },
+    {
+      "label": "詭祕·749",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0749.html"
+    },
+    {
+      "label": "詭祕·758",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0758.html"
+    },
+    {
+      "label": "詭祕·768",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0768.html"
+    },
+    {
+      "label": "詭祕·782",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0782.html"
+    },
+    {
+      "label": "詭祕·741",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0741.html"
+    },
+    {
+      "label": "詭祕·750",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0750.html"
+    },
+    {
+      "label": "詭祕·754",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+    },
+    {
+      "label": "詭祕·740",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0740.html"
+    },
+    {
+      "label": "詭祕·742",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0742.html"
+    },
+    {
+      "label": "詭祕·753",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 203
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瓦爾特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "受僱於道恩·唐泰斯",
+        "prose": "克萊恩以道恩·唐泰斯的身分在貝克蘭德安家時，聘用瓦爾特管理家務。瓦爾特替他物色貼身男僕，最後選中自東拜朗來的理查德森，並安排其他僕人的日常工作。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fbbb62939e8a.html",
+          "https://lordofthemysteries.fandom.com/wiki/Walter"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "曾在康拉德子爵家任職",
+        "prose": "瓦爾特曾在康拉德子爵家擔任土地管事與助理管家，也在那段日子認識並獲得埃德薩克王子的賞識。王子死後，他離開子爵府，後來接受克萊恩面試，轉到唐泰斯家任職。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fbbb62939e8a.html",
+          "https://lordofthemysteries.fandom.com/wiki/Walter"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "替埃德薩克追查死因",
+        "prose": "管理唐泰斯家務期間，瓦爾特仍對已故王子忠心。他私下和特莉絲合作，利用管家的身分蒐集消息，調查王子自盡背後的真相。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fbbb62939e8a.html",
+          "https://lordofthemysteries.fandom.com/wiki/Walter"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

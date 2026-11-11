@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "edessak-augustus",
+  "name_zh": "埃德薩克·奧古斯都",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-3a5669dab6b7.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-3a5669dab6b7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第438章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0438.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1030章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1030.html"
+    },
+    {
+      "label": "詭祕·439",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0439.html"
+    },
+    {
+      "label": "詭祕·773",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0773.html"
+    },
+    {
+      "label": "詭祕·453",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0453.html"
+    },
+    {
+      "label": "詭祕·469",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0469.html"
+    },
+    {
+      "label": "詭祕·443",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0443.html"
+    },
+    {
+      "label": "詭祕·444",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0444.html"
+    },
+    {
+      "label": "詭祕·463",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0463.html"
+    },
+    {
+      "label": "詭祕·467",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0467.html"
+    },
+    {
+      "label": "詭祕·470",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0470.html"
+    },
+    {
+      "label": "詭祕·2",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0002.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 230
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "埃德薩克·奧古斯都｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "王子與馬術教師",
+        "prose": "埃德薩克在塔利姆擔任馬術教師時認識他。塔利姆暴斃後，他把遺物和頭髮等材料交給私家偵探夏洛克，委託對方查明死因；克萊恩雖查到詛咒的痕跡，對王子仍以突發心臟疾病作結。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3a5669dab6b7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "特莉絲進入紅薔薇莊園",
+        "prose": "魔女教派安排特莉絲接近王子，兩人後來成為情人。埃德薩克知道她是魔女，也曾質問她為何想逃；王子身邊的活動因此與教派及大霧霾前的布局交疊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3a5669dab6b7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "舉槍與身後的追查",
+        "prose": "王子最終在莊園以能傷及靈體的子彈自盡。喬治三世對外稱他涉入謀反，特莉絲則一直追查他是否遭人逼迫。王室公告、特莉絲的判斷及其他人的說法，各自反映了此案不同的知情範圍。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3a5669dab6b7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

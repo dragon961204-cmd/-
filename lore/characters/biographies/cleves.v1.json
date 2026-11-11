@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "cleves",
+  "name_zh": "克里維斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1eb10494cf32.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1eb10494cf32.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第492章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0492.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第517章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0517.html"
+    },
+    {
+      "label": "詭祕·493",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0493.html"
+    },
+    {
+      "label": "詭祕·494",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0494.html"
+    },
+    {
+      "label": "詭祕·504",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0504.html"
+    },
+    {
+      "label": "詭祕·497",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0497.html"
+    },
+    {
+      "label": "詭祕·496",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0496.html"
+    },
+    {
+      "label": "詭祕·503",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0503.html"
+    },
+    {
+      "label": "詭祕·506",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0506.html"
+    },
+    {
+      "label": "詭祕·508",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0508.html"
+    },
+    {
+      "label": "詭祕·507",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0507.html"
+    },
+    {
+      "label": "詭祕·509",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0509.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 195
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "克里維斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從出海冒險到受僱護衛",
+        "prose": "克里維斯自稱曾是冒險家，後來替布蘭奇一家當保鏢。他還惦記著沉沒的月桂號，說如果能找到那條船，就回家與妻兒團聚，結束在海上的冒險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eb10494cf32.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "白瑪瑙號上的護衛",
+        "prose": "他隨雇主乘白瑪瑙號出海，曾在甲板引出魚人並近身交戰。海盜逼近時，他與其他護衛守住雇主的房間；察覺同行者像通緝令上的達尼茲後，他也私下找格爾曼問明情況。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eb10494cf32.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "班西港異變",
+        "prose": "班西港的異常打斷了航程，他在港口與堂娜等人會合。格爾曼帶人前往風暴教堂避險，克里維斯繼續護送布蘭奇一家脫離危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eb10494cf32.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

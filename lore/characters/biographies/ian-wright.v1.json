@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ian-wright",
+  "name_zh": "伊恩·賴特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-27a30707e737.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-27a30707e737.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第215章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0215.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1041章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1041.html"
+    },
+    {
+      "label": "詭祕·222",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0222.html"
+    },
+    {
+      "label": "詭祕·789",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0789.html"
+    },
+    {
+      "label": "詭祕·223",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0223.html"
+    },
+    {
+      "label": "詭祕·225",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0225.html"
+    },
+    {
+      "label": "詭祕·224",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0224.html"
+    },
+    {
+      "label": "詭祕·227",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0227.html"
+    },
+    {
+      "label": "詭祕·233",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0233.html"
+    },
+    {
+      "label": "詭祕·234",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0234.html"
+    },
+    {
+      "label": "詭祕·247",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0247.html"
+    },
+    {
+      "label": "詭祕·433",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0433.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 209
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊恩·賴特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "替偵探跑腿的少年",
+        "prose": "伊恩曾在街頭流浪，自稱被偵探澤瑞爾收養，後來替他蒐集情報。澤瑞爾失蹤後，伊恩在蒸汽地鐵躲避追捕時遇見剛到貝克蘭德的克萊恩，委託他確認偵探的下落。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27a30707e737.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "差分機手稿案",
+        "prose": "克萊恩帶伊恩到下水道認屍，失蹤案也由此牽出第三代差分機手稿的爭奪。伊恩之後把手稿下落交給軍情九處，並向克萊恩道歉，說明自己如何讓他捲入其中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27a30707e737.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "在勇敢者酒吧做情報生意",
+        "prose": "在普利茲港待過一段時間後，伊恩回到貝克蘭德，以勇敢者酒吧的桌球室為據點販賣情報和軍火。埃姆林後來多次在此找他打聽秘密信徒和南大陸來客。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-27a30707e737.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

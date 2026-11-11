@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "amandina",
+  "name_zh": "阿芒迪娜",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-b6b14eaad5eb.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-b6b14eaad5eb.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第662章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1091章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1091.html"
+    },
+    {
+      "label": "宿命·686",
+      "url": "https://lotmfanwiki.com/chapter/coi-0686.html"
+    },
+    {
+      "label": "宿命·850",
+      "url": "https://lotmfanwiki.com/chapter/coi-0850.html"
+    },
+    {
+      "label": "宿命·851",
+      "url": "https://lotmfanwiki.com/chapter/coi-0851.html"
+    },
+    {
+      "label": "宿命·855",
+      "url": "https://lotmfanwiki.com/chapter/coi-0855.html"
+    },
+    {
+      "label": "宿命·655",
+      "url": "https://lotmfanwiki.com/chapter/coi-0655.html"
+    },
+    {
+      "label": "宿命·663",
+      "url": "https://lotmfanwiki.com/chapter/coi-0663.html"
+    },
+    {
+      "label": "宿命·671",
+      "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+    },
+    {
+      "label": "宿命·679",
+      "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+    },
+    {
+      "label": "宿命·684",
+      "url": "https://lotmfanwiki.com/chapter/coi-0684.html"
+    },
+    {
+      "label": "宿命·669",
+      "url": "https://lotmfanwiki.com/chapter/coi-0669.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 230
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿芒迪娜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "棕櫚莊園的女兒",
+        "prose": "阿芒迪娜是佩蒂特爵士與西蒙娜夫人的女兒，在南大陸長大。她曾在未婚夫羅伯特面前觸摸黑色古墓，從此可以強制他人入夢，卻一直沒有把這份能力公開給當地的官方非凡者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6b14eaad5eb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "帶路前往古墓",
+        "prose": "盧米安調查蒂扎莫鎮的夢節時，請她在夢中向卡利神甫問清古墓的來歷。由於接近古墓需要受過恩賜的人帶路，她隨後帶眾人穿過雨林，見到古墓周圍愈來愈清晰的往事幻象。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6b14eaad5eb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "尋求黑夜途徑的力量",
+        "prose": "夢節之後，阿芒迪娜與盧米安保持通信，也透過瑞雅接觸當地神秘學圈。她把恩賜的來源冥道人視為老師，並在芙蘭卡與倫納德等人的協助下尋求黑夜途徑的配方和材料。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6b14eaad5eb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

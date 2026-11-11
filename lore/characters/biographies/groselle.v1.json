@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "groselle",
+  "name_zh": "格羅塞爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-de124147e5c1.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-de124147e5c1.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第576章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0576.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1342章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1342.html"
+    },
+    {
+      "label": "詭祕·577",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0577.html"
+    },
+    {
+      "label": "詭祕·692",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0692.html"
+    },
+    {
+      "label": "詭祕·696",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0696.html"
+    },
+    {
+      "label": "詭祕·1070",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1070.html"
+    },
+    {
+      "label": "詭祕·702",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0702.html"
+    },
+    {
+      "label": "詭祕·698",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0698.html"
+    },
+    {
+      "label": "詭祕·703",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0703.html"
+    },
+    {
+      "label": "詭祕·719",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0719.html"
+    },
+    {
+      "label": "詭祕·718",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0718.html"
+    },
+    {
+      "label": "詭祕·720",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0720.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 230
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "格羅塞爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "巨人王庭的守衛",
+        "prose": "格羅塞爾曾在巨人王庭服勤，輪值看守衰敗森林與宮殿通道。離開王庭後，他經過晨曦鎮前往黃金之國，後來被困在《格羅塞爾遊記》的世界，成為書中營地的領袖。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-de124147e5c1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "領隊挑戰北方之王",
+        "prose": "克萊恩循艾德雯娜的線索見到格羅塞爾時，他已與來自不同年代的同伴組成隊伍。為了履行承諾，他在決戰中再次近身纏住尤里斯安，替隊友創造機會，自己則戰死在冰霜巨龍倒下之前。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-de124147e5c1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "骨灰回到王庭",
+        "prose": "克萊恩帶走他的骨灰，後來又藉書中形象的夢境認出他曾住過的地方。抵達真正的巨人王庭時，克萊恩把骨灰撒在原本的守衛居所，使這位離鄉數千年的巨人得以歸故里。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-de124147e5c1.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

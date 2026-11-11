@@ -1,0 +1,103 @@
+{
+  "schema_version": "1.1",
+  "character_id": "talim-dumont",
+  "name_zh": "塔利姆",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-29b349ed9952.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-29b349ed9952.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第245章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0245.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第850章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0850.html"
+    },
+    {
+      "label": "詭祕·344",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0344.html"
+    },
+    {
+      "label": "詭祕·436",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0436.html"
+    },
+    {
+      "label": "詭祕·269",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0269.html"
+    },
+    {
+      "label": "詭祕·270",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0270.html"
+    },
+    {
+      "label": "詭祕·277",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0277.html"
+    },
+    {
+      "label": "詭祕·272",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0272.html"
+    },
+    {
+      "label": "詭祕·408",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0408.html"
+    },
+    {
+      "label": "詭祕·409",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0409.html"
+    },
+    {
+      "label": "詭祕·443",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0443.html"
+    },
+    {
+      "label": "詭祕·452",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0452.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 188
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "塔利姆｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "家道中落的馬術教師",
+        "prose": "塔利姆的祖上曾有子爵爵位，他這一代則靠教貴族騎馬謀生，因工作認識埃德薩克王子。瑪麗夫人請他引介夏洛克加入克拉格俱樂部，他和克萊恩後來常在那裡打牌、運動，也把記者邁克等人介紹給對方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-29b349ed9952.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "王子的委託與詛咒",
+        "prose": "塔利姆曾替大人物轉達追查卡平案中塔羅牌的委託，死前又頻繁出入紅薔薇莊園。他突然死亡後，克萊恩在灰霧之上透過染血手帕確認死因是詛咒。特莉絲後來說，她原想利用塔利姆逃走，卻在不明情況下用詛咒殺死了他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-29b349ed9952.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

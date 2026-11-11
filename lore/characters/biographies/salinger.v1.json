@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "salinger",
+  "name_zh": "薩林格爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8653377d38f9.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8653377d38f9.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第28章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0028.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1104章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1104.html"
+    },
+    {
+      "label": "詭祕·169",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0169.html"
+    },
+    {
+      "label": "詭祕·901",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0901.html"
+    },
+    {
+      "label": "詭祕·217",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0217.html"
+    },
+    {
+      "label": "詭祕·977",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0977.html"
+    },
+    {
+      "label": "詭祕·1066",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1066.html"
+    },
+    {
+      "label": "詭祕·1118",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1118.html"
+    },
+    {
+      "label": "詭祕·480",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0480.html"
+    },
+    {
+      "label": "詭祕·588",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0588.html"
+    },
+    {
+      "label": "詭祕·589",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0589.html"
+    },
+    {
+      "label": "詭祕·161",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0161.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 246
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "薩林格爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從拜朗冥皇到死神",
+        "prose": "薩林格爾曾是古代不死鳥一方的從神，後來取得死神權柄，成為拜朗帝國的冥皇。阿茲克曾以死亡執政官的身分服務於這個帝國；他在第五紀追尋自身記憶時，也逐步揭開自己與死神的父子關係。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8653377d38f9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "蒼白年代的戰爭",
+        "prose": "四皇之戰後，薩林格爾嘗試將死神和紅祭司的力量結合。他與原初魔女掀起蒼白之災，最終在北大陸諸神的反擊中隕落。拜朗帝國瓦解後，南大陸各方仍有人試圖借他的遺產重建權力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8653377d38f9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死神唯一性的去向",
+        "prose": "靈教團部分成員嘗試以儀式造出人造死神。黑夜女神循這條線介入，阿茲克也因身世與靈魂中的安排再次牽涉其中。薩林格爾死後，圍繞其唯一性和冥界的爭奪仍延續到兩部作品。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8653377d38f9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

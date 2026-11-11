@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "camus-castiya",
+  "name_zh": "加繆·卡斯蒂亞",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-769f20df4be7.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-769f20df4be7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第639章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0639.html"
+    },
+    {
+      "label": "《宿命》第4卷·第699章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+    },
+    {
+      "label": "詭祕·10",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0010.html"
+    },
+    {
+      "label": "詭祕·131",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0131.html"
+    },
+    {
+      "label": "詭祕·158",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0158.html"
+    },
+    {
+      "label": "詭祕·230",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0230.html"
+    },
+    {
+      "label": "宿命·645",
+      "url": "https://lotmfanwiki.com/chapter/coi-0645.html"
+    },
+    {
+      "label": "宿命·662",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·642",
+      "url": "https://lotmfanwiki.com/chapter/coi-0642.html"
+    },
+    {
+      "label": "宿命·643",
+      "url": "https://lotmfanwiki.com/chapter/coi-0643.html"
+    },
+    {
+      "label": "宿命·644",
+      "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+    },
+    {
+      "label": "宿命·646",
+      "url": "https://lotmfanwiki.com/chapter/coi-0646.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 225
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "加繆·卡斯蒂亞｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從王室旁支到派洛斯港",
+        "prose": "加繆出身費內波特王室沒落的旁支，成年不久便到南大陸的馬塔尼邦。他以仲裁人身分加入巡查隊，五年間升到序列7審訊者，接手派洛斯港的行動組。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-769f20df4be7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "重查連環殺人案",
+        "prose": "化名路易·貝里的盧米安找上他，提出以擊殺兇手所得的懸賞換取舊案卷宗。加繆曾參與當年的調查，因此能替他引介知情隊員；巡查隊隨後爆發內部背叛，加繆自己也受到襲擊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-769f20df4be7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "夢節之後",
+        "prose": "加繆受曾救過他的雷亞薩所託前往蒂扎莫鎮，最後選擇和盧米安一起進入黑色古墓一帶，阻止夢節失控。清醒後，他與瑞雅等人救治傷者，並向盧米安透露自己打算離開馬塔尼邦。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-769f20df4be7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

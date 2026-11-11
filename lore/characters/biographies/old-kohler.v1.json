@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "old-kohler",
+  "name_zh": "老科勒",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-ae2fee4704bb.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-ae2fee4704bb.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第353章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0353.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第491章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0491.html"
+    },
+    {
+      "label": "詭祕·356",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0356.html"
+    },
+    {
+      "label": "詭祕·476",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0476.html"
+    },
+    {
+      "label": "詭祕·1056",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1056.html"
+    },
+    {
+      "label": "詭祕·355",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0355.html"
+    },
+    {
+      "label": "詭祕·410",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0410.html"
+    },
+    {
+      "label": "詭祕·373",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0373.html"
+    },
+    {
+      "label": "詭祕·375",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0375.html"
+    },
+    {
+      "label": "詭祕·384",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0384.html"
+    },
+    {
+      "label": "詭祕·390",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0390.html"
+    },
+    {
+      "label": "詭祕·372",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0372.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 201
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "老科勒｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "碼頭工人兼東區嚮導",
+        "prose": "老科勒靠碼頭工作維生，收入不多，但熟悉東區的住戶、工廠和街道。記者邁克做實地調查時雇他帶路，他把邁克和夏洛克帶進平常不向外人開放的鉛白工廠。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ae2fee4704bb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "幫忙尋找黛西",
+        "prose": "夏洛克後來付錢請他留意東區的消息。麗芙的女兒黛西失蹤時，也是老科勒把偵探介紹給她家。黛西獲救後替他寫了報平安的信，再由老科勒託人轉交。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ae2fee4704bb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死於貝克蘭德大霧霾",
+        "prose": "大霧霾當天，老科勒拿到偵探預付的報酬，抱著一袋火腿往住處趕，途中因濃霧倒下身亡。克萊恩日後以占卜找到他的墓，為他刻下名字和墓誌。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ae2fee4704bb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

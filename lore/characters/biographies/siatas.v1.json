@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "siatas",
+  "name_zh": "夏塔絲",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-b01a44a38552.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-b01a44a38552.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第506章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0506.html"
+    },
+    {
+      "label": "《宿命》第6卷·第1008章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1008.html"
+    },
+    {
+      "label": "詭祕·703",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0703.html"
+    },
+    {
+      "label": "詭祕·696",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0696.html"
+    },
+    {
+      "label": "詭祕·699",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0699.html"
+    },
+    {
+      "label": "詭祕·700",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0700.html"
+    },
+    {
+      "label": "詭祕·808",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0808.html"
+    },
+    {
+      "label": "詭祕·702",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0702.html"
+    },
+    {
+      "label": "詭祕·698",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0698.html"
+    },
+    {
+      "label": "詭祕·949",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0949.html"
+    },
+    {
+      "label": "詭祕·1064",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1064.html"
+    },
+    {
+      "label": "詭祕·701",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0701.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 229
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "夏塔絲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "天災女王身邊的精靈",
+        "prose": "夏塔絲是曾侍奉高希納姆的精靈歌者，被捲進《格羅塞爾遊記》後加入格羅塞爾的隊伍，並在書中與莫貝特成婚。她從克萊恩那裡得知高希納姆的金杯仍在，答應以海洋歌者配方交換女王的遺物。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b01a44a38552.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與北方之王交鋒",
+        "prose": "挑戰冰霜巨龍尤里斯安時，夏塔絲以歌聲和弓箭支援同伴，救下龍澤爾，自己也被巨龍擊傷。她和莫貝特離開書中世界後迅速衰老，臨終前交給克萊恩海洋歌者的配方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b01a44a38552.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "回到精靈遺跡",
+        "prose": "艾德雯娜把兩人的遺骸运往蘇尼亞島，讓他們同葬於精靈遺跡。金杯也由克萊恩託她放入墓穴；書中與後來夢境中的夏塔絲，則是她在那些世界留下的形象。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b01a44a38552.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

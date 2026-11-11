@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.1",
+  "character_id": "enzo",
+  "name_zh": "恩佐",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1eda6af17544.json",
+  "related_source_page_records": [
+    "lore/characters/source_page_records/cn-p-15c1e0f29384.json"
+  ],
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1eda6af17544.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-15c1e0f29384.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第908章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0908.html"
+    },
+    {
+      "label": "詭祕·975",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0975.html"
+    },
+    {
+      "label": "詭祕·909",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0909.html"
+    },
+    {
+      "label": "詭祕·910",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0910.html"
+    },
+    {
+      "label": "詭祕·911",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0911.html"
+    },
+    {
+      "label": "詭祕·565",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0565.html"
+    },
+    {
+      "label": "詭祕·688",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0688.html"
+    },
+    {
+      "label": "詭祕·750",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0750.html"
+    },
+    {
+      "label": "詭祕·846",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0846.html"
+    },
+    {
+      "label": "詭祕·912",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0912.html"
+    },
+    {
+      "label": "詭祕·926",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0926.html"
+    },
+    {
+      "label": "詭祕·928",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0928.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第978章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0978.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1257章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1257.html"
+    },
+    {
+      "label": "詭祕·997",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0997.html"
+    },
+    {
+      "label": "詭祕·1134",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1134.html"
+    },
+    {
+      "label": "詭祕·932",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0932.html"
+    },
+    {
+      "label": "詭祕·966",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0966.html"
+    },
+    {
+      "label": "詭祕·979",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0979.html"
+    },
+    {
+      "label": "詭祕·889",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0889.html"
+    },
+    {
+      "label": "詭祕·943",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0943.html"
+    },
+    {
+      "label": "詭祕·591",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0591.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 239
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "恩佐｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "離開生命學派",
+        "prose": "恩佐在命運途徑晉升到序列5贏家，原屬生命學派，受玫瑰學派引誘後叛離。克萊恩在南大陸遇見他並將他製成祕偶，此後透過他的能力利用累積的幸運。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eda6af17544.html",
+          "https://lotmfanwiki.com/node/cn-p-15c1e0f29384.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "改名恩尤尼",
+        "prose": "克萊恩帶著恩佐探索卡爾德隆，也用他協助對付因斯。之後克萊恩替他改換外貌、取名恩尤尼，讓他以道恩·唐泰斯的貼身男僕身分出入貝克蘭德。阿蒙後來寄生這具祕偶，克萊恩在脫身過程中失去了它。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eda6af17544.html",
+          "https://lotmfanwiki.com/node/cn-p-15c1e0f29384.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "巨人王庭的歷史投影",
+        "prose": "克萊恩在巨人王庭召出的是尚未被寄生的恩尤尼之歷史投影。它打開王庭宮殿後受薩斯利爾沉睡處的力量侵蝕，轉而與白銀城隊伍交戰，最後被洛薇雅等人撕裂，由戴里克以陽炎燒盡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1eda6af17544.html",
+          "https://lotmfanwiki.com/node/cn-p-15c1e0f29384.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

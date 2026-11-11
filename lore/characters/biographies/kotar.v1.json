@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.1",
+  "character_id": "kotar",
+  "name_zh": "科塔爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6d30b83d8f7b.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6d30b83d8f7b.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Kotar",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第6卷·第1170章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1170.html"
+    },
+    {
+      "label": "《詭祕》第8卷·第1374章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1374.html"
+    },
+    {
+      "label": "詭祕·1238",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1238.html"
+    },
+    {
+      "label": "詭祕·1242",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1242.html"
+    },
+    {
+      "label": "詭祕·1243",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1243.html"
+    },
+    {
+      "label": "詭祕·1183",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1183.html"
+    },
+    {
+      "label": "詭祕·1193",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1193.html"
+    },
+    {
+      "label": "詭祕·1227",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1227.html"
+    },
+    {
+      "label": "詭祕·1229",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1229.html"
+    },
+    {
+      "label": "詭祕·251",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0251.html"
+    },
+    {
+      "label": "詭祕·586",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0586.html"
+    },
+    {
+      "label": "詭祕·713",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0713.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 211
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "科塔爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "第二紀的願望之神",
+        "prose": "科塔爾是古神弗雷格拉麾下的從神，後世也以烏黯魔狼稱呼祂。弗雷格拉隕落後，祂以奇蹟師的力量在神棄之地活動，多年躲避阿蒙的追獵，也曾出現在月城探索隊抵達的地域。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6d30b83d8f7b.html",
+          "https://lordofthemysteries.fandom.com/wiki/Kotar"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "古堡中的追獵",
+        "prose": "克萊恩需要奇蹟師的非凡特性，便循黑夜女神提供的線索找上科塔爾，並在蕾妮特的協助下闖入祂所在的古堡。科塔爾最終逃離，留下所控制的幕布和部分戰利品。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6d30b83d8f7b.html",
+          "https://lordofthemysteries.fandom.com/wiki/Kotar"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "克萊恩晉升後",
+        "prose": "克萊恩把科塔爾的血用作晉升奇蹟師的輔助材料。之後科塔爾察覺克萊恩的氣息便會遠遠避開，祂在神棄之地的行動也轉以躲避追蹤為主。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6d30b83d8f7b.html",
+          "https://lordofthemysteries.fandom.com/wiki/Kotar"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

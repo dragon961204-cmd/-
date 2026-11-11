@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "jahn-kottman",
+  "name_zh": "亞恩·考特曼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-621430cc602f.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-621430cc602f.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第540章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0540.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1248章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1248.html"
+    },
+    {
+      "label": "詭祕·65",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0065.html"
+    },
+    {
+      "label": "詭祕·541",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0541.html"
+    },
+    {
+      "label": "詭祕·640",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0640.html"
+    },
+    {
+      "label": "詭祕·727",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0727.html"
+    },
+    {
+      "label": "詭祕·550",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0550.html"
+    },
+    {
+      "label": "詭祕·730",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0730.html"
+    },
+    {
+      "label": "詭祕·1208",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1208.html"
+    },
+    {
+      "label": "詭祕·544",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0544.html"
+    },
+    {
+      "label": "詭祕·573",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0573.html"
+    },
+    {
+      "label": "詭祕·558",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0558.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 212
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "亞恩·考特曼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "鎮守羅思德海域",
+        "prose": "考特曼是風暴教會的樞機主教，也是羅思德海域大主教兼代罰者高階執事。他從水手途徑晉升到序列3海王，在拜亞姆的海浪教堂主持教區事務。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-621430cc602f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "對抗群島的海神",
+        "prose": "卡維圖瓦失控掀起海嘯時，考特曼出手阻止。海蛇死後，他判斷取走遺留特性的人還在群島附近，便命代罰者追查異常，並在拜亞姆城外介入涉及玫瑰學派高位力量的戰鬥。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-621430cc602f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "主持阿爾傑的晉升",
+        "prose": "阿爾傑把高希納姆遺物一事上報後，通過風暴教會的樞機會議審核，獲准由考特曼主持晉升。當地反抗軍考慮與教會談判時，也把考特曼視為有權作最後決定的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-621430cc602f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

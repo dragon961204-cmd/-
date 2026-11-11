@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "longzel-edward",
+  "name_zh": "龍澤爾·愛德華",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-be89bfc38868.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-be89bfc38868.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第697章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0697.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1067章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+    },
+    {
+      "label": "詭祕·700",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0700.html"
+    },
+    {
+      "label": "詭祕·702",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0702.html"
+    },
+    {
+      "label": "詭祕·698",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0698.html"
+    },
+    {
+      "label": "詭祕·576",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0576.html"
+    },
+    {
+      "label": "詭祕·692",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0692.html"
+    },
+    {
+      "label": "詭祕·696",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0696.html"
+    },
+    {
+      "label": "詭祕·699",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0699.html"
+    },
+    {
+      "label": "詭祕·701",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0701.html"
+    },
+    {
+      "label": "詭祕·703",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0703.html"
+    },
+    {
+      "label": "詭祕·720",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0720.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 194
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "龍澤爾·愛德華｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "失蹤的魯恩士兵",
+        "prose": "龍澤爾原是魯恩士兵，被困在《格羅塞爾遊記》超過一百六十年。他仍記得貝克蘭德西北區的老家，向克萊恩打聽愛德華一家時，才知道城裡早已沒有這個行政區。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-be89bfc38868.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與格羅塞爾對抗北方之王",
+        "prose": "隊伍挑戰冰霜巨龍時，龍澤爾持劍近戰，也運用在書中取得的懲戒騎士能力限制巨龍。夏塔絲在戰鬥中救過他，他則在巨龍倒下時趕去扶住格羅塞爾。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-be89bfc38868.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "骨灰回到貝克蘭德",
+        "prose": "龍澤爾一離開書中世界便迅速衰老，面向故鄉所在的方向死去。克萊恩帶回他的骨灰，安放於貝克蘭德西區外的風暴教會墓園。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-be89bfc38868.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "susanna-matisse",
+  "name_zh": "蘇珊娜·馬蒂斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2f28b3dfa3a3.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2f28b3dfa3a3.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第112章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0112.html"
+    },
+    {
+      "label": "《宿命》第5卷·第876章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0876.html"
+    },
+    {
+      "label": "宿命·212",
+      "url": "https://lotmfanwiki.com/chapter/coi-0212.html"
+    },
+    {
+      "label": "宿命·213",
+      "url": "https://lotmfanwiki.com/chapter/coi-0213.html"
+    },
+    {
+      "label": "宿命·253",
+      "url": "https://lotmfanwiki.com/chapter/coi-0253.html"
+    },
+    {
+      "label": "宿命·628",
+      "url": "https://lotmfanwiki.com/chapter/coi-0628.html"
+    },
+    {
+      "label": "宿命·134",
+      "url": "https://lotmfanwiki.com/chapter/coi-0134.html"
+    },
+    {
+      "label": "宿命·363",
+      "url": "https://lotmfanwiki.com/chapter/coi-0363.html"
+    },
+    {
+      "label": "宿命·475",
+      "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    },
+    {
+      "label": "宿命·179",
+      "url": "https://lotmfanwiki.com/chapter/coi-0179.html"
+    },
+    {
+      "label": "宿命·135",
+      "url": "https://lotmfanwiki.com/chapter/coi-0135.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 187
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "蘇珊娜·馬蒂斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "特里爾的至福會祭司",
+        "prose": "蘇珊娜生前是特里爾的交際花，也秘密擔任至福會的大祭司，信仰欲望母樹。死後她以墮落樹精的形態繼續活動，仍能思考並與人交談。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2f28b3dfa3a3.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從查理轉向盧米安",
+        "prose": "金雞旅館的住客查理遭她在夢裡糾纏，向教會求援時又被她攔截，幸而獲淨化者救下。蘇珊娜後來利用至福會的人手再次將查理帶走，盧米安和芙蘭卡循線進入地下找人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2f28b3dfa3a3.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "暗影之樹下的獻祭",
+        "prose": "蘇珊娜察覺盧米安體內封印著天使，企圖把他獻給欲望母樹。暗影之樹事件讓她得以發動獻祭，最終仍遭盧米安消滅。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2f28b3dfa3a3.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

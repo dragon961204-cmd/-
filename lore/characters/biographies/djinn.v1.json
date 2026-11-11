@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "djinn",
+  "name_zh": "燈神",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c662948bd5a5.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c662948bd5a5.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第5卷·第1145章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1145.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1176章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1176.html"
+    },
+    {
+      "label": "詭祕·1272",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1272.html"
+    },
+    {
+      "label": "詭祕·1241",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1241.html"
+    },
+    {
+      "label": "詭祕·1239",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1239.html"
+    },
+    {
+      "label": "詭祕·1242",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1242.html"
+    },
+    {
+      "label": "詭祕·1308",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1308.html"
+    },
+    {
+      "label": "詭祕·1349",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1349.html"
+    },
+    {
+      "label": "詭祕·1351",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1351.html"
+    },
+    {
+      "label": "詭祕·1372",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1372.html"
+    },
+    {
+      "label": "詭祕·1373",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1373.html"
+    },
+    {
+      "label": "詭祕·1377",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1377.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 228
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "燈神｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "被封在許願神燈",
+        "prose": "燈神是被封入許願神燈的高位存在，自稱永恆。點燃燈芯便可能見到祂的淡金人影；許願者可以求祂實現願望，但實現方式及代價可能被扭曲。第五紀時，神燈由貝爾納黛掌握。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c662948bd5a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "向克萊恩提出交易",
+        "prose": "燈神透過嘉德麗雅一側接觸灰霧上的克萊恩，提出以願望換取解封、返回星空。克萊恩後來借助神燈，使烏托邦在靈界形成對應區域，從而完成詭秘侍者晉升儀式所需的效果。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c662948bd5a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "承諾仍待兌現",
+        "prose": "克萊恩爭奪愚者神位時，燈神又與特倫索斯特黃銅書制定規則的過程有關。祂仍要求克萊恩兌現承諾；到了《宿命之環》末期，祂依然封在由貝爾納黛掌握的神燈中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c662948bd5a5.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

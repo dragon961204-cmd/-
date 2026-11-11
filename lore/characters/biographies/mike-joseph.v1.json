@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "mike-joseph",
+  "name_zh": "邁克·約瑟夫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f1641d6f0946.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f1641d6f0946.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第270章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0270.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第798章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0798.html"
+    },
+    {
+      "label": "詭祕·354",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0354.html"
+    },
+    {
+      "label": "詭祕·356",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0356.html"
+    },
+    {
+      "label": "詭祕·358",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0358.html"
+    },
+    {
+      "label": "詭祕·277",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0277.html"
+    },
+    {
+      "label": "詭祕·289",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0289.html"
+    },
+    {
+      "label": "詭祕·305",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0305.html"
+    },
+    {
+      "label": "詭祕·344",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0344.html"
+    },
+    {
+      "label": "詭祕·352",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0352.html"
+    },
+    {
+      "label": "詭祕·353",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0353.html"
+    },
+    {
+      "label": "詭祕·355",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0355.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 216
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "邁克·約瑟夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從連環命案認識夏洛克",
+        "prose": "邁克是貝克蘭德記者，經塔利姆介紹認識克萊恩。他準備深入報導連環殺人案，便雇夏洛克陪他訪查死者希貝爾工作過的地方，並追究這起死亡是否出自模仿犯。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f1641d6f0946.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "走進東區的工廠",
+        "prose": "邁克後來調查東區、碼頭和工廠區的勞動環境，與夏洛克換上工人衣服，請老科勒帶路。他們避開看守進入鉛白工廠，邁克把親眼所見的工作環境和居民生活寫入調查手稿。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f1641d6f0946.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "霧霾之後仍追蹤受害者",
+        "prose": "大霧霾後，克萊恩匿名寫信請邁克關照失去家人的黛西。邁克後來又與道恩·唐泰斯接觸，提供他在兩家報社的廣告渠道，兩次認識的對象其實都是克萊恩。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f1641d6f0946.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

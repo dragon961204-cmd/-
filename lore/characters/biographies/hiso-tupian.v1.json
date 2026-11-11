@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hiso-tupian",
+  "name_zh": "西索",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-3d05572742c8.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-3d05572742c8.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第377章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0377.html"
+    },
+    {
+      "label": "《宿命》第5卷·第788章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0788.html"
+    },
+    {
+      "label": "宿命·654",
+      "url": "https://lotmfanwiki.com/chapter/coi-0654.html"
+    },
+    {
+      "label": "宿命·657",
+      "url": "https://lotmfanwiki.com/chapter/coi-0657.html"
+    },
+    {
+      "label": "宿命·662",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·635",
+      "url": "https://lotmfanwiki.com/chapter/coi-0635.html"
+    },
+    {
+      "label": "宿命·637",
+      "url": "https://lotmfanwiki.com/chapter/coi-0637.html"
+    },
+    {
+      "label": "宿命·653",
+      "url": "https://lotmfanwiki.com/chapter/coi-0653.html"
+    },
+    {
+      "label": "宿命·682",
+      "url": "https://lotmfanwiki.com/chapter/coi-0682.html"
+    },
+    {
+      "label": "宿命·643",
+      "url": "https://lotmfanwiki.com/chapter/coi-0643.html"
+    },
+    {
+      "label": "宿命·645",
+      "url": "https://lotmfanwiki.com/chapter/coi-0645.html"
+    },
+    {
+      "label": "宿命·383",
+      "url": "https://lotmfanwiki.com/chapter/coi-0383.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 221
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "西索｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "巡查隊裡的連環殺手",
+        "prose": "西索本名特瓦納科·圖皮安，出身蒂扎莫鎮。他以活屍的身分加入派洛斯港巡查隊，實際上是欲望使徒，也是研究會內愚人節小組的核心成員。他利用這層掩護犯下針對非凡者的連環殺人案。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d05572742c8.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "落入盧米安的伏擊",
+        "prose": "盧米安在派洛斯港設伏擒住西索，海拉在夜之國提供了夢境審訊的場所。盧米安在西索面前揭示自己的布局，藉此完成收割者的晉升儀式，隨後殺死他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d05572742c8.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "未能藉夢節復活",
+        "prose": "西索的本體雖死，他留在蒂扎莫特殊夢境中的投影仍試圖用黃金面具復活。盧米安在夢節中消滅這道投影；西索析出的非凡特性後來成了封印物「惡魔低語」。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d05572742c8.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

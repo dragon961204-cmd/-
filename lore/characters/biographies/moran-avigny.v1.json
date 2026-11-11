@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "moran-avigny",
+  "name_zh": "莫蘭·阿維尼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-b7228e462eb0.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-b7228e462eb0.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第614章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0614.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1041章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1041.html"
+    },
+    {
+      "label": "宿命·714",
+      "url": "https://lotmfanwiki.com/chapter/coi-0714.html"
+    },
+    {
+      "label": "宿命·724",
+      "url": "https://lotmfanwiki.com/chapter/coi-0724.html"
+    },
+    {
+      "label": "宿命·705",
+      "url": "https://lotmfanwiki.com/chapter/coi-0705.html"
+    },
+    {
+      "label": "宿命·723",
+      "url": "https://lotmfanwiki.com/chapter/coi-0723.html"
+    },
+    {
+      "label": "宿命·728",
+      "url": "https://lotmfanwiki.com/chapter/coi-0728.html"
+    },
+    {
+      "label": "宿命·615",
+      "url": "https://lotmfanwiki.com/chapter/coi-0615.html"
+    },
+    {
+      "label": "宿命·712",
+      "url": "https://lotmfanwiki.com/chapter/coi-0712.html"
+    },
+    {
+      "label": "宿命·720",
+      "url": "https://lotmfanwiki.com/chapter/coi-0720.html"
+    },
+    {
+      "label": "宿命·621",
+      "url": "https://lotmfanwiki.com/chapter/coi-0621.html"
+    },
+    {
+      "label": "宿命·632",
+      "url": "https://lotmfanwiki.com/chapter/coi-0632.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 187
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "莫蘭·阿維尼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以工業部長身分活動",
+        "prose": "莫蘭是因蒂斯工業部長，在特里爾有官邸和官方護衛。盧米安和芙蘭卡循著鏡中人的線索追查他，昂古萊姆則利用淨化者的渠道提供官邸安保資料。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b7228e462eb0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "兩路行動逼近官邸",
+        "prose": "K先生潛入官邸行刺時受到淨化者攻擊，藉傳送脫身。盧米安等人也循地圖深入官邸，莫蘭最後遁入鏡中，追查因而從部長的公開身分轉入鏡中世界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b7228e462eb0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "被擒後供出名單",
+        "prose": "莫蘭在鏡中遭到控制後，供出一批鏡中人的名字。他的落網使調查者得以從一位部長的異常，追到其他混入現實社會的鏡中人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b7228e462eb0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

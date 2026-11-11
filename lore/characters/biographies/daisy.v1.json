@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "daisy",
+  "name_zh": "黛西",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-3bf08374a931.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-3bf08374a931.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第373章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0373.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1084章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1084.html"
+    },
+    {
+      "label": "詭祕·375",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0375.html"
+    },
+    {
+      "label": "詭祕·481",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0481.html"
+    },
+    {
+      "label": "詭祕·381",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0381.html"
+    },
+    {
+      "label": "詭祕·383",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0383.html"
+    },
+    {
+      "label": "詭祕·372",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0372.html"
+    },
+    {
+      "label": "詭祕·380",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0380.html"
+    },
+    {
+      "label": "詭祕·384",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0384.html"
+    },
+    {
+      "label": "詭祕·387",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0387.html"
+    },
+    {
+      "label": "詭祕·476",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0476.html"
+    },
+    {
+      "label": "詭祕·482",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0482.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 213
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "黛西｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "東區洗衣工家庭的女兒",
+        "prose": "黛西與母親麗芙、姐姐弗萊婭住在貝克蘭德東區，平日也幫忙送洗好的衣物。她經過破斧巷時失蹤，家人經老科勒引介找上夏洛克，並交出她的單詞冊協助尋人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3bf08374a931.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從卡平的地下室獲救",
+        "prose": "卡平把黛西和其他被擄的少女關在別墅地下。克萊恩以黑皇帝形象出手後，她們逃到街上，黛西也由警方送回家。倫納德日後追查案件，曾進入她的夢境確認家人聘請偵探的經過。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3bf08374a931.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "霧霾後失去家人",
+        "prose": "大霧霾來襲時，黛西在學校，被老師帶入教堂避難，母親與姐姐卻沒有活下來。克萊恩匿名請記者邁克·約瑟夫關照她，她後來得到慈善救助。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3bf08374a931.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

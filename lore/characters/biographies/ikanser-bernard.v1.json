@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ikanser-bernard",
+  "name_zh": "伊康瑟·伯納德",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-37ae8be05456.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-37ae8be05456.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第351章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0351.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1275章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1275.html"
+    },
+    {
+      "label": "詭祕·419",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0419.html"
+    },
+    {
+      "label": "詭祕·426",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0426.html"
+    },
+    {
+      "label": "詭祕·428",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0428.html"
+    },
+    {
+      "label": "詭祕·14",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0014.html"
+    },
+    {
+      "label": "詭祕·272",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0272.html"
+    },
+    {
+      "label": "詭祕·413",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0413.html"
+    },
+    {
+      "label": "詭祕·416",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0416.html"
+    },
+    {
+      "label": "詭祕·420",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0420.html"
+    },
+    {
+      "label": "詭祕·427",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0427.html"
+    },
+    {
+      "label": "詭祕·436",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0436.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 202
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊康瑟·伯納德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "機械之心與阿羅德斯",
+        "prose": "伊康瑟是蒸汽與機械教會的機械之心成員，在貝克蘭德負責非凡案件。調查欲望使徒和阿蒙家族陵墓等異常時，他曾借助魔鏡阿羅德斯取證，也得按魔鏡的規矩回答它提出的私人問題。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-37ae8be05456.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "追查夏洛克·莫里亞蒂",
+        "prose": "大霧霾後，機械之心循相關案件追查失蹤的私家偵探夏洛克。伊康瑟透過阿羅德斯打聽此人，卻受魔鏡與克萊恩的私下關係影響，難以靠它取得完整答案。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-37ae8be05456.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "繼續看管魔鏡",
+        "prose": "到了第一部後期，伊康瑟仍負責阿羅德斯的保管。魔鏡能向教會提供案件線索，也能在教會視線之外主動與克萊恩聯繫。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-37ae8be05456.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

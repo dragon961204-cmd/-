@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "donna-blanche",
+  "name_zh": "堂娜",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-debb373e155b.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-debb373e155b.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第493章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0493.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第737章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0737.html"
+    },
+    {
+      "label": "詭祕·494",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0494.html"
+    },
+    {
+      "label": "詭祕·508",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0508.html"
+    },
+    {
+      "label": "詭祕·506",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0506.html"
+    },
+    {
+      "label": "詭祕·507",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0507.html"
+    },
+    {
+      "label": "詭祕·491",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0491.html"
+    },
+    {
+      "label": "詭祕·496",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0496.html"
+    },
+    {
+      "label": "詭祕·498",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0498.html"
+    },
+    {
+      "label": "詭祕·510",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0510.html"
+    },
+    {
+      "label": "詭祕·511",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0511.html"
+    },
+    {
+      "label": "詭祕·513",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0513.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 206
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "堂娜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "乘白瑪瑙號出海",
+        "prose": "堂娜是烏爾迪·布蘭奇的女兒，跟著家人和弟弟丹頓乘船出海。她原本對海上的傳說充滿好奇，還向船長打聽不老泉，途中卻先遇上了海盜接近客船的危機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-debb373e155b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "帶著弟弟逃離班西港",
+        "prose": "班西港起風時，堂娜從餐廳窗邊看見無頭的人影，驚慌之中一直握著丹頓的手。格爾曼帶著一行人前往風暴教堂避險，她也因此記住了這位在危險中幫助家人的冒險家。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-debb373e155b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "替格爾曼辯護",
+        "prose": "後來有人把格爾曼說成壞人和邪教徒，丹頓跑來告訴堂娜。她仍相信自己在班西港見到的那個人，對弟弟說斯帕羅叔叔是勇敢而善良的冒險家。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-debb373e155b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

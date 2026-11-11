@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "herabergen",
+  "name_zh": "赫拉伯根",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-fb8730bf5918.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第18章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0018.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1170章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1170.html"
+    },
+    {
+      "label": "宿命·1143",
+      "url": "https://lotmfanwiki.com/chapter/coi-1143.html"
+    },
+    {
+      "label": "詭祕·315",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+    },
+    {
+      "label": "詭祕·1070",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1070.html"
+    },
+    {
+      "label": "詭祕·1117",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+    },
+    {
+      "label": "詭祕·1118",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1118.html"
+    },
+    {
+      "label": "詭祕·279",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0279.html"
+    },
+    {
+      "label": "詭祕·576",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0576.html"
+    },
+    {
+      "label": "詭祕·715",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0715.html"
+    },
+    {
+      "label": "詭祕·180",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "詭祕·313",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 212
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "赫拉伯根｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "智慧之龍與智天使",
+        "prose": "赫拉伯根原是古代巨龍一方的從神，曾追隨空想之龍安格爾威德，後以智天使的身分侍奉遠古太陽神。太陽神隕落時，祂與風天使、純白天使瓜分舊主的部分權柄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "成為倫堡等地的正神",
+        "prose": "赫拉伯根取得白塔神位，以知識與智慧之神的稱號受倫堡等國崇拜。第五紀時，克萊恩逐步察覺祂在《格羅塞爾遊記》事件中的作用，也從祂手上取得打開一處宮殿所需的鑰匙。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "從神國對抗到融合",
+        "prose": "亞當試圖重聚權柄時，赫拉伯根曾與另外兩位真神一同被壓制在神國。到了《宿命之環》末期，祂選擇自我毀滅，最終與格里沙·亞當融合。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

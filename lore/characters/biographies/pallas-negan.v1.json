@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "pallas-negan",
+  "name_zh": "帕拉斯·尼根",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e5342d25de3d.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e5342d25de3d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第8章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0008.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1240章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1240.html"
+    },
+    {
+      "label": "詭祕·425",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0425.html"
+    },
+    {
+      "label": "詭祕·190",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0190.html"
+    },
+    {
+      "label": "詭祕·426",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0426.html"
+    },
+    {
+      "label": "詭祕·176",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0176.html"
+    },
+    {
+      "label": "詭祕·188",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0188.html"
+    },
+    {
+      "label": "詭祕·189",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0189.html"
+    },
+    {
+      "label": "詭祕·266",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0266.html"
+    },
+    {
+      "label": "詭祕·423",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0423.html"
+    },
+    {
+      "label": "詭祕·424",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0424.html"
+    },
+    {
+      "label": "詭祕·427",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0427.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 219
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "帕拉斯·尼根｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "保守黨的土地貴族",
+        "prose": "帕拉斯是當代尼根公爵、首相阿古希德的兄長，也是保守黨的重要人物。他以土地與家族人脈掌握政治影響力，在上議院一帶代表風暴教會的利益。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e5342d25de3d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "兩次刺殺",
+        "prose": "齊林格斯混入舞會企圖暗殺時，奧黛麗察覺異常，使公爵躲過這次行動。風暴教會隨後加強保護，但一名欲望使徒仍在公爵情婦的住所將他殺死。克萊恩後來查出，幕後出資者是黃昏隱士會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e5342d25de3d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死後的議席爭議",
+        "prose": "公爵遇刺前正準備和霍爾伯爵談勞工待遇與濟貧法。死訊傳出後，外界一度把刺殺歸到極光會名下，上議院也因議席安排陷入爭執，原本要談的改革隨之擱置。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e5342d25de3d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

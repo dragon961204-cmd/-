@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "macht",
+  "name_zh": "馬赫特議員",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-4853c2f4fde7.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-4853c2f4fde7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第753章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0753.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1087章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1087.html"
+    },
+    {
+      "label": "詭祕·754",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0754.html"
+    },
+    {
+      "label": "詭祕·850",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0850.html"
+    },
+    {
+      "label": "詭祕·759",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0759.html"
+    },
+    {
+      "label": "詭祕·763",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0763.html"
+    },
+    {
+      "label": "詭祕·785",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0785.html"
+    },
+    {
+      "label": "詭祕·756",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0756.html"
+    },
+    {
+      "label": "詭祕·764",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0764.html"
+    },
+    {
+      "label": "詭祕·860",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0860.html"
+    },
+    {
+      "label": "詭祕·861",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0861.html"
+    },
+    {
+      "label": "詭祕·872",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0872.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 225
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "馬赫特議員｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "退伍軍官的社交網",
+        "prose": "馬赫特在貝克蘭德擔任議員，和妻子莉亞娜、女兒海柔爾同住。他帶道恩·唐泰斯進入貴族與退伍軍官的社交圈，介紹霍爾伯爵和國防部的加爾文上校，讓道恩有機會洽談軍火買賣。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4853c2f4fde7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從街頭襲擊到家中的異常",
+        "prose": "一家人和道恩外出用餐後，他曾在街上遇襲，所幸襲擊者被制伏。海柔爾追隨老鼠半神所引來的危機則直接進入他家，阿蒙的寄生使馬赫特一家也成為事件中的受害者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4853c2f4fde7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "戰時的安排",
+        "prose": "戰爭迫近貝克蘭德時，馬赫特打算把妻女送去家中的麋鹿莊園避難。他也答應幫道恩採購莊園所需的武器與糧食，兩人的來往於是從投資和軍火延續到戰時物資。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4853c2f4fde7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

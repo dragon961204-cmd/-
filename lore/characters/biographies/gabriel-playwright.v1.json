@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "gabriel-playwright",
+  "name_zh": "加布里埃爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f33904804385.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f33904804385.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第129章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+    },
+    {
+      "label": "《宿命》第4卷·第662章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·453",
+      "url": "https://lotmfanwiki.com/chapter/coi-0453.html"
+    },
+    {
+      "label": "宿命·134",
+      "url": "https://lotmfanwiki.com/chapter/coi-0134.html"
+    },
+    {
+      "label": "宿命·452",
+      "url": "https://lotmfanwiki.com/chapter/coi-0452.html"
+    },
+    {
+      "label": "宿命·221",
+      "url": "https://lotmfanwiki.com/chapter/coi-0221.html"
+    },
+    {
+      "label": "宿命·456",
+      "url": "https://lotmfanwiki.com/chapter/coi-0456.html"
+    },
+    {
+      "label": "宿命·222",
+      "url": "https://lotmfanwiki.com/chapter/coi-0222.html"
+    },
+    {
+      "label": "宿命·255",
+      "url": "https://lotmfanwiki.com/chapter/coi-0255.html"
+    },
+    {
+      "label": "宿命·258",
+      "url": "https://lotmfanwiki.com/chapter/coi-0258.html"
+    },
+    {
+      "label": "宿命·261",
+      "url": "https://lotmfanwiki.com/chapter/coi-0261.html"
+    },
+    {
+      "label": "宿命·361",
+      "url": "https://lotmfanwiki.com/chapter/coi-0361.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 213
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "加布里埃爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "住在金雞旅館的劇作家",
+        "prose": "加布里埃爾曾住在金雞旅館206號房，在那裡與化名夏爾的盧米安相識。起初他求見復興劇院的經理碰壁，後來在盧米安協助下取得簽約機會，作品《追光者》成功登台。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f33904804385.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "追尋離開的戀人",
+        "prose": "他的情人薩法莉拒絕和他一起搬家，只說自己要去一處叫「旅舍」的地方。加布里埃爾搬離旅館後仍找尋她，在藝術中心見到以她為原型的畫作，回家便遇到異常生物襲擊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f33904804385.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "在旅舍中死去",
+        "prose": "旅舍的污染讓他變成難以看見和觸碰的怪物。他曾把裡面的情形告訴調查者，最後追上薩法莉並抱住她，在血蜻蜓的攻擊下身體垮塌融化。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f33904804385.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ludwell",
+  "name_zh": "路德維爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f97d917f54f9.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f97d917f54f9.html",
+      "verification": "secondary_only"
+    },
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Ludwell",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第35章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0035.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1202章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1202.html"
+    },
+    {
+      "label": "詭祕·918",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0918.html"
+    },
+    {
+      "label": "詭祕·498",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0498.html"
+    },
+    {
+      "label": "詭祕·658",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0658.html"
+    },
+    {
+      "label": "詭祕·920",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0920.html"
+    },
+    {
+      "label": "詭祕·495",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0495.html"
+    },
+    {
+      "label": "詭祕·659",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0659.html"
+    },
+    {
+      "label": "詭祕·638",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0638.html"
+    },
+    {
+      "label": "詭祕·660",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0660.html"
+    },
+    {
+      "label": "詭祕·675",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0675.html"
+    },
+    {
+      "label": "詭祕·914",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0914.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 212
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "路德維爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黑色鬱金香號的船長",
+        "prose": "路德維爾以地獄上將之名統領黑色鬱金香號，經常出現在其他海盜避開的危險航路。他曾襲擊克萊恩，戰後讓座船經由青銅大門遁走；他手上的戒指也讓克萊恩開始向阿茲克打聽死神的遺物。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f97d917f54f9.html",
+          "https://lordofthemysteries.fandom.com/wiki/Ludwell"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "向死亡執政官低頭",
+        "prose": "阿茲克與克萊恩登上黑色鬱金香號時，路德維爾認出了死亡執政官，當著船員的面放棄抵抗。克萊恩控制他的靈體之線後，米雷拉接手他的船隊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f97d917f54f9.html",
+          "https://lordofthemysteries.fandom.com/wiki/Ludwell"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "離開海盜船之後",
+        "prose": "成為祕偶的路德維爾跟隨克萊恩探索靈界與卡爾德隆，也和恩佐一起參與對付因斯的行動。他離開船隊後的經歷，都是克萊恩藉祕偶執行的任務。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f97d917f54f9.html",
+          "https://lordofthemysteries.fandom.com/wiki/Ludwell"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

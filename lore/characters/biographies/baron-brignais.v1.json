@@ -1,0 +1,112 @@
+{
+  "schema_version": "1.1",
+  "character_id": "baron-brignais",
+  "name_zh": "布里涅爾男爵",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-4a41fd0b0807.json",
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-4a41fd0b0807.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第117章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0117.html"
+    },
+    {
+      "label": "《宿命》第4卷·第511章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0511.html"
+    },
+    {
+      "label": "宿命·310",
+      "url": "https://lotmfanwiki.com/chapter/coi-0310.html"
+    },
+    {
+      "label": "宿命·314",
+      "url": "https://lotmfanwiki.com/chapter/coi-0314.html"
+    },
+    {
+      "label": "宿命·171",
+      "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+    },
+    {
+      "label": "宿命·363",
+      "url": "https://lotmfanwiki.com/chapter/coi-0363.html"
+    },
+    {
+      "label": "宿命·455",
+      "url": "https://lotmfanwiki.com/chapter/coi-0455.html"
+    },
+    {
+      "label": "宿命·112",
+      "url": "https://lotmfanwiki.com/chapter/coi-0112.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·121",
+      "url": "https://lotmfanwiki.com/chapter/coi-0121.html"
+    },
+    {
+      "label": "宿命·122",
+      "url": "https://lotmfanwiki.com/chapter/coi-0122.html"
+    },
+    {
+      "label": "宿命·164",
+      "url": "https://lotmfanwiki.com/chapter/coi-0164.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 215
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "布里涅爾男爵｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "薩瓦黨的放貸人",
+        "prose": "布里涅爾是特里爾市場區的薩瓦黨頭目，以放高利貸和打理微風舞廳維持幫派收入。他發現被通緝的盧米安後先派人跟蹤，得知手下遭制伏，才當面警告盧米安別損害薩瓦黨的利益。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4a41fd0b0807.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從監視到引介",
+        "prose": "男爵沒有立即把盧米安交給警方，反而在看出他的能力後，把他帶去見首領加德納。加德納把微風舞廳交給盧米安，原本由男爵掌管的地盤就此轉手。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4a41fd0b0807.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "路德維希的教父",
+        "prose": "男爵信仰知識與智慧之神，也是路德維希的教父。盧米安後來經由他接觸這名外表年幼的孩子；路德維希離開特里爾前，一直以男爵教子的身分在城裡生活。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4a41fd0b0807.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "引用章節與細節待使用者核對"
+    ],
+    "quality_note": "依來源頁整理的原創生平摘要。"
+  }
+}

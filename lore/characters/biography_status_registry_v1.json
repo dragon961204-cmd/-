@@ -3,8 +3,8 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 150,
-    "individual_draft": 118,
+    "indexed": 190,
+    "individual_draft": 158,
     "index_only": 32,
     "verified": 0,
     "chapter_checked_claims": 12,
@@ -1701,6 +1701,366 @@
       "name_zh": "蘭爾烏斯",
       "tier": null,
       "biography_path": "lore/characters/biographies/lanevus.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "camus-castiya",
+      "name_zh": "加繆·卡斯蒂亞",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/camus-castiya.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "amandina",
+      "name_zh": "阿芒迪娜",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/amandina.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hiso-tupian",
+      "name_zh": "西索",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hiso-tupian.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "walter-butler",
+      "name_zh": "瓦爾特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/walter-butler.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "richardson",
+      "name_zh": "理查德森",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/richardson.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "amyrius-levitt",
+      "name_zh": "艾彌留斯·利維特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/amyrius-levitt.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "susanna-matisse",
+      "name_zh": "蘇珊娜·馬蒂斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/susanna-matisse.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "aaron-ceres",
+      "name_zh": "艾倫·克瑞斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/aaron-ceres.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "moran-avigny",
+      "name_zh": "莫蘭·阿維尼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/moran-avigny.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "baron-brignais",
+      "name_zh": "布里涅爾男爵",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/baron-brignais.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "salinger",
+      "name_zh": "薩林格爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/salinger.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hidden-sage",
+      "name_zh": "隱匿賢者",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hidden-sage.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "enzo",
+      "name_zh": "恩佐",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/enzo.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ikanser-bernard",
+      "name_zh": "伊康瑟·伯納德",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ikanser-bernard.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kalvetua",
+      "name_zh": "卡維圖瓦",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kalvetua.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ludwell",
+      "name_zh": "路德維爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ludwell.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gabriel-playwright",
+      "name_zh": "加布里埃爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gabriel-playwright.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hugues-artois",
+      "name_zh": "于格·阿圖瓦",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hugues-artois.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "macht",
+      "name_zh": "馬赫特議員",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/macht.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mobet-zoroast",
+      "name_zh": "莫貝特·索羅亞斯德",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/mobet-zoroast.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "talim-dumont",
+      "name_zh": "塔利姆",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/talim-dumont.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ian-wright",
+      "name_zh": "伊恩·賴特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ian-wright.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "cleves",
+      "name_zh": "克里維斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/cleves.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mary-gale",
+      "name_zh": "瑪麗夫人",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/mary-gale.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "donna-blanche",
+      "name_zh": "堂娜",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/donna-blanche.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mike-joseph",
+      "name_zh": "邁克·約瑟夫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/mike-joseph.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "siatas",
+      "name_zh": "夏塔絲",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/siatas.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kotar",
+      "name_zh": "科塔爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kotar.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "pallas-negan",
+      "name_zh": "帕拉斯·尼根",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/pallas-negan.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "old-kohler",
+      "name_zh": "老科勒",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/old-kohler.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "groselle",
+      "name_zh": "格羅塞爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/groselle.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "djinn",
+      "name_zh": "燈神",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/djinn.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "herabergen",
+      "name_zh": "赫拉伯根",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/herabergen.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "madam-sharon",
+      "name_zh": "雪倫夫人",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/madam-sharon.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "edessak-augustus",
+      "name_zh": "埃德薩克·奧古斯都",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/edessak-augustus.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "daisy",
+      "name_zh": "黛西",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/daisy.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "jurgen-cooper",
+      "name_zh": "于爾根",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/jurgen-cooper.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mego-seus",
+      "name_zh": "梅高歐絲",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/mego-seus.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "longzel-edward",
+      "name_zh": "龍澤爾·愛德華",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/longzel-edward.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "jahn-kottman",
+      "name_zh": "亞恩·考特曼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/jahn-kottman.v1.json",
       "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": []
