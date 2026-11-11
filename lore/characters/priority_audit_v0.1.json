@@ -1,0 +1,930 @@
+{
+  "schema_version": "0.1",
+  "scope": "現有102名角色的編輯優先級評估；優先級是遊戲設計判斷，不是原作客觀定論。D級暫時排除但不刪歷史資料",
+  "counts": {
+    "A": 29,
+    "B": 41,
+    "C": 22,
+    "D": 10
+  },
+  "characters": [
+    {
+      "character_id": "klein-moretti",
+      "name_zh": "克萊恩·莫雷蒂",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "audrey-hall",
+      "name_zh": "奧黛麗·霍爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "alger-wilson",
+      "name_zh": "阿爾傑·威爾遜",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "derrick-berg",
+      "name_zh": "戴里克·伯格",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "fors-wall",
+      "name_zh": "佛爾思·沃爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "emlyn-white",
+      "name_zh": "埃姆林·懷特",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "cattleya",
+      "name_zh": "嘉德麗雅",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "name_zh": "倫納德·米切爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "xio-derecha",
+      "name_zh": "休·迪爾查",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "sharron",
+      "name_zh": "莎倫",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "maric",
+      "name_zh": "馬里奇",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "reinette-tinekerr",
+      "name_zh": "蕾妮特·緹尼科爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "suah",
+      "name_zh": "斯亞",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "senor",
+      "name_zh": "塞尼奧爾",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "steve",
+      "name_zh": "史蒂夫",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "jason-rose",
+      "name_zh": "傑森",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "klarman",
+      "name_zh": "克萊爾曼",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "barranca",
+      "name_zh": "巴蘭卡",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "tirie",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "mahmosi",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "zatwen",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "maveti",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "tyre",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "dunn-smith",
+      "name_zh": "鄧恩·史密斯",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "daly-simone",
+      "name_zh": "戴莉·西蒙妮",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "frye",
+      "name_zh": "弗萊",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "seeka-tron",
+      "name_zh": "西迦·特昂",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "old-neil",
+      "name_zh": "老尼爾",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "rozanne",
+      "name_zh": "羅珊",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "royale-reideen",
+      "name_zh": null,
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "kenley-white",
+      "name_zh": "肯利·懷特",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "soest",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "crestet-cesimir",
+      "name_zh": "克雷斯泰·塞西瑪",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "aiur-harson",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "orianna",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "ouroboros",
+      "name_zh": "烏洛琉斯",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "mr-a",
+      "name_zh": "A先生",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "mr-k",
+      "name_zh": "K先生",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "mr-x",
+      "name_zh": "X先生",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "mr-z",
+      "name_zh": "Z先生",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "botis",
+      "name_zh": "博提斯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "kisma",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "leomaster",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "hanass-vincent",
+      "name_zh": "哈納斯·文森特",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "sirius-arapis",
+      "name_zh": "西里斯·阿瑞匹斯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "bernadette-gustav",
+      "name_zh": "貝爾納黛·古斯塔夫",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "pauli-derlau",
+      "name_zh": null,
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "hermes",
+      "name_zh": "赫密斯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "hvin-rambis",
+      "name_zh": "赫溫·蘭比斯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "anthony-reid",
+      "name_zh": "安東尼·瑞德",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "hood-eugen",
+      "name_zh": "胡德·歐根",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "daxter-guderian",
+      "name_zh": "達克斯特·古德里安",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "escalante-oseleka",
+      "name_zh": null,
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "judith-demoness",
+      "name_zh": null,
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "katarina-pelle",
+      "name_zh": "卡特琳娜·佩萊",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "tracy",
+      "name_zh": "特雷茜",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "trissy",
+      "name_zh": "特莉絲",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "panatiya",
+      "name_zh": "潘娜蒂亞",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "franca-roland",
+      "name_zh": "芙蘭卡·羅蘭",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "lumian-lee",
+      "name_zh": "盧米安·李",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "jenna",
+      "name_zh": "簡娜",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "azik-eggers",
+      "name_zh": "阿茲克·艾格斯",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "melissa-moretti",
+      "name_zh": "梅麗莎·莫雷蒂",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "benson-moretti",
+      "name_zh": "班森·莫雷蒂",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "adam",
+      "name_zh": "亞當",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "amon",
+      "name_zh": "阿蒙",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "roselle-gustav",
+      "name_zh": "羅塞爾·古斯塔夫",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "pallez-zoroast",
+      "name_zh": "帕列斯·索羅亞斯德",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "will-auceptin",
+      "name_zh": "威爾·昂賽汀",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "ince-zangwill",
+      "name_zh": "因斯·贊格威爾",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "danitz",
+      "name_zh": "達尼茲",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "edwina-edwards",
+      "name_zh": "艾德雯娜·愛德華茲",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "aurore-lee",
+      "name_zh": "奧蘿爾·李",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "zaratul",
+      "name_zh": "查拉圖",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "welch-mcgovern",
+      "name_zh": "韋爾奇·麥格文",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "naya",
+      "name_zh": "娜婭",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "selena-wood",
+      "name_zh": "賽琳娜·伍德",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "elizabeth",
+      "name_zh": "伊莉莎白",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "biber",
+      "name_zh": "瑞爾·比伯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "lorotta",
+      "name_zh": "洛絡塔",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "borgia",
+      "name_zh": "博爾吉亞",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "bredt",
+      "name_zh": "布萊特",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "cesare-francis",
+      "name_zh": "凱撒·弗朗西斯",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "jasmine",
+      "name_zh": "茉莉",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "adelaide",
+      "name_zh": "阿德萊德",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "dwayne-nighthawks",
+      "name_zh": "德韋恩",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "hitte",
+      "name_zh": "希特",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "grey-captain",
+      "name_zh": "格雷",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "davy-raymond",
+      "name_zh": "戴維·雷蒙德",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "cindy-redgloves",
+      "name_zh": "辛迪",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "bob-redgloves",
+      "name_zh": "鮑勃",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "albert-redgloves",
+      "name_zh": "艾伯特",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "eric-redgloves",
+      "name_zh": "埃里克",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "grassis",
+      "name_zh": "格拉西斯",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "anna-tingen",
+      "name_zh": "安娜",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "tuxedo-clown",
+      "name_zh": "燕尾服小丑",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "ralph-pund",
+      "name_zh": "拉夫特·龐德",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "leppard",
+      "name_zh": "雷帕德",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "cohen-quentin",
+      "name_zh": "科恩·昆汀",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "kopshti-reid",
+      "name_zh": "考普斯蒂·瑞德",
+      "rank": "B",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "需要核實背景和時間線"
+    },
+    {
+      "character_id": "jake-young",
+      "name_zh": "傑克",
+      "rank": "C",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "次要角色：先保留功能性信息，重要性可調整"
+    },
+    {
+      "character_id": "ait-tingen",
+      "name_zh": "艾特",
+      "rank": "D",
+      "biography_status": "pending",
+      "chapter_verified": false,
+      "in_game": "exclude_pending_review",
+      "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    }
+  ]
+}
