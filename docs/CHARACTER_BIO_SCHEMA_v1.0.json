@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "purpose": "重要角色完整傳記資料格式（非單段摘要）",
+  "required_fields": [
+    "character_id",
+    "name_zh",
+    "canonical_identity",
+    "importance",
+    "historical_sections",
+    "timeline",
+    "organization_history",
+    "pathway_history",
+    "relationships",
+    "game_integration",
+    "source_registry",
+    "verification"
+  ],
+  "fields": {
+    "character_id": "穩定ID；不同別名共用ID",
+    "canonical_identity": "出生、真實身分、出身與跨年代身分；隱藏情報另標層級",
+    "historical_sections": "若干按因果排序的原創摘要（每節附來源代碼）",
+    "timeline": "逐條時間事件（可能是區間或未知）；所有帶時序",
+    "organization_history": "各勢力隸屬/接觸/結盟及起訖時間，與正神信仰分開",
+    "pathway_history": "按年份列出途徑、序列、晉升，未知不可猜",
+    "relationships": "親屬/友誼/同盟/敵對，來源與時間",
+    "game_integration": "各年份可得資訊、可遇方式、在場條件及玩家分歧點，與原作史實隔離",
+    "source_registry": "原作章節定位優先、百科參照次之",
+    "verification": "逐個主張核對，source_status=secondary_only / canon_chapter_verified"
+  },
+  "quality_gate": {
+    "tier_A": "至少8節完整人生史、8條時序事件、組織與途徑變化、主要親友、不同年份遊戲限制與來源；不達標不能算完整",
+    "tier_B": "至少5節完整人生史、5條時序事件、與勢力/事件脈絡完整",
+    "tier_C": "事件需要的簡介與出場時段，非必要不寫長傳",
+    "completion_definition": "內容撰寫完成 + 引用到章節 + 時間線和角色知情度檢驗過，否則draft",
+    "copyright": "僅原創摘要、結構化事實及短引用章號索引，不存小說全文"
+  }
+}
