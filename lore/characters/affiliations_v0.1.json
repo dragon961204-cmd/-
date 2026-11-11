@@ -1,0 +1,1296 @@
+{
+  "schema_version": "0.1",
+  "scope": "人物－組織關係候選；日期尚未核實，不得作1349年在籍推論",
+  "relations": [
+    {
+      "character_id": "klein-moretti",
+      "organization_id": "tarot-club",
+      "relationship": "founder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "klein-moretti",
+      "organization_id": "nighthawks",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "audrey-hall",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "audrey-hall",
+      "organization_id": "psychology-alchemists",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "audrey-hall",
+      "organization_id": "hall-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "alger-wilson",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "alger-wilson",
+      "organization_id": "church-storms",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "derrick-berg",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "derrick-berg",
+      "organization_id": "city-of-silver",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "fors-wall",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "emlyn-white",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "emlyn-white",
+      "organization_id": "sanguines",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "cattleya",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "cattleya",
+      "organization_id": "element-dawn",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Element_Dawn/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "xio-derecha",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "sharron",
+      "organization_id": "rose-school-temperance",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "sharron",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "maric",
+      "organization_id": "rose-school-temperance",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "maric",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "reinette-tinekerr",
+      "organization_id": "rose-school-temperance",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "reinette-tinekerr",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "suah",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "suah",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "senor",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "steve",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "jason-rose",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "klarman",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "barranca",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "tirie",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "mahmosi",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "zatwen",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "maveti",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "tyre",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "dunn-smith",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "daly-simone",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "frye",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "seeka-tron",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "old-neil",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "rozanne",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "royale-reideen",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "kenley-white",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "soest",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "crestet-cesimir",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "aiur-harson",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "orianna",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "ouroboros",
+      "organization_id": "aurora-order",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "mr-a",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "mr-k",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "mr-x",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "mr-z",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "botis",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "kisma",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "leomaster",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "hanass-vincent",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "sirius-arapis",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "bernadette-gustav",
+      "organization_id": "element-dawn",
+      "relationship": "founder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Element_Dawn/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "bernadette-gustav",
+      "organization_id": "gustav-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "pauli-derlau",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "hermes",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "hvin-rambis",
+      "organization_id": "psychology-alchemists",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "anthony-reid",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "hood-eugen",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "daxter-guderian",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "escalante-oseleka",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "judith-demoness",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "katarina-pelle",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "tracy",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "trissy",
+      "organization_id": "demoness-sect",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "panatiya",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "franca-roland",
+      "organization_id": "demoness-sect",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "franca-roland",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "lumian-lee",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "lumian-lee",
+      "organization_id": "aurora-order",
+      "relationship": "former_candidate",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "jenna",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    {
+      "character_id": "azik-eggers",
+      "organization_id": "eggers-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "melissa-moretti",
+      "organization_id": "moretti-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "benson-moretti",
+      "organization_id": "moretti-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "amon",
+      "organization_id": "amon-family",
+      "relationship": "associated",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "roselle-gustav",
+      "organization_id": "gustav-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "pallez-zoroast",
+      "organization_id": "zoroast-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "ince-zangwill",
+      "organization_id": "nighthawks",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "zaratul",
+      "organization_id": "secret-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    },
+    {
+      "character_id": "zaratul",
+      "organization_id": "zaratul-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ]
+    }
+  ]
+}
