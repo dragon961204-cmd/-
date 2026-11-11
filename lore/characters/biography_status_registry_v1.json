@@ -222,7 +222,7 @@
     },
     {
       "character_id": "klarman",
-      "name_zh": "克萊爾曼",
+      "name_zh": "卡拉曼",
       "tier": "B",
       "biography_path": "lore/characters/biographies/klarman.v1.json",
       "status": "draft_for_user_review",

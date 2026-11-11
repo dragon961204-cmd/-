@@ -1,7 +1,7 @@
 {
   "schema_version": "1.1",
   "character_id": "klarman",
-  "name_zh": "克萊爾曼",
+  "name_zh": "卡拉曼",
   "name_en": "Klarman",
   "importance": "B",
   "status": "draft_for_user_review",
@@ -67,7 +67,11 @@
       "時序與序列是否和你閱讀的原作一致？",
       "是否需要增加個人經歷或與其他人物的關係？"
     ],
-    "risk": "medium"
+    "risk": "medium",
+    "notes": [
+      "舊索引中文名「克萊爾曼」與社群百科「卡拉曼」不一致；依後者暫作主譯名，等待使用者核實。"
+    ],
+    "translation_status": "pending_user_review"
   },
   "verification": {
     "complete": false,
