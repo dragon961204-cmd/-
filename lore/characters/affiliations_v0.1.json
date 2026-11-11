@@ -1248,21 +1248,6 @@
       ]
     },
     {
-      "character_id": "ince-zangwill",
-      "organization_id": "nighthawks",
-      "relationship": "former",
-      "time_from": null,
-      "time_to": null,
-      "temporal_confidence": "unresolved",
-      "source_status": "community_wiki_not_novel_verified",
-      "sources": [
-        {
-          "kind": "community_wiki_member_list",
-          "reference": "https://www.lotmfanwiki.com/type/p.html"
-        }
-      ]
-    },
-    {
       "character_id": "zaratul",
       "organization_id": "secret-order",
       "relationship": "member",
@@ -1516,6 +1501,52 @@
           "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
         }
       ]
+    },
+    {
+      "character_id": "ince-zangwill",
+      "organization_id": "church-evernight",
+      "relationship": "former_archbishop",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Ince_Zangwill"
+        }
+      ]
+    },
+    {
+      "character_id": "aurore-lee",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurore_Lee"
+        }
+      ]
+    },
+    {
+      "character_id": "franca-roland",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Category:Curly-Haired_Baboons_Research_Society"
+        }
+      ]
     }
-  ]
+  ],
+  "notes": "部分既有關係曾有類別錯誤；本次修正因斯曾任黑夜女神教會大主教（非標為前值夜者），並補入奧蘿爾及芙蘭卡與卷毛狒狒研究會關係。日期皆待逐章核定。"
 }
