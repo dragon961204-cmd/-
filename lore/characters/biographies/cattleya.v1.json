@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "cattleya",
+  "name_zh": "嘉德麗雅",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "嘉德麗雅在海上以星之上將聞名，具備豐富航海與神秘學知識，與貝爾納黛有深厚師承及情感聯繫。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "她管理自己的船隊，熟悉非凡交易、海盜政治、不同教會與海上殖民勢力的利益。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "以隱者牌進入塔羅會後，長期在知識交換與對神秘女王的感情之間保持平衡。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "她接觸的高序列秘密多於普通隊員，但並不等於能洞悉愚者及整個世界真相。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "海上遭遇、船港交易及要素黎明歷史線可以引出她，需確認當期航跡。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
