@@ -1,0 +1,998 @@
+{
+  "schema_version": "1.0",
+  "id": "tingen-1349",
+  "name_zh": "第五紀 1349 年｜廷根篇",
+  "scope": "從安提哥努斯筆記事件到克萊恩離開廷根。涵蓋與廷根直接相連的灰霧聚會及並行案件。",
+  "evidence_scope": "僅使用 GitHub 專案已收錄的傳記、年表、章節定位與核對記錄。",
+  "source_revision": "c7dccf094450ac15c2b2ee0df1a79b1e87152814",
+  "ordering_note": "事件按敘事分組呈現。after_event_ids 表達目前資料支持的先後；並列事件、同日事件與重疊支線仍可能無法確定精確先後。",
+  "location_note": "位置 ID 為本時間線的本地索引。廷根城市級定位可能代表精確地點待核，後續可與地理名錄對接。",
+  "phases": {
+    "opening": "開篇",
+    "recruitment": "調查與招募",
+    "team-period": "廷根值夜者時期",
+    "parallel": "蘭爾烏斯案支線",
+    "crisis": "廷根危機",
+    "aftermath": "危機後"
+  },
+  "locations": {
+    "tingen": {
+      "name_zh": "廷根",
+      "kind": "city"
+    },
+    "moretti-home": {
+      "name_zh": "莫雷蒂家住所",
+      "kind": "site",
+      "parent": "tingen"
+    },
+    "blackthorn-security": {
+      "name_zh": "黑荊棘安保公司",
+      "kind": "site",
+      "parent": "tingen"
+    },
+    "divination-club": {
+      "name_zh": "廷根占卜俱樂部",
+      "kind": "site",
+      "parent": "tingen",
+      "organization_id": "tingen-divination-club"
+    },
+    "tingen-asylum": {
+      "name_zh": "廷根精神病院",
+      "kind": "site",
+      "parent": "tingen"
+    },
+    "gray-fog": {
+      "name_zh": "灰霧之上",
+      "kind": "nonphysical"
+    }
+  },
+  "events": [
+    {
+      "id": "tingen-1349-moretti-household",
+      "name_zh": "莫雷蒂家的廷根生活",
+      "type": "opening_state",
+      "phase": "opening",
+      "canon_status": "verified",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "moretti-home",
+      "summary": "克萊恩剛從霍伊大學歷史系畢業，與哥哥班森和妹妹梅麗莎同住。班森的文職收入是家計主要來源。",
+      "related_character_ids": [
+        "klein-moretti",
+        "benson-moretti",
+        "melissa-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/evidence/claims_batch_01.json",
+          "locator": "C001、C004",
+          "evidence": "chapter_checked",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 1,
+            "end": 1
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "家庭與求學背景可由日常交往得知。"
+      },
+      "notes": "這筆記錄建立開篇的家庭狀態。"
+    },
+    {
+      "id": "tingen-1349-antigonus-notebook",
+      "name_zh": "安提哥努斯家族筆記事件",
+      "type": "historical_event",
+      "phase": "opening",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen",
+      "summary": "韋爾奇取得安提哥努斯家族筆記，和娜婭及原身克萊恩一起解讀。異變後，韋爾奇與娜婭死亡。",
+      "related_character_ids": [
+        "welch-mcgovern",
+        "naya",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/welch-mcgovern.v1.json",
+          "locator": "生平第2–3段",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 9,
+            "end": 103
+          }
+        },
+        {
+          "path": "lore/characters/biographies/naya.v1.json",
+          "locator": "生平第1–2段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "死因、筆記內容與三人的關聯需要接觸調查線索。"
+      },
+      "notes": "韋爾奇與娜婭的死亡日期，以及筆記取得和解讀的確切先後待查。章節範圍含後續追查。"
+    },
+    {
+      "id": "tingen-1349-zhou-mingrui-awakens",
+      "name_zh": "周明瑞以克萊恩的身分醒來",
+      "type": "historical_event",
+      "phase": "opening",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-06-28",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "moretti-home",
+      "summary": "周明瑞在莫雷蒂家的住所醒來，開始以克萊恩的身分生活並追查異變。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "tingen-1349-antigonus-notebook"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "歷史段落2、年表 1349-06-28",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "周明瑞的身分屬私人秘密，家庭成員的可見資訊限於日常接觸。"
+      },
+      "notes": "倉庫年表的精確日期待核。"
+    },
+    {
+      "id": "tingen-1349-first-tarot-gathering",
+      "name_zh": "灰霧上的首次塔羅會",
+      "type": "historical_event",
+      "phase": "opening",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-06-28",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "gray-fog",
+      "summary": "克萊恩透過灰霧與奧黛麗、阿爾傑建立聚會，分別使用愚者、正義、倒吊人的代號。",
+      "related_character_ids": [
+        "klein-moretti",
+        "audrey-hall",
+        "alger-wilson"
+      ],
+      "related_organization_ids": [
+        "tarot-club"
+      ],
+      "after_event_ids": [
+        "tingen-1349-zhou-mingrui-awakens"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "歷史段落4、年表 1349-06-28",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/audrey-hall.v1.json",
+          "locator": "生平首場灰霧聚會與章節分段",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 5,
+            "end": 193
+          }
+        },
+        {
+          "path": "lore/characters/biographies/alger-wilson.v1.json",
+          "locator": "加入塔羅會與追查齊林格斯",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 5,
+            "end": 189
+          }
+        },
+        {
+          "path": "lore/characters/tarot_club_join_dates_research.json",
+          "locator": "三位初始成員的入會日期",
+          "evidence": "secondary_date"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "聚會存在、參與者身分、代號和召集方式均限有相應情報的角色。"
+      },
+      "notes": "與鄧恩最初調查的相對定位可參考人物分段起始章，兩項的精確時刻與同日先後待核。"
+    },
+    {
+      "id": "tingen-1349-nighthawks-investigate",
+      "name_zh": "值夜者追查筆記與異常死亡",
+      "type": "historical_event",
+      "phase": "recruitment",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-06-28",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "tingen",
+      "summary": "鄧恩領導的廷根值夜者追查筆記和死亡，接觸同樣參與解讀的克萊恩。",
+      "related_character_ids": [
+        "dunn-smith",
+        "klein-moretti",
+        "welch-mcgovern",
+        "naya"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-antigonus-notebook"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "年表 1349-06-28、招募生涯段",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 10,
+            "end": 213
+          }
+        },
+        {
+          "path": "lore/characters/biographies/naya.v1.json",
+          "locator": "生平第2段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "調查線索和教會非凡隊伍的身分取決於角色的職務或接觸情境。"
+      },
+      "notes": "日期取自鄧恩傳記；分段章號只是導航。"
+    },
+    {
+      "id": "tingen-1349-nighthawks-clerical-recruitment",
+      "name_zh": "鄧恩邀請克萊恩加入黑荊棘",
+      "type": "historical_event",
+      "phase": "recruitment",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-06-29",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "blackthorn-security",
+      "summary": "鄧恩給克萊恩加入官方隊伍的機會。克萊恩接觸戴莉、倫納德等人，先在黑荊棘安保公司擔任文職。",
+      "related_character_ids": [
+        "dunn-smith",
+        "klein-moretti",
+        "daly-simone",
+        "leonard-mitchell"
+      ],
+      "related_organization_ids": [
+        "nighthawks",
+        "church-evernight"
+      ],
+      "after_event_ids": [
+        "tingen-1349-nighthawks-investigate"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "年表 1349-06-29",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "歷史段落3",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/daly-simone.v1.json",
+          "locator": "廷根的通靈者",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 19,
+            "end": 183
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "黑荊棘的公司名義可接觸，內部工作與招募內容限有職務或當事人授權。"
+      },
+      "notes": "邀請日與文職實際開始日是否相同待核；戴莉和倫納德的首次接觸各自待定位。"
+    },
+    {
+      "id": "tingen-1349-klein-becomes-seer",
+      "name_zh": "克萊恩成為占卜家與正式值夜者",
+      "type": "historical_event",
+      "phase": "team-period",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-07-02",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "blackthorn-security",
+      "summary": "克萊恩服用序列 9 占卜家魔藥，並進入正式值夜者階段。",
+      "related_character_ids": [
+        "klein-moretti",
+        "dunn-smith"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-nighthawks-clerical-recruitment"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "年表 1349-07-02、途徑與組織履歷",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "年表 1349-07-02",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "正式隊員身分、途徑和魔藥細節限有相應情報的角色。"
+      },
+      "notes": "服藥和正式任職是否同日、以及實際章次待核。"
+    },
+    {
+      "id": "tingen-1349-old-neil-mentorship",
+      "name_zh": "老尼爾教導克萊恩神秘學",
+      "type": "historical_event",
+      "phase": "team-period",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "blackthorn-security",
+      "summary": "老尼爾引導克萊恩接觸神秘學，後續有較系統的學習。",
+      "related_character_ids": [
+        "old-neil",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-nighthawks-clerical-recruitment"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/old-neil.v1.json",
+          "locator": "年表 1349-06-29、1349-07-03；神祕學老師生涯段",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 32,
+            "end": 171
+          }
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "歷史段落3與5",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "日常職務可能接觸老尼爾。教會內部資料與課程取決於授權。"
+      },
+      "notes": "這是跨時段活動，可能從正式入隊前開始；6 月 29 日初接觸與 7 月 3 日較系統授課分別保留為待核線索。"
+    },
+    {
+      "id": "tingen-1349-azik-investigation",
+      "name_zh": "克萊恩與阿茲克追查異常",
+      "type": "historical_event",
+      "phase": "team-period",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen",
+      "summary": "阿茲克注意到克萊恩命運的異常；兩人往後合作尋找拉姆德男爵的歷史線索。",
+      "related_character_ids": [
+        "azik-eggers",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "tingen-1349-zhou-mingrui-awakens"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/azik-eggers.v1.json",
+          "locator": "歷史段落5–6、年表 1349-06-30 與 1349 夏季",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "教員身分可由普通接觸得知。命運異常與合作內容限當事人及取得線索的人。"
+      },
+      "notes": "重新接觸與調查是跨時段活動；具體日期和地點拆分待核。"
+    },
+    {
+      "id": "tingen-1349-lanevus-ritual",
+      "name_zh": "蘭爾烏斯的騙局與儀式",
+      "type": "historical_event",
+      "phase": "parallel",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen",
+      "summary": "蘭爾烏斯以鐵礦募資行騙，並透過胡德·歐根協助的儀式，利用梅高歐絲孕育與真實造物主有關的子嗣。",
+      "related_character_ids": [
+        "lanevus",
+        "hood-eugen",
+        "mego-seus",
+        "true-creator"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/lanevus.v1.json",
+          "locator": "生平第1段；人物章節索引含第62、115–116、175、184–186章",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/mego-seus.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/hood-eugen.v1.json",
+          "locator": "生平第2–3段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "投資損失可由受害者提供。儀式、操作者與胎兒真相需要另有線索。"
+      },
+      "notes": "行騙、儀式、逃離與值夜者得知情報的日期各待核。"
+    },
+    {
+      "id": "tingen-1349-mego-divination-consult",
+      "name_zh": "梅高歐絲一家到占卜俱樂部求助",
+      "type": "historical_event",
+      "phase": "parallel",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "divination-club",
+      "summary": "梅高歐絲的家人因鐵礦投資受騙，曾帶她到廷根占卜俱樂部求助。",
+      "related_character_ids": [
+        "mego-seus",
+        "lanevus"
+      ],
+      "related_organization_ids": [
+        "tingen-divination-club"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mego-seus.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "在場人可接觸求助內容，對案件的掌握受當事人透露範圍限制。"
+      },
+      "notes": "蘭爾烏斯列為案件相關者。求助與儀式的相對時間待核。"
+    },
+    {
+      "id": "tingen-1349-hood-investigation",
+      "name_zh": "值夜者追查廷根精神病院",
+      "type": "historical_event",
+      "phase": "parallel",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen-asylum",
+      "summary": "值夜者循線調查胡德·歐根，追索他和蘭爾烏斯的往來。胡德的精神狀態已經異常。",
+      "related_character_ids": [
+        "hood-eugen",
+        "lanevus",
+        "dunn-smith"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-lanevus-ritual"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/hood-eugen.v1.json",
+          "locator": "生平第1–3段、瘋人院裏的協助者",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 117,
+            "end": 210
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "病院的存在可由日常接觸得知，調查和超凡線索需要接觸案件。"
+      },
+      "notes": "心理鍊金會是胡德的組織背景；此處只索引執行調查的值夜者。"
+    },
+    {
+      "id": "tingen-1349-old-neil-loses-control",
+      "name_zh": "老尼爾失控",
+      "type": "historical_event",
+      "phase": "team-period",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-08-29",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "tingen",
+      "summary": "老尼爾受神秘污染而失控，成為廷根小隊在最終危機前的一次損失。",
+      "related_character_ids": [
+        "old-neil",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-old-neil-mentorship"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/old-neil.v1.json",
+          "locator": "年表 1349-08-29、失控與遭槍決條目",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "失控、污染來源及處置方式屬案件內情。"
+      },
+      "notes": "精確日期為二手資料；當天的參與名單與地點待核。"
+    },
+    {
+      "id": "tingen-1349-mego-at-blackthorn",
+      "name_zh": "梅高歐絲抵達黑荊棘",
+      "type": "historical_event",
+      "phase": "crisis",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-09-09",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "blackthorn-security",
+      "summary": "梅高歐絲來到黑荊棘安保公司，胎兒異變使廷根值夜者必須面對邪神子嗣降臨的危機。",
+      "related_character_ids": [
+        "mego-seus",
+        "dunn-smith",
+        "klein-moretti",
+        "true-creator"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-mego-divination-consult"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mego-seus.v1.json",
+          "locator": "生平第2段；人物章節索引含第210章",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 210,
+            "end": 210
+          }
+        },
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "年表 1349-09-09",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "接觸危機需要有在場或查案的理由；0-08 與幕後布局需額外取得情報。"
+      },
+      "notes": "日期由整體危機候選日繼承；第210章為人物索引。"
+    },
+    {
+      "id": "tingen-1349-tingen-battle",
+      "name_zh": "廷根之變與鄧恩之死",
+      "type": "historical_event",
+      "phase": "crisis",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-09-09",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "blackthorn-security",
+      "summary": "值夜者試圖阻止降臨，梅高歐絲與胎兒被消滅，鄧恩犧牲；克萊恩也在廷根之變中死亡。",
+      "related_character_ids": [
+        "mego-seus",
+        "dunn-smith",
+        "klein-moretti",
+        "leonard-mitchell"
+      ],
+      "related_organization_ids": [
+        "nighthawks"
+      ],
+      "after_event_ids": [
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-old-neil-loses-control"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mego-seus.v1.json",
+          "locator": "生平第2–3段；人物章節索引含第210、212章",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 210,
+            "end": 212
+          }
+        },
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "年表 1349-09-09 與廷根重大事件",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "廷根的死亡與復生",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+          "locator": "廷根災難後",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "隊伍傷亡與交戰內情按角色接觸分開。克萊恩的復生屬後續秘密。"
+      },
+      "notes": "戰鬥、克萊恩死亡和骨灰失竊的細部先後，留待對照原文。"
+    },
+    {
+      "id": "tingen-1349-ince-takes-ashes",
+      "name_zh": "因斯取得聖賽琳娜骨灰",
+      "type": "historical_event",
+      "phase": "crisis",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": "1349-09-09",
+        "date_status": "secondary_candidate"
+      },
+      "location_id": "tingen",
+      "summary": "廷根危機中，因斯·贊格威爾藉0-08安排事件，取得聖賽琳娜骨灰並離開廷根。",
+      "related_character_ids": [
+        "ince-zangwill"
+      ],
+      "related_organization_ids": [
+        "church-evernight"
+      ],
+      "after_event_ids": [
+        "tingen-1349-mego-at-blackthorn"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/ince-zangwill.v1.json",
+          "locator": "廷根事件、年表 1349-09-09",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 210,
+            "end": 213
+          }
+        },
+        {
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "locator": "因斯的布局",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "教會對遺物失蹤的掌握與玩家查明操作者、0-08 作用的條件分開。"
+      },
+      "notes": "教會列為遺物所屬背景。因斯與戰鬥細部的相對時間待核，臍帶歸屬仍屬傳記中的推測。"
+    },
+    {
+      "id": "tingen-1349-klein-revives",
+      "name_zh": "克萊恩復生",
+      "type": "historical_event",
+      "phase": "aftermath",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen",
+      "summary": "克萊恩在廷根事件後復生；這一變化只向掌握相關秘密的角色開放。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "tingen-1349-tingen-battle"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "廷根的死亡與復生",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+          "locator": "空棺與夢中對質（後續線索）",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "復生真相與相關痕跡分開。查到痕跡的角色只能取得其實際掌握的線索。"
+      },
+      "notes": "復生時間、地點細節與不同角色何時獲知仍待核。"
+    },
+    {
+      "id": "tingen-1349-klein-leaves-tingen",
+      "name_zh": "克萊恩離開廷根",
+      "type": "historical_event",
+      "phase": "aftermath",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "day_unresolved"
+      },
+      "location_id": "tingen",
+      "summary": "克萊恩復生後離開原有生活，後續在貝克蘭德以偵探夏洛克·莫里亞蒂身分活動。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "tingen-1349-klein-revives"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "廷根之變、貝克蘭德偵探與夏洛克生涯段",
+          "evidence": "secondary_locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 215,
+            "end": 480
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "廷根親友視角與克萊恩的新身分各自處理。偵探身分可以出場，兩個身分的連結需另取得證據。"
+      },
+      "notes": "第215–480章是夏洛克階段定位；實際離開日期、轉場章與抵達日期待核。"
+    }
+  ],
+  "indexes": {
+    "by_character": {
+      "alger-wilson": [
+        "tingen-1349-first-tarot-gathering"
+      ],
+      "audrey-hall": [
+        "tingen-1349-first-tarot-gathering"
+      ],
+      "azik-eggers": [
+        "tingen-1349-azik-investigation"
+      ],
+      "benson-moretti": [
+        "tingen-1349-moretti-household"
+      ],
+      "daly-simone": [
+        "tingen-1349-nighthawks-clerical-recruitment"
+      ],
+      "dunn-smith": [
+        "tingen-1349-nighthawks-investigate",
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-klein-becomes-seer",
+        "tingen-1349-hood-investigation",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle"
+      ],
+      "hood-eugen": [
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-hood-investigation"
+      ],
+      "ince-zangwill": [
+        "tingen-1349-ince-takes-ashes"
+      ],
+      "klein-moretti": [
+        "tingen-1349-moretti-household",
+        "tingen-1349-antigonus-notebook",
+        "tingen-1349-zhou-mingrui-awakens",
+        "tingen-1349-first-tarot-gathering",
+        "tingen-1349-nighthawks-investigate",
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-klein-becomes-seer",
+        "tingen-1349-old-neil-mentorship",
+        "tingen-1349-azik-investigation",
+        "tingen-1349-old-neil-loses-control",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle",
+        "tingen-1349-klein-revives",
+        "tingen-1349-klein-leaves-tingen"
+      ],
+      "lanevus": [
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-mego-divination-consult",
+        "tingen-1349-hood-investigation"
+      ],
+      "leonard-mitchell": [
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-tingen-battle"
+      ],
+      "mego-seus": [
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-mego-divination-consult",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle"
+      ],
+      "melissa-moretti": [
+        "tingen-1349-moretti-household"
+      ],
+      "naya": [
+        "tingen-1349-antigonus-notebook",
+        "tingen-1349-nighthawks-investigate"
+      ],
+      "old-neil": [
+        "tingen-1349-old-neil-mentorship",
+        "tingen-1349-old-neil-loses-control"
+      ],
+      "true-creator": [
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-mego-at-blackthorn"
+      ],
+      "welch-mcgovern": [
+        "tingen-1349-antigonus-notebook",
+        "tingen-1349-nighthawks-investigate"
+      ]
+    },
+    "by_organization": {
+      "church-evernight": [
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-ince-takes-ashes"
+      ],
+      "nighthawks": [
+        "tingen-1349-nighthawks-investigate",
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-klein-becomes-seer",
+        "tingen-1349-old-neil-mentorship",
+        "tingen-1349-hood-investigation",
+        "tingen-1349-old-neil-loses-control",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle"
+      ],
+      "tarot-club": [
+        "tingen-1349-first-tarot-gathering"
+      ],
+      "tingen-divination-club": [
+        "tingen-1349-mego-divination-consult"
+      ]
+    },
+    "by_candidate_date": {
+      "1349-06-28": [
+        "tingen-1349-zhou-mingrui-awakens",
+        "tingen-1349-first-tarot-gathering",
+        "tingen-1349-nighthawks-investigate"
+      ],
+      "1349-06-29": [
+        "tingen-1349-nighthawks-clerical-recruitment"
+      ],
+      "1349-07-02": [
+        "tingen-1349-klein-becomes-seer"
+      ],
+      "1349-08-29": [
+        "tingen-1349-old-neil-loses-control"
+      ],
+      "1349-09-09": [
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle",
+        "tingen-1349-ince-takes-ashes"
+      ]
+    }
+  }
+}
