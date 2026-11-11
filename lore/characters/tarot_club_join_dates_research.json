@@ -1,0 +1,97 @@
+{
+  "schema_version": "0.1",
+  "title": "塔羅會主要成員加入日期：二手來源查對表",
+  "sources": [
+    {
+      "kind": "wiki_members",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+    }
+  ],
+  "note": "正式加入日期是原作角色選擇塔羅牌稱號之時；此表先依二手來源記錄，還需逐章核對。1360年芙蘭卡月份精度待查。",
+  "entries": [
+    {
+      "character_id": "klein-moretti",
+      "tarot_name": "愚者",
+      "joined_on": "1349-06-28",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "audrey-hall",
+      "tarot_name": "正義",
+      "joined_on": "1349-06-28",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "alger-wilson",
+      "tarot_name": "倒吊人",
+      "joined_on": "1349-06-28",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "derrick-berg",
+      "tarot_name": "太陽",
+      "joined_on": "1349-08-19",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "fors-wall",
+      "tarot_name": "魔術師",
+      "joined_on": "1349-10-10",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "emlyn-white",
+      "tarot_name": "月亮",
+      "joined_on": "1349-12-28",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "cattleya",
+      "tarot_name": "隱者",
+      "joined_on": "1350-01-23",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "tarot_name": "星星",
+      "joined_on": "1350-07-01",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "xio-derecha",
+      "tarot_name": "審判",
+      "joined_on": "1350-07-02",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "sharron",
+      "tarot_name": "節制",
+      "joined_on": "1359-03",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "lumian-lee",
+      "tarot_name": "戰車",
+      "joined_on": "1359-03",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    },
+    {
+      "character_id": "franca-roland",
+      "tarot_name": "皇后",
+      "joined_on": "1360-07",
+      "verification": "secondary_wiki",
+      "chronology_rule": "不得在此日期之前公開套用塔羅會成員身分"
+    }
+  ]
+}
