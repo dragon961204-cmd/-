@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "gusin",
+  "name_zh": "古辛",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a7e3ce89750a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a7e3ce89750a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第5卷·第798章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+    },
+    {
+      "label": "《宿命》第5卷·第837章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0837.html"
+    },
+    {
+      "label": "宿命·812",
+      "url": "https://lotmfanwiki.com/chapter/coi-0812.html"
+    },
+    {
+      "label": "宿命·807",
+      "url": "https://lotmfanwiki.com/chapter/coi-0807.html"
+    },
+    {
+      "label": "宿命·808",
+      "url": "https://lotmfanwiki.com/chapter/coi-0808.html"
+    },
+    {
+      "label": "宿命·817",
+      "url": "https://lotmfanwiki.com/chapter/coi-0817.html"
+    },
+    {
+      "label": "宿命·799",
+      "url": "https://lotmfanwiki.com/chapter/coi-0799.html"
+    },
+    {
+      "label": "宿命·815",
+      "url": "https://lotmfanwiki.com/chapter/coi-0815.html"
+    },
+    {
+      "label": "宿命·805",
+      "url": "https://lotmfanwiki.com/chapter/coi-0805.html"
+    },
+    {
+      "label": "宿命·811",
+      "url": "https://lotmfanwiki.com/chapter/coi-0811.html"
+    },
+    {
+      "label": "宿命·818",
+      "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+    },
+    {
+      "label": "宿命·809",
+      "url": "https://lotmfanwiki.com/chapter/coi-0809.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 138
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "古辛｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "在摩羅拉招兵買馬",
+        "prose": "古辛是混入摩羅拉的鐵血十字會成員，想奪取地下陵寢裡的物品、推翻知識教會在當地的統治。他以地底戰爭迷霧為考驗招攬盧米安，也與阿不思結盟，曾聯手襲擊瓦納克。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a7e3ce89750a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 798,
+          "end": 812
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第798章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+          },
+          {
+            "label": "宿命·812",
+            "url": "https://lotmfanwiki.com/chapter/coi-0812.html"
+          },
+          {
+            "label": "宿命·807",
+            "url": "https://lotmfanwiki.com/chapter/coi-0807.html"
+          },
+          {
+            "label": "宿命·808",
+            "url": "https://lotmfanwiki.com/chapter/coi-0808.html"
+          },
+          {
+            "label": "宿命·799",
+            "url": "https://lotmfanwiki.com/chapter/coi-0799.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "密契後死於雷擊",
+        "prose": "古辛點燃經盧米安動過手腳的油燈，進行密契體驗，身體隨即異變。之後他在與瓦納克一方交鋒的過程中被閃電擊中，成為一具焦黑的乾屍。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a7e3ce89750a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 809,
+          "end": 837
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第837章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0837.html"
+          },
+          {
+            "label": "宿命·812",
+            "url": "https://lotmfanwiki.com/chapter/coi-0812.html"
+          },
+          {
+            "label": "宿命·817",
+            "url": "https://lotmfanwiki.com/chapter/coi-0817.html"
+          },
+          {
+            "label": "宿命·815",
+            "url": "https://lotmfanwiki.com/chapter/coi-0815.html"
+          },
+          {
+            "label": "宿命·811",
+            "url": "https://lotmfanwiki.com/chapter/coi-0811.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

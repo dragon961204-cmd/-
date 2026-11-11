@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "starling-sommer",
+  "name_zh": "斯塔琳·薩默爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-beabd9fa1f3f.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-beabd9fa1f3f.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第215章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0215.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1239章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1239.html"
+    },
+    {
+      "label": "詭祕·367",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0367.html"
+    },
+    {
+      "label": "詭祕·751",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0751.html"
+    },
+    {
+      "label": "詭祕·231",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0231.html"
+    },
+    {
+      "label": "詭祕·242",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+    },
+    {
+      "label": "詭祕·243",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0243.html"
+    },
+    {
+      "label": "詭祕·275",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0275.html"
+    },
+    {
+      "label": "詭祕·309",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0309.html"
+    },
+    {
+      "label": "詭祕·244",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0244.html"
+    },
+    {
+      "label": "詭祕·246",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0246.html"
+    },
+    {
+      "label": "詭祕·258",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0258.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "斯塔琳·薩默爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "夏洛克隔壁的房東",
+        "prose": "斯塔琳與丈夫盧克住在明斯克街17號，把隔壁15號租給夏洛克，並安排女僕定期打掃。她邀請偵探赴家宴，也把懷疑丈夫外遇的瑪麗介紹給他，兩位女士後來成為親近的朋友。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-beabd9fa1f3f.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 215,
+          "end": 402
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第215章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0215.html"
+          },
+          {
+            "label": "詭祕·367",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0367.html"
+          },
+          {
+            "label": "詭祕·231",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0231.html"
+          },
+          {
+            "label": "詭祕·242",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+          },
+          {
+            "label": "詭祕·243",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0243.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "戰爭打破原有生活",
+        "prose": "弗薩克飛空艇轟炸貝克蘭德時，她驚慌地躲進房間角落。戰時物資缺乏，她與盧克有一次都沒能領到食物，只能空手回家相互安慰。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-beabd9fa1f3f.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1084,
+          "end": 1239
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第6卷·第1239章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1239.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

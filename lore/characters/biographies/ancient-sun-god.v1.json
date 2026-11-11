@@ -95,8 +95,8 @@
   "copyright_note": "原創摘要，未摘錄小說段落",
   "biography_quality": {
     "continuous_prose_draft": true,
-    "narrative_sections": 3,
-    "narrative_zh_characters": 228
+    "narrative_sections": 4,
+    "narrative_zh_characters": 337
   },
   "narrative_biography": {
     "schema_version": "1.0",
@@ -123,11 +123,34 @@
       },
       {
         "part": 3,
-        "title": "背叛之宴",
-        "prose": "為了應付體內甦醒的意志，遠古太陽神安排以死亡和復活脫離困局。純白天使、風天使與智天使在祂死後瓜分了部分權柄，讓原定安排偏離預期。祂的遺留分別牽涉真實造物主與亞當，直到第五紀仍在左右神位之爭。",
+        "title": "背叛之宴打亂原定復活計畫",
+        "prose": "遠古太陽神為了擺脫在體內甦醒的原初上帝意志，籌劃先死再復活。純白天使、風天使與智天使在祂死後分走了祂的部分權柄，使復活安排偏離預期。真實造物主承接祂的人性和死亡時的極端情緒；祂的神性則在事前預留的後手亞當身上甦醒。",
         "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God",
+          "https://lordofthemysteries.fandom.com/wiki/Adam",
+          "https://lordofthemysteries.fandom.com/wiki/Adam/History"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1345,
+          "end": 1347
+        },
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "兩部分逐步重聚",
+        "prose": "亞當與真實造物主都延續了遠古太陽神的一部分，各自存續並爭奪融合後的主導權。第一部末期兩者部分融合，由亞當主導；第二部時完成融合，以格里沙·亞當之名活動。融合進度和重新取得分散的神位權柄是兩件事。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Adam",
+          "https://lordofthemysteries.fandom.com/wiki/Adam/History",
           "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
         ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1353,
+          "end": 1381
+        },
         "status": "original_narrative_draft_pending_user_review"
       }
     ],

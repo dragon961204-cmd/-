@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ernes-boyar",
+  "name_zh": "歐內斯·博雅爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-047599c4e463.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-047599c4e463.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第5卷·第969章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0969.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1310章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1310.html"
+    },
+    {
+      "label": "詭祕·973",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0973.html"
+    },
+    {
+      "label": "詭祕·998",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0998.html"
+    },
+    {
+      "label": "詭祕·1001",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1001.html"
+    },
+    {
+      "label": "詭祕·1003",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1003.html"
+    },
+    {
+      "label": "詭祕·988",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0988.html"
+    },
+    {
+      "label": "詭祕·989",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0989.html"
+    },
+    {
+      "label": "詭祕·1002",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1002.html"
+    },
+    {
+      "label": "詭祕·1010",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1010.html"
+    },
+    {
+      "label": "詭祕·1009",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1009.html"
+    },
+    {
+      "label": "詭祕·1014",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1014.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 154
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "歐內斯·博雅爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "提供不完整的古堡情報",
+        "prose": "歐內斯是血族子爵，曾把德萊爾森林古堡的消息交給埃姆林，卻省略部分情報。據他所說，他是奉血族上層指示；埃姆林因此找上塔羅會，安排跟蹤、入夢及催眠。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-047599c4e463.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 969,
+          "end": 1003
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第5卷·第969章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0969.html"
+          },
+          {
+            "label": "詭祕·973",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0973.html"
+          },
+          {
+            "label": "詭祕·998",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0998.html"
+          },
+          {
+            "label": "詭祕·1001",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1001.html"
+          },
+          {
+            "label": "詭祕·1003",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1003.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "到豐收教堂做義工",
+        "prose": "被催眠後，歐內斯來到豐收教堂，要求只做一個月義工。他在烏特拉夫斯基神父監督下清潔聖壇、接待信徒並抄寫教典。神父向他說明教義，表示無意強迫改信；歐內斯後來又回過教堂。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-047599c4e463.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1003,
+          "end": 1310
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第7卷·第1310章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1310.html"
+          },
+          {
+            "label": "詭祕·1003",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1003.html"
+          },
+          {
+            "label": "詭祕·1010",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1010.html"
+          },
+          {
+            "label": "詭祕·1009",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1009.html"
+          },
+          {
+            "label": "詭祕·1014",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1014.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

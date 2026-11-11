@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "harrison-penglai",
+  "name_zh": "哈里森（蓬萊來客）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c91fe198ae9d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c91fe198ae9d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第8卷·第1171章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1171.html"
+    },
+    {
+      "label": "宿命·873",
+      "url": "https://lotmfanwiki.com/chapter/coi-0873.html"
+    },
+    {
+      "label": "宿命·874",
+      "url": "https://lotmfanwiki.com/chapter/coi-0874.html"
+    },
+    {
+      "label": "宿命·850",
+      "url": "https://lotmfanwiki.com/chapter/coi-0850.html"
+    },
+    {
+      "label": "宿命·1144",
+      "url": "https://lotmfanwiki.com/chapter/coi-1144.html"
+    },
+    {
+      "label": "宿命·754",
+      "url": "https://lotmfanwiki.com/chapter/coi-0754.html"
+    },
+    {
+      "label": "宿命·756",
+      "url": "https://lotmfanwiki.com/chapter/coi-0756.html"
+    },
+    {
+      "label": "宿命·855",
+      "url": "https://lotmfanwiki.com/chapter/coi-0855.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 221
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "哈里森（蓬萊來客）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "循死亡力量活動",
+        "prose": "哈里森是被稱為來自蓬萊的客人。布爾曼為了復活妻子而求助死亡力量時，哈里森曾引導他召喚邪靈雅頓；後來芙蘭卡在特里爾地下遇到他，開始透過研究會追查其來歷。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c91fe198ae9d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 521,
+          "end": 756
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·754",
+            "url": "https://lotmfanwiki.com/chapter/coi-0754.html"
+          },
+          {
+            "label": "宿命·756",
+            "url": "https://lotmfanwiki.com/chapter/coi-0756.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "冥河的屍體與特里爾的身影",
+        "prose": "追查者發現，有一具帶著哈里森面貌的腐屍曾漂在與冥道人有關的河流上。哈里森仍在特里爾活動，也曾持白蠟燭進入撒瑪利亞婦人泉周圍；離開墓室後，他切斷了占卜線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c91fe198ae9d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 850,
+          "end": 861
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·850",
+            "url": "https://lotmfanwiki.com/chapter/coi-0850.html"
+          },
+          {
+            "label": "宿命·855",
+            "url": "https://lotmfanwiki.com/chapter/coi-0855.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "從天尊神諭到漩渦交易",
+        "prose": "哈里森與盧米安交手時，自稱奉天尊神諭要困住他。看到阿蒙脫困後，他一度不見蹤影；後來的漩渦事件中，他又以蓬萊來客的身分將舍利子交易給赫洛絲。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c91fe198ae9d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 871,
+          "end": 1171
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1171章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1171.html"
+          },
+          {
+            "label": "宿命·873",
+            "url": "https://lotmfanwiki.com/chapter/coi-0873.html"
+          },
+          {
+            "label": "宿命·874",
+            "url": "https://lotmfanwiki.com/chapter/coi-0874.html"
+          },
+          {
+            "label": "宿命·1144",
+            "url": "https://lotmfanwiki.com/chapter/coi-1144.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "來源頁也列第一部白瑪瑙號的大副哈里斯。此檔只收第二部蓬萊來客。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

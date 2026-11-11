@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "christo",
+  "name_zh": "克里斯托",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-406fdbf46ed7.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-406fdbf46ed7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第153章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0153.html"
+    },
+    {
+      "label": "《宿命》第4卷·第505章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0505.html"
+    },
+    {
+      "label": "宿命·272",
+      "url": "https://lotmfanwiki.com/chapter/coi-0272.html"
+    },
+    {
+      "label": "宿命·412",
+      "url": "https://lotmfanwiki.com/chapter/coi-0412.html"
+    },
+    {
+      "label": "宿命·273",
+      "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+    },
+    {
+      "label": "宿命·413",
+      "url": "https://lotmfanwiki.com/chapter/coi-0413.html"
+    },
+    {
+      "label": "宿命·453",
+      "url": "https://lotmfanwiki.com/chapter/coi-0453.html"
+    },
+    {
+      "label": "宿命·191",
+      "url": "https://lotmfanwiki.com/chapter/coi-0191.html"
+    },
+    {
+      "label": "宿命·192",
+      "url": "https://lotmfanwiki.com/chapter/coi-0192.html"
+    },
+    {
+      "label": "宿命·185",
+      "url": "https://lotmfanwiki.com/chapter/coi-0185.html"
+    },
+    {
+      "label": "宿命·186",
+      "url": "https://lotmfanwiki.com/chapter/coi-0186.html"
+    },
+    {
+      "label": "宿命·190",
+      "url": "https://lotmfanwiki.com/chapter/coi-0190.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 157
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "克里斯托｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "弟弟死於鏡中人事件",
+        "prose": "克里斯托是薩瓦黨的走私頭目，也是序列8馴獸師。他的弟弟艾爾肯管理走私商隊，失蹤後又以用手習慣相反的樣子出現。查明鏡中人的異常後，克里斯托失去了弟弟和一批手下。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-406fdbf46ed7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 185,
+          "end": 196
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·191",
+            "url": "https://lotmfanwiki.com/chapter/coi-0191.html"
+          },
+          {
+            "label": "宿命·192",
+            "url": "https://lotmfanwiki.com/chapter/coi-0192.html"
+          },
+          {
+            "label": "宿命·185",
+            "url": "https://lotmfanwiki.com/chapter/coi-0185.html"
+          },
+          {
+            "label": "宿命·186",
+            "url": "https://lotmfanwiki.com/chapter/coi-0186.html"
+          },
+          {
+            "label": "宿命·190",
+            "url": "https://lotmfanwiki.com/chapter/coi-0190.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "地底差事與出逃",
+        "prose": "加德納派他和西蒙、盧米安到阿爾貝礦洞取箱子。他用能察覺危險的老鼠泰菲提醒同伴，眾人合力封住隧道。後來他打算瞞著加德納加入洞穴協會，最終在薩瓦黨遭清查時逃走。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-406fdbf46ed7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 271,
+          "end": 505
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第505章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0505.html"
+          },
+          {
+            "label": "宿命·272",
+            "url": "https://lotmfanwiki.com/chapter/coi-0272.html"
+          },
+          {
+            "label": "宿命·412",
+            "url": "https://lotmfanwiki.com/chapter/coi-0412.html"
+          },
+          {
+            "label": "宿命·273",
+            "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+          },
+          {
+            "label": "宿命·413",
+            "url": "https://lotmfanwiki.com/chapter/coi-0413.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

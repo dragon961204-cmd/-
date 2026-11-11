@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "viscount-glaint",
+  "name_zh": "格萊林特子爵",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1e2f34c1f427.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1e2f34c1f427.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第61章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0061.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1317章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1317.html"
+    },
+    {
+      "label": "詭祕·131",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0131.html"
+    },
+    {
+      "label": "詭祕·384",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0384.html"
+    },
+    {
+      "label": "詭祕·403",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0403.html"
+    },
+    {
+      "label": "詭祕·102",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0102.html"
+    },
+    {
+      "label": "詭祕·106",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0106.html"
+    },
+    {
+      "label": "詭祕·130",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0130.html"
+    },
+    {
+      "label": "詭祕·1251",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1251.html"
+    },
+    {
+      "label": "詭祕·107",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0107.html"
+    },
+    {
+      "label": "詭祕·242",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+    },
+    {
+      "label": "詭祕·243",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0243.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "格萊林特子爵｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "替奧黛麗引介佛爾思",
+        "prose": "格萊林特年輕時繼承父親的子爵爵位，在皇后區辦沙龍。他把佛爾思介紹給奧黛麗，也陪她參加隱秘聚會；他自己想踏上藥師途徑，卻未能在那場聚會買齊所需材料。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1e2f34c1f427.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 102,
+          "end": 131
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·131",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0131.html"
+          },
+          {
+            "label": "詭祕·102",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0102.html"
+          },
+          {
+            "label": "詭祕·106",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0106.html"
+          },
+          {
+            "label": "詭祕·130",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0130.html"
+          },
+          {
+            "label": "詭祕·107",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0107.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從秘密聯絡人到戰時軍官",
+        "prose": "他借出書房給奧黛麗與休、佛爾思密談，也轉述蘭爾烏斯死時身上覆有塔羅牌的消息。休和佛爾思曾向他借款；戰爭爆發後，他與其他青年貴族一樣參軍。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1e2f34c1f427.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 242,
+          "end": 1251
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·384",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0384.html"
+          },
+          {
+            "label": "詭祕·403",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0403.html"
+          },
+          {
+            "label": "詭祕·1251",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1251.html"
+          },
+          {
+            "label": "詭祕·242",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+          },
+          {
+            "label": "詭祕·243",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0243.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "general-philip",
+  "name_zh": "腓力將軍",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-91de7365aa04.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-91de7365aa04.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第308章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0308.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1089章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1089.html"
+    },
+    {
+      "label": "宿命·476",
+      "url": "https://lotmfanwiki.com/chapter/coi-0476.html"
+    },
+    {
+      "label": "宿命·477",
+      "url": "https://lotmfanwiki.com/chapter/coi-0477.html"
+    },
+    {
+      "label": "宿命·478",
+      "url": "https://lotmfanwiki.com/chapter/coi-0478.html"
+    },
+    {
+      "label": "宿命·451",
+      "url": "https://lotmfanwiki.com/chapter/coi-0451.html"
+    },
+    {
+      "label": "宿命·475",
+      "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+    },
+    {
+      "label": "宿命·705",
+      "url": "https://lotmfanwiki.com/chapter/coi-0705.html"
+    },
+    {
+      "label": "宿命·344",
+      "url": "https://lotmfanwiki.com/chapter/coi-0344.html"
+    },
+    {
+      "label": "宿命·395",
+      "url": "https://lotmfanwiki.com/chapter/coi-0395.html"
+    },
+    {
+      "label": "宿命·447",
+      "url": "https://lotmfanwiki.com/chapter/coi-0447.html"
+    },
+    {
+      "label": "宿命·271",
+      "url": "https://lotmfanwiki.com/chapter/coi-0271.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 164
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "腓力將軍｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從軍中病逝消息到假死",
+        "prose": "腓力出身貴族，在軍中升任將軍，也把于格帶入政壇。官方宣稱他死於疾病，安東尼查到遺孀對尋夢者的捐贈；後續揭露腓力藉逝者的恩賜假死，並利用慈善組織資助畫家、參與燒炭黨。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-91de7365aa04.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 308,
+          "end": 476
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第308章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0308.html"
+          },
+          {
+            "label": "宿命·476",
+            "url": "https://lotmfanwiki.com/chapter/coi-0476.html"
+          },
+          {
+            "label": "宿命·451",
+            "url": "https://lotmfanwiki.com/chapter/coi-0451.html"
+          },
+          {
+            "label": "宿命·475",
+            "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+          },
+          {
+            "label": "宿命·344",
+            "url": "https://lotmfanwiki.com/chapter/coi-0344.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "真正的死亡與骨笛",
+        "prose": "腓力和加德納合作進入第四紀特里爾，遭盧米安、簡娜和安東尼一方截擊，最後被盧米安的火球殺死。安東尼從遺體找到一截尺骨，腓力臨死的怨恨與恩賜留在其中，形成骨笛痛恨樂章。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-91de7365aa04.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 478,
+          "end": 525
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·478",
+            "url": "https://lotmfanwiki.com/chapter/coi-0478.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

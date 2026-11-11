@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "puifur-sauron",
+  "name_zh": "普伊弗·索倫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-4f33c322ab0c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-4f33c322ab0c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第339章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+    },
+    {
+      "label": "《宿命》第3卷·第475章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+    },
+    {
+      "label": "宿命·347",
+      "url": "https://lotmfanwiki.com/chapter/coi-0347.html"
+    },
+    {
+      "label": "宿命·396",
+      "url": "https://lotmfanwiki.com/chapter/coi-0396.html"
+    },
+    {
+      "label": "宿命·432",
+      "url": "https://lotmfanwiki.com/chapter/coi-0432.html"
+    },
+    {
+      "label": "宿命·340",
+      "url": "https://lotmfanwiki.com/chapter/coi-0340.html"
+    },
+    {
+      "label": "宿命·368",
+      "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+    },
+    {
+      "label": "宿命·341",
+      "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+    },
+    {
+      "label": "宿命·342",
+      "url": "https://lotmfanwiki.com/chapter/coi-0342.html"
+    },
+    {
+      "label": "宿命·362",
+      "url": "https://lotmfanwiki.com/chapter/coi-0362.html"
+    },
+    {
+      "label": "宿命·367",
+      "url": "https://lotmfanwiki.com/chapter/coi-0367.html"
+    },
+    {
+      "label": "宿命·369",
+      "url": "https://lotmfanwiki.com/chapter/coi-0369.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 150
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "普伊弗·索倫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "國王餅與紅天鵝堡",
+        "prose": "普伊弗是索倫家族的伯爵、黑貓成員。盧米安奉加德納之命以贊助人的身分接近他；他在聚會引入國王餅遊戲，也曾在紅天鵝堡把餅獻給先祖佛蒙達，卻由盧米安取得國王的位置。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4f33c322ab0c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 339,
+          "end": 369
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第339章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+          },
+          {
+            "label": "宿命·347",
+            "url": "https://lotmfanwiki.com/chapter/coi-0347.html"
+          },
+          {
+            "label": "宿命·340",
+            "url": "https://lotmfanwiki.com/chapter/coi-0340.html"
+          },
+          {
+            "label": "宿命·368",
+            "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+          },
+          {
+            "label": "宿命·341",
+            "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "走向先祖的棺材",
+        "prose": "普伊弗再邀盧米安進城堡地宮尋找伯爵冠冕。索倫家族成員已為佛蒙達復活作準備，他受召喚走入迷宮、躺進青銅棺，之後又現身於荒野邊緣，奔向先祖的身影。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4f33c322ab0c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 423,
+          "end": 475
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第475章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+          },
+          {
+            "label": "宿命·432",
+            "url": "https://lotmfanwiki.com/chapter/coi-0432.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

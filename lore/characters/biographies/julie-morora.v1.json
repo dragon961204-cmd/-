@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.1",
+  "character_id": "julie-morora",
+  "name_zh": "朱莉（摩羅拉）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6ef131d07024.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6ef131d07024.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第6卷·第889章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0889.html"
+    },
+    {
+      "label": "宿命·804",
+      "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+    },
+    {
+      "label": "宿命·807",
+      "url": "https://lotmfanwiki.com/chapter/coi-0807.html"
+    },
+    {
+      "label": "宿命·794",
+      "url": "https://lotmfanwiki.com/chapter/coi-0794.html"
+    },
+    {
+      "label": "宿命·800",
+      "url": "https://lotmfanwiki.com/chapter/coi-0800.html"
+    },
+    {
+      "label": "宿命·828",
+      "url": "https://lotmfanwiki.com/chapter/coi-0828.html"
+    },
+    {
+      "label": "宿命·835",
+      "url": "https://lotmfanwiki.com/chapter/coi-0835.html"
+    },
+    {
+      "label": "宿命·792",
+      "url": "https://lotmfanwiki.com/chapter/coi-0792.html"
+    },
+    {
+      "label": "宿命·793",
+      "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+    },
+    {
+      "label": "宿命·798",
+      "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+    },
+    {
+      "label": "宿命·808",
+      "url": "https://lotmfanwiki.com/chapter/coi-0808.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 149
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "朱莉（摩羅拉）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從流放者到酒吧侍者",
+        "prose": "朱莉以「收藏家」之名被流放到摩羅拉，和盧米安等人同一批進城。她在食肉動物酒吧當侍者，身分是序列5痛苦魔女；她的情人莎莉絲特則在當地執法隊任職。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6ef131d07024.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 794,
+          "end": 803
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·794",
+            "url": "https://lotmfanwiki.com/chapter/coi-0794.html"
+          },
+          {
+            "label": "宿命·800",
+            "url": "https://lotmfanwiki.com/chapter/coi-0800.html"
+          },
+          {
+            "label": "宿命·798",
+            "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "屍骸山峰的神降",
+        "prose": "為了對抗阿不思與古辛，她曾提議和盧米安暫時合作。魔女教派利用莎莉絲特輪值進入陵寢的機會推動計畫；朱莉最後戴上原初魔女留下的神降物，化作污血，靈魂也隨之泯滅。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6ef131d07024.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 811,
+          "end": 844
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·828",
+            "url": "https://lotmfanwiki.com/chapter/coi-0828.html"
+          },
+          {
+            "label": "宿命·835",
+            "url": "https://lotmfanwiki.com/chapter/coi-0835.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "來源頁也列有第一部同名的漢米爾太太長女。此檔只收第二部的摩羅拉流放者。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "cynthia",
+  "name_zh": "辛西婭",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e8ed0b3e6b1c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e8ed0b3e6b1c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第621章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0621.html"
+    },
+    {
+      "label": "《詭祕》第4卷·第861章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0861.html"
+    },
+    {
+      "label": "詭祕·628",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0628.html"
+    },
+    {
+      "label": "詭祕·623",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0623.html"
+    },
+    {
+      "label": "詭祕·631",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0631.html"
+    },
+    {
+      "label": "詭祕·625",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+    },
+    {
+      "label": "詭祕·630",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0630.html"
+    },
+    {
+      "label": "詭祕·622",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0622.html"
+    },
+    {
+      "label": "詭祕·626",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0626.html"
+    },
+    {
+      "label": "詭祕·624",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0624.html"
+    },
+    {
+      "label": "詭祕·627",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0627.html"
+    },
+    {
+      "label": "詭祕·629",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0629.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 143
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "辛西婭｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "海軍上將身邊的普通人",
+        "prose": "辛西婭是艾彌留斯上將的情婦。父母希望她生下上將的孩子，替家族爭取更多艦隊代理份額。克萊恩受雇假扮艾彌留斯時，她仍照常侍奉他的起居，未察覺身分已被替換。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e8ed0b3e6b1c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 622,
+          "end": 626
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·623",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0623.html"
+          },
+          {
+            "label": "詭祕·625",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+          },
+          {
+            "label": "詭祕·622",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0622.html"
+          },
+          {
+            "label": "詭祕·626",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0626.html"
+          },
+          {
+            "label": "詭祕·624",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0624.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "繁衍項鏈引發異變",
+        "prose": "她刮下項鏈墜子的粉末服用，又向欲望母樹祈禱，希望上將更迷戀自己。污染逐步累積，最後使她變成長有花朵的怪樹，克萊恩以太陽相關力量將她淨化。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e8ed0b3e6b1c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 625,
+          "end": 631
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·628",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0628.html"
+          },
+          {
+            "label": "詭祕·631",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0631.html"
+          },
+          {
+            "label": "詭祕·625",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+          },
+          {
+            "label": "詭祕·630",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0630.html"
+          },
+          {
+            "label": "詭祕·626",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0626.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

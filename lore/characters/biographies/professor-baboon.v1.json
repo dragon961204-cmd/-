@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "professor-baboon",
+  "name_zh": "教授（研究會）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-1a7fae240920.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-1a7fae240920.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第376章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0376.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1079章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1079.html"
+    },
+    {
+      "label": "宿命·813",
+      "url": "https://lotmfanwiki.com/chapter/coi-0813.html"
+    },
+    {
+      "label": "宿命·1073",
+      "url": "https://lotmfanwiki.com/chapter/coi-1073.html"
+    },
+    {
+      "label": "宿命·410",
+      "url": "https://lotmfanwiki.com/chapter/coi-0410.html"
+    },
+    {
+      "label": "宿命·1057",
+      "url": "https://lotmfanwiki.com/chapter/coi-1057.html"
+    },
+    {
+      "label": "宿命·1063",
+      "url": "https://lotmfanwiki.com/chapter/coi-1063.html"
+    },
+    {
+      "label": "宿命·412",
+      "url": "https://lotmfanwiki.com/chapter/coi-0412.html"
+    },
+    {
+      "label": "宿命·543",
+      "url": "https://lotmfanwiki.com/chapter/coi-0543.html"
+    },
+    {
+      "label": "宿命·378",
+      "url": "https://lotmfanwiki.com/chapter/coi-0378.html"
+    },
+    {
+      "label": "宿命·867",
+      "url": "https://lotmfanwiki.com/chapter/coi-0867.html"
+    },
+    {
+      "label": "宿命·544",
+      "url": "https://lotmfanwiki.com/chapter/coi-0544.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 147
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "教授（研究會）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "學院小組的巫師代表",
+        "prose": "教授與丈夫副教授同住特里爾，兩人都是卷毛狒狒研究會學院小組的成員。盧米安扮成麻瓜時，她曾邀請他參加線下聚會；她也提醒會友，隱匿賢者灌輸的活知識使窺秘人晉升更加危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1a7fae240920.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 376,
+          "end": 867
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第376章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0376.html"
+          },
+          {
+            "label": "宿命·813",
+            "url": "https://lotmfanwiki.com/chapter/coi-0813.html"
+          },
+          {
+            "label": "宿命·410",
+            "url": "https://lotmfanwiki.com/chapter/coi-0410.html"
+          },
+          {
+            "label": "宿命·412",
+            "url": "https://lotmfanwiki.com/chapter/coi-0412.html"
+          },
+          {
+            "label": "宿命·543",
+            "url": "https://lotmfanwiki.com/chapter/coi-0543.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "參與圍獵隱匿賢者",
+        "prose": "芙蘭卡尋求同途徑巫師協助時，教授前往迷霧海深處參與行動。她表示，解除強制灌輸本身就是最好的報酬；其後的記載把她定位在序列5星象師。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-1a7fae240920.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1057,
+          "end": 1075
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1073",
+            "url": "https://lotmfanwiki.com/chapter/coi-1073.html"
+          },
+          {
+            "label": "宿命·1057",
+            "url": "https://lotmfanwiki.com/chapter/coi-1057.html"
+          },
+          {
+            "label": "宿命·1063",
+            "url": "https://lotmfanwiki.com/chapter/coi-1063.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

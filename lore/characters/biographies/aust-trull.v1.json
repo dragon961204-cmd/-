@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "aust-trull",
+  "name_zh": "奧斯塔·特魯爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9a1d263170fa.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9a1d263170fa.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第113章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0113.html"
+    },
+    {
+      "label": "《宿命》第3卷·第374章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0374.html"
+    },
+    {
+      "label": "宿命·123",
+      "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+    },
+    {
+      "label": "宿命·154",
+      "url": "https://lotmfanwiki.com/chapter/coi-0154.html"
+    },
+    {
+      "label": "宿命·266",
+      "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·121",
+      "url": "https://lotmfanwiki.com/chapter/coi-0121.html"
+    },
+    {
+      "label": "宿命·144",
+      "url": "https://lotmfanwiki.com/chapter/coi-0144.html"
+    },
+    {
+      "label": "宿命·116",
+      "url": "https://lotmfanwiki.com/chapter/coi-0116.html"
+    },
+    {
+      "label": "宿命·115",
+      "url": "https://lotmfanwiki.com/chapter/coi-0115.html"
+    },
+    {
+      "label": "宿命·117",
+      "url": "https://lotmfanwiki.com/chapter/coi-0117.html"
+    },
+    {
+      "label": "宿命·124",
+      "url": "https://lotmfanwiki.com/chapter/coi-0124.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 143
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "奧斯塔·特魯爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以占卜維生的秘祈人",
+        "prose": "奧斯塔在特里爾地下墓穴附近擺攤替人占卜，自稱欠下一筆後來轉到布里涅爾男爵手裡的高利貸。盧米安找上他後，出錢請他引介能交易非凡材料的人，奧斯塔因此替他聯絡K先生。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9a1d263170fa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 113,
+          "end": 124
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第113章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0113.html"
+          },
+          {
+            "label": "宿命·123",
+            "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+          },
+          {
+            "label": "宿命·114",
+            "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+          },
+          {
+            "label": "宿命·121",
+            "url": "https://lotmfanwiki.com/chapter/coi-0121.html"
+          },
+          {
+            "label": "宿命·116",
+            "url": "https://lotmfanwiki.com/chapter/coi-0116.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "替盧米安蒐集材料",
+        "prose": "透過奧斯塔，盧米安能定期參加K先生主持的聚會。奧斯塔也替他找齊部分材料、打聽地下河的水怪，並在水怪被殺後收集血液、鱗片和器官。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9a1d263170fa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 144,
+          "end": 160
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·154",
+            "url": "https://lotmfanwiki.com/chapter/coi-0154.html"
+          },
+          {
+            "label": "宿命·144",
+            "url": "https://lotmfanwiki.com/chapter/coi-0144.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

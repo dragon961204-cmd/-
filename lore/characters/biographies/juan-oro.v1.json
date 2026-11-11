@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "juan-oro",
+  "name_zh": "胡安·奧羅",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-da9f77830dc8.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-da9f77830dc8.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第546章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0546.html"
+    },
+    {
+      "label": "《宿命》第4卷·第590章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0590.html"
+    },
+    {
+      "label": "宿命·573",
+      "url": "https://lotmfanwiki.com/chapter/coi-0573.html"
+    },
+    {
+      "label": "宿命·579",
+      "url": "https://lotmfanwiki.com/chapter/coi-0579.html"
+    },
+    {
+      "label": "宿命·570",
+      "url": "https://lotmfanwiki.com/chapter/coi-0570.html"
+    },
+    {
+      "label": "宿命·571",
+      "url": "https://lotmfanwiki.com/chapter/coi-0571.html"
+    },
+    {
+      "label": "宿命·548",
+      "url": "https://lotmfanwiki.com/chapter/coi-0548.html"
+    },
+    {
+      "label": "宿命·556",
+      "url": "https://lotmfanwiki.com/chapter/coi-0556.html"
+    },
+    {
+      "label": "宿命·563",
+      "url": "https://lotmfanwiki.com/chapter/coi-0563.html"
+    },
+    {
+      "label": "宿命·552",
+      "url": "https://lotmfanwiki.com/chapter/coi-0552.html"
+    },
+    {
+      "label": "宿命·562",
+      "url": "https://lotmfanwiki.com/chapter/coi-0562.html"
+    },
+    {
+      "label": "宿命·564",
+      "url": "https://lotmfanwiki.com/chapter/coi-0564.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 151
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "胡安·奧羅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從對立到交換線索",
+        "prose": "胡安是米洛村前任村長，也是桑塔港漁業公會會長。孫子費南德茲遇襲使他一度與盧米安對立；雙方以釋放無辜者為條件合作，透過通靈確認去年的水手伊魯遭槍殺，船上的伊魯另有其人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-da9f77830dc8.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 546,
+          "end": 567
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第546章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0546.html"
+          },
+          {
+            "label": "宿命·548",
+            "url": "https://lotmfanwiki.com/chapter/coi-0548.html"
+          },
+          {
+            "label": "宿命·556",
+            "url": "https://lotmfanwiki.com/chapter/coi-0556.html"
+          },
+          {
+            "label": "宿命·563",
+            "url": "https://lotmfanwiki.com/chapter/coi-0563.html"
+          },
+          {
+            "label": "宿命·552",
+            "url": "https://lotmfanwiki.com/chapter/coi-0552.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "短暫取得海之總督權柄",
+        "prose": "胡安改換外貌登上彩花禮船，與盧米安取出海后之戒，又促使西蒙接下戒指。局勢失控時，他一度成為臨時海之總督，後與拉托爭奪權柄，最終化入海域。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-da9f77830dc8.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 573,
+          "end": 589
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·573",
+            "url": "https://lotmfanwiki.com/chapter/coi-0573.html"
+          },
+          {
+            "label": "宿命·579",
+            "url": "https://lotmfanwiki.com/chapter/coi-0579.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

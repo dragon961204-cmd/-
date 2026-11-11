@@ -3,9 +3,9 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 190,
-    "individual_draft": 158,
-    "index_only": 32,
+    "indexed": 229,
+    "individual_draft": 198,
+    "index_only": 31,
     "verified": 0,
     "chapter_checked_claims": 12,
     "bios_with_some_chapter_checked_claims": 5,
@@ -402,10 +402,10 @@
     },
     {
       "character_id": "soest",
-      "name_zh": null,
+      "name_zh": "索斯特",
       "tier": "C",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/soest.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
@@ -2061,6 +2061,357 @@
       "name_zh": "亞恩·考特曼",
       "tier": null,
       "biography_path": "lore/characters/biographies/jahn-kottman.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "julie-morora",
+      "name_zh": "朱莉（摩羅拉）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/julie-morora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "perle",
+      "name_zh": "佩爾樂",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/perle.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "voisin-sanson",
+      "name_zh": "瓦贊·桑松",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/voisin-sanson.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "juan-oro",
+      "name_zh": "胡安·奧羅",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/juan-oro.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "farbauti",
+      "name_zh": "法布提",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/farbauti.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "latto-giaro",
+      "name_zh": "拉托·吉亞羅",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/latto-giaro.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "reya",
+      "name_zh": "瑞雅",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/reya.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "verdu-abraham",
+      "name_zh": "維爾杜·亞伯拉罕",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/verdu-abraham.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "harrison-penglai",
+      "name_zh": "哈里森（蓬萊來客）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/harrison-penglai.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "puifur-sauron",
+      "name_zh": "普伊弗·索倫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/puifur-sauron.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "christo",
+      "name_zh": "克里斯托",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/christo.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "wendel",
+      "name_zh": "文德爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/wendel.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "bard-april-fools",
+      "name_zh": "吟遊詩人",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/bard-april-fools.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "professor-baboon",
+      "name_zh": "教授（研究會）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/professor-baboon.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "pierre-berry",
+      "name_zh": "皮埃爾·貝里",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/pierre-berry.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "madwoman-april-fools",
+      "name_zh": "瘋女",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/madwoman-april-fools.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "vanak",
+      "name_zh": "瓦納克",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/vanak.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "burman",
+      "name_zh": "布爾曼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/burman.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "elros-einhorn",
+      "name_zh": "愛洛絲·艾因霍恩",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/elros-einhorn.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "aust-trull",
+      "name_zh": "奧斯塔·特魯爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/aust-trull.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "charf-jun",
+      "name_zh": "夏爾夫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/charf-jun.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "doll-messenger",
+      "name_zh": "玩偶信使",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/doll-messenger.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "father-cali",
+      "name_zh": "卡利神甫",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/father-cali.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "starling-sommer",
+      "name_zh": "斯塔琳·薩默爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/starling-sommer.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gusin",
+      "name_zh": "古辛",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gusin.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "viscount-glaint",
+      "name_zh": "格萊林特子爵",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/viscount-glaint.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "simon-savoie",
+      "name_zh": "西蒙（薩瓦黨）",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/simon-savoie.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "imre",
+      "name_zh": "伊姆雷",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/imre.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "alfred-hall",
+      "name_zh": "阿爾弗雷德·霍爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/alfred-hall.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "cynthia",
+      "name_zh": "辛西婭",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/cynthia.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "roger-black-scorpion",
+      "name_zh": "黑蠍羅傑",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/roger-black-scorpion.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "bakerland-jean-madan",
+      "name_zh": "貝克朗·讓·馬丹",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "horamick-haydn",
+      "name_zh": "霍拉米克·海頓",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/horamick-haydn.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "anthony-stevenson",
+      "name_zh": "安東尼·史蒂文森",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/anthony-stevenson.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kalat",
+      "name_zh": "卡拉特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kalat.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "capim",
+      "name_zh": "卡平",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/capim.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "olson",
+      "name_zh": "奧爾森",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/olson.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "general-philip",
+      "name_zh": "腓力將軍",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/general-philip.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ernes-boyar",
+      "name_zh": "歐內斯·博雅爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ernes-boyar.v1.json",
       "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": []

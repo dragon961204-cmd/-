@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "charf-jun",
+  "name_zh": "夏爾夫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6711615bdf0d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6711615bdf0d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第902章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0902.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1089章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1089.html"
+    },
+    {
+      "label": "詭祕·903",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0903.html"
+    },
+    {
+      "label": "詭祕·995",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0995.html"
+    },
+    {
+      "label": "詭祕·973",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0973.html"
+    },
+    {
+      "label": "詭祕·912",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0912.html"
+    },
+    {
+      "label": "詭祕·923",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0923.html"
+    },
+    {
+      "label": "詭祕·922",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0922.html"
+    },
+    {
+      "label": "詭祕·529",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0529.html"
+    },
+    {
+      "label": "詭祕·669",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0669.html"
+    },
+    {
+      "label": "詭祕·678",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0678.html"
+    },
+    {
+      "label": "詭祕·793",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0793.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 151
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "夏爾夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "離開蒸汽教會的工匠",
+        "prose": "據夏爾夫自述，他是因蒂斯人，因揮霍而私下接活，後來離開蒸汽教會、藏身拜亞姆，多年替阿爾傑做工。他患病後聲稱有人用粉末使他虛弱，繼而讓他透過原始月亮的儀式治病。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6711615bdf0d.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 902,
+          "end": 923
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第4卷·第902章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0902.html"
+          },
+          {
+            "label": "詭祕·903",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0903.html"
+          },
+          {
+            "label": "詭祕·912",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0912.html"
+          },
+          {
+            "label": "詭祕·923",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0923.html"
+          },
+          {
+            "label": "詭祕·922",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0922.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "帶著污染登上未來號",
+        "prose": "阿爾傑透過塔羅會通知嘉德麗雅。她先派希斯·道爾監視，再邀夏爾夫登上未來號；看出他的靈體已變成連體形態且在月光下加速壯大後，她打算請貝爾納黛介入。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6711615bdf0d.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 973,
+          "end": 1089
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第5卷·第1089章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1089.html"
+          },
+          {
+            "label": "詭祕·995",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0995.html"
+          },
+          {
+            "label": "詭祕·973",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0973.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

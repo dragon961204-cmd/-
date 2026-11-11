@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "pierre-berry",
+  "name_zh": "皮埃爾·貝里",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9c168938a7f7.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9c168938a7f7.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第4章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0004.html"
+    },
+    {
+      "label": "《宿命》第4卷·第687章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0687.html"
+    },
+    {
+      "label": "宿命·127",
+      "url": "https://lotmfanwiki.com/chapter/coi-0127.html"
+    },
+    {
+      "label": "宿命·38",
+      "url": "https://lotmfanwiki.com/chapter/coi-0038.html"
+    },
+    {
+      "label": "宿命·56",
+      "url": "https://lotmfanwiki.com/chapter/coi-0056.html"
+    },
+    {
+      "label": "宿命·76",
+      "url": "https://lotmfanwiki.com/chapter/coi-0076.html"
+    },
+    {
+      "label": "宿命·220",
+      "url": "https://lotmfanwiki.com/chapter/coi-0220.html"
+    },
+    {
+      "label": "宿命·44",
+      "url": "https://lotmfanwiki.com/chapter/coi-0044.html"
+    },
+    {
+      "label": "宿命·54",
+      "url": "https://lotmfanwiki.com/chapter/coi-0054.html"
+    },
+    {
+      "label": "宿命·55",
+      "url": "https://lotmfanwiki.com/chapter/coi-0055.html"
+    },
+    {
+      "label": "宿命·11",
+      "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+    },
+    {
+      "label": "宿命·16",
+      "url": "https://lotmfanwiki.com/chapter/coi-0016.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 143
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "皮埃爾·貝里｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜村的牧羊人",
+        "prose": "皮埃爾表面是溫和的牧羊人，私下接受宿命恩賜，是紀堯姆·貝內的核心同夥之一。盧米安發現他的羊牽涉村民失蹤；在教堂儀式的交戰中，他曾壓制盧米安並把他丟到祭壇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c168938a7f7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 11,
+          "end": 107
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·38",
+            "url": "https://lotmfanwiki.com/chapter/coi-0038.html"
+          },
+          {
+            "label": "宿命·56",
+            "url": "https://lotmfanwiki.com/chapter/coi-0056.html"
+          },
+          {
+            "label": "宿命·76",
+            "url": "https://lotmfanwiki.com/chapter/coi-0076.html"
+          },
+          {
+            "label": "宿命·44",
+            "url": "https://lotmfanwiki.com/chapter/coi-0044.html"
+          },
+          {
+            "label": "宿命·54",
+            "url": "https://lotmfanwiki.com/chapter/coi-0054.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "城堡襲擊的另一條線索",
+        "prose": "據路易斯·隆德轉述，皮埃爾還與紀堯姆、西比爾參與襲擊普阿利斯夫人的城堡。他協助神甫對付接生婆，發狂後遭隆德與行政官貝奧斯特聯手壓制。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9c168938a7f7.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 127,
+          "end": 204
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·127",
+            "url": "https://lotmfanwiki.com/chapter/coi-0127.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

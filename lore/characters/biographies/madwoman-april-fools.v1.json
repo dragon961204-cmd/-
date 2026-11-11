@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.1",
+  "character_id": "madwoman-april-fools",
+  "name_zh": "瘋女",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8986b0826749.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8986b0826749.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第228章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0228.html"
+    },
+    {
+      "label": "《宿命》第4卷·第719章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0719.html"
+    },
+    {
+      "label": "詭祕·190",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0190.html"
+    },
+    {
+      "label": "詭祕·374",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0374.html"
+    },
+    {
+      "label": "詭祕·763",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0763.html"
+    },
+    {
+      "label": "詭祕·780",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0780.html"
+    },
+    {
+      "label": "宿命·588",
+      "url": "https://lotmfanwiki.com/chapter/coi-0588.html"
+    },
+    {
+      "label": "宿命·589",
+      "url": "https://lotmfanwiki.com/chapter/coi-0589.html"
+    },
+    {
+      "label": "宿命·293",
+      "url": "https://lotmfanwiki.com/chapter/coi-0293.html"
+    },
+    {
+      "label": "宿命·313",
+      "url": "https://lotmfanwiki.com/chapter/coi-0313.html"
+    },
+    {
+      "label": "宿命·396",
+      "url": "https://lotmfanwiki.com/chapter/coi-0396.html"
+    },
+    {
+      "label": "宿命·495",
+      "url": "https://lotmfanwiki.com/chapter/coi-0495.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瘋女｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "祈海儀式的冒名副助祭",
+        "prose": "瘋女是愚人節的核心成員，能以學徒途徑的能力傳送。拉托幫她改換外貌，讓她以副助祭身分干擾制戒；吟遊詩人扮成伊魯跳海時，也是由她把人帶走。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8986b0826749.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 396,
+          "end": 576
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·396",
+            "url": "https://lotmfanwiki.com/chapter/coi-0396.html"
+          },
+          {
+            "label": "宿命·495",
+            "url": "https://lotmfanwiki.com/chapter/coi-0495.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "死於飛船行動",
+        "prose": "愚人節把多件神奇物品交給瘋女，讓她協助打開飛船的通道。K先生在盧米安配合下將她斬殺。她的靈已受天尊嚴重污染，遺下的旅行家特性後來由海拉取走。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8986b0826749.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 577,
+          "end": 594
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·588",
+            "url": "https://lotmfanwiki.com/chapter/coi-0588.html"
+          },
+          {
+            "label": "宿命·589",
+            "url": "https://lotmfanwiki.com/chapter/coi-0589.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

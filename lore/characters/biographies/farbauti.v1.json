@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.1",
+  "character_id": "farbauti",
+  "name_zh": "法布提",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-06ac75d7fa42.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-06ac75d7fa42.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第180章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1169章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1169.html"
+    },
+    {
+      "label": "詭祕·420",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0420.html"
+    },
+    {
+      "label": "宿命·726",
+      "url": "https://lotmfanwiki.com/chapter/coi-0726.html"
+    },
+    {
+      "label": "宿命·1142",
+      "url": "https://lotmfanwiki.com/chapter/coi-1142.html"
+    },
+    {
+      "label": "宿命·1167",
+      "url": "https://lotmfanwiki.com/chapter/coi-1167.html"
+    },
+    {
+      "label": "宿命·638",
+      "url": "https://lotmfanwiki.com/chapter/coi-0638.html"
+    },
+    {
+      "label": "宿命·1152",
+      "url": "https://lotmfanwiki.com/chapter/coi-1152.html"
+    },
+    {
+      "label": "詭祕·1129",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1129.html"
+    },
+    {
+      "label": "詭祕·1152",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1152.html"
+    },
+    {
+      "label": "宿命·616",
+      "url": "https://lotmfanwiki.com/chapter/coi-0616.html"
+    },
+    {
+      "label": "詭祕·771",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0771.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 262
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "法布提｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以魔鬼之名提出交易",
+        "prose": "阿蒙把第一部的宇宙暗面與古代惡魔君王法布提聯繫起來。第二部中，自稱拿波瑞狄斯利的魔鬼附身弗洛雷斯，以實現願望為條件請盧米安殺人，卻被驅離。魔術師女士後來推測，這個名字很可能是法布提的真名或假名。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-06ac75d7fa42.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 616,
+          "end": 627
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·616",
+            "url": "https://lotmfanwiki.com/chapter/coi-0616.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "漢特島與暗影世界",
+        "prose": "盧米安在漢特島遇到自稱拿波瑞狄斯利的神職人員，也見到島深處受無形力量牽扯的血色魔鬼。夢節古墓裡另外安放著一具戴黃金面具的神孽屍體；魔術師女士認為，這具屍體能在墓中避開欲望母樹的侵擾。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-06ac75d7fa42.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 627,
+          "end": 726
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·726",
+            "url": "https://lotmfanwiki.com/chapter/coi-0726.html"
+          },
+          {
+            "label": "宿命·638",
+            "url": "https://lotmfanwiki.com/chapter/coi-0638.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "以分身交付神孽特性",
+        "prose": "末日逼近時，拿波瑞狄斯利找上盧米安，按盧米安的推測是想利用密契自救。祂派神孽分身交付特性；其後法布提在暗影世界與暗廬主人合作，兩者共同構成漆黑魔人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-06ac75d7fa42.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1124,
+          "end": 1169
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1169章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1169.html"
+          },
+          {
+            "label": "宿命·1142",
+            "url": "https://lotmfanwiki.com/chapter/coi-1142.html"
+          },
+          {
+            "label": "宿命·1167",
+            "url": "https://lotmfanwiki.com/chapter/coi-1167.html"
+          },
+          {
+            "label": "宿命·1152",
+            "url": "https://lotmfanwiki.com/chapter/coi-1152.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "拿波瑞狄斯利與法布提的名號關係須按章節與敘述者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

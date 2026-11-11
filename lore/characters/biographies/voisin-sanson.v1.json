@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.1",
+  "character_id": "voisin-sanson",
+  "name_zh": "瓦贊·桑松",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-899f9cbb617d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-899f9cbb617d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第444章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0444.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1167章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1167.html"
+    },
+    {
+      "label": "宿命·150",
+      "url": "https://lotmfanwiki.com/chapter/coi-0150.html"
+    },
+    {
+      "label": "宿命·332",
+      "url": "https://lotmfanwiki.com/chapter/coi-0332.html"
+    },
+    {
+      "label": "宿命·461",
+      "url": "https://lotmfanwiki.com/chapter/coi-0461.html"
+    },
+    {
+      "label": "宿命·465",
+      "url": "https://lotmfanwiki.com/chapter/coi-0465.html"
+    },
+    {
+      "label": "宿命·866",
+      "url": "https://lotmfanwiki.com/chapter/coi-0866.html"
+    },
+    {
+      "label": "宿命·868",
+      "url": "https://lotmfanwiki.com/chapter/coi-0868.html"
+    },
+    {
+      "label": "宿命·881",
+      "url": "https://lotmfanwiki.com/chapter/coi-0881.html"
+    },
+    {
+      "label": "宿命·882",
+      "url": "https://lotmfanwiki.com/chapter/coi-0882.html"
+    },
+    {
+      "label": "宿命·201",
+      "url": "https://lotmfanwiki.com/chapter/coi-0201.html"
+    },
+    {
+      "label": "宿命·208",
+      "url": "https://lotmfanwiki.com/chapter/coi-0208.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 158
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瓦贊·桑松｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從咖啡館發展罪人組織",
+        "prose": "瓦贊原在特里爾開咖啡館，以家人為核心發展宿命信仰，取得恩賜後成為環中人。妻子康斯塔絲發瘋後，他因害怕招來官方而與孩子殺了她。後來他借旅舍儀式進入第四紀特里爾，與普阿利斯交戰。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-899f9cbb617d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 343,
+          "end": 496
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第444章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0444.html"
+          },
+          {
+            "label": "宿命·461",
+            "url": "https://lotmfanwiki.com/chapter/coi-0461.html"
+          },
+          {
+            "label": "宿命·465",
+            "url": "https://lotmfanwiki.com/chapter/coi-0465.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "替天使解開封印",
+        "prose": "瓦贊想救出他以為封在盧米安體內的忒爾彌波洛斯，依神諭解開愚者的封印，出現的卻是阿蒙。他之後追到戰場，遭盧米安等人反制，最終在交鋒中被冰柱貫穿。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-899f9cbb617d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 868,
+          "end": 881
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·868",
+            "url": "https://lotmfanwiki.com/chapter/coi-0868.html"
+          },
+          {
+            "label": "宿命·881",
+            "url": "https://lotmfanwiki.com/chapter/coi-0881.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "戰場中被冰柱貫穿後的狀態待按原作核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

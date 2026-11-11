@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "bakerland-jean-madan",
+  "name_zh": "貝克朗·讓·馬丹",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-7561e0e646ac.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-7561e0e646ac.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第229章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0229.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第679章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0679.html"
+    },
+    {
+      "label": "詭祕·248",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0248.html"
+    },
+    {
+      "label": "詭祕·235",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0235.html"
+    },
+    {
+      "label": "詭祕·252",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0252.html"
+    },
+    {
+      "label": "詭祕·253",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0253.html"
+    },
+    {
+      "label": "詭祕·236",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0236.html"
+    },
+    {
+      "label": "詭祕·230",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0230.html"
+    },
+    {
+      "label": "詭祕·233",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0233.html"
+    },
+    {
+      "label": "詭祕·245",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0245.html"
+    },
+    {
+      "label": "詭祕·249",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0249.html"
+    },
+    {
+      "label": "詭祕·264",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0264.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 150
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "貝克朗·讓·馬丹｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "大使館背後的情報網",
+        "prose": "貝克朗是因蒂斯駐魯恩大使，也是序列6陰謀家。他透過兹曼格黨的默爾索等人追索第三代差分機手稿；克萊恩殺死默爾索後，他又派非凡者潛入偵探的住處。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7561e0e646ac.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 229,
+          "end": 247
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第229章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0229.html"
+          },
+          {
+            "label": "詭祕·235",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0235.html"
+          },
+          {
+            "label": "詭祕·236",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0236.html"
+          },
+          {
+            "label": "詭祕·230",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0230.html"
+          },
+          {
+            "label": "詭祕·233",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0233.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "手稿爭奪與使館遇刺",
+        "prose": "克萊恩在塔羅會發出刺殺委託，奧黛麗經休、佛爾思把任務轉到A先生手上。軍情九處介入手稿爭奪後，貝克朗未能把手稿送出魯恩，自己也在使館遇刺身亡，極光會對外宣稱負責。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7561e0e646ac.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 236,
+          "end": 252
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·248",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0248.html"
+          },
+          {
+            "label": "詭祕·252",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0252.html"
+          },
+          {
+            "label": "詭祕·236",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0236.html"
+          },
+          {
+            "label": "詭祕·245",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0245.html"
+          },
+          {
+            "label": "詭祕·249",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0249.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

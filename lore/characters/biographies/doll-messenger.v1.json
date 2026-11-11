@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "doll-messenger",
+  "name_zh": "玩偶信使",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-5bb8154885be.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-5bb8154885be.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第282章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0282.html"
+    },
+    {
+      "label": "《宿命》第6卷·第892章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0892.html"
+    },
+    {
+      "label": "宿命·421",
+      "url": "https://lotmfanwiki.com/chapter/coi-0421.html"
+    },
+    {
+      "label": "宿命·653",
+      "url": "https://lotmfanwiki.com/chapter/coi-0653.html"
+    },
+    {
+      "label": "宿命·111",
+      "url": "https://lotmfanwiki.com/chapter/coi-0111.html"
+    },
+    {
+      "label": "宿命·124",
+      "url": "https://lotmfanwiki.com/chapter/coi-0124.html"
+    },
+    {
+      "label": "宿命·206",
+      "url": "https://lotmfanwiki.com/chapter/coi-0206.html"
+    },
+    {
+      "label": "宿命·234",
+      "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+    },
+    {
+      "label": "宿命·276",
+      "url": "https://lotmfanwiki.com/chapter/coi-0276.html"
+    },
+    {
+      "label": "宿命·289",
+      "url": "https://lotmfanwiki.com/chapter/coi-0289.html"
+    },
+    {
+      "label": "宿命·315",
+      "url": "https://lotmfanwiki.com/chapter/coi-0315.html"
+    },
+    {
+      "label": "宿命·469",
+      "url": "https://lotmfanwiki.com/chapter/coi-0469.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "玩偶信使｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "替魔術師收送信物",
+        "prose": "玩偶是魔術師女士的信使。盧米安布置祭壇召喚它，託它送去求助信，它也帶回回函、拳套和面具，偶爾告知盧米安是否仍有人監視。它對帶有骯髒氣息的物件尤其嫌棄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-5bb8154885be.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 276,
+          "end": 469
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第282章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0282.html"
+          },
+          {
+            "label": "宿命·421",
+            "url": "https://lotmfanwiki.com/chapter/coi-0421.html"
+          },
+          {
+            "label": "宿命·276",
+            "url": "https://lotmfanwiki.com/chapter/coi-0276.html"
+          },
+          {
+            "label": "宿命·289",
+            "url": "https://lotmfanwiki.com/chapter/coi-0289.html"
+          },
+          {
+            "label": "宿命·315",
+            "url": "https://lotmfanwiki.com/chapter/coi-0315.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "從南大陸傳信到夢境都市",
+        "prose": "盧米安請它運送西索留下的黑色晶簇時，它堅持先把晶簇裝進盒裡。到了夢境都市，盧米安仍能召喚它，把信和做過記號的鏡子送交魔術師。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-5bb8154885be.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 568,
+          "end": 892
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第6卷·第892章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0892.html"
+          },
+          {
+            "label": "宿命·653",
+            "url": "https://lotmfanwiki.com/chapter/coi-0653.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

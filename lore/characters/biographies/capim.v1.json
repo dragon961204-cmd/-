@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "capim",
+  "name_zh": "卡平",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-433293322936.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-433293322936.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第277章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0277.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第717章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0717.html"
+    },
+    {
+      "label": "詭祕·373",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0373.html"
+    },
+    {
+      "label": "詭祕·375",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0375.html"
+    },
+    {
+      "label": "詭祕·381",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0381.html"
+    },
+    {
+      "label": "詭祕·112",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0112.html"
+    },
+    {
+      "label": "詭祕·221",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0221.html"
+    },
+    {
+      "label": "詭祕·272",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0272.html"
+    },
+    {
+      "label": "詭祕·377",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0377.html"
+    },
+    {
+      "label": "詭祕·475",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0475.html"
+    },
+    {
+      "label": "詭祕·432",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0432.html"
+    },
+    {
+      "label": "詭祕·378",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0378.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 136
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "卡平｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "富豪身分下的人口買賣",
+        "prose": "卡平以富豪身分住在貝克蘭德，暗中經營人口販賣網，讓手下綁走少女並關進別墅地牢。他有非凡者護衛，黛西被綁一案讓克萊恩追到了這處據點。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-433293322936.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 373,
+          "end": 375
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·373",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0373.html"
+          },
+          {
+            "label": "詭祕·375",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0375.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "別墅遇襲與資產的去向",
+        "prose": "克萊恩以黑皇帝形象闖進別墅，戰鬥引發爆炸，卡平死亡，遭拘禁的少女也得以逃出。其後記者與教會推動成立救助基金，市政府把卡平的地產用於受害者救濟。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-433293322936.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 377,
+          "end": 432
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·381",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0381.html"
+          },
+          {
+            "label": "詭祕·377",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0377.html"
+          },
+          {
+            "label": "詭祕·432",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0432.html"
+          },
+          {
+            "label": "詭祕·378",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0378.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

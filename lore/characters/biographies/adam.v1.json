@@ -69,9 +69,17 @@
     "sections": [
       {
         "part": 1,
-        "title": "古太陽神遺留的身分",
-        "prose": "亞當是遠古太陽神相關歷史的核心人物，以古老天使之王和觀眾途徑高位存在聞名。他的特殊起源和真實目的不能僅用表面上『神之子』的身份解釋，亦不能在不同年代直接與真實造物主完全劃等號。",
-        "source_pages": [],
+        "title": "神之子與復活後手",
+        "prose": "亞當在遠古太陽神仍在世時以祂的子嗣、觀眾途徑的天使之王身分活動。遠古太陽神將觀眾途徑的唯一性交給亞當，為自己的甦醒預作安排。背叛之宴後，遠古太陽神的神性在亞當身上甦醒；自此以亞當名義行動的意志已延續了遠古太陽神的一部分。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Adam/History",
+          "https://lordofthemysteries.fandom.com/wiki/Adam"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1345,
+          "end": 1347
+        },
         "status": "original_narrative_draft_pending_user_review"
       },
       {
@@ -90,16 +98,42 @@
       },
       {
         "part": 4,
-        "title": "與克萊恩的交鋒",
-        "prose": "克萊恩接近高序列後，亞當不再只是遙遠的秘密組織領袖，而成為能直接干預其命運的存在。他的選擇與阿蒙、真實造物主及遠古太陽神的後續密切相關。",
-        "source_pages": [],
+        "title": "屍骨教堂揭曉身分",
+        "prose": "亞當與阿蒙合作，在克萊恩與查拉圖交鋒後把克萊恩困在屍骨教堂。交談中，克萊恩明白亞當與遠古太陽神的關係；亞當也向他解釋了觀眾途徑為何能讓遠古太陽神留下復活後手。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Adam/History",
+          "https://lordofthemysteries.fandom.com/wiki/Adam"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1344,
+          "end": 1347
+        },
         "status": "original_narrative_draft_pending_user_review"
       },
       {
         "part": 5,
-        "title": "第二部的神位變化",
-        "prose": "《宿命之環》時期他的力量與意識狀態進一步改變，影響更廣泛的末日局勢。傳記應保留亞當單獨活動、與真實造物主關係變化及更高權柄階段三組狀態。",
-        "source_pages": [],
+        "title": "與真實造物主爭奪主導",
+        "prose": "真實造物主延續了遠古太陽神的人性，與承接神性的亞當各自活動，雙方爭奪融合後的主導權。到克萊恩晉升愚者時，兩者已部分融合，由亞當主導；亞當借混沌海暫時提高位格介入這場晉升。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Adam",
+          "https://lordofthemysteries.fandom.com/wiki/Ancient_Sun_God"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1353,
+          "end": 1381
+        },
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "第二部的格里沙·亞當",
+        "prose": "《宿命之環》時，亞當與真實造物主已完成融合，格里沙·亞當承接兩者。原初上帝意志的甦醒仍是另一條威脅，與遠古太陽神自身神性和人性的重聚是不同事件。",
+        "source_pages": [
+          "https://lordofthemysteries.fandom.com/wiki/Adam",
+          "https://lordofthemysteries.fandom.com/wiki/Adam/History"
+        ],
         "status": "original_narrative_draft_pending_user_review"
       }
     ],
@@ -112,8 +146,8 @@
   },
   "biography_quality": {
     "continuous_prose_draft": true,
-    "narrative_sections": 5,
-    "narrative_zh_characters": 382,
+    "narrative_sections": 6,
+    "narrative_zh_characters": 504,
     "independently_verified_full_biography": false
   }
 }

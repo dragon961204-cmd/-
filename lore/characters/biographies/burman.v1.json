@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "burman",
+  "name_zh": "布爾曼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9ea07c9e9c16.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9ea07c9e9c16.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第521章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0521.html"
+    },
+    {
+      "label": "《宿命》第5卷·第754章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0754.html"
+    },
+    {
+      "label": "宿命·529",
+      "url": "https://lotmfanwiki.com/chapter/coi-0529.html"
+    },
+    {
+      "label": "宿命·608",
+      "url": "https://lotmfanwiki.com/chapter/coi-0608.html"
+    },
+    {
+      "label": "宿命·524",
+      "url": "https://lotmfanwiki.com/chapter/coi-0524.html"
+    },
+    {
+      "label": "宿命·526",
+      "url": "https://lotmfanwiki.com/chapter/coi-0526.html"
+    },
+    {
+      "label": "宿命·514",
+      "url": "https://lotmfanwiki.com/chapter/coi-0514.html"
+    },
+    {
+      "label": "宿命·515",
+      "url": "https://lotmfanwiki.com/chapter/coi-0515.html"
+    },
+    {
+      "label": "宿命·520",
+      "url": "https://lotmfanwiki.com/chapter/coi-0520.html"
+    },
+    {
+      "label": "宿命·527",
+      "url": "https://lotmfanwiki.com/chapter/coi-0527.html"
+    },
+    {
+      "label": "宿命·517",
+      "url": "https://lotmfanwiki.com/chapter/coi-0517.html"
+    },
+    {
+      "label": "宿命·518",
+      "url": "https://lotmfanwiki.com/chapter/coi-0518.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 155
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "布爾曼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "為復活海倫尋求死神力量",
+        "prose": "布爾曼在安達特納火山認識妻子海倫。據他所述，一張假寶藏圖把夫妻拖進災難；海倫死後，他在哈里森指引下召喚邪靈，試圖靠死神途徑的力量復活她，也把仇恨轉向群島上的其他人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9ea07c9e9c16.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 521,
+          "end": 528
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第521章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0521.html"
+          },
+          {
+            "label": "宿命·524",
+            "url": "https://lotmfanwiki.com/chapter/coi-0524.html"
+          },
+          {
+            "label": "宿命·526",
+            "url": "https://lotmfanwiki.com/chapter/coi-0526.html"
+          },
+          {
+            "label": "宿命·527",
+            "url": "https://lotmfanwiki.com/chapter/coi-0527.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "火山口的最後一戰",
+        "prose": "盧米安在火山口以骨笛壓制半瘋的布爾曼，將他擊殺。布爾曼死後析出兩件與雙眼有關的非凡物品；盧米安提議用其所得和懸賞成立以海倫命名的基金，補償受害者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9ea07c9e9c16.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 529,
+          "end": 642
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·529",
+            "url": "https://lotmfanwiki.com/chapter/coi-0529.html"
+          },
+          {
+            "label": "宿命·608",
+            "url": "https://lotmfanwiki.com/chapter/coi-0608.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "soest",
+  "name_zh": "索斯特",
+  "name_en": "Soest",
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c7fa2ca085af.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c7fa2ca085af.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第402章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0402.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第1099章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1099.html"
+    },
+    {
+      "label": "詭祕·426",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0426.html"
+    },
+    {
+      "label": "詭祕·750",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0750.html"
+    },
+    {
+      "label": "詭祕·764",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0764.html"
+    },
+    {
+      "label": "詭祕·885",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0885.html"
+    },
+    {
+      "label": "詭祕·565",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0565.html"
+    },
+    {
+      "label": "詭祕·409",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0409.html"
+    },
+    {
+      "label": "詭祕·429",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0429.html"
+    },
+    {
+      "label": "詭祕·846",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0846.html"
+    },
+    {
+      "label": "詭祕·847",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0847.html"
+    },
+    {
+      "label": "詭祕·19",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0019.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 147
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "索斯特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "帶領紅手套調查塔羅案件",
+        "prose": "索斯特原是安魂師，擔任紅手套小隊的隊長，成員包括倫納德、戴莉等人。他的小隊查辦惡魔召喚和塔羅牌案件；取得戴莉帶來的資料後，他主張先從其他相關案件查起。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c7fa2ca085af.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 402,
+          "end": 565
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第402章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0402.html"
+          },
+          {
+            "label": "詭祕·426",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0426.html"
+          },
+          {
+            "label": "詭祕·565",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0565.html"
+          },
+          {
+            "label": "詭祕·409",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0409.html"
+          },
+          {
+            "label": "詭祕·429",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0429.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "升任靈巫與戰時調動",
+        "prose": "索斯特晉升序列5靈巫後，安排對道恩進行夢中審查，也帶隊追查查尼斯門潛入案與靈教團。小隊曾到南大陸執行任務，戰時被調回聖堂，參與安曼達山脈的作戰。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c7fa2ca085af.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 750,
+          "end": 1099
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第5卷·第1099章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1099.html"
+          },
+          {
+            "label": "詭祕·750",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0750.html"
+          },
+          {
+            "label": "詭祕·764",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0764.html"
+          },
+          {
+            "label": "詭祕·885",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0885.html"
+          },
+          {
+            "label": "詭祕·846",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0846.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

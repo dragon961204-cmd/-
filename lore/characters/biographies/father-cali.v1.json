@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "father-cali",
+  "name_zh": "卡利神甫",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-713bb72c71a6.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-713bb72c71a6.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第663章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0663.html"
+    },
+    {
+      "label": "《宿命》第5卷·第806章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0806.html"
+    },
+    {
+      "label": "宿命·678",
+      "url": "https://lotmfanwiki.com/chapter/coi-0678.html"
+    },
+    {
+      "label": "宿命·684",
+      "url": "https://lotmfanwiki.com/chapter/coi-0684.html"
+    },
+    {
+      "label": "宿命·699",
+      "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+    },
+    {
+      "label": "宿命·635",
+      "url": "https://lotmfanwiki.com/chapter/coi-0635.html"
+    },
+    {
+      "label": "宿命·637",
+      "url": "https://lotmfanwiki.com/chapter/coi-0637.html"
+    },
+    {
+      "label": "宿命·638",
+      "url": "https://lotmfanwiki.com/chapter/coi-0638.html"
+    },
+    {
+      "label": "宿命·648",
+      "url": "https://lotmfanwiki.com/chapter/coi-0648.html"
+    },
+    {
+      "label": "宿命·671",
+      "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+    },
+    {
+      "label": "宿命·673",
+      "url": "https://lotmfanwiki.com/chapter/coi-0673.html"
+    },
+    {
+      "label": "宿命·677",
+      "url": "https://lotmfanwiki.com/chapter/coi-0677.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 160
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "卡利神甫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "宣告夢節的神甫",
+        "prose": "卡利出身派洛斯港，後在蒂扎莫鎮主持聖西恩教堂。據他後來供述，西索曾誘使他觸摸黑色古墓，使他得到化成怨魂的能力。盧米安一行在夢節中與他交手，讓阿芒迪娜把他拖入夢境問出古墓線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-713bb72c71a6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 671,
+          "end": 695
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·678",
+            "url": "https://lotmfanwiki.com/chapter/coi-0678.html"
+          },
+          {
+            "label": "宿命·684",
+            "url": "https://lotmfanwiki.com/chapter/coi-0684.html"
+          },
+          {
+            "label": "宿命·671",
+            "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+          },
+          {
+            "label": "宿命·673",
+            "url": "https://lotmfanwiki.com/chapter/coi-0673.html"
+          },
+          {
+            "label": "宿命·677",
+            "url": "https://lotmfanwiki.com/chapter/coi-0677.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在聖徽前自我淨化",
+        "prose": "夢節後，卡利在聖西恩教堂懺悔，承認自己渴望地位和北大陸人的認可，因而受誘惑走錯路。他在太陽聖徽前現出怨魂形態，借教堂的力量自我淨化，最後化為灰燼。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-713bb72c71a6.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 699,
+          "end": 699
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·699",
+            "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

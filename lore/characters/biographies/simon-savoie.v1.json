@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.1",
+  "character_id": "simon-savoie",
+  "name_zh": "西蒙（薩瓦黨）",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-adf73835633d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-adf73835633d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第153章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0153.html"
+    },
+    {
+      "label": "《宿命》第4卷·第573章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0573.html"
+    },
+    {
+      "label": "詭祕·138",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0138.html"
+    },
+    {
+      "label": "詭祕·307",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0307.html"
+    },
+    {
+      "label": "詭祕·463",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0463.html"
+    },
+    {
+      "label": "詭祕·600",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0600.html"
+    },
+    {
+      "label": "宿命·156",
+      "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+    },
+    {
+      "label": "宿命·180",
+      "url": "https://lotmfanwiki.com/chapter/coi-0180.html"
+    },
+    {
+      "label": "宿命·273",
+      "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+    },
+    {
+      "label": "宿命·131",
+      "url": "https://lotmfanwiki.com/chapter/coi-0131.html"
+    },
+    {
+      "label": "宿命·181",
+      "url": "https://lotmfanwiki.com/chapter/coi-0181.html"
+    },
+    {
+      "label": "宿命·270",
+      "url": "https://lotmfanwiki.com/chapter/coi-0270.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "西蒙（薩瓦黨）｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "夜鶯街的巨人",
+        "prose": "西蒙是薩瓦黨頭目，管理夜鶯街的舞廳和酒吧。他對布里涅爾男爵掌管微風舞廳不滿，也想拉攏盧米安反對給舞女發底薪的決定，卻在聚會上遭盧米安當眾駁斥。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-adf73835633d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 156,
+          "end": 181
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·156",
+            "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+          },
+          {
+            "label": "宿命·180",
+            "url": "https://lotmfanwiki.com/chapter/coi-0180.html"
+          },
+          {
+            "label": "宿命·181",
+            "url": "https://lotmfanwiki.com/chapter/coi-0181.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "地底合作與被捕",
+        "prose": "加德納派他與盧米安、克里斯托去阿爾貝礦洞取箱。西蒙在撤退時協助堵住隧道，後來承認自己曾想利用新來的盧米安對付芙蘭卡。薩瓦黨出事後，西蒙被捕。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-adf73835633d.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 271,
+          "end": 505
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·273",
+            "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

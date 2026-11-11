@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "wendel",
+  "name_zh": "文德爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c173d6e41912.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c173d6e41912.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第7卷·第1330章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1330.html"
+    },
+    {
+      "label": "《詭祕》第8卷·第1354章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1354.html"
+    },
+    {
+      "label": "詭祕·1331",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1331.html"
+    },
+    {
+      "label": "詭祕·1337",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1337.html"
+    },
+    {
+      "label": "詭祕·1332",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1332.html"
+    },
+    {
+      "label": "詭祕·1333",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1333.html"
+    },
+    {
+      "label": "詭祕·1336",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1336.html"
+    },
+    {
+      "label": "詭祕·1343",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1343.html"
+    },
+    {
+      "label": "詭祕·1342",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1342.html"
+    },
+    {
+      "label": "詭祕·1344",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1344.html"
+    },
+    {
+      "label": "詭祕·1340",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1340.html"
+    },
+    {
+      "label": "詭祕·1350",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1350.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 153
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "文德爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "押送報告途中誤入烏托邦",
+        "prose": "文德爾從迪西海灣的情報工作轉入軍情九處內務行動部，受命把機密報告送到貝克蘭德。他在烏托邦旅館撞見命案，拆閱報告後才發現，自己住進的正是文件裡那座處處異常的小鎮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c173d6e41912.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1330,
+          "end": 1333
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第7卷·第1330章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1330.html"
+          },
+          {
+            "label": "詭祕·1331",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1331.html"
+          },
+          {
+            "label": "詭祕·1332",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1332.html"
+          },
+          {
+            "label": "詭祕·1333",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1333.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "接到傳票後折返",
+        "prose": "他回到貝克蘭德接受審查，卻仍收到烏托邦警官拜爾斯的傳票。文德爾最初擔心被強行帶回，後來決定直面經歷，在軍情九處總部表示願意出庭，再次進入那座小鎮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c173d6e41912.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1336,
+          "end": 1354
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第8卷·第1354章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1354.html"
+          },
+          {
+            "label": "詭祕·1337",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1337.html"
+          },
+          {
+            "label": "詭祕·1336",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1336.html"
+          },
+          {
+            "label": "詭祕·1343",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1343.html"
+          },
+          {
+            "label": "詭祕·1342",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1342.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

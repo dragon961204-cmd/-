@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "imre",
+  "name_zh": "伊姆雷",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-af4ad974ba5a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-af4ad974ba5a.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第217章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0217.html"
+    },
+    {
+      "label": "《宿命》第4卷·第504章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0504.html"
+    },
+    {
+      "label": "宿命·249",
+      "url": "https://lotmfanwiki.com/chapter/coi-0249.html"
+    },
+    {
+      "label": "宿命·297",
+      "url": "https://lotmfanwiki.com/chapter/coi-0297.html"
+    },
+    {
+      "label": "宿命·258",
+      "url": "https://lotmfanwiki.com/chapter/coi-0258.html"
+    },
+    {
+      "label": "宿命·259",
+      "url": "https://lotmfanwiki.com/chapter/coi-0259.html"
+    },
+    {
+      "label": "宿命·340",
+      "url": "https://lotmfanwiki.com/chapter/coi-0340.html"
+    },
+    {
+      "label": "宿命·248",
+      "url": "https://lotmfanwiki.com/chapter/coi-0248.html"
+    },
+    {
+      "label": "宿命·261",
+      "url": "https://lotmfanwiki.com/chapter/coi-0261.html"
+    },
+    {
+      "label": "宿命·449",
+      "url": "https://lotmfanwiki.com/chapter/coi-0449.html"
+    },
+    {
+      "label": "宿命·450",
+      "url": "https://lotmfanwiki.com/chapter/coi-0450.html"
+    },
+    {
+      "label": "宿命·388",
+      "url": "https://lotmfanwiki.com/chapter/coi-0388.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 144
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊姆雷｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "淨化者的護衛勤務",
+        "prose": "伊姆雷與昂古萊姆、瓦倫泰在特里爾調查案件，後又輪值保護新當選的于格。簡娜刺殺于格後，他用槍制伏她，並安排特工替她消毒包紮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-af4ad974ba5a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 248,
+          "end": 261
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·249",
+            "url": "https://lotmfanwiki.com/chapter/coi-0249.html"
+          },
+          {
+            "label": "宿命·258",
+            "url": "https://lotmfanwiki.com/chapter/coi-0258.html"
+          },
+          {
+            "label": "宿命·259",
+            "url": "https://lotmfanwiki.com/chapter/coi-0259.html"
+          },
+          {
+            "label": "宿命·248",
+            "url": "https://lotmfanwiki.com/chapter/coi-0248.html"
+          },
+          {
+            "label": "宿命·261",
+            "url": "https://lotmfanwiki.com/chapter/coi-0261.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "招募簡娜並應付異變",
+        "prose": "伊姆雷與瓦倫泰後來代表教會招募簡娜當線人，由伊姆雷為合約簽字公證。旅舍儀式引發異變時，他們回聖羅伯斯教堂取指示，避開了儀式的直接影響。其後伊姆雷仍在昂古萊姆麾下服勤。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-af4ad974ba5a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 297,
+          "end": 504
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第504章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0504.html"
+          },
+          {
+            "label": "宿命·297",
+            "url": "https://lotmfanwiki.com/chapter/coi-0297.html"
+          },
+          {
+            "label": "宿命·340",
+            "url": "https://lotmfanwiki.com/chapter/coi-0340.html"
+          },
+          {
+            "label": "宿命·449",
+            "url": "https://lotmfanwiki.com/chapter/coi-0449.html"
+          },
+          {
+            "label": "宿命·450",
+            "url": "https://lotmfanwiki.com/chapter/coi-0450.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

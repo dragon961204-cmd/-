@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.1",
+  "character_id": "vanak",
+  "name_zh": "瓦納克",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-101d4a616384.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-101d4a616384.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第5卷·第798章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+    },
+    {
+      "label": "《宿命》第5卷·第844章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0844.html"
+    },
+    {
+      "label": "宿命·829",
+      "url": "https://lotmfanwiki.com/chapter/coi-0829.html"
+    },
+    {
+      "label": "宿命·830",
+      "url": "https://lotmfanwiki.com/chapter/coi-0830.html"
+    },
+    {
+      "label": "宿命·831",
+      "url": "https://lotmfanwiki.com/chapter/coi-0831.html"
+    },
+    {
+      "label": "宿命·799",
+      "url": "https://lotmfanwiki.com/chapter/coi-0799.html"
+    },
+    {
+      "label": "宿命·817",
+      "url": "https://lotmfanwiki.com/chapter/coi-0817.html"
+    },
+    {
+      "label": "宿命·818",
+      "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+    },
+    {
+      "label": "宿命·824",
+      "url": "https://lotmfanwiki.com/chapter/coi-0824.html"
+    },
+    {
+      "label": "宿命·494",
+      "url": "https://lotmfanwiki.com/chapter/coi-0494.html"
+    },
+    {
+      "label": "宿命·792",
+      "url": "https://lotmfanwiki.com/chapter/coi-0792.html"
+    },
+    {
+      "label": "宿命·793",
+      "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 187
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瓦納克｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "流放之城最危險的罪犯",
+        "prose": "瓦納克曾是摩羅拉的實驗人員，控制達德斯農業公司。臣服於封印物0-01後，他借用其力量，也能穿梭鏡中世界。阿不思、古辛等人突襲使他重傷，他逃走後向盧米安提出反過來設伏。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-101d4a616384.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 799,
+          "end": 812
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·799",
+            "url": "https://lotmfanwiki.com/chapter/coi-0799.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在公司廢墟布下陷阱",
+        "prose": "瓦納克和盧米安藏在公司地底，等追兵循線到來。他在交手時吹散戰爭迷霧，使阿不思暴露，之後一度重新控制公司。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-101d4a616384.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 814,
+          "end": 835
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·829",
+            "url": "https://lotmfanwiki.com/chapter/coi-0829.html"
+          },
+          {
+            "label": "宿命·830",
+            "url": "https://lotmfanwiki.com/chapter/coi-0830.html"
+          },
+          {
+            "label": "宿命·831",
+            "url": "https://lotmfanwiki.com/chapter/coi-0831.html"
+          },
+          {
+            "label": "宿命·817",
+            "url": "https://lotmfanwiki.com/chapter/coi-0817.html"
+          },
+          {
+            "label": "宿命·818",
+            "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "死於崩塌與黑焰",
+        "prose": "在後續交鋒中，瓦納克被隕石衝擊波打成焦屍，仍以火焰反擊。坍縮的虛空和黑焰最後將他吞沒，連靈魂也未能留下。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-101d4a616384.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 831,
+          "end": 835
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·831",
+            "url": "https://lotmfanwiki.com/chapter/coi-0831.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

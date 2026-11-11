@@ -1,0 +1,173 @@
+{
+  "schema_version": "1.1",
+  "character_id": "horamick-haydn",
+  "name_zh": "霍拉米克·海頓",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9d3624a8bd05.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9d3624a8bd05.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第324章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0324.html"
+    },
+    {
+      "label": "《宿命》第3卷·第490章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0490.html"
+    },
+    {
+      "label": "詭祕·446",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0446.html"
+    },
+    {
+      "label": "詭祕·1030",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1030.html"
+    },
+    {
+      "label": "詭祕·1201",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1201.html"
+    },
+    {
+      "label": "詭祕·436",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0436.html"
+    },
+    {
+      "label": "詭祕·1200",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1200.html"
+    },
+    {
+      "label": "宿命·460",
+      "url": "https://lotmfanwiki.com/chapter/coi-0460.html"
+    },
+    {
+      "label": "詭祕·448",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0448.html"
+    },
+    {
+      "label": "詭祕·319",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0319.html"
+    },
+    {
+      "label": "詭祕·351",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0351.html"
+    },
+    {
+      "label": "詭祕·413",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0413.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 199
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "霍拉米克·海頓｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "大學教授兼教區大主教",
+        "prose": "霍拉米克既是知名科學家與貝克蘭德大學的榮譽教授，也是蒸汽教會負責當地教區的半神。他聽取機械之心對博物館和地下陵墓的報告，並在異常擴大時要求與其他教會共享情報。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9d3624a8bd05.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 319,
+          "end": 491
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第324章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0324.html"
+          },
+          {
+            "label": "詭祕·446",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0446.html"
+          },
+          {
+            "label": "詭祕·436",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0436.html"
+          },
+          {
+            "label": "詭祕·448",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0448.html"
+          },
+          {
+            "label": "詭祕·319",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0319.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "地下遺跡與塔羅會",
+        "prose": "他以人偶探查阿蒙陵墓中的石門後，命機械之心撤出遺跡。後來三方教會討論塔羅會時，他支持繼續調查、盡量避免直接衝突的做法。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9d3624a8bd05.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 615,
+          "end": 1202
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1030",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1030.html"
+          },
+          {
+            "label": "詭祕·1201",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1201.html"
+          },
+          {
+            "label": "詭祕·1200",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1200.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "回到因蒂斯後",
+        "prose": "第二部時，他已回到蒸汽教會在因蒂斯的總部。深谷修道院與旅舍事件牽連到教會內部，他和機械之心成員出手追討被視為異端的克洛德。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9d3624a8bd05.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 460,
+          "end": 490
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第490章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0490.html"
+          },
+          {
+            "label": "宿命·460",
+            "url": "https://lotmfanwiki.com/chapter/coi-0460.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

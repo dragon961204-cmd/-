@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "roger-black-scorpion",
+  "name_zh": "黑蠍羅傑",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-05de66b7ba72.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-05de66b7ba72.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第132章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0132.html"
+    },
+    {
+      "label": "《宿命》第2卷·第233章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0233.html"
+    },
+    {
+      "label": "宿命·171",
+      "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+    },
+    {
+      "label": "宿命·178",
+      "url": "https://lotmfanwiki.com/chapter/coi-0178.html"
+    },
+    {
+      "label": "宿命·218",
+      "url": "https://lotmfanwiki.com/chapter/coi-0218.html"
+    },
+    {
+      "label": "宿命·164",
+      "url": "https://lotmfanwiki.com/chapter/coi-0164.html"
+    },
+    {
+      "label": "宿命·230",
+      "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+    },
+    {
+      "label": "宿命·195",
+      "url": "https://lotmfanwiki.com/chapter/coi-0195.html"
+    },
+    {
+      "label": "宿命·207",
+      "url": "https://lotmfanwiki.com/chapter/coi-0207.html"
+    },
+    {
+      "label": "宿命·129",
+      "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+    },
+    {
+      "label": "宿命·158",
+      "url": "https://lotmfanwiki.com/chapter/coi-0158.html"
+    },
+    {
+      "label": "宿命·198",
+      "url": "https://lotmfanwiki.com/chapter/coi-0198.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "黑蠍羅傑｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "舞廳與毒刺幫",
+        "prose": "羅傑和副手哈曼在特里爾市場區開磨坊舞廳、建立毒刺幫。他私下信仰偉大母親，期待于格贏得選舉後，從月女士那裡取得足以成為播種者的恩賜。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-05de66b7ba72.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 132,
+          "end": 224
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第132章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0132.html"
+          },
+          {
+            "label": "宿命·171",
+            "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+          },
+          {
+            "label": "宿命·178",
+            "url": "https://lotmfanwiki.com/chapter/coi-0178.html"
+          },
+          {
+            "label": "宿命·218",
+            "url": "https://lotmfanwiki.com/chapter/coi-0218.html"
+          },
+          {
+            "label": "宿命·164",
+            "url": "https://lotmfanwiki.com/chapter/coi-0164.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在總部等待選舉結果",
+        "prose": "羅傑與哈曼、卡斯蒂娜在市場大道126號等待開票。盧米安與芙蘭卡趁夜突襲，羅傑試圖靠不死之地和既有能力應戰，仍與同伴在同一晚被殺。極光會事後宣稱負責。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-05de66b7ba72.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 222,
+          "end": 230
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·230",
+            "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

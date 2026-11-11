@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.1",
+  "character_id": "anthony-stevenson",
+  "name_zh": "安東尼·史蒂文森",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-58a17884538c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-58a17884538c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第474章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0474.html"
+    },
+    {
+      "label": "《宿命》第6卷·第930章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0930.html"
+    },
+    {
+      "label": "詭祕·148",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0148.html"
+    },
+    {
+      "label": "詭祕·627",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0627.html"
+    },
+    {
+      "label": "宿命·1063",
+      "url": "https://lotmfanwiki.com/chapter/coi-1063.html"
+    },
+    {
+      "label": "詭祕·620",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0620.html"
+    },
+    {
+      "label": "詭祕·1200",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1200.html"
+    },
+    {
+      "label": "詭祕·25",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0025.html"
+    },
+    {
+      "label": "詭祕·214",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0214.html"
+    },
+    {
+      "label": "詭祕·364",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0364.html"
+    },
+    {
+      "label": "詭祕·126",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0126.html"
+    },
+    {
+      "label": "詭祕·127",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0127.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 203
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "安東尼·史蒂文森｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "坐鎮聖賽繆爾教堂",
+        "prose": "安東尼是黑夜教會十三位大主教之一，負責貝克蘭德教區。他接到霍爾家緊急電報後注意到特莉絲與原初魔女的關聯，也曾與霍拉米克商議地底遺跡，隨後下令將其摧毀。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-58a17884538c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 474,
+          "end": 621
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第474章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0474.html"
+          },
+          {
+            "label": "詭祕·620",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0620.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "調派紅手套與查尼斯門調查",
+        "prose": "安東尼安排戴莉協助追查靈教團，並借助聖堂辨認出潛入者是格爾曼。後來他把倫納德從索斯特小隊抽調出來，分派獨立任務，並告知其申請晉升所需的條件。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-58a17884538c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 776,
+          "end": 994
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "教會聯手守城",
+        "prose": "他主張繼續調查塔羅會，同時避免不必要的衝突。貝克蘭德面臨戰事時，他與黑夜、風暴教會的其他半神一同建立城市的最後防線。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-58a17884538c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1190,
+          "end": 1251
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1200",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1200.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

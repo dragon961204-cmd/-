@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "latto-giaro",
+  "name_zh": "拉托·吉亞羅",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a0ccb583faa9.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a0ccb583faa9.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第377章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0377.html"
+    },
+    {
+      "label": "《宿命》第4卷·第594章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0594.html"
+    },
+    {
+      "label": "宿命·577",
+      "url": "https://lotmfanwiki.com/chapter/coi-0577.html"
+    },
+    {
+      "label": "宿命·584",
+      "url": "https://lotmfanwiki.com/chapter/coi-0584.html"
+    },
+    {
+      "label": "宿命·593",
+      "url": "https://lotmfanwiki.com/chapter/coi-0593.html"
+    },
+    {
+      "label": "宿命·545",
+      "url": "https://lotmfanwiki.com/chapter/coi-0545.html"
+    },
+    {
+      "label": "宿命·555",
+      "url": "https://lotmfanwiki.com/chapter/coi-0555.html"
+    },
+    {
+      "label": "宿命·556",
+      "url": "https://lotmfanwiki.com/chapter/coi-0556.html"
+    },
+    {
+      "label": "宿命·559",
+      "url": "https://lotmfanwiki.com/chapter/coi-0559.html"
+    },
+    {
+      "label": "宿命·396",
+      "url": "https://lotmfanwiki.com/chapter/coi-0396.html"
+    },
+    {
+      "label": "宿命·527",
+      "url": "https://lotmfanwiki.com/chapter/coi-0527.html"
+    },
+    {
+      "label": "宿命·495",
+      "url": "https://lotmfanwiki.com/chapter/coi-0495.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 149
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "拉托·吉亞羅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "漁業公會裡的愚人節成員",
+        "prose": "拉托是桑塔港漁業公會委員、太陽途徑的光之祭司，也以鹹蛋超人為代號加入愚人節。他破解海祭聲音的含義後，與吟遊詩人和瘋女等人布局，企圖取得儀式背後飛船的控制權。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a0ccb583faa9.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 396,
+          "end": 576
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·545",
+            "url": "https://lotmfanwiki.com/chapter/coi-0545.html"
+          },
+          {
+            "label": "宿命·555",
+            "url": "https://lotmfanwiki.com/chapter/coi-0555.html"
+          },
+          {
+            "label": "宿命·556",
+            "url": "https://lotmfanwiki.com/chapter/coi-0556.html"
+          },
+          {
+            "label": "宿命·559",
+            "url": "https://lotmfanwiki.com/chapter/coi-0559.html"
+          },
+          {
+            "label": "宿命·396",
+            "url": "https://lotmfanwiki.com/chapter/coi-0396.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在飛船內敗亡",
+        "prose": "拉托冒充待任海之總督西蒙登船，念出指令打開飛船並與胡安爭權。飛船在背叛之宴的作用下收回他的權限，他隨後在銀白大廳遭盧米安殺死，化為海中的水珠。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a0ccb583faa9.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 575,
+          "end": 589
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·577",
+            "url": "https://lotmfanwiki.com/chapter/coi-0577.html"
+          },
+          {
+            "label": "宿命·584",
+            "url": "https://lotmfanwiki.com/chapter/coi-0584.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

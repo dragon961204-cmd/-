@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "olson",
+  "name_zh": "奧爾森",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0deb435c3d71.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0deb435c3d71.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第273章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+    },
+    {
+      "label": "《宿命》第5卷·第795章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0795.html"
+    },
+    {
+      "label": "宿命·299",
+      "url": "https://lotmfanwiki.com/chapter/coi-0299.html"
+    },
+    {
+      "label": "宿命·481",
+      "url": "https://lotmfanwiki.com/chapter/coi-0481.html"
+    },
+    {
+      "label": "宿命·283",
+      "url": "https://lotmfanwiki.com/chapter/coi-0283.html"
+    },
+    {
+      "label": "宿命·271",
+      "url": "https://lotmfanwiki.com/chapter/coi-0271.html"
+    },
+    {
+      "label": "宿命·274",
+      "url": "https://lotmfanwiki.com/chapter/coi-0274.html"
+    },
+    {
+      "label": "宿命·284",
+      "url": "https://lotmfanwiki.com/chapter/coi-0284.html"
+    },
+    {
+      "label": "宿命·275",
+      "url": "https://lotmfanwiki.com/chapter/coi-0275.html"
+    },
+    {
+      "label": "宿命·285",
+      "url": "https://lotmfanwiki.com/chapter/coi-0285.html"
+    },
+    {
+      "label": "宿命·286",
+      "url": "https://lotmfanwiki.com/chapter/coi-0286.html"
+    },
+    {
+      "label": "宿命·472",
+      "url": "https://lotmfanwiki.com/chapter/coi-0472.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 155
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "奧爾森｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "礦洞交易者與市場區督導",
+        "prose": "奧爾森在阿爾貝礦洞以交易者身分與盧米安一行見面。加德納之後揭露他是鐵血十字會派到市場區的督導；奧爾森另找盧米安，要求他把加德納的異常報到市場大道13號。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0deb435c3d71.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 271,
+          "end": 286
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第273章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+          },
+          {
+            "label": "宿命·283",
+            "url": "https://lotmfanwiki.com/chapter/coi-0283.html"
+          },
+          {
+            "label": "宿命·271",
+            "url": "https://lotmfanwiki.com/chapter/coi-0271.html"
+          },
+          {
+            "label": "宿命·274",
+            "url": "https://lotmfanwiki.com/chapter/coi-0274.html"
+          },
+          {
+            "label": "宿命·284",
+            "url": "https://lotmfanwiki.com/chapter/coi-0284.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "暗算加德納與皮箱說法",
+        "prose": "兩人進入第四紀特里爾後，奧爾森察覺加德納異常，試圖從背後開槍，卻被加德納反殺。皮箱裡的頭顱事後聲稱奧爾森早就死了，之前的頭和身體一直受它控制；這是頭顱的說法。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0deb435c3d71.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 471,
+          "end": 491
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·481",
+            "url": "https://lotmfanwiki.com/chapter/coi-0481.html"
+          },
+          {
+            "label": "宿命·472",
+            "url": "https://lotmfanwiki.com/chapter/coi-0472.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "奧爾森身體何時被控制，涉及皮箱頭顱的自述。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

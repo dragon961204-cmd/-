@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "perle",
+  "name_zh": "佩爾樂",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f9c482016066.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f9c482016066.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第179章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0179.html"
+    },
+    {
+      "label": "《宿命》第5卷·第883章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0883.html"
+    },
+    {
+      "label": "宿命·730",
+      "url": "https://lotmfanwiki.com/chapter/coi-0730.html"
+    },
+    {
+      "label": "宿命·732",
+      "url": "https://lotmfanwiki.com/chapter/coi-0732.html"
+    },
+    {
+      "label": "宿命·866",
+      "url": "https://lotmfanwiki.com/chapter/coi-0866.html"
+    },
+    {
+      "label": "宿命·704",
+      "url": "https://lotmfanwiki.com/chapter/coi-0704.html"
+    },
+    {
+      "label": "宿命·728",
+      "url": "https://lotmfanwiki.com/chapter/coi-0728.html"
+    },
+    {
+      "label": "宿命·705",
+      "url": "https://lotmfanwiki.com/chapter/coi-0705.html"
+    },
+    {
+      "label": "宿命·713",
+      "url": "https://lotmfanwiki.com/chapter/coi-0713.html"
+    },
+    {
+      "label": "宿命·716",
+      "url": "https://lotmfanwiki.com/chapter/coi-0716.html"
+    },
+    {
+      "label": "宿命·718",
+      "url": "https://lotmfanwiki.com/chapter/coi-0718.html"
+    },
+    {
+      "label": "宿命·149",
+      "url": "https://lotmfanwiki.com/chapter/coi-0149.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 156
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "佩爾樂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "演員與監督者",
+        "prose": "來自魯恩的佩爾樂在特里爾以演員及交際花身分活動，暗中是真理學派的半神監督者、耶布斯的上級。耶布斯試圖供出她的身分時當場死亡；她也曾借鏡子警告與自己合作的莫蘭。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f9c482016066.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 705,
+          "end": 732
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·730",
+            "url": "https://lotmfanwiki.com/chapter/coi-0730.html"
+          },
+          {
+            "label": "宿命·732",
+            "url": "https://lotmfanwiki.com/chapter/coi-0732.html"
+          },
+          {
+            "label": "宿命·728",
+            "url": "https://lotmfanwiki.com/chapter/coi-0728.html"
+          },
+          {
+            "label": "宿命·705",
+            "url": "https://lotmfanwiki.com/chapter/coi-0705.html"
+          },
+          {
+            "label": "宿命·713",
+            "url": "https://lotmfanwiki.com/chapter/coi-0713.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "漩渦儀式受挫",
+        "prose": "貝爾納黛拒絕借出神燈後，佩爾樂以獻祭取得的恩賜自行展開漩渦，接引不定之霧。羅塞爾把儀式與信仰指向扭轉到自己身上，她的身體在霧中崩解，此後靠儀式的白霧存續。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f9c482016066.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 777,
+          "end": 884
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第883章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0883.html"
+          },
+          {
+            "label": "宿命·866",
+            "url": "https://lotmfanwiki.com/chapter/coi-0866.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

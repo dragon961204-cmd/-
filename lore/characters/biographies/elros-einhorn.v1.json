@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "elros-einhorn",
+  "name_zh": "愛洛絲·艾因霍恩",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-c12365f6b54c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-c12365f6b54c.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第367章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0367.html"
+    },
+    {
+      "label": "《宿命》第5卷·第744章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0744.html"
+    },
+    {
+      "label": "宿命·429",
+      "url": "https://lotmfanwiki.com/chapter/coi-0429.html"
+    },
+    {
+      "label": "宿命·432",
+      "url": "https://lotmfanwiki.com/chapter/coi-0432.html"
+    },
+    {
+      "label": "宿命·471",
+      "url": "https://lotmfanwiki.com/chapter/coi-0471.html"
+    },
+    {
+      "label": "詭祕·200",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0200.html"
+    },
+    {
+      "label": "詭祕·234",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0234.html"
+    },
+    {
+      "label": "詭祕·236",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0236.html"
+    },
+    {
+      "label": "詭祕·336",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0336.html"
+    },
+    {
+      "label": "宿命·368",
+      "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+    },
+    {
+      "label": "宿命·369",
+      "url": "https://lotmfanwiki.com/chapter/coi-0369.html"
+    },
+    {
+      "label": "宿命·370",
+      "url": "https://lotmfanwiki.com/chapter/coi-0370.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 150
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "愛洛絲·艾因霍恩｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "兩個王族的後代",
+        "prose": "愛洛絲兼有索倫與艾因霍恩血統。據她自述，父親死於弗薩克與魯恩的戰爭，她隨母親回到特里爾、住進外祖父家。普伊弗在紅天鵝堡的沙龍把她介紹給盧米安。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c12365f6b54c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 368,
+          "end": 430
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·429",
+            "url": "https://lotmfanwiki.com/chapter/coi-0429.html"
+          },
+          {
+            "label": "宿命·368",
+            "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+          },
+          {
+            "label": "宿命·369",
+            "url": "https://lotmfanwiki.com/chapter/coi-0369.html"
+          },
+          {
+            "label": "宿命·370",
+            "url": "https://lotmfanwiki.com/chapter/coi-0370.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "深入紅天鵝堡",
+        "prose": "身為獵人途徑非凡者，她與阿不思、盧米安等人深入城堡的地下迷宮，曾與盧米安合力對付黑色巨蛛。三人後來在迷宮深處聽見佛蒙達從第四紀特里爾發出的嘶吼，隨即失去意識。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c12365f6b54c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 423,
+          "end": 744
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第744章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0744.html"
+          },
+          {
+            "label": "宿命·429",
+            "url": "https://lotmfanwiki.com/chapter/coi-0429.html"
+          },
+          {
+            "label": "宿命·432",
+            "url": "https://lotmfanwiki.com/chapter/coi-0432.html"
+          },
+          {
+            "label": "宿命·471",
+            "url": "https://lotmfanwiki.com/chapter/coi-0471.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

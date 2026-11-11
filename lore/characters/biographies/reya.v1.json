@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "reya",
+  "name_zh": "瑞雅",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a67009da2599.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a67009da2599.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第661章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0661.html"
+    },
+    {
+      "label": "《宿命》第5卷·第805章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0805.html"
+    },
+    {
+      "label": "宿命·679",
+      "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+    },
+    {
+      "label": "宿命·691",
+      "url": "https://lotmfanwiki.com/chapter/coi-0691.html"
+    },
+    {
+      "label": "宿命·662",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·666",
+      "url": "https://lotmfanwiki.com/chapter/coi-0666.html"
+    },
+    {
+      "label": "宿命·681",
+      "url": "https://lotmfanwiki.com/chapter/coi-0681.html"
+    },
+    {
+      "label": "宿命·655",
+      "url": "https://lotmfanwiki.com/chapter/coi-0655.html"
+    },
+    {
+      "label": "宿命·657",
+      "url": "https://lotmfanwiki.com/chapter/coi-0657.html"
+    },
+    {
+      "label": "宿命·658",
+      "url": "https://lotmfanwiki.com/chapter/coi-0658.html"
+    },
+    {
+      "label": "詭祕·930",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0930.html"
+    },
+    {
+      "label": "宿命·667",
+      "url": "https://lotmfanwiki.com/chapter/coi-0667.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 151
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "瑞雅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從被擄到加入巡查隊",
+        "prose": "據瑞雅自述，她來自帕斯河谷附近的帕卡部落。魯恩軍隊襲擊部落後，她被擄並轉賣到西拜朗，後逃到派洛斯港。教會在她走投無路時伸出援手，她成為非凡者後加入巡查隊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a67009da2599.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 666,
+          "end": 668
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·666",
+            "url": "https://lotmfanwiki.com/chapter/coi-0666.html"
+          },
+          {
+            "label": "宿命·667",
+            "url": "https://lotmfanwiki.com/chapter/coi-0667.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "夢節中負傷與救援",
+        "prose": "瑞雅帶著獵弓隨盧米安和加繆行動。西索附身時，她被迫將箭對準加繆，遭反制後受重傷，由盧米安帶離。她事後與同伴救治鎮民，也替阿芒迪娜引介當地的神秘學圈。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a67009da2599.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 672,
+          "end": 805
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第805章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0805.html"
+          },
+          {
+            "label": "宿命·679",
+            "url": "https://lotmfanwiki.com/chapter/coi-0679.html"
+          },
+          {
+            "label": "宿命·691",
+            "url": "https://lotmfanwiki.com/chapter/coi-0691.html"
+          },
+          {
+            "label": "宿命·681",
+            "url": "https://lotmfanwiki.com/chapter/coi-0681.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}

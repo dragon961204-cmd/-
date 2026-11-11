@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "verdu-abraham",
+  "name_zh": "維爾杜·亞伯拉罕",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-63bf512a814d.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-63bf512a814d.html",
+      "verification": "secondary_only"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第7卷·第1298章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1298.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1352章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1352.html"
+    },
+    {
+      "label": "詭祕·1338",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1338.html"
+    },
+    {
+      "label": "詭祕·1348",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1348.html"
+    },
+    {
+      "label": "詭祕·1311",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1311.html"
+    },
+    {
+      "label": "詭祕·1325",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1325.html"
+    },
+    {
+      "label": "詭祕·1327",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1327.html"
+    },
+    {
+      "label": "詭祕·1335",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1335.html"
+    },
+    {
+      "label": "詭祕·1334",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1334.html"
+    },
+    {
+      "label": "詭祕·1336",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1336.html"
+    },
+    {
+      "label": "詭祕·1337",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1337.html"
+    },
+    {
+      "label": "詭祕·1339",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1339.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 172
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "維爾杜·亞伯拉罕｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "獨自尋找先祖",
+        "prose": "維爾杜以維爾杜·加西亞等身分活動，是亞伯拉罕家族的占星人。他為了擺脫多里安等人的注意、尋找解救伯特利的方法，搬到拜亞姆，又前往班西港的廢墟占星；阿爾傑一直按愚者的指示監控他的行蹤。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-63bf512a814d.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1311,
+          "end": 1337
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1311",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1311.html"
+          },
+          {
+            "label": "詭祕·1325",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1325.html"
+          },
+          {
+            "label": "詭祕·1327",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1327.html"
+          },
+          {
+            "label": "詭祕·1335",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1335.html"
+          },
+          {
+            "label": "詭祕·1334",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1334.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "藍山島上的契約",
+        "prose": "維爾杜在夢中想起指向戰爭之神的尊名，試探之後與對方立約。他在藍山島森林以三個對應途徑的怪物半神為祭品，呼喚門先生回歸。儀式最後被阿蒙奪取，沒有帶來他期望的家族復興。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-63bf512a814d.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1339,
+          "end": 1349
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1348",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1348.html"
+          },
+          {
+            "label": "詭祕·1339",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1339.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，二手來源待核對。"
+  }
+}
