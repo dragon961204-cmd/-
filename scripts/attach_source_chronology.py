@@ -47,11 +47,11 @@ for cid,entries in groups.items():
             "source_stage_count":len(stages)}
     path.write_text(json.dumps(bio,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     changed+=1;total_stages+=len(stages)
-assert not missing, "Missing biography files: "+str(missing)
+print("Index-only source matches (no biography yet):", missing)
 assert changed >= 80, "Unexpectedly few existing characters: "+str(changed)
 report={"schema_version":"1.0","existing_biographies_enriched":changed,
         "life_stage_headings_attached":total_stages,
-        "user_approved":0,"full_biographies_completed_by_this_job":0,
+        "index_only_matches_skipped":missing, "user_approved":0,"full_biographies_completed_by_this_job":0,
         "notes":"Only navigation chronology and source links attached; detailed narrative prose needs separate authorship."}
 (root/"biography_chronology_import_report.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
 print(json.dumps(report,ensure_ascii=False))
