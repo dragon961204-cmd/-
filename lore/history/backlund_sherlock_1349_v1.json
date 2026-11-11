@@ -1,0 +1,3135 @@
+{
+  "schema_version": "1.0",
+  "id": "backlund-sherlock-1349",
+  "name_zh": "第五紀 1349 年｜貝克蘭德・夏洛克篇",
+  "scope": "從克萊恩抵達貝克蘭德，到夏洛克·莫里亞蒂階段結束並轉向海上活動。",
+  "evidence_scope": "僅使用 GitHub 專案已收錄的人物傳記、勢力關係與章節定位。",
+  "source_revision": "6f6c35fd63e7cd58d489c1b445df1d88bf05f5ac",
+  "previous_timeline": {
+    "path": "lore/history/tingen_1349_v1.json",
+    "last_event_id": "tingen-1349-klein-leaves-tingen"
+  },
+  "ordering_note": "事件以章節區間和明確因果排列。多條支線會重疊，after_event_ids 只記錄目前資料支持的直接先後。",
+  "date_note": "專案現有資料不足以為這一階段建立可靠日曆日期，因此以原作章節序列為主，年份保留第五紀1349年的開發基準。",
+  "phases": {
+    "arrival": "抵達與落腳",
+    "cases": "偵探案件",
+    "underground": "地下非凡圈",
+    "revenge": "復仇與晉升",
+    "social": "東區與社會調查",
+    "mysteries": "高位命運線索",
+    "tarot_growth": "塔羅會成長",
+    "tarot-growth": "塔羅會成長",
+    "royal-plot": "王室與教派布局",
+    "climax": "大霧霾",
+    "departure": "離開貝克蘭德"
+  },
+  "locations": {
+    "backlund": {
+      "name_zh": "貝克蘭德",
+      "kind": "city"
+    },
+    "backlund-east-borough": {
+      "name_zh": "貝克蘭德東區",
+      "kind": "district",
+      "parent": "backlund"
+    },
+    "bravehearts-bar": {
+      "name_zh": "勇敢者酒吧",
+      "kind": "site",
+      "parent": "backlund"
+    },
+    "minsk-street-15": {
+      "name_zh": "明斯克街15號",
+      "kind": "site",
+      "parent": "backlund"
+    },
+    "harvest-church": {
+      "name_zh": "豐收教堂",
+      "kind": "site",
+      "parent": "backlund"
+    },
+    "capim-villa": {
+      "name_zh": "卡平別墅",
+      "kind": "site",
+      "parent": "backlund"
+    },
+    "red-rose-manor": {
+      "name_zh": "紅薔薇莊園",
+      "kind": "site",
+      "parent": "backlund"
+    },
+    "gray-fog": {
+      "name_zh": "灰霧之上",
+      "kind": "nonphysical"
+    }
+  },
+  "events": [
+    {
+      "id": "backlund-1349-arrival",
+      "name_zh": "克萊恩抵達貝克蘭德並使用夏洛克身分",
+      "type": "historical_event",
+      "phase": "arrival",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 215,
+          "end": 216
+        }
+      },
+      "location_id": "backlund",
+      "summary": "克萊恩離開廷根後來到貝克蘭德，以私家偵探夏洛克·莫里亞蒂的身分建立新生活。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "夏洛克·莫里亞蒂階段",
+          "evidence": "stage",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 215,
+            "end": 480
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "夏洛克的偵探身分可以公開接觸；他與克萊恩的關係及復生經過屬秘密。"
+      }
+    },
+    {
+      "id": "backlund-1349-ian-case",
+      "name_zh": "伊恩委託調查澤瑞爾失蹤",
+      "type": "historical_event",
+      "phase": "arrival",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 215,
+          "end": null
+        }
+      },
+      "location_id": "backlund",
+      "summary": "剛到貝克蘭德的克萊恩遇見躲避追捕的伊恩，接受委託確認偵探澤瑞爾的下落，並被帶入情報與軍情九處相關的衝突。",
+      "related_character_ids": [
+        "klein-moretti",
+        "ian-wright",
+        "bakerland-jean-madan"
+      ],
+      "related_organization_ids": [
+        "mi9"
+      ],
+      "after_event_ids": [
+        "backlund-1349-arrival"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/ian-wright.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
+          "locator": "生平摘要",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "伊恩的委託可由接案取得，情報爭奪與使館背景需要繼續調查。"
+      }
+    },
+    {
+      "id": "backlund-1349-mary-case",
+      "name_zh": "瑪麗夫人的婚姻調查與克拉格俱樂部",
+      "type": "historical_event",
+      "phase": "cases",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 242,
+          "end": 246
+        }
+      },
+      "location_id": "backlund",
+      "summary": "瑪麗夫人委託夏洛克調查丈夫，取得證據後又透過塔利姆引介他加入克拉格俱樂部。",
+      "related_character_ids": [
+        "klein-moretti",
+        "mary-gale",
+        "talim-dumont"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-arrival"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mary-gale.v1.json",
+          "locator": "人物章節索引與生平第1段",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 242,
+            "end": 246
+          }
+        },
+        {
+          "path": "lore/characters/biographies/talim-dumont.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "委託內容受客戶保密限制；俱樂部會員與社交關係可經正常交往取得。"
+      }
+    },
+    {
+      "id": "backlund-1349-underground-circle",
+      "name_zh": "夏洛克接觸勇敢者酒吧與地下非凡圈",
+      "type": "historical_event",
+      "phase": "underground",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 244,
+          "end": 257
+        }
+      },
+      "location_id": "bravehearts-bar",
+      "summary": "伊恩和卡斯帕斯的人脈讓夏洛克接觸黑市武器、非凡聚會，以及藏身貝克蘭德的馬里奇與莎倫。",
+      "related_character_ids": [
+        "klein-moretti",
+        "ian-wright",
+        "kaspars-kalinin",
+        "maric",
+        "sharron"
+      ],
+      "related_organization_ids": [
+        "rose-school-temperance"
+      ],
+      "after_event_ids": [
+        "backlund-1349-ian-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/kaspars-kalinin.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/maric.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/sharron.v1.json",
+          "locator": "從保鏢到盟友",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 246,
+            "end": 382
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "酒吧本身可公開接觸，黑市交易、聚會入口與節制派身分需要人脈。"
+      }
+    },
+    {
+      "id": "backlund-1349-sharron-bodyguard",
+      "name_zh": "莎倫擔任夏洛克的保鏢",
+      "type": "historical_event",
+      "phase": "underground",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 246,
+          "end": null
+        }
+      },
+      "location_id": "backlund",
+      "summary": "夏洛克透過馬里奇與莎倫建立交易關係。合作以報酬和共同利益開始，雙方尚未公開全部秘密。",
+      "related_character_ids": [
+        "klein-moretti",
+        "sharron",
+        "maric"
+      ],
+      "related_organization_ids": [
+        "rose-school-temperance"
+      ],
+      "after_event_ids": [
+        "backlund-1349-underground-circle"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/sharron.v1.json",
+          "locator": "從保鏢到盟友",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 246,
+            "end": 382
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "保鏢委託及非凡能力只向當事人和取得相關線索者開放。"
+      }
+    },
+    {
+      "id": "backlund-1349-bakerland-assassination",
+      "name_zh": "貝克朗遇刺與使館衝突",
+      "type": "historical_event",
+      "phase": "cases",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": null
+        }
+      },
+      "location_id": "backlund",
+      "summary": "克萊恩透過塔羅會發出刺殺貝克朗的委託，任務經奧黛麗、休和佛爾思傳到A先生手上；軍情九處介入手稿爭奪後，貝克朗在使館遇刺。",
+      "related_character_ids": [
+        "klein-moretti",
+        "bakerland-jean-madan",
+        "audrey-hall",
+        "xio-derecha",
+        "fors-wall",
+        "mr-a"
+      ],
+      "related_organization_ids": [
+        "tarot-club",
+        "aurora-order",
+        "mi9"
+      ],
+      "after_event_ids": [
+        "backlund-1349-ian-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
+          "locator": "生平摘要",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/mr-a.v1.json",
+          "locator": "貝克蘭德神使生平",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "使館死亡消息可成為公開情報；委託鏈、塔羅會介入與手稿爭奪屬分層秘密。"
+      }
+    },
+    {
+      "id": "backlund-1349-rosago-retaliation",
+      "name_zh": "羅薩戈襲擊明斯克街",
+      "type": "historical_event",
+      "phase": "cases",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": null
+        }
+      },
+      "location_id": "minsk-street-15",
+      "summary": "貝克朗的助手羅薩戈冒充警察進入夏洛克住所，企圖控制在場者並報復，最終被反制殺死。",
+      "related_character_ids": [
+        "klein-moretti",
+        "rosago"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-bakerland-assassination"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/rosago.v1.json",
+          "locator": "生平摘要",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "現場痕跡可能被調查，交戰手段與夏洛克真正能力需另行取得。"
+      }
+    },
+    {
+      "id": "backlund-1349-lanevus-revenge",
+      "name_zh": "追查並殺死蘭爾烏斯",
+      "type": "historical_event",
+      "phase": "revenge",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 285,
+          "end": 288
+        }
+      },
+      "location_id": "backlund",
+      "summary": "蘭爾烏斯改名藏在貝克蘭德碼頭區。克萊恩透過塔羅會人脈找到他並通知教會，最後在下水道追上並殺死他。",
+      "related_character_ids": [
+        "klein-moretti",
+        "lanevus",
+        "crestet-cesimir"
+      ],
+      "related_organization_ids": [
+        "tarot-club",
+        "nighthawks",
+        "church-evernight"
+      ],
+      "after_event_ids": [
+        "backlund-1349-arrival"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/lanevus.v1.json",
+          "locator": "人物章節索引與生平第2段",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 285,
+            "end": 288
+          }
+        },
+        {
+          "path": "lore/characters/biographies/crestet-cesimir.v1.json",
+          "locator": "追捕蘭爾烏斯",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 285,
+            "end": 402
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "教會追捕可能留下案件記錄；夏洛克、克萊恩與復仇者是同一人的事實不可直接公開。"
+      }
+    },
+    {
+      "id": "backlund-1349-magician-advance",
+      "name_zh": "克萊恩晉升魔術師",
+      "type": "historical_event",
+      "phase": "revenge",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 295,
+          "end": 295
+        }
+      },
+      "location_id": "backlund",
+      "summary": "克萊恩在夏洛克時期晉升愚者途徑序列7魔術師，能力與行動方式隨之改變。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-lanevus-revenge"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "途徑履歷序列7",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 295,
+            "end": 295
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "序列、魔藥和晉升情況屬角色核心秘密，只能由能力線索逐步推斷。"
+      }
+    },
+    {
+      "id": "backlund-1349-east-end-investigation",
+      "name_zh": "東區、碼頭與工廠生活調查",
+      "type": "historical_event",
+      "phase": "social",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 270,
+          "end": 305
+        }
+      },
+      "location_id": "backlund-east-borough",
+      "summary": "邁克雇夏洛克進行實地調查，老科勒帶兩人接觸東區、碼頭和鉛白工廠的勞動與生活狀況。",
+      "related_character_ids": [
+        "klein-moretti",
+        "mike-joseph",
+        "old-kohler"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-mary-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mike-joseph.v1.json",
+          "locator": "人物章節索引與生平第1–2段",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 270,
+            "end": 305
+          }
+        },
+        {
+          "path": "lore/characters/biographies/old-kohler.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "東區環境可由實地探索得知，工廠內部需要帶路、偽裝或合法採訪途徑。"
+      }
+    },
+    {
+      "id": "backlund-1349-will-clues",
+      "name_zh": "艾倫的惡夢與威爾的命運線索",
+      "type": "historical_event",
+      "phase": "mysteries",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 326,
+          "end": 423
+        }
+      },
+      "location_id": "backlund",
+      "summary": "外科醫師艾倫向夏洛克講述替威爾·昂賽汀手術後的厄運和惡夢，使克萊恩逐步接觸命運途徑的高位秘密。",
+      "related_character_ids": [
+        "klein-moretti",
+        "aaron-ceres",
+        "will-auceptin"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-arrival"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/will-auceptin.v1.json",
+          "locator": "截肢病童與墓園屍骨",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 326,
+            "end": 423
+          }
+        },
+        {
+          "path": "lore/characters/biographies/aaron-ceres.v1.json",
+          "locator": "生平第1–2段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "艾倫的敘述可由社交或委託取得；威爾的真實位格需要更高層級線索。"
+      }
+    },
+    {
+      "id": "backlund-1349-temperance-counterattack",
+      "name_zh": "節制派反擊玫瑰學派追兵",
+      "type": "historical_event",
+      "phase": "underground",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 331,
+          "end": 350
+        }
+      },
+      "location_id": "backlund",
+      "summary": "史蒂夫、傑森與同伴追捕莎倫和馬里奇。兩名節制派非凡者與夏洛克設局反擊，瓦解這次追捕。",
+      "related_character_ids": [
+        "klein-moretti",
+        "sharron",
+        "maric",
+        "steve",
+        "jason-rose"
+      ],
+      "related_organization_ids": [
+        "rose-school-temperance",
+        "rose-school-indulgence"
+      ],
+      "after_event_ids": [
+        "backlund-1349-sharron-bodyguard"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/steve.v1.json",
+          "locator": "怨魂之死",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 331,
+            "end": 350
+          }
+        },
+        {
+          "path": "lore/characters/biographies/jason-rose.v1.json",
+          "locator": "生平摘要",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/maric.v1.json",
+          "locator": "生平第2段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "地下圈可能知道追捕與死亡；雙方派系、能力和夏洛克的作用需取得案件內情。"
+      }
+    },
+    {
+      "id": "backlund-1349-emlyn-church",
+      "name_zh": "埃姆林被留在豐收教堂",
+      "type": "historical_event",
+      "phase": "tarot-growth",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 365,
+          "end": 482
+        }
+      },
+      "location_id": "harvest-church",
+      "summary": "血族埃姆林與大地母神教會產生密切交集，在烏特拉夫斯基神父附近生活，既抗拒普通信徒身分，也開始接觸教會實際工作。",
+      "related_character_ids": [
+        "emlyn-white"
+      ],
+      "related_organization_ids": [
+        "sanguines",
+        "church-earth-mother"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/emlyn-white.v1.json",
+          "locator": "囚禁、暗示與加入塔羅會",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 365,
+            "end": 482
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "埃姆林在教堂附近的活動可能被看見；血族身分、暗示與內心立場不公開。"
+      }
+    },
+    {
+      "id": "backlund-1349-capim-rescue",
+      "name_zh": "卡平案與黛西獲救",
+      "type": "historical_event",
+      "phase": "social",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 373,
+          "end": 381
+        }
+      },
+      "location_id": "capim-villa",
+      "summary": "黛西失蹤後，老科勒把麗芙一家介紹給夏洛克。克萊恩以黑皇帝形象闖入卡平別墅，卡平死亡，被囚少女逃出。",
+      "related_character_ids": [
+        "klein-moretti",
+        "daisy",
+        "old-kohler",
+        "capim"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-east-end-investigation"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/capim.v1.json",
+          "locator": "人物章節索引與生平摘要",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 373,
+            "end": 381
+          }
+        },
+        {
+          "path": "lore/characters/biographies/daisy.v1.json",
+          "locator": "生平第1–2段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/old-kohler.v1.json",
+          "locator": "生平第2段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "少女獲救與卡平死亡可形成公開案件；黑皇帝與夏洛克的關係、別墅內交戰屬秘密。"
+      }
+    },
+    {
+      "id": "backlund-1349-fors-tarot",
+      "name_zh": "佛爾思受滿月囈語影響並加入塔羅會",
+      "type": "historical_event",
+      "phase": "tarot-growth",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 234,
+          "end": 439
+        }
+      },
+      "location_id": "backlund",
+      "summary": "佛爾思受到滿月囈語困擾，經歷與灰霧相關的考查後，以魔術師為代號加入塔羅會。",
+      "related_character_ids": [
+        "fors-wall",
+        "klein-moretti",
+        "xio-derecha"
+      ],
+      "related_organization_ids": [
+        "tarot-club"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/fors-wall.v1.json",
+          "locator": "滿月囈語與加入塔羅會",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 234,
+            "end": 439
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "佛爾思的症狀可被親近者發現；塔羅會加入經過、代號與愚者身分均屬秘密。"
+      }
+    },
+    {
+      "id": "backlund-1349-audrey-psychology",
+      "name_zh": "奧黛麗深入心理鍊金會",
+      "type": "historical_event",
+      "phase": "tarot-growth",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 216,
+          "end": 418
+        }
+      },
+      "location_id": "backlund",
+      "summary": "奧黛麗在塔羅會與貴族生活之外接觸心理鍊金會，沿觀眾途徑成長，並逐漸看見貝克蘭德的階層差距。",
+      "related_character_ids": [
+        "audrey-hall"
+      ],
+      "related_organization_ids": [
+        "tarot-club",
+        "psychology-alchemists",
+        "hall-family"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/audrey-hall.v1.json",
+          "locator": "讀心者與心理鍊金會",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 216,
+            "end": 418
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "貴族身分與慈善活動可公開接觸；途徑、塔羅會代號及心理鍊金會關係分別保密。"
+      }
+    },
+    {
+      "id": "backlund-1349-serial-murder-case",
+      "name_zh": "連環殺人案與欲望使徒",
+      "type": "historical_event",
+      "phase": "cases",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 257,
+          "end": 480
+        }
+      },
+      "location_id": "backlund",
+      "summary": "艾辛格、夏洛克等偵探調查貝克蘭德連環殺人案，艾辛格後來也遭欲望使徒襲擊，案件逐步進入非凡層面。",
+      "related_character_ids": [
+        "klein-moretti",
+        "isengard-stanton",
+        "mike-joseph"
+      ],
+      "related_organization_ids": [
+        "church-knowledge"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/isengard-stanton.v1.json",
+          "locator": "連環殺人案與慾望使徒",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 257,
+            "end": 480
+          }
+        },
+        {
+          "path": "lore/characters/biographies/mike-joseph.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "凶案與偵探合作可由委託或新聞得知；犯人的途徑和聚會身分需非凡調查。"
+      }
+    },
+    {
+      "id": "backlund-1349-talim-death",
+      "name_zh": "塔利姆遭詛咒死亡",
+      "type": "historical_event",
+      "phase": "royal-plot",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 404,
+          "end": null
+        }
+      },
+      "location_id": "backlund",
+      "summary": "塔利姆頻繁出入紅薔薇莊園後突然死亡。克萊恩透過染血手帕確認詛咒痕跡，隨後接到埃德薩克王子的調查委託。",
+      "related_character_ids": [
+        "klein-moretti",
+        "talim-dumont",
+        "edessak-augustus",
+        "trissy"
+      ],
+      "related_organization_ids": [
+        "augustus-family",
+        "demoness-sect"
+      ],
+      "after_event_ids": [
+        "backlund-1349-mary-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/talim-dumont.v1.json",
+          "locator": "生平第2段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/edessak-augustus.v1.json",
+          "locator": "生平第1段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "塔利姆死訊與王子委託可由相應社交圈得知；詛咒來源及特莉絲的作用仍是核心謎團。"
+      }
+    },
+    {
+      "id": "backlund-1349-mr-a-plan",
+      "name_zh": "A先生尋找愚者並準備降臨儀式",
+      "type": "historical_event",
+      "phase": "royal-plot",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 404,
+          "end": 479
+        }
+      },
+      "location_id": "backlund",
+      "summary": "極光會的A先生在貝克蘭德尋找與愚者相關的人，並參與真實造物主的降臨計畫。",
+      "related_character_ids": [
+        "mr-a",
+        "klein-moretti",
+        "true-creator"
+      ],
+      "related_organization_ids": [
+        "aurora-order"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mr-a.v1.json",
+          "locator": "尋找愚者與降臨儀式",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 404,
+            "end": 479
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "非凡聚會參加者可能接觸A先生的公開委託；儀式目的與愚者線索屬高風險情報。"
+      }
+    },
+    {
+      "id": "backlund-1349-duke-negan-death",
+      "name_zh": "尼根公爵遇刺",
+      "type": "historical_event",
+      "phase": "royal-plot",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 423,
+          "end": 427
+        }
+      },
+      "location_id": "backlund",
+      "summary": "風暴教會加強保護後，欲望使徒仍在情婦住所殺死尼根公爵。死訊影響上議院與原本準備討論的改革。",
+      "related_character_ids": [
+        "pallas-negan",
+        "isengard-stanton"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-serial-murder-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/pallas-negan.v1.json",
+          "locator": "人物章節索引與生平第2–3段",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 423,
+            "end": 427
+          }
+        },
+        {
+          "path": "lore/characters/biographies/isengard-stanton.v1.json",
+          "locator": "連環殺人案與慾望使徒",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 257,
+            "end": 480
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "公爵死訊與政治後果可成為公共消息；出資者、凶手途徑與調查細節需要更高層情報。"
+      }
+    },
+    {
+      "id": "backlund-1349-trissy-prince",
+      "name_zh": "特莉絲與埃德薩克王子被捲入王室布局",
+      "type": "historical_event",
+      "phase": "royal-plot",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 470,
+          "end": 478
+        }
+      },
+      "location_id": "red-rose-manor",
+      "summary": "魔女教派安排特莉絲接近埃德薩克王子。兩人的關係與王室、教派及大霧霾前的布局交疊，王子最終在莊園自盡。",
+      "related_character_ids": [
+        "trissy",
+        "edessak-augustus",
+        "talim-dumont"
+      ],
+      "related_organization_ids": [
+        "demoness-sect",
+        "augustus-family"
+      ],
+      "after_event_ids": [
+        "backlund-1349-talim-death"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/trissy.v1.json",
+          "locator": "埃德薩克王子身邊",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 470,
+            "end": 478
+          }
+        },
+        {
+          "path": "lore/characters/biographies/edessak-augustus.v1.json",
+          "locator": "生平第2–3段",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "王室公告、莊園內情與特莉絲的判斷是不同情報層；不可將其中一方直接視為完整真相。"
+      }
+    },
+    {
+      "id": "backlund-1349-great-smog",
+      "name_zh": "貝克蘭德大霧霾與地下儀式",
+      "type": "historical_event",
+      "phase": "climax",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 470,
+          "end": 479
+        }
+      },
+      "location_id": "backlund",
+      "summary": "大霧霾籠罩貝克蘭德。克萊恩被捲入地下儀式並與A先生衝突，東區平民承受大規模傷亡。",
+      "related_character_ids": [
+        "klein-moretti",
+        "mr-a",
+        "true-creator",
+        "old-kohler",
+        "daisy",
+        "trissy",
+        "edessak-augustus"
+      ],
+      "related_organization_ids": [
+        "aurora-order",
+        "demoness-sect"
+      ],
+      "after_event_ids": [
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/mr-a.v1.json",
+          "locator": "生平第2段與降臨儀式",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 404,
+            "end": 479
+          }
+        },
+        {
+          "path": "lore/characters/biographies/old-kohler.v1.json",
+          "locator": "生平第3段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/daisy.v1.json",
+          "locator": "生平第3段",
+          "evidence": "draft"
+        },
+        {
+          "path": "lore/characters/biographies/trissy.v1.json",
+          "locator": "埃德薩克王子身邊",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 470,
+            "end": 478
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "霧霾、死亡與救援屬公共災難；儀式、教派合作、王室布局與交戰細節分層保密。"
+      }
+    },
+    {
+      "id": "backlund-1349-emlyn-tarot",
+      "name_zh": "埃姆林以月亮身分加入塔羅會",
+      "type": "historical_event",
+      "phase": "tarot-growth",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": 482
+        }
+      },
+      "location_id": "gray-fog",
+      "summary": "埃姆林在機緣下以月亮為代號加入塔羅會，開始藉聚會取得配方、材料與跨地域情報。",
+      "related_character_ids": [
+        "emlyn-white",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [
+        "tarot-club",
+        "sanguines"
+      ],
+      "after_event_ids": [
+        "backlund-1349-emlyn-church"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/emlyn-white.v1.json",
+          "locator": "囚禁、暗示與加入塔羅會",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 365,
+            "end": 482
+          }
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "埃姆林的代號、聚會內容和成員身分只限塔羅會與取得相關秘密的人。"
+      }
+    },
+    {
+      "id": "backlund-1349-departure",
+      "name_zh": "夏洛克階段結束並準備出海",
+      "type": "historical_event",
+      "phase": "departure",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": 1349,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 480,
+          "end": 487
+        }
+      },
+      "location_id": "backlund",
+      "summary": "大霧霾和第二卷末的事件後，克萊恩結束夏洛克·莫里亞蒂在貝克蘭德的主要活動，下一階段轉向海上與格爾曼·斯帕羅身分。",
+      "related_character_ids": [
+        "klein-moretti",
+        "isengard-stanton"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "backlund-1349-great-smog",
+        "backlund-1349-serial-murder-case"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "夏洛克階段與格爾曼出海階段",
+          "evidence": "locator",
+          "chapter_locator": {
+            "work": "lotm",
+            "start": 480,
+            "end": 488
+          }
+        },
+        {
+          "path": "lore/characters/biographies/isengard-stanton.v1.json",
+          "locator": "夏洛克離開後的聯繫",
+          "evidence": "draft"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "夏洛克離開可以由熟人得知；他的新身分與去向需要相應線索。"
+      }
+    }
+  ],
+  "indexes": {
+    "by_character": {
+      "aaron-ceres": [
+        "backlund-1349-will-clues"
+      ],
+      "audrey-hall": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-audrey-psychology"
+      ],
+      "bakerland-jean-madan": [
+        "backlund-1349-ian-case",
+        "backlund-1349-bakerland-assassination"
+      ],
+      "capim": [
+        "backlund-1349-capim-rescue"
+      ],
+      "crestet-cesimir": [
+        "backlund-1349-lanevus-revenge"
+      ],
+      "daisy": [
+        "backlund-1349-capim-rescue",
+        "backlund-1349-great-smog"
+      ],
+      "edessak-augustus": [
+        "backlund-1349-talim-death",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "emlyn-white": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-emlyn-tarot"
+      ],
+      "fors-wall": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-fors-tarot"
+      ],
+      "ian-wright": [
+        "backlund-1349-ian-case",
+        "backlund-1349-underground-circle"
+      ],
+      "isengard-stanton": [
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-duke-negan-death",
+        "backlund-1349-departure"
+      ],
+      "jason-rose": [
+        "backlund-1349-temperance-counterattack"
+      ],
+      "kaspars-kalinin": [
+        "backlund-1349-underground-circle"
+      ],
+      "klein-moretti": [
+        "backlund-1349-arrival",
+        "backlund-1349-ian-case",
+        "backlund-1349-mary-case",
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-rosago-retaliation",
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-magician-advance",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-talim-death",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog",
+        "backlund-1349-emlyn-tarot",
+        "backlund-1349-departure"
+      ],
+      "lanevus": [
+        "backlund-1349-lanevus-revenge"
+      ],
+      "maric": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-temperance-counterattack"
+      ],
+      "mary-gale": [
+        "backlund-1349-mary-case"
+      ],
+      "mike-joseph": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-serial-murder-case"
+      ],
+      "mr-a": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog"
+      ],
+      "old-kohler": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-great-smog"
+      ],
+      "pallas-negan": [
+        "backlund-1349-duke-negan-death"
+      ],
+      "rosago": [
+        "backlund-1349-rosago-retaliation"
+      ],
+      "sharron": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-temperance-counterattack"
+      ],
+      "steve": [
+        "backlund-1349-temperance-counterattack"
+      ],
+      "talim-dumont": [
+        "backlund-1349-mary-case",
+        "backlund-1349-talim-death",
+        "backlund-1349-trissy-prince"
+      ],
+      "trissy": [
+        "backlund-1349-talim-death",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "true-creator": [
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog"
+      ],
+      "will-auceptin": [
+        "backlund-1349-will-clues"
+      ],
+      "xio-derecha": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-fors-tarot"
+      ]
+    },
+    "by_organization": {
+      "augustus-family": [
+        "backlund-1349-talim-death",
+        "backlund-1349-trissy-prince"
+      ],
+      "aurora-order": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog"
+      ],
+      "church-earth-mother": [
+        "backlund-1349-emlyn-church"
+      ],
+      "church-evernight": [
+        "backlund-1349-lanevus-revenge"
+      ],
+      "church-knowledge": [
+        "backlund-1349-serial-murder-case"
+      ],
+      "demoness-sect": [
+        "backlund-1349-talim-death",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "hall-family": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "mi9": [
+        "backlund-1349-ian-case",
+        "backlund-1349-bakerland-assassination"
+      ],
+      "nighthawks": [
+        "backlund-1349-lanevus-revenge"
+      ],
+      "psychology-alchemists": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "rose-school-indulgence": [
+        "backlund-1349-temperance-counterattack"
+      ],
+      "rose-school-temperance": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-temperance-counterattack"
+      ],
+      "sanguines": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-emlyn-tarot"
+      ],
+      "tarot-club": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-emlyn-tarot"
+      ]
+    },
+    "by_phase": {
+      "arrival": [
+        "backlund-1349-arrival",
+        "backlund-1349-ian-case"
+      ],
+      "cases": [
+        "backlund-1349-mary-case",
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-rosago-retaliation",
+        "backlund-1349-serial-murder-case"
+      ],
+      "underground": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-temperance-counterattack"
+      ],
+      "revenge": [
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-magician-advance"
+      ],
+      "social": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-capim-rescue"
+      ],
+      "mysteries": [
+        "backlund-1349-will-clues"
+      ],
+      "tarot-growth": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-emlyn-tarot"
+      ],
+      "royal-plot": [
+        "backlund-1349-talim-death",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death",
+        "backlund-1349-trissy-prince"
+      ],
+      "climax": [
+        "backlund-1349-great-smog"
+      ],
+      "departure": [
+        "backlund-1349-departure"
+      ]
+    },
+    "by_chapter": {
+      "215": [
+        "backlund-1349-arrival"
+      ],
+      "216": [
+        "backlund-1349-arrival",
+        "backlund-1349-audrey-psychology"
+      ],
+      "217": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "218": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "219": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "220": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "221": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "222": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "223": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "224": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "225": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "226": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "227": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "228": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "229": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "230": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "231": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "232": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "233": [
+        "backlund-1349-audrey-psychology"
+      ],
+      "234": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "235": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "236": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "237": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "238": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "239": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "240": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "241": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "242": [
+        "backlund-1349-mary-case",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "243": [
+        "backlund-1349-mary-case",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "244": [
+        "backlund-1349-mary-case",
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "245": [
+        "backlund-1349-mary-case",
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "246": [
+        "backlund-1349-mary-case",
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "247": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "248": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "249": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "250": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "251": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "252": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "253": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "254": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "255": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "256": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology"
+      ],
+      "257": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "258": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "259": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "260": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "261": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "262": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "263": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "264": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "265": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "266": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "267": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "268": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "269": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "270": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "271": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "272": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "273": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "274": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "275": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "276": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "277": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "278": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "279": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "280": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "281": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "282": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "283": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "284": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "285": [
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "286": [
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "287": [
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "288": [
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "289": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "290": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "291": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "292": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "293": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "294": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "295": [
+        "backlund-1349-magician-advance",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "296": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "297": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "298": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "299": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "300": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "301": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "302": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "303": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "304": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "305": [
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "306": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "307": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "308": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "309": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "310": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "311": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "312": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "313": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "314": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "315": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "316": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "317": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "318": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "319": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "320": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "321": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "322": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "323": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "324": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "325": [
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "326": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "327": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "328": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "329": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "330": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "331": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "332": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "333": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "334": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "335": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "336": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "337": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "338": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "339": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "340": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "341": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "342": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "343": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "344": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "345": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "346": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "347": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "348": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "349": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "350": [
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "351": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "352": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "353": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "354": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "355": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "356": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "357": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "358": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "359": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "360": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "361": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "362": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "363": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "364": [
+        "backlund-1349-will-clues",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "365": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "366": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "367": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "368": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "369": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "370": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "371": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "372": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "373": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "374": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "375": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "376": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "377": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "378": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "379": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "380": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "381": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "382": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "383": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "384": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "385": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "386": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "387": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "388": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "389": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "390": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "391": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "392": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "393": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "394": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "395": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "396": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "397": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "398": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "399": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "400": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "401": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "402": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "403": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case"
+      ],
+      "404": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "405": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "406": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "407": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "408": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "409": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "410": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "411": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "412": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "413": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "414": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "415": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "416": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "417": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "418": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-audrey-psychology",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "419": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "420": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "421": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "422": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "423": [
+        "backlund-1349-will-clues",
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death"
+      ],
+      "424": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death"
+      ],
+      "425": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death"
+      ],
+      "426": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death"
+      ],
+      "427": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-duke-negan-death"
+      ],
+      "428": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "429": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "430": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "431": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "432": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "433": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "434": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "435": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "436": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "437": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "438": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "439": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "440": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "441": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "442": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "443": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "444": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "445": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "446": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "447": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "448": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "449": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "450": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "451": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "452": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "453": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "454": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "455": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "456": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "457": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "458": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "459": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "460": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "461": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "462": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "463": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "464": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "465": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "466": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "467": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "468": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "469": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan"
+      ],
+      "470": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "471": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "472": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "473": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "474": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "475": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "476": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "477": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "478": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-trissy-prince",
+        "backlund-1349-great-smog"
+      ],
+      "479": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog"
+      ],
+      "480": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-departure"
+      ],
+      "481": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-departure"
+      ],
+      "482": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-departure"
+      ],
+      "483": [
+        "backlund-1349-departure"
+      ],
+      "484": [
+        "backlund-1349-departure"
+      ],
+      "485": [
+        "backlund-1349-departure"
+      ],
+      "486": [
+        "backlund-1349-departure"
+      ],
+      "487": [
+        "backlund-1349-departure"
+      ]
+    }
+  }
+}
