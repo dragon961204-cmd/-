@@ -1,0 +1,3467 @@
+{
+  "schema_version": "1.0",
+  "scope": "跨兩部作品的勢力、組織、家族及正式編制名錄。",
+  "counts": {
+    "total": 91,
+    "profiles": 78,
+    "seed_only": 13,
+    "by_category": {
+      "secret_organization": 33,
+      "related_group": 1,
+      "church": 9,
+      "historical_organization": 1,
+      "official": 10,
+      "family": 16,
+      "species_community": 1,
+      "city_government": 1,
+      "governing_body": 1,
+      "local_group": 3,
+      "guild": 1,
+      "umbrella": 1,
+      "military": 1,
+      "government": 1,
+      "subgroup": 1,
+      "faction": 6,
+      "pirate_crew": 4
+    }
+  },
+  "organizations": [
+    {
+      "id": "great-white-brotherhood",
+      "name_zh": null,
+      "name_en": "Great White Brotherhood",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "second_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "rose-redemption",
+      "name_zh": "救贖薔薇",
+      "name_en": "Rose Redemption",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "third_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/sasrir.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/evernight-goddess.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/badheil.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "第三紀針對遠古太陽神所形成的聯盟，薩斯利爾和黑夜女神參與。太陽神死後權柄遭分食，原有安排與各參與者後續立場須分時點。",
+      "activity_regions": [
+        "第三紀",
+        "遠古太陽神勢力範圍"
+      ],
+      "period_notes": "第三紀歷史事件；第五紀主要透過遺跡與回憶揭示。"
+    },
+    {
+      "id": "twilight-hermit-order",
+      "name_zh": "黃昏隱士會",
+      "name_en": "Twilight Hermit Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Twilight_Hermit_Order"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/adam.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "亞當建立的隱秘結社，長期推動其認為有利的歷史趨勢。羅塞爾的聚會經歷和第五紀對魯恩政局的干預，是不同時期的線索。",
+      "activity_regions": [
+        "跨國；活動多經代理人"
+      ],
+      "period_notes": "第四紀來源分類待逐章確認；第五紀多處可定位。"
+    },
+    {
+      "id": "moses-ascetic-order",
+      "name_zh": "摩斯苦修會",
+      "name_en": "Moses Ascetic Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nikila.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與窺秘人途徑及隱匿賢者信仰有關的古老結社。第二部尼基拉的身分同時牽涉苦修會和鏡中人，兩條關係分開登記。",
+      "activity_regions": [
+        "跨國；第二部可定位特里爾個案"
+      ],
+      "period_notes": "第一部至第二部。"
+    },
+    {
+      "id": "demoness-sect",
+      "name_zh": "魔女教派",
+      "name_en": "Demoness Sect",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/clarice.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/blanche-sauron.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/franca-roland.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/madam-sharon.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/panatiya.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "信奉原初魔女，藉師徒、地區負責人和以顏色為稱號的高位魔女運作。第一部的貝克蘭德行動與第二部的特里爾分支需分開。",
+      "activity_regions": [
+        "貝克蘭德",
+        "特里爾等地"
+      ],
+      "period_notes": "第一部至第二部。"
+    },
+    {
+      "id": "mirror-people",
+      "name_zh": null,
+      "name_en": "Mirror People",
+      "category": "related_group",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/moran-avigny.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nikila.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guy-morora.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "特殊鏡中世界出身者在第二部以多種身分行動。莫蘭與尼基拉的個案涉及不同公開身分與外部組織，須以人物逐一核對。",
+      "activity_regions": [
+        "特里爾",
+        "特殊鏡中世界",
+        "摩羅拉"
+      ],
+      "period_notes": "第二部有明確行動，統一組織架構待核。"
+    },
+    {
+      "id": "secret-order",
+      "name_zh": "密修會",
+      "name_en": "Secret Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與查拉圖家族及占卜家途徑相連的隱秘組織。廷根的安提哥努斯筆記事件已有成員介入；查拉圖本人在各卷的狀態會變。",
+      "activity_regions": [
+        "因蒂斯",
+        "魯恩等地"
+      ],
+      "period_notes": "第一部可定位；精確成立時間待核。"
+    },
+    {
+      "id": "shadow-of-order",
+      "name_zh": null,
+      "name_en": "Shadow of Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "blood-sanctify-sect",
+      "name_zh": "拜血教",
+      "name_en": "Blood Sanctify Sect",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "拜血教與深淵途徑、宇宙暗面的信仰有關。可循貝克蘭德連環殺人案及其中惡魔途徑勢力繼續追查，宗派與個人罪行須分開。",
+      "activity_regions": [
+        "魯恩等地有線索"
+      ],
+      "period_notes": "第一部已有記載；分支和名單待核。"
+    },
+    {
+      "id": "theosophy-order",
+      "name_zh": "靈知會",
+      "name_en": "Theosophy Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "靈知會與魔女教派和原初魔女信仰相關。魔女教派創建靈知會屬二手來源的說法，正式從屬和具體建立時間保留待核。",
+      "activity_regions": [
+        "魯恩等地有線索"
+      ],
+      "period_notes": "第一部可定位；起源及分工待核。"
+    },
+    {
+      "id": "numinous-episcopate",
+      "name_zh": "靈教團",
+      "name_en": "Numinous Episcopate",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "拜朗帝國崩解後形成的秘密組織，以死神信仰與拜朗遺產為核心。皇室派、人造死神派、安息派與冥界派各有路線。",
+      "activity_regions": [
+        "南大陸",
+        "貝克蘭德等地"
+      ],
+      "period_notes": "第五紀；各派活躍地區與時期不同。"
+    },
+    {
+      "id": "life-school-of-thought",
+      "name_zh": "生命學派",
+      "name_en": "Life School of Thought",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/enzo.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/darkwill.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "傳承命運途徑的組織，生命學派內部也涉及不同信仰及分歧。達克威爾和老師羅伊·金牽涉概率之骰的保護，恩佐曾受外部勢力引誘叛離。",
+      "activity_regions": [
+        "羅思德群島及其他據點"
+      ],
+      "period_notes": "第一部可定位概率之骰事件。"
+    },
+    {
+      "id": "rose-school-of-thought",
+      "name_zh": "玫瑰學派",
+      "name_en": "Rose School of Thought",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "源自南大陸、早期信仰被縛之神的非凡組織。欲望母樹的影響加深後，放縱派取得優勢，節制派出走，兩支在第五紀有各自的領袖、成員與行動。",
+      "activity_regions": [
+        "高地",
+        "南大陸及境外據點"
+      ],
+      "period_notes": "早期第五紀起；分裂的精確年份待核。"
+    },
+    {
+      "id": "aurora-order",
+      "name_zh": "極光會",
+      "name_en": "Aurora Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-a.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-x.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-k.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/botis.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以真實造物主為信仰核心的隱秘組織，有聖者與字母代號神使。第一部的A、X先生和第二部的K先生各有活動線，亞當與真實造物主融合前後也須分期。",
+      "activity_regions": [
+        "魯恩",
+        "因蒂斯等地"
+      ],
+      "period_notes": "第五紀兩部均活動；職位和人員會更替。"
+    },
+    {
+      "id": "iron-and-blood-cross-order",
+      "name_zh": "鐵血十字會",
+      "name_en": "Iron and Blood Cross Order",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gardner-martin.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/olson.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/albus-medici.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gusin.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與獵人途徑有關的隱秘組織。加德納在特里爾利用薩瓦黨的地盤與走私網處理任務；他另外以鐵血十字會長官的身分讓盧米安入會。",
+      "activity_regions": [
+        "特里爾",
+        "第四紀特里爾的入口",
+        "摩羅拉"
+      ],
+      "period_notes": "第二部可定位分部與行動。"
+    },
+    {
+      "id": "psychology-alchemists",
+      "name_zh": "心理鍊金會",
+      "name_en": "Psychology Alchemists",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/islant.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hermes.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hood-eugen.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以集體潛意識和心靈研究為活動的一支隱秘組織。奧黛麗透過伊思蘭特進入研討圈，後來接觸赫溫等更高階成員。赫密斯使用暴怒先生的身分活動。",
+      "activity_regions": [
+        "魯恩等地"
+      ],
+      "period_notes": "第一部有地方網絡與高層；人物退出日期分列。"
+    },
+    {
+      "id": "element-dawn",
+      "name_zh": "要素黎明",
+      "name_en": "Element Dawn",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bernadette-gustav.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "貝爾納黛創立的隱秘組織，與神秘學知識及對摩斯苦修會的制衡有關。嘉德麗雅與貝爾納黛的歷史關係須按人物時期記錄。",
+      "activity_regions": [
+        "海上及跨國據點"
+      ],
+      "period_notes": "第五紀；成立與個別入會年份待核。"
+    },
+    {
+      "id": "hermits-of-fate",
+      "name_zh": "命運隱士會",
+      "name_en": "Hermits of Fate",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hermits_of_Fate"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "命運隱士會是與偷盜者途徑相關的隱秘組織。查成員時須分辨家族出身、寄生對象及參與組織的身分。",
+      "activity_regions": [
+        "活動範圍待核"
+      ],
+      "period_notes": "第一部第596章附近有相關資料；起訖待核。"
+    },
+    {
+      "id": "naturism-sect",
+      "name_zh": null,
+      "name_en": "Naturism Sect",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "tarot-club",
+      "name_zh": "塔羅會",
+      "name_en": "Tarot Club",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "克萊恩在灰霧上建立的隱秘集會，成員以塔羅牌為代號交換情報、委託及資源。第一場有愚者、正義、倒吊人，後續名單隨故事擴充。",
+      "activity_regions": [
+        "灰霧之上；成員散布各地"
+      ],
+      "period_notes": "第一部開篇成立；第二部有大、小阿卡那的分工。"
+    },
+    {
+      "id": "celestial-research-association",
+      "name_zh": null,
+      "name_en": "Celestial Research Association",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "curly-haired-baboons-research-society",
+      "name_zh": "卷毛狒狒研究會",
+      "name_en": "Curly-Haired Baboons Research Society",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gandalf.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hela.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/professor-baboon.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/franca-roland.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/angouleme.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以自認穿越者的成員交流資訊、尋找同鄉及研究神秘學。會長甘道夫、副會長海拉等組成審查委員會追查內部背叛，愚人節是內部分組。",
+      "activity_regions": [
+        "成員散居各地，特里爾有線下活動"
+      ],
+      "period_notes": "第二部開篇前已存在；審查委員會為後續成立。"
+    },
+    {
+      "id": "april-fools",
+      "name_zh": "愚人節",
+      "name_en": "April Fool's",
+      "category": "secret_organization",
+      "parent_id": "curly-haired-baboons-research-society",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hiso-tupian.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/latto-giaro.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bard-april-fools.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/madwoman-april-fools.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/i-have-a-friend.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "卷毛狒狒研究會的一個分組。洛基一方核心成員秘密信奉天尊，涉及奧蘿爾遇害及桑塔港祈海儀式的騙局。核心成員的秘密信仰只記在有線索的人身上。",
+      "activity_regions": [
+        "特里爾",
+        "西拜朗",
+        "桑塔港"
+      ],
+      "period_notes": "第二部；後續成員在多地被捕或死亡。"
+    },
+    {
+      "id": "sinners",
+      "name_zh": "罪人組織",
+      "name_en": "Sinners",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/voisin-sanson.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bouvar-pomperro.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guillaume-benet.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "信奉宿命之環的隱秘組織。據相關人物透露，瓦贊以桑松家族建立聯絡網；紀堯姆與布瓦爾分別涉及科爾杜與組織的聯絡。",
+      "activity_regions": [
+        "特里爾",
+        "科爾杜及相關據點"
+      ],
+      "period_notes": "第二部；信徒、恩賜者、正式職務需分開。"
+    },
+    {
+      "id": "nightstalkers",
+      "name_zh": "夜遊會",
+      "name_en": "Nightstalkers",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lady-moon-nightwalk.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "第二部出現的邪神組織。月女士既是偉大母親的恩賜者，也由此組織活動，並暗中支持毒刺幫。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾"
+      ],
+      "period_notes": "第二部有具名人物及代理關係；組織全貌待核。"
+    },
+    {
+      "id": "bliss-society",
+      "name_zh": "至福會",
+      "name_en": "Bliss Society",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/susanna-matisse.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/charlotte-calvino.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maip-maier.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lentas.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "信奉欲望母樹。大祭司蘇珊娜與核心成員利用劇場等場所活動，暗影之樹事件後遭到追查與清理。",
+      "activity_regions": [
+        "特里爾市場區",
+        "老鴿籠劇場"
+      ],
+      "period_notes": "第二部；計畫前與清理後分期。"
+    },
+    {
+      "id": "order-of-all-extinction",
+      "name_zh": "萬物終滅會",
+      "name_en": "Order of All Extinction",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [
+        "萬物終滅會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "與衰敗君王相關的第二部邪神組織。半神希格頓在漩渦事件一帶協助瓦贊；這種合作不等同隸屬罪人組織。",
+      "activity_regions": [
+        "特里爾與漩渦事件相關地點"
+      ],
+      "period_notes": "第二部有活動記載。"
+    },
+    {
+      "id": "entry-persons",
+      "name_zh": null,
+      "name_en": "Entry Persons",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "dreamseekers",
+      "name_zh": "尋夢者",
+      "name_en": "Dreamseekers",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/general-philip.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以慈善資助為表面活動。安東尼循腓力遺孀的捐款查到尋夢者；腓力假死後利用它資助畫家與其他恩賜者。",
+      "activity_regions": [
+        "特里爾及其聯絡網"
+      ],
+      "period_notes": "第二部，腓力假死後仍活動。"
+    },
+    {
+      "id": "school-of-gods-descent",
+      "name_zh": "神降學派",
+      "name_en": "School of God's Descent",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [
+        "神降學派"
+      ],
+      "detail_status": "research_draft",
+      "summary": "與偉大母親及孕育神子的安排有關。蒙塞拉特在船上談到此學派；他自述的教義、信仰變化及正式地位仍須分別核對。",
+      "activity_regions": [
+        "南大陸航線與第二部相關據點"
+      ],
+      "period_notes": "第二部船上神子事件可定位。"
+    },
+    {
+      "id": "school-of-truth",
+      "name_zh": null,
+      "name_en": "School of Truth",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/perle.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jebus.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與不定之霧和暗箱交易相關的隱秘組織。監督者佩爾樂經耶布斯等人行動，與鏡中人莫蘭合作，也參與漩渦計畫。",
+      "activity_regions": [
+        "特里爾及境外聯絡線"
+      ],
+      "period_notes": "第二部。合作、隸屬、交易的有效期各自記錄。"
+    },
+    {
+      "id": "sick-church",
+      "name_zh": "病教",
+      "name_en": "Sick Church",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lugano-toscano.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "病教早期的信仰牽涉衰敗君王。到了第二部後期，盧米安和芙蘭卡的宗教身分及盧加諾的教務屬後續階段。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾"
+      ],
+      "period_notes": "第二部須按信仰與人事變化分期。"
+    },
+    {
+      "id": "school-of-deliciousness",
+      "name_zh": null,
+      "name_en": "School of Deliciousness",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "fantasy-association",
+      "name_zh": "幻想會",
+      "name_en": "Fantasy Association",
+      "category": "secret_organization",
+      "parent_id": null,
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/index.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "church-evernight",
+      "name_zh": "黑夜女神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/arianna.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/anthony-stevenson.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bishop-elektra.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ince-zangwill.v1.json"
+        }
+      ],
+      "aliases": [
+        "黑夜教會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "黑夜女神教會在魯恩透過教區和教堂運作。值夜者處理地方非凡案件，紅手套跨區執行較複雜的追查。貝克蘭德的聖賽繆爾教堂是聖安東尼的教區據點。",
+      "activity_regions": [
+        "魯恩",
+        "貝克蘭德",
+        "廷根"
+      ],
+      "period_notes": "第一部開篇已運作；第二部仍有教會成員活動。"
+    },
+    {
+      "id": "church-storms",
+      "name_zh": "風暴之主教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Church_of_the_Lord_of_Storms"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alger-wilson.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jahn-kottman.v1.json"
+        }
+      ],
+      "aliases": [
+        "風暴教會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "風暴之主的正神教會，勢力集中於港口與海域。代罰者執行非凡案件，羅思德教區的考特曼曾處理卡維圖瓦隕落後的異常。",
+      "activity_regions": [
+        "魯恩",
+        "羅思德群島"
+      ],
+      "period_notes": "第一部開篇已活動；羅思德的教會安排在第一部末期出現變化。"
+    },
+    {
+      "id": "church-eternal-sun",
+      "name_zh": "永恆烈陽教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guillaume-benet.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/michel-garrigou.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/father-cali.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "因蒂斯的正神教會。地方神甫主持教務，宗教裁判所的淨化者處理異常。科爾杜的紀堯姆是地方教士，他私下轉信宿命，須在人物紀錄中分開。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾",
+        "科爾杜"
+      ],
+      "period_notes": "第一部已存在；第二部在科爾杜及特里爾可見其組織。"
+    },
+    {
+      "id": "church-earth-mother",
+      "name_zh": "大地母神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/utralavsky.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/father-montserrat.v1.json"
+        }
+      ],
+      "aliases": [
+        "母神教會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "大地母神信仰與醫療、農業和豐收有關。貝克蘭德豐收教堂由烏特拉夫斯基駐守。信仰涉及血族和莉莉絲的身分揭露，教會的公開面貌應依時期記錄。",
+      "activity_regions": [
+        "費內波特",
+        "貝克蘭德及南大陸部分地區"
+      ],
+      "period_notes": "第一部至第二部。神戰及末日事件會影響其神學背景。"
+    },
+    {
+      "id": "church-steam",
+      "name_zh": "蒸汽與機械之神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/horamick-haydn.v1.json"
+        }
+      ],
+      "aliases": [
+        "蒸汽教會",
+        "工匠之神教會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "工匠之神教會在蒸汽與機械時代以新神名活動，在魯恩、因蒂斯均設教區。機械之心是處理非凡案件的部門；霍拉米克在第一部任貝克蘭德大主教，第二部回到因蒂斯。",
+      "activity_regions": [
+        "因蒂斯",
+        "魯恩"
+      ],
+      "period_notes": "第一部至第二部。霍拉米克任地有變。"
+    },
+    {
+      "id": "church-knowledge",
+      "name_zh": "知識與智慧之神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/herabergen.v1.json"
+        }
+      ],
+      "aliases": [
+        "知識教會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "知識與智慧之神的教會，在倫堡等地有深厚影響。第二部管理摩羅拉的知識教堂與流放制度，赫拉伯根以赫拉貝格身分在此活動。",
+      "activity_regions": [
+        "倫堡等中南諸國",
+        "摩羅拉"
+      ],
+      "period_notes": "第一部至第二部。"
+    },
+    {
+      "id": "church-combat",
+      "name_zh": "戰神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/badheil.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "弗薩克的正神教會，以黃昏巨殿為宗座，信奉巴德海爾。戰神隕落後，教會的公開狀態和個別成員去向須按章節分開看。",
+      "activity_regions": [
+        "弗薩克"
+      ],
+      "period_notes": "第一部戰爭前後應分段，戰神隕落後的組織變化待核。"
+    },
+    {
+      "id": "church-fool",
+      "name_zh": "愚者教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/danitz.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以愚者為信仰核心的教會，第一部末期與新白銀城、羅思德群島的信仰傳播密切相關。教務、神使和塔羅會牌面身分各有職責。",
+      "activity_regions": [
+        "新白銀城",
+        "羅思德群島"
+      ],
+      "period_notes": "第一部末期已有教會活動，第二部延續。"
+    },
+    {
+      "id": "church-sea-god",
+      "name_zh": "海神教會",
+      "name_en": null,
+      "category": "church",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://www.pyg-kit.com/en/books/lord-of-the-mysteries-2/chapters/79617"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alger-wilson.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kalat.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "羅思德群島海神信仰形成的教會。卡維圖瓦隕落後，克萊恩一度透過海神權杖回應信徒；第一部末期，阿爾傑受命出任海神教會教宗。",
+      "activity_regions": [
+        "羅思德群島"
+      ],
+      "period_notes": "舊海神崇拜、代為回應及教務交接分段。"
+    },
+    {
+      "id": "church-ancient-sun",
+      "name_zh": "遠古太陽神教會",
+      "name_en": null,
+      "category": "historical_organization",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ancient-sun-god.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "以遠古太陽神為中心的古代信仰與組織。太陽神在世時的秩序、白銀城在神棄之地保存的舊信仰，以及死後的權柄流向應分期。",
+      "activity_regions": [
+        "第三紀遠古太陽神勢力區及後世遺留"
+      ],
+      "period_notes": "第三紀歷史；第五紀遺跡與傳承是後續線索。"
+    },
+    {
+      "id": "nighthawks",
+      "name_zh": "值夜者",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "church-evernight",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/dunn-smith.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/leonard-mitchell.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/old-neil.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kenley-white.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "黑夜教會的官方非凡部門。廷根隊以黑荊棘安保公司作公開掩護，負責辦案、看守查尼斯門與管理封印物。廷根隊只是地方編制。",
+      "activity_regions": [
+        "魯恩各教區"
+      ],
+      "period_notes": "第一部開篇可定位廷根隊；各地成員須分開查。"
+    },
+    {
+      "id": "red-gloves",
+      "name_zh": "紅手套",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "nighthawks",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/soest.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/leonard-mitchell.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/daly-simone.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "黑夜教會的精銳隊伍。倫納德離開廷根後轉入紅手套，曾在索斯特小隊查案，之後也可被大主教抽調另派任務。",
+      "activity_regions": [
+        "魯恩及受命執行任務的其他地區"
+      ],
+      "period_notes": "第一部已存在；小隊編制及個人調任需分時點記錄。"
+    },
+    {
+      "id": "machinery-hivemind",
+      "name_zh": "機械之心",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "church-steam",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ikanser-bernard.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "蒸汽教會的非凡執法部門。伊康瑟等人負責調查貝克蘭德案件，曾使用阿羅德斯，並在霍拉米克指揮下探索第四紀陵墓。",
+      "activity_regions": [
+        "貝克蘭德",
+        "因蒂斯"
+      ],
+      "period_notes": "第一部至第二部均有活動記載。"
+    },
+    {
+      "id": "mandated-punishers",
+      "name_zh": "代罰者",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "church-storms",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Church_of_the_Lord_of_Storms"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jahn-kottman.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "風暴教會的官方非凡部門。羅思德的代罰者調查卡維圖瓦及其特性的去向，並在海王下令時啟用封印物。",
+      "activity_regions": [
+        "魯恩",
+        "羅思德群島"
+      ],
+      "period_notes": "第一部已有地方分隊。"
+    },
+    {
+      "id": "purifiers",
+      "name_zh": "淨化者",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "intis-inquisition",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Imre"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/angouleme.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/valentine.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/imre.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "永恆烈陽教會宗教裁判所的非凡力量。昂古萊姆在特里爾負責隊伍，瓦倫泰與伊姆雷曾共同查案、保護議員。科爾杜聯合調查還有第八局人員。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾"
+      ],
+      "period_notes": "第二部初期可定位，機動小隊的組成出現在較後章節。"
+    },
+    {
+      "id": "mi9",
+      "name_zh": "軍情九處",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "loen-military",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/qunas-kilgor.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/wendel.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "魯恩軍方的情報機構。第三代差分機手稿案和烏托邦事件都涉及其情報工作；有關人員可能同時是線人、受查者或正式成員。",
+      "activity_regions": [
+        "魯恩及境外情報工作地區"
+      ],
+      "period_notes": "第一部已活動；烏托邦事件可定位內務行動部。"
+    },
+    {
+      "id": "abraham-family",
+      "name_zh": "亞伯拉罕家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/verdu-abraham.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/fors-wall.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/botis.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "門途徑的古老家族，第四紀曾支持圖鐸帝國。第五紀家族長期承受門先生相關的危機，博提斯的背叛再使其分散。多里安培養佛爾思，維爾杜則秘密尋找迎回伯特利的方法。",
+      "activity_regions": [
+        "第四紀帝國；第五紀成員散居"
+      ],
+      "period_notes": "第四紀至第五紀。第四紀政治立場與後代活動分開。"
+    },
+    {
+      "id": "antigonus-family",
+      "name_zh": "安提哥努斯家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "第四紀支持圖鐸帝國的古老家族。血脈及筆記影響延續到第五紀，廷根的比伯案是後裔與筆記重新進入值夜者調查的事件。",
+      "activity_regions": [
+        "第四紀圖鐸帝國",
+        "霍納奇斯線索",
+        "第五紀廷根"
+      ],
+      "period_notes": "第四紀有明確政治活動；第五紀仍見遺留及後裔。"
+    },
+    {
+      "id": "amon-family",
+      "name_zh": "阿蒙家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "第四紀支持圖鐸帝國的古老家族。後代與阿蒙本體、分身的關係不能只憑共用名字推定，相關陵墓與古代政治可以交叉查詢。",
+      "activity_regions": [
+        "第四紀圖鐸帝國，另有第五紀遺跡"
+      ],
+      "period_notes": "第四紀可查；成員和分身狀態待核。"
+    },
+    {
+      "id": "zoroast-family",
+      "name_zh": "索羅亞斯德家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "第四紀高位貴族與非凡家族。帕列斯在第五紀與倫納德共存；莫貝特失蹤、在《格羅塞爾遊記》再現的經歷屬另一個時期。",
+      "activity_regions": [
+        "第四紀帝國；第五紀家族成員離散"
+      ],
+      "period_notes": "第四紀有家族活動；第五紀組織規模待核。"
+    },
+    {
+      "id": "zaratul-family",
+      "name_zh": "查拉圖家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與密修會及占卜家途徑相關的古老家族。歷史上的查拉圖家族與後來以查拉圖之名活動者，應以不同年代和人物索引交叉核對。",
+      "activity_regions": [
+        "第四紀帝國與第五紀因蒂斯線索"
+      ],
+      "period_notes": "第四紀至第五紀的活動需分期。"
+    },
+    {
+      "id": "hall-family",
+      "name_zh": "霍爾家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hibbert-hall.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alfred-hall.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "貝克蘭德貴族霍爾家的成員涉及國會、軍方、慈善及社交。奧黛麗有塔羅會身分，希伯特任內閣秘書，阿爾弗雷德的經歷則涉及東拜朗與軍方。",
+      "activity_regions": [
+        "魯恩",
+        "貝克蘭德；家族成員曾赴東拜朗"
+      ],
+      "period_notes": "第一部。家族身分與任職期間分開。"
+    },
+    {
+      "id": "gustav-family",
+      "name_zh": "古斯塔夫家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "羅塞爾及其子女的家庭。貝爾納黛此後另建要素黎明，家族身分、皇朝統治和結社職務分開。",
+      "activity_regions": [
+        "因蒂斯",
+        "後代的海上活動區"
+      ],
+      "period_notes": "第五紀羅塞爾時代及其後。"
+    },
+    {
+      "id": "eggers-family",
+      "name_zh": "艾格斯家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與拜朗死神及舊帝國皇室相關的家族。阿茲克的身世涉及薩林格爾；靈教團皇室派也與家族後裔相關。",
+      "activity_regions": [
+        "拜朗",
+        "南大陸及後代活動區"
+      ],
+      "period_notes": "第四紀帝國與第五紀派系分期。"
+    },
+    {
+      "id": "sauron-family",
+      "name_zh": "索倫家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/puifur-sauron.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/vermonda-sauron.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/blanche-sauron.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elros-einhorn.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elaine.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "因蒂斯舊王族，有香檳支系與佛蒙達等先祖。第二部的紅天鵝堡、國王餅與地宮計畫，涉及普伊弗等後裔；布朗絲另有魔女教派身分。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾",
+        "紅天鵝堡"
+      ],
+      "period_notes": "第五紀政體變遷後仍有家族活動。"
+    },
+    {
+      "id": "einhorn-family",
+      "name_zh": "艾因霍恩家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elros-einhorn.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "弗薩克皇室家族。愛洛絲兼有艾因霍恩和索倫血統，她的返鄉與地宮經歷可用來連接兩家族。",
+      "activity_regions": [
+        "弗薩克",
+        "特里爾個案"
+      ],
+      "period_notes": "第一部至第二部可查；血統與效忠分開。"
+    },
+    {
+      "id": "tudor-family",
+      "name_zh": "圖鐸家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "血皇帝亞利斯塔·圖鐸相關的皇族。家族、圖鐸帝國與後來的第四紀特里爾遺跡屬不同層次的資料。",
+      "activity_regions": [
+        "第四紀圖鐸帝國與第五紀遺跡"
+      ],
+      "period_notes": "第四紀為主；第二部重現遺留影響。"
+    },
+    {
+      "id": "solomon-family",
+      "name_zh": "所羅門家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "trunsoest-family",
+      "name_zh": "特倫索斯特家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "tamara-family",
+      "name_zh": "塔瑪拉家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "moretti-family",
+      "name_zh": "莫雷蒂家庭",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "sanguines",
+      "name_zh": "血族",
+      "name_en": null,
+      "category": "species_community",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nibbs-odora.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/casimi-odora.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ernes-boyar.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "血族是跨地區族群，貝克蘭德可見卡西米、尼拜斯等家系及長老。埃姆林同時有血族出身、塔羅會代號與豐收教堂的活動。",
+      "activity_regions": [
+        "魯恩等多地"
+      ],
+      "period_notes": "第一部至第二部；族群和個別派系分開。"
+    },
+    {
+      "id": "city-of-silver",
+      "name_zh": "白銀城",
+      "name_en": null,
+      "category": "city_government",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "神棄之地的城邦。由六人議事團治理，探索隊開闢通往外界的路，巨人王庭事件後，居民在外界建立新白銀城。",
+      "activity_regions": [
+        "神棄之地；後續遷至羅思德群島"
+      ],
+      "period_notes": "舊城與新城分階段記錄。"
+    },
+    {
+      "id": "city-of-silver-council",
+      "name_zh": "白銀城六人議事團",
+      "name_en": null,
+      "category": "governing_body",
+      "parent_id": "city-of-silver",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/colin-iliad.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lovia-tiffany.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/waite-hillmon.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "白銀城的議事和領導機構。科林擔任首席時，洛薇雅等人是長老；其死後韋特接任首席，在新白銀城延續治理。",
+      "activity_regions": [
+        "白銀城",
+        "新白銀城"
+      ],
+      "period_notes": "第一部中後期可定位，第二部可查韋特續任。"
+    },
+    {
+      "id": "sava-gang",
+      "name_zh": "薩瓦黨",
+      "name_en": null,
+      "category": "local_group",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gardner-martin.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/baron-brignais.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/christo.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/simon-savoie.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "特里爾市場區的薩瓦黨。加德納領導幫派，布里涅爾、克里斯托與西蒙分別負責舞廳、走私等事；盧米安接管微風舞廳後取得本地據點。",
+      "activity_regions": [
+        "特里爾市場區"
+      ],
+      "period_notes": "第二部市場區事件。與鐵血十字會的關係集中在具名成員。"
+    },
+    {
+      "id": "tingen-divination-club",
+      "name_zh": "廷根占卜俱樂部",
+      "name_en": null,
+      "category": "local_group",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hanass-vincent.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "廷根本地占卜師與客人的社交場所。海納斯擔任導師，克萊恩也曾在此活動；會員和隱秘組織的重疊是個別人物的身分。",
+      "activity_regions": [
+        "廷根"
+      ],
+      "period_notes": "第一部廷根篇。"
+    },
+    {
+      "id": "fisheries-guild",
+      "name_zh": "漁業公會",
+      "name_en": null,
+      "category": "guild",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/juan-oro.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/latto-giaro.v1.json"
+        }
+      ],
+      "aliases": [
+        "桑塔港漁業公會"
+      ],
+      "detail_status": "research_draft",
+      "summary": "桑塔港漁業公會掌握祈海儀式相關資源。胡安、拉托的公會身分與他們競逐海之總督權柄的行動須分開。",
+      "activity_regions": [
+        "桑塔港",
+        "米洛村"
+      ],
+      "period_notes": "第二部祈海儀式前後。"
+    },
+    {
+      "id": "pirates",
+      "name_zh": "海盜群體（統稱）",
+      "name_en": null,
+      "category": "umbrella",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "loen-military",
+      "name_zh": "魯恩軍方",
+      "name_en": null,
+      "category": "military",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/amyrius-levitt.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alfred-hall.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "魯恩的軍方統稱，包含陸海軍與情報系統等不同編制。艾彌留斯與阿爾弗雷德分別涉及海軍、陸軍和不同戰區。",
+      "activity_regions": [
+        "魯恩",
+        "羅思德海域",
+        "東拜朗等地"
+      ],
+      "period_notes": "第一部戰前及戰時；具體指揮鏈按部門查。"
+    },
+    {
+      "id": "loen-police",
+      "name_zh": "魯恩警察機構（統稱）",
+      "name_en": null,
+      "category": "government",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "seed_only"
+    },
+    {
+      "id": "tarot-club-major-arcana",
+      "name_zh": "大阿卡那牌成員",
+      "name_en": null,
+      "category": "subgroup",
+      "parent_id": "tarot-club",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "塔羅會中使用大阿卡那稱號的成員。第二部的大牌與小阿卡那接觸各有方式；把角色參加的其他教會或組織另列。",
+      "activity_regions": [
+        "灰霧之上及個別任務地區"
+      ],
+      "period_notes": "第一部已有相關代號，第二部可定位大、小阿卡那分工。"
+    },
+    {
+      "id": "rose-school-temperance",
+      "name_zh": "玫瑰學派節制派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "rose-school-of-thought",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reinette-tinekerr.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/sharron.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maric.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "主張約束囚犯途徑的慾望。放縱派掌權後，蕾妮特、莎倫和馬里奇等人撤離或遭追捕；此後節制派曾和其他勢力合作對付原學派的追兵。",
+      "activity_regions": [
+        "南大陸",
+        "高地及貝克蘭德"
+      ],
+      "period_notes": "第五紀分裂後；後期合作關係按事件記錄。"
+    },
+    {
+      "id": "rose-school-indulgence",
+      "name_zh": "玫瑰學派放縱派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "rose-school-of-thought",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/suah.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/steve.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/senor.v1.json"
+        }
+      ],
+      "aliases": [
+        "玫瑰學派縱慾派"
+      ],
+      "detail_status": "research_draft",
+      "summary": "接受欲望母樹影響的玫瑰學派勢力。斯厄阿及相關成員追捕出走的節制派，也曾介入羅思德與南大陸的非凡衝突。",
+      "activity_regions": [
+        "南大陸",
+        "羅思德群島及貝克蘭德"
+      ],
+      "period_notes": "第一部有追捕行動；第二部仍見其祭儀。"
+    },
+    {
+      "id": "numinous-royalist",
+      "name_zh": "靈教團皇室派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reyaza.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maslow-tizamo.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "與艾格斯後裔及恢復拜朗統治的目標有關。第二部夢節中，雷亞薩與麥斯洛的行動牽涉皇室派。",
+      "activity_regions": [
+        "南大陸",
+        "西拜朗"
+      ],
+      "period_notes": "第二部蒂扎莫鎮夢節有明確線索。"
+    },
+    {
+      "id": "numinous-artificial-death",
+      "name_zh": "靈教團人造死神派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Artificial_Death"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "試圖使死神途徑唯一性具有人格的派別。貝克蘭德支系後來受黑夜女神的安排影響；須分清支系與整個靈教團。",
+      "activity_regions": [
+        "南大陸",
+        "貝克蘭德"
+      ],
+      "period_notes": "第五紀。第一部末期的控制關係需要時序。"
+    },
+    {
+      "id": "augustus-family",
+      "name_zh": "奧古斯都家族",
+      "name_en": null,
+      "category": "family",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        },
+        {
+          "kind": "repository_seed",
+          "reference": "lore/organizations/cross_category_seed_v0.1.json"
+        },
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/edessak-augustus.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "魯恩王室。喬治三世的黑皇帝儀式和埃德薩克在大霧霾前後的經歷，各涉及不同王室成員及知情層次。",
+      "activity_regions": [
+        "魯恩",
+        "貝克蘭德"
+      ],
+      "period_notes": "第一部的王位、軍情關係及王室密謀分期。"
+    },
+    {
+      "id": "intis-bureau-eight",
+      "name_zh": "因蒂斯第八局",
+      "name_en": null,
+      "category": "official",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://wuxiadreams.com/novel/lord-of-mysteries-2-circle-of-inevitability/chapter-80"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lia.v1.json"
+        }
+      ],
+      "aliases": [
+        "第八局"
+      ],
+      "detail_status": "research_draft",
+      "summary": "因蒂斯官方情報體系下的第八局。莉雅參與科爾杜聯合調查，後來在特里爾的據點擔任酒保；與淨化者有跨機構合作。",
+      "activity_regions": [
+        "因蒂斯",
+        "萊斯頓",
+        "特里爾"
+      ],
+      "period_notes": "第二部開篇即可定位調查活動。"
+    },
+    {
+      "id": "intis-inquisition",
+      "name_zh": "永恆烈陽宗教裁判所",
+      "name_en": null,
+      "category": "official",
+      "parent_id": "church-eternal-sun",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Imre"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "永恆烈陽教會的宗教裁判機構。淨化者屬於其執行力量；地方神甫、教區執事及第八局人員各有不同身分。",
+      "activity_regions": [
+        "因蒂斯",
+        "特里爾"
+      ],
+      "period_notes": "第二部明確可查。"
+    },
+    {
+      "id": "stinger-gang",
+      "name_zh": "毒刺幫",
+      "name_en": null,
+      "category": "local_group",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/roger-black-scorpion.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/haman-stinger.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/margot-stinger.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ait-iron-hammer.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "特里爾市場區的毒刺幫，由羅傑與哈曼建立並經營磨坊舞廳。月女士提供幕後支持；選舉前後幫中多名頭目遭狩獵。",
+      "activity_regions": [
+        "特里爾市場區",
+        "磨坊舞廳"
+      ],
+      "period_notes": "第二部市場區事件。"
+    },
+    {
+      "id": "port-pylos-patrol",
+      "name_zh": "派洛斯港巡查隊",
+      "name_en": null,
+      "category": "official",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reyaza.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/camus-castiya.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hiso-tupian.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kolobo.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "派洛斯港的官方巡查隊。雷亞薩任副隊長，加繆負責行動組；西索藉隊員身分掩護，連環殺人案和夢節揭開數名成員的其他關係。",
+      "activity_regions": [
+        "西拜朗馬塔尼邦",
+        "派洛斯港"
+      ],
+      "period_notes": "第二部南大陸篇。蒂扎莫鎮巡查隊另外建檔。"
+    },
+    {
+      "id": "tizamo-patrol",
+      "name_zh": "蒂扎莫鎮巡查隊",
+      "name_en": null,
+      "category": "official",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maslow-tizamo.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reya.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "蒂扎莫鎮的巡查隊，麥斯洛任隊長。夢節期間，鎮內人員與派洛斯港巡查隊及盧米安一方的行動相互交錯。",
+      "activity_regions": [
+        "蒂扎莫鎮"
+      ],
+      "period_notes": "第二部夢節篇。"
+    },
+    {
+      "id": "numinous-repose",
+      "name_zh": "靈教團安息派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate/List_of_Members"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "靈教團內較小的安息派。《宿命之環》夢節段落將它與皇室派、人造死神派、冥界派並列。",
+      "activity_regions": [
+        "南大陸為靈教團主要活動區"
+      ],
+      "period_notes": "第二部有派別名稱，成員與政策待核。"
+    },
+    {
+      "id": "numinous-underworld",
+      "name_zh": "靈教團冥界派",
+      "name_en": null,
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate/List_of_Members"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "靈教團的冥界派，與皇室派及人造死神派分開。夢節章節可回查四派的列舉。",
+      "activity_regions": [
+        "南大陸為靈教團主要活動區"
+      ],
+      "period_notes": "第二部有派別名稱，成員與政策待核。"
+    },
+    {
+      "id": "golden-dream-crew",
+      "name_zh": "黃金夢想號船隊",
+      "name_en": null,
+      "category": "pirate_crew",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/edwina-edwards.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/danitz.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "由冰山中將艾德雯娜指揮的船隊。達尼茲擔任船員，格爾曼的搭船及合作應按具體事件區分。",
+      "activity_regions": [
+        "蘇尼亞海等海域"
+      ],
+      "period_notes": "第一部旅行家篇。"
+    },
+    {
+      "id": "future-crew",
+      "name_zh": "未來號船隊",
+      "name_en": null,
+      "category": "pirate_crew",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/cattleya.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/frank-lee.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/heath-doyle.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nina-future.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "嘉德麗雅掌管的未來號船員，包含大副弗蘭克、二副希斯與水手長妮娜。第二部仍可追到船員活動。",
+      "activity_regions": [
+        "海上",
+        "狂暴海"
+      ],
+      "period_notes": "第一部至第二部。"
+    },
+    {
+      "id": "blood-pirates",
+      "name_zh": "血之海盜團",
+      "name_en": null,
+      "category": "pirate_crew",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/senor.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maveti.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "血之上將塞尼奧爾的海盜團。麥維提曾任二副，船團與放縱派的關聯須按個人身分記錄。",
+      "activity_regions": [
+        "羅思德群島及其周邊海域"
+      ],
+      "period_notes": "第一部旅行家篇。"
+    },
+    {
+      "id": "black-death-crew",
+      "name_zh": "黑死號船隊",
+      "name_en": null,
+      "category": "pirate_crew",
+      "parent_id": null,
+      "source_group": null,
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/o.html"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/tracy.v1.json"
+        },
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/misor-king.v1.json"
+        }
+      ],
+      "aliases": [],
+      "detail_status": "research_draft",
+      "summary": "疾病中將特雷茜的旗艦黑死號及其編制。米索爾任三副時帶冒充伊蓮的格爾曼登船；魔女教派是特雷茜的另一條隸屬關係。",
+      "activity_regions": [
+        "羅思德群島周邊海域"
+      ],
+      "period_notes": "第一部旅行家篇。"
+    }
+  ],
+  "organization_relations": [
+    {
+      "from_id": "sava-gang",
+      "to_id": "iron-and-blood-cross-order",
+      "type": "overlapping_leadership",
+      "note": "加德納兼具兩邊身分。",
+      "chapter_span": {
+        "book": "coi",
+        "start": 271,
+        "end": 493
+      },
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gardner-martin.v1.json"
+        }
+      ],
+      "review_status": "pending_user_review"
+    },
+    {
+      "from_id": "nightstalkers",
+      "to_id": "stinger-gang",
+      "type": "backing",
+      "note": "月女士向毒刺幫提供幕後支持。",
+      "chapter_span": {
+        "book": "coi",
+        "start": 195,
+        "end": 233
+      },
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lady-moon-nightwalk.v1.json"
+        }
+      ],
+      "review_status": "pending_user_review"
+    },
+    {
+      "from_id": "school-of-truth",
+      "to_id": "mirror-people",
+      "type": "cooperation",
+      "note": "佩爾樂與莫蘭等人的具體合作。",
+      "chapter_span": {
+        "book": "coi",
+        "start": 705,
+        "end": 732
+      },
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/perle.v1.json"
+        }
+      ],
+      "review_status": "pending_user_review"
+    },
+    {
+      "from_id": "rose-school-indulgence",
+      "to_id": "rose-school-temperance",
+      "type": "pursuit",
+      "note": "放縱派追捕離開的節制派成員。",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 244,
+        "end": 382
+      },
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maric.v1.json"
+        }
+      ],
+      "review_status": "pending_user_review"
+    },
+    {
+      "from_id": "intis-bureau-eight",
+      "to_id": "purifiers",
+      "type": "joint_investigation",
+      "note": "科爾杜聯合調查。",
+      "chapter_span": {
+        "book": "coi",
+        "start": 80,
+        "end": 109
+      },
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lia.v1.json"
+        }
+      ],
+      "review_status": "pending_user_review"
+    }
+  ]
+}

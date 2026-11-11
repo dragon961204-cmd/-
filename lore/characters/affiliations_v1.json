@@ -1,0 +1,6088 @@
+{
+  "schema_version": "1.0",
+  "scope": "具來源的跨作品人物－組織關係；年代與章節定位分欄。",
+  "counts": {
+    "organizations": 91,
+    "profiles": 78,
+    "seed_only": 13,
+    "affiliations": 239,
+    "researched": 165,
+    "chapter_located": 125,
+    "dated": 12,
+    "covered_characters": 183,
+    "covered_organizations": 67
+  },
+  "relations": {
+    "psychology-alchemists:audrey-hall:former": {
+      "character_id": "audrey-hall",
+      "organization_id": "psychology-alchemists",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "hall-family:audrey-hall:member": {
+      "character_id": "audrey-hall",
+      "organization_id": "hall-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "city-of-silver:derrick-berg:member": {
+      "character_id": "derrick-berg",
+      "organization_id": "city-of-silver",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "sanguines:emlyn-white:member": {
+      "character_id": "emlyn-white",
+      "organization_id": "sanguines",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "element-dawn:cattleya:former": {
+      "character_id": "cattleya",
+      "organization_id": "element-dawn",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Element_Dawn/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-of-thought:sharron:member": {
+      "character_id": "sharron",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-of-thought:maric:member": {
+      "character_id": "maric",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-of-thought:reinette-tinekerr:member": {
+      "character_id": "reinette-tinekerr",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-of-thought:suah:member": {
+      "character_id": "suah",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:jason-rose:member": {
+      "character_id": "jason-rose",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-of-thought:klarman:member": {
+      "character_id": "klarman",
+      "organization_id": "rose-school-of-thought",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:barranca:member": {
+      "character_id": "barranca",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:tirie:member": {
+      "character_id": "tirie",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:mahmosi:member": {
+      "character_id": "mahmosi",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:zatwen:member": {
+      "character_id": "zatwen",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:maveti:member": {
+      "character_id": "maveti",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-school-indulgence:tyre:member": {
+      "character_id": "tyre",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:daly-simone:member": {
+      "character_id": "daly-simone",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:crestet-cesimir:member": {
+      "character_id": "crestet-cesimir",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:aiur-harson:member": {
+      "character_id": "aiur-harson",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:orianna:civilian_staff": {
+      "character_id": "orianna",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "aurora-order:ouroboros:leader": {
+      "character_id": "ouroboros",
+      "organization_id": "aurora-order",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "aurora-order:mr-z:member": {
+      "character_id": "mr-z",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "aurora-order:kisma:member": {
+      "character_id": "kisma",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "aurora-order:leomaster:member": {
+      "character_id": "leomaster",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "aurora-order:sirius-arapis:member": {
+      "character_id": "sirius-arapis",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "gustav-family:bernadette-gustav:member": {
+      "character_id": "bernadette-gustav",
+      "organization_id": "gustav-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "psychology-alchemists:pauli-derlau:member": {
+      "character_id": "pauli-derlau",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "psychology-alchemists:hvin-rambis:former": {
+      "character_id": "hvin-rambis",
+      "organization_id": "psychology-alchemists",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "psychology-alchemists:anthony-reid:member": {
+      "character_id": "anthony-reid",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "psychology-alchemists:daxter-guderian:member": {
+      "character_id": "daxter-guderian",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "psychology-alchemists:escalante-oseleka:member": {
+      "character_id": "escalante-oseleka",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Psychology_Alchemists/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "demoness-sect:judith-demoness:member": {
+      "character_id": "judith-demoness",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "demoness-sect:tracy:member": {
+      "character_id": "tracy",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "demoness-sect:trissy:former": {
+      "character_id": "trissy",
+      "organization_id": "demoness-sect",
+      "relationship": "former",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Demoness_Sect/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "tarot-club:jenna:member": {
+      "character_id": "jenna",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "eggers-family:azik-eggers:member": {
+      "character_id": "azik-eggers",
+      "organization_id": "eggers-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "moretti-family:melissa-moretti:member": {
+      "character_id": "melissa-moretti",
+      "organization_id": "moretti-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "moretti-family:benson-moretti:member": {
+      "character_id": "benson-moretti",
+      "organization_id": "moretti-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "amon-family:amon:associated": {
+      "character_id": "amon",
+      "organization_id": "amon-family",
+      "relationship": "associated",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "gustav-family:roselle-gustav:member": {
+      "character_id": "roselle-gustav",
+      "organization_id": "gustav-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "zoroast-family:pallez-zoroast:member": {
+      "character_id": "pallez-zoroast",
+      "organization_id": "zoroast-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "secret-order:zaratul:member": {
+      "character_id": "zaratul",
+      "organization_id": "secret-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "zaratul-family:zaratul:member": {
+      "character_id": "zaratul",
+      "organization_id": "zaratul-family",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://www.lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:lorotta:member": {
+      "character_id": "lorotta",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:borgia:member": {
+      "character_id": "borgia",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:bredt:civilian_staff": {
+      "character_id": "bredt",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:cesare-francis:civilian_staff": {
+      "character_id": "cesare-francis",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:jasmine:civilian_staff": {
+      "character_id": "jasmine",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:adelaide:member": {
+      "character_id": "adelaide",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:dwayne-nighthawks:member": {
+      "character_id": "dwayne-nighthawks",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:hitte:member": {
+      "character_id": "hitte",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "nighthawks:grey-captain:member": {
+      "character_id": "grey-captain",
+      "organization_id": "nighthawks",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:davy-raymond:member": {
+      "character_id": "davy-raymond",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:cindy-redgloves:member": {
+      "character_id": "cindy-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:bob-redgloves:member": {
+      "character_id": "bob-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:albert-redgloves:member": {
+      "character_id": "albert-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "red-gloves:eric-redgloves:member": {
+      "character_id": "eric-redgloves",
+      "organization_id": "red-gloves",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "secret-order:tuxedo-clown:member": {
+      "character_id": "tuxedo-clown",
+      "organization_id": "secret-order",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks/List_of_Members"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "curly-haired-baboons-research-society:aurore-lee:member": {
+      "character_id": "aurore-lee",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "community_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurore_Lee"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "rose-redemption:medici:historical_member": {
+      "character_id": "medici",
+      "organization_id": "rose-redemption",
+      "relationship": "historical_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Medici"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-ancient-sun:medici:former_member": {
+      "character_id": "medici",
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Medici"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "city-of-silver:colin-iliad:leader": {
+      "character_id": "colin-iliad",
+      "organization_id": "city-of-silver",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Colin_Iliad"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "city-of-silver:lovia-tiffany:elder": {
+      "character_id": "lovia-tiffany",
+      "organization_id": "city-of-silver",
+      "relationship": "elder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Lovia_Tiffany"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-ancient-sun:nim:former_believer": {
+      "character_id": "nim",
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_believer",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nim"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-fool:nim:later_archbishop": {
+      "character_id": "nim",
+      "organization_id": "church-fool",
+      "relationship": "later_archbishop",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nim"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "abraham-family:bethel-abraham:ancestor": {
+      "character_id": "bethel-abraham",
+      "organization_id": "abraham-family",
+      "relationship": "ancestor",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Bethel_Abraham"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "antigonus-family:antigonus:founder": {
+      "character_id": "antigonus",
+      "organization_id": "antigonus-family",
+      "relationship": "founder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Antigonus"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-ancient-sun:sasrir:king_of_angels": {
+      "character_id": "sasrir",
+      "organization_id": "church-ancient-sun",
+      "relationship": "king_of_angels",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Sasrir"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "augustus-family:george-augustus-iii:family_member": {
+      "character_id": "george-augustus-iii",
+      "organization_id": "augustus-family",
+      "relationship": "family_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "twilight-hermit-order:george-augustus-iii:associated": {
+      "character_id": "george-augustus-iii",
+      "organization_id": "twilight-hermit-order",
+      "relationship": "associated",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/George_Augustus_III"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "hall-family:susie:household_companion": {
+      "character_id": "susie",
+      "organization_id": "hall-family",
+      "relationship": "household_companion",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Susie"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-earth-mother:frank-lee:former_affiliation": {
+      "character_id": "frank-lee",
+      "organization_id": "church-earth-mother",
+      "relationship": "former_affiliation",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Frank_Lee"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "abraham-family:dorian-gray-abraham:family_member": {
+      "character_id": "dorian-gray-abraham",
+      "organization_id": "abraham-family",
+      "relationship": "family_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_character_page",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Dorian_Gray_Abraham"
+        }
+      ],
+      "role_note": null,
+      "chapter_span": null,
+      "review_status": "seed_candidate"
+    },
+    "church-evernight:arianna:senior_clergy": {
+      "character_id": "arianna",
+      "organization_id": "church-evernight",
+      "relationship": "senior_clergy",
+      "role_note": "黑夜修道院院長及教會高階主教",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/arianna.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "church-evernight:anthony-stevenson:archbishop": {
+      "character_id": "anthony-stevenson",
+      "organization_id": "church-evernight",
+      "relationship": "archbishop",
+      "role_note": "貝克蘭德教區大主教",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 474,
+        "end": 1251
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/anthony-stevenson.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "church-evernight:bishop-elektra:bishop": {
+      "character_id": "bishop-elektra",
+      "organization_id": "church-evernight",
+      "relationship": "bishop",
+      "role_note": "聖賽繆爾教堂主教",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 750,
+        "end": 1082
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bishop-elektra.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "church-evernight:ince-zangwill:former_archbishop": {
+      "character_id": "ince-zangwill",
+      "organization_id": "church-evernight",
+      "relationship": "former_archbishop",
+      "role_note": "叛逃前曾任大主教，與叛逃後身分分開",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ince-zangwill.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:klein-moretti:investigator": {
+      "character_id": "klein-moretti",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "以黑荊棘安保公司為掩護的廷根小隊成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 19,
+        "end": 213
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:dunn-smith:captain": {
+      "character_id": "dunn-smith",
+      "organization_id": "nighthawks",
+      "relationship": "captain",
+      "role_note": "廷根值夜者小隊隊長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 19,
+        "end": 213
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/dunn-smith.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:leonard-mitchell:investigator": {
+      "character_id": "leonard-mitchell",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "先在廷根小隊服勤，後調入紅手套",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/leonard-mitchell.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:old-neil:investigator": {
+      "character_id": "old-neil",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "廷根小隊，指導儀式與神秘學",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/old-neil.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:kenley-white:investigator": {
+      "character_id": "kenley-white",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "由文職轉入值夜者，圍捕雪倫夫人時殉職",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 45,
+        "end": 204
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kenley-white.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:frye:investigator": {
+      "character_id": "frye",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "廷根小隊成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/frye.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:royale-reideen:investigator": {
+      "character_id": "royale-reideen",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "洛耀，廷根小隊成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 42,
+        "end": 205
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/royale-reideen.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:seeka-tron:investigator": {
+      "character_id": "seeka-tron",
+      "organization_id": "nighthawks",
+      "relationship": "investigator",
+      "role_note": "西迦·特昂，廷根小隊成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/seeka-tron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "nighthawks:rozanne:civilian_staff": {
+      "character_id": "rozanne",
+      "organization_id": "nighthawks",
+      "relationship": "civilian_staff",
+      "role_note": "黑荊棘安保公司文職",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/rozanne.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "red-gloves:soest:squad_leader": {
+      "character_id": "soest",
+      "organization_id": "red-gloves",
+      "relationship": "squad_leader",
+      "role_note": "紅手套小隊隊長，倫納德曾在其隊中",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 402,
+        "end": 1099
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/soest.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "red-gloves:leonard-mitchell:investigator": {
+      "character_id": "leonard-mitchell",
+      "organization_id": "red-gloves",
+      "relationship": "investigator",
+      "role_note": "由廷根值夜者轉入紅手套，後受聖安東尼抽調",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/leonard-mitchell.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "red-gloves:daly-simone:assigned_support": {
+      "character_id": "daly-simone",
+      "organization_id": "red-gloves",
+      "relationship": "assigned_support",
+      "role_note": "受指派協助紅手套追查靈教團",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 776,
+        "end": 852
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/daly-simone.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nighthawks"
+        }
+      ]
+    },
+    "church-storms:alger-wilson:clergy": {
+      "character_id": "alger-wilson",
+      "organization_id": "church-storms",
+      "relationship": "clergy",
+      "role_note": "風暴教會神職，第一部末期轉任海神教會教宗",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1248,
+        "end": 1361
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alger-wilson.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Church_of_the_Lord_of_Storms"
+        }
+      ]
+    },
+    "church-storms:jahn-kottman:archbishop": {
+      "character_id": "jahn-kottman",
+      "organization_id": "church-storms",
+      "relationship": "archbishop",
+      "role_note": "羅思德海域大主教兼教會樞機",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 544,
+        "end": 1248
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jahn-kottman.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Church_of_the_Lord_of_Storms"
+        }
+      ]
+    },
+    "mandated-punishers:jahn-kottman:senior_deacon": {
+      "character_id": "jahn-kottman",
+      "organization_id": "mandated-punishers",
+      "relationship": "senior_deacon",
+      "role_note": "海王兼代罰者高階執事",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 544,
+        "end": 729
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jahn-kottman.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Church_of_the_Lord_of_Storms"
+        }
+      ]
+    },
+    "church-steam:horamick-haydn:archbishop": {
+      "character_id": "horamick-haydn",
+      "organization_id": "church-steam",
+      "relationship": "archbishop",
+      "role_note": "第一部負責貝克蘭德教區",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 319,
+        "end": 1202
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/horamick-haydn.v1.json"
+        }
+      ]
+    },
+    "church-steam:horamick-haydn:church_official": {
+      "character_id": "horamick-haydn",
+      "organization_id": "church-steam",
+      "relationship": "church_official",
+      "role_note": "第二部回到因蒂斯總部，參與追討克洛德",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 460,
+        "end": 490
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/horamick-haydn.v1.json"
+        }
+      ]
+    },
+    "machinery-hivemind:ikanser-bernard:deacon": {
+      "character_id": "ikanser-bernard",
+      "organization_id": "machinery-hivemind",
+      "relationship": "deacon",
+      "role_note": "貝克蘭德機械之心執事，曾用阿羅德斯協助辦案",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 351,
+        "end": 1275
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ikanser-bernard.v1.json"
+        }
+      ]
+    },
+    "church-eternal-sun:guillaume-benet:parish_priest": {
+      "character_id": "guillaume-benet",
+      "organization_id": "church-eternal-sun",
+      "relationship": "parish_priest",
+      "role_note": "科爾杜本堂神甫；私下轉向宿命信仰",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 8,
+        "end": 109
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guillaume-benet.v1.json"
+        }
+      ]
+    },
+    "church-eternal-sun:michel-garrigou:assistant_parish_priest": {
+      "character_id": "michel-garrigou",
+      "organization_id": "church-eternal-sun",
+      "relationship": "assistant_parish_priest",
+      "role_note": "科爾杜副本堂神甫",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 44,
+        "end": 108
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/michel-garrigou.v1.json"
+        }
+      ]
+    },
+    "church-eternal-sun:father-cali:parish_priest": {
+      "character_id": "father-cali",
+      "organization_id": "church-eternal-sun",
+      "relationship": "parish_priest",
+      "role_note": "蒂扎莫鎮聖西恩教堂本堂神甫",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 671,
+        "end": 699
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/father-cali.v1.json"
+        }
+      ]
+    },
+    "purifiers:angouleme:squad_leader": {
+      "character_id": "angouleme",
+      "organization_id": "purifiers",
+      "relationship": "squad_leader",
+      "role_note": "特里爾機動小隊隊長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 505,
+        "end": 724
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/angouleme.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Imre"
+        }
+      ]
+    },
+    "purifiers:valentine:investigator": {
+      "character_id": "valentine",
+      "organization_id": "purifiers",
+      "relationship": "investigator",
+      "role_note": "淨化者，在科爾杜參與聯合調查，後調特里爾",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 67,
+        "end": 261
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/valentine.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Imre"
+        }
+      ]
+    },
+    "purifiers:imre:investigator": {
+      "character_id": "imre",
+      "organization_id": "purifiers",
+      "relationship": "investigator",
+      "role_note": "與昂古萊姆、瓦倫泰同隊辦案",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 248,
+        "end": 504
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/imre.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Imre"
+        }
+      ]
+    },
+    "church-earth-mother:utralavsky:bishop": {
+      "character_id": "utralavsky",
+      "organization_id": "church-earth-mother",
+      "relationship": "bishop",
+      "role_note": "貝克蘭德豐收教堂主教",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 302,
+        "end": 1129
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/utralavsky.v1.json"
+        }
+      ]
+    },
+    "church-earth-mother:father-montserrat:priest": {
+      "character_id": "father-montserrat",
+      "organization_id": "church-earth-mother",
+      "relationship": "priest",
+      "role_note": "船上祈禱室神父；後背離教會",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 604,
+        "end": 612
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/father-montserrat.v1.json"
+        }
+      ]
+    },
+    "church-knowledge:herabergen:deity": {
+      "character_id": "herabergen",
+      "organization_id": "church-knowledge",
+      "relationship": "deity",
+      "role_note": "教會信仰核心；另以赫拉貝格身分在摩羅拉活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 793,
+        "end": 1128
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/herabergen.v1.json"
+        }
+      ]
+    },
+    "church-fool:klein-moretti:deity": {
+      "character_id": "klein-moretti",
+      "organization_id": "church-fool",
+      "relationship": "deity",
+      "role_note": "教會信奉的愚者",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        }
+      ]
+    },
+    "church-fool:danitz:oracle": {
+      "character_id": "danitz",
+      "organization_id": "church-fool",
+      "relationship": "oracle",
+      "role_note": "以神使身分向阿爾傑傳達任命",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1361,
+        "end": 1393
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/danitz.v1.json"
+        }
+      ]
+    },
+    "church-sea-god:alger-wilson:pontiff": {
+      "character_id": "alger-wilson",
+      "organization_id": "church-sea-god",
+      "relationship": "pontiff",
+      "role_note": "受命任海神教會教宗",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1361,
+        "end": 1361
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alger-wilson.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://www.pyg-kit.com/en/books/lord-of-the-mysteries-2/chapters/79617"
+        }
+      ]
+    },
+    "church-sea-god:kalat:religious_official": {
+      "character_id": "kalat",
+      "organization_id": "church-sea-god",
+      "relationship": "religious_official",
+      "role_note": "羅思德反抗軍領袖兼海神教會高層",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 538,
+        "end": 603
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kalat.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://www.pyg-kit.com/en/books/lord-of-the-mysteries-2/chapters/79617"
+        }
+      ]
+    },
+    "mi9:qunas-kilgor:deputy_director": {
+      "character_id": "qunas-kilgor",
+      "organization_id": "mi9",
+      "relationship": "deputy_director",
+      "role_note": "軍情九處副處長；其後被克萊恩製成祕偶",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 943,
+        "end": 1150
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/qunas-kilgor.v1.json"
+        }
+      ]
+    },
+    "mi9:wendel:officer": {
+      "character_id": "wendel",
+      "organization_id": "mi9",
+      "relationship": "officer",
+      "role_note": "內務行動部；押送烏托邦報告",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1330,
+        "end": 1354
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/wendel.v1.json"
+        }
+      ]
+    },
+    "intis-bureau-eight:lia:investigator": {
+      "character_id": "lia",
+      "organization_id": "intis-bureau-eight",
+      "relationship": "investigator",
+      "role_note": "萊斯頓省分局調查員，後在特里爾據點任酒保",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 6,
+        "end": 381
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lia.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://wuxiadreams.com/novel/lord-of-mysteries-2-circle-of-inevitability/chapter-80"
+        }
+      ]
+    },
+    "city-of-silver-council:colin-iliad:chief": {
+      "character_id": "colin-iliad",
+      "organization_id": "city-of-silver-council",
+      "relationship": "chief",
+      "role_note": "舊白銀城首席",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/colin-iliad.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        }
+      ]
+    },
+    "city-of-silver-council:lovia-tiffany:elder": {
+      "character_id": "lovia-tiffany",
+      "organization_id": "city-of-silver-council",
+      "relationship": "elder",
+      "role_note": "議事團長老，參與巨人王庭探索",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1039,
+        "end": 1262
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lovia-tiffany.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        }
+      ]
+    },
+    "city-of-silver-council:waite-hillmon:elder": {
+      "character_id": "waite-hillmon",
+      "organization_id": "city-of-silver-council",
+      "relationship": "elder",
+      "role_note": "早期議事團長老",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 899,
+        "end": 1266
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/waite-hillmon.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        }
+      ]
+    },
+    "city-of-silver-council:waite-hillmon:chief": {
+      "character_id": "waite-hillmon",
+      "organization_id": "city-of-silver-council",
+      "relationship": "chief",
+      "role_note": "科林死後接任，後任新白銀城首席",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1267,
+        "end": 1350
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/waite-hillmon.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/City_of_Silver"
+        }
+      ]
+    },
+    "rose-school-temperance:reinette-tinekerr:leader": {
+      "character_id": "reinette-tinekerr",
+      "organization_id": "rose-school-temperance",
+      "relationship": "leader",
+      "role_note": "節制派領袖，後仍與出走成員合作",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reinette-tinekerr.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "rose-school-temperance:sharron:member": {
+      "character_id": "sharron",
+      "organization_id": "rose-school-temperance",
+      "relationship": "member",
+      "role_note": "出走後受放縱派追捕",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/sharron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "rose-school-temperance:maric:member": {
+      "character_id": "maric",
+      "organization_id": "rose-school-temperance",
+      "relationship": "member",
+      "role_note": "出走後仍以節制派成員活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 244,
+        "end": 382
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maric.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "rose-school-indulgence:suah:leader": {
+      "character_id": "suah",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "leader",
+      "role_note": "神孽斯厄阿，放縱派高位人物",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 876,
+        "end": 1266
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/suah.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "rose-school-indulgence:steve:pursuer": {
+      "character_id": "steve",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "pursuer",
+      "role_note": "與傑森、泰爾追捕莎倫及馬里奇",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 329,
+        "end": 350
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/steve.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "rose-school-indulgence:senor:member": {
+      "character_id": "senor",
+      "organization_id": "rose-school-indulgence",
+      "relationship": "member",
+      "role_note": "血之上將，與放縱派相關；被製為祕偶後另記",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 498,
+        "end": 728
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/senor.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Rose_School_of_Thought"
+        }
+      ]
+    },
+    "numinous-royalist:reyaza:operative": {
+      "character_id": "reyaza",
+      "organization_id": "numinous-royalist",
+      "relationship": "operative",
+      "role_note": "夢節行動受皇室派高層交辦",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 662,
+        "end": 699
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reyaza.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        }
+      ]
+    },
+    "numinous-royalist:maslow-tizamo:member": {
+      "character_id": "maslow-tizamo",
+      "organization_id": "numinous-royalist",
+      "relationship": "member",
+      "role_note": "夢節中自述與雷亞薩同屬皇室派",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 694,
+        "end": 697
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maslow-tizamo.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Numinous_Episcopate"
+        }
+      ]
+    },
+    "aurora-order:mr-a:envoy": {
+      "character_id": "mr-a",
+      "organization_id": "aurora-order",
+      "relationship": "envoy",
+      "role_note": "貝克蘭德的A先生",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 130,
+        "end": 479
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-a.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:mr-x:envoy": {
+      "character_id": "mr-x",
+      "organization_id": "aurora-order",
+      "relationship": "envoy",
+      "role_note": "路易斯·維恩，後被格爾曼擊殺",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 763,
+        "end": 909
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-x.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:mr-k:envoy": {
+      "character_id": "mr-k",
+      "organization_id": "aurora-order",
+      "relationship": "envoy",
+      "role_note": "在特里爾招募盧米安",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 144,
+        "end": 232
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/mr-k.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:botis:saint": {
+      "character_id": "botis",
+      "organization_id": "aurora-order",
+      "relationship": "saint",
+      "role_note": "秘之聖者，出身亞伯拉罕一方後叛離",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1077,
+        "end": 1207
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/botis.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:lumian-lee:member": {
+      "character_id": "lumian-lee",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "role_note": "在K先生引介下正式加入",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 229,
+        "end": 232
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:lumian-lee:envoy_candidate": {
+      "character_id": "lumian-lee",
+      "organization_id": "aurora-order",
+      "relationship": "envoy_candidate",
+      "role_note": "由K先生推舉為預備神使",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 738,
+        "end": 758
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "aurora-order:hanass-vincent:member": {
+      "character_id": "hanass-vincent",
+      "organization_id": "aurora-order",
+      "relationship": "member",
+      "role_note": "廷根占卜師，以俱樂部活動為公開身分",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 38,
+        "end": 210
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hanass-vincent.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Aurora_Order/List_of_Members"
+        }
+      ]
+    },
+    "demoness-sect:clarice:senior_member": {
+      "character_id": "clarice",
+      "organization_id": "demoness-sect",
+      "relationship": "senior_member",
+      "role_note": "黑之魔女，特里爾教派成員的上級",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 454,
+        "end": 1110
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/clarice.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "demoness-sect:blanche-sauron:liaison": {
+      "character_id": "blanche-sauron",
+      "organization_id": "demoness-sect",
+      "relationship": "liaison",
+      "role_note": "克拉麗絲的學生、芙蘭卡的聯絡員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 400,
+        "end": 1041
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/blanche-sauron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "demoness-sect:franca-roland:member": {
+      "character_id": "franca-roland",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "role_note": "經布朗絲考核後正式入會，此條只記入會時段",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 422,
+        "end": 453
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/franca-roland.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "demoness-sect:madam-sharon:member": {
+      "character_id": "madam-sharon",
+      "organization_id": "demoness-sect",
+      "relationship": "member",
+      "role_note": "在廷根以男爵遺孀身分活動的歡愉魔女",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 174,
+        "end": 210
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/madam-sharon.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "demoness-sect:panatiya:representative": {
+      "character_id": "panatiya",
+      "organization_id": "demoness-sect",
+      "relationship": "representative",
+      "role_note": "第一部貝克蘭德教派代表",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/panatiya.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "demoness-sect:katarina-pelle:senior_member": {
+      "character_id": "katarina-pelle",
+      "organization_id": "demoness-sect",
+      "relationship": "senior_member",
+      "role_note": "白之聖女，在第一部曾追捕特莉絲",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/katarina-pelle.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "twilight-hermit-order:adam:founder": {
+      "character_id": "adam",
+      "organization_id": "twilight-hermit-order",
+      "relationship": "founder",
+      "role_note": "建立並領導黃昏隱士會",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/adam.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Twilight_Hermit_Order"
+        }
+      ]
+    },
+    "rose-redemption:sasrir:organizer": {
+      "character_id": "sasrir",
+      "organization_id": "rose-redemption",
+      "relationship": "organizer",
+      "role_note": "第三紀聯盟的召集者之一",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/sasrir.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        }
+      ]
+    },
+    "rose-redemption:evernight-goddess:organizer": {
+      "character_id": "evernight-goddess",
+      "organization_id": "rose-redemption",
+      "relationship": "organizer",
+      "role_note": "第三紀聯盟的召集者之一",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/evernight-goddess.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        }
+      ]
+    },
+    "rose-redemption:badheil:member": {
+      "character_id": "badheil",
+      "organization_id": "rose-redemption",
+      "relationship": "member",
+      "role_note": "巨人王庭的歷史線索揭露其參與",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1068,
+        "end": 1130
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/badheil.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        }
+      ]
+    },
+    "psychology-alchemists:islant:recruiter": {
+      "character_id": "islant",
+      "organization_id": "psychology-alchemists",
+      "relationship": "recruiter",
+      "role_note": "透過心理學課程及研討會接觸奧黛麗",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 343,
+        "end": 450
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/islant.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "psychology-alchemists:hermes:senior_member": {
+      "character_id": "hermes",
+      "organization_id": "psychology-alchemists",
+      "relationship": "senior_member",
+      "role_note": "以暴怒先生身分活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1319,
+        "end": 1390
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hermes.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "psychology-alchemists:hood-eugen:member": {
+      "character_id": "hood-eugen",
+      "organization_id": "psychology-alchemists",
+      "relationship": "member",
+      "role_note": "廷根精神病院及蘭爾烏斯案件線索",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 117,
+        "end": 210
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hood-eugen.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "moses-ascetic-order:nikila:member": {
+      "character_id": "nikila",
+      "organization_id": "moses-ascetic-order",
+      "relationship": "member",
+      "role_note": "潛伏特里爾的鏡中人亦有苦修會身分",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 814,
+        "end": 822
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nikila.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "life-school-of-thought:enzo:former_member": {
+      "character_id": "enzo",
+      "organization_id": "life-school-of-thought",
+      "relationship": "former_member",
+      "role_note": "被克萊恩製成祕偶前已叛離",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 908,
+        "end": 975
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/enzo.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "life-school-of-thought:darkwill:affiliated": {
+      "character_id": "darkwill",
+      "organization_id": "life-school-of-thought",
+      "relationship": "affiliated",
+      "role_note": "循師門交接概率之骰，求助生命學派",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 585,
+        "end": 612
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/darkwill.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "abraham-family:verdu-abraham:family_member": {
+      "character_id": "verdu-abraham",
+      "organization_id": "abraham-family",
+      "relationship": "family_member",
+      "role_note": "曾以加西亞之名尋求伯特利回歸",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1311,
+        "end": 1349
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/verdu-abraham.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "abraham-family:fors-wall:disciple": {
+      "character_id": "fors-wall",
+      "organization_id": "abraham-family",
+      "relationship": "disciple",
+      "role_note": "多里安的學生，與血緣關係分開",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/fors-wall.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "abraham-family:botis:former_disciple": {
+      "character_id": "botis",
+      "organization_id": "abraham-family",
+      "relationship": "former_disciple",
+      "role_note": "曾受家族栽培，後投極光會",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/botis.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "sauron-family:puifur-sauron:family_member": {
+      "character_id": "puifur-sauron",
+      "organization_id": "sauron-family",
+      "relationship": "family_member",
+      "role_note": "紅天鵝堡、國王餅及先祖復甦事件",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 339,
+        "end": 475
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/puifur-sauron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "sauron-family:vermonda-sauron:ancestor": {
+      "character_id": "vermonda-sauron",
+      "organization_id": "sauron-family",
+      "relationship": "ancestor",
+      "role_note": "序列1征服者，封於紅天鵝堡地宮",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 341,
+        "end": 492
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/vermonda-sauron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "sauron-family:blanche-sauron:family_member": {
+      "character_id": "blanche-sauron",
+      "organization_id": "sauron-family",
+      "relationship": "family_member",
+      "role_note": "索倫家出身，另有教派職務",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 400,
+        "end": 1041
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/blanche-sauron.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "sauron-family:elros-einhorn:maternal_descendant": {
+      "character_id": "elros-einhorn",
+      "organization_id": "sauron-family",
+      "relationship": "maternal_descendant",
+      "role_note": "母系為索倫家族",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 368,
+        "end": 430
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elros-einhorn.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "sauron-family:elaine:family_member": {
+      "character_id": "elaine",
+      "organization_id": "sauron-family",
+      "relationship": "family_member",
+      "role_note": "紅髮伊蓮，索倫家族成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 572,
+        "end": 602
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elaine.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "einhorn-family:elros-einhorn:family_member": {
+      "character_id": "elros-einhorn",
+      "organization_id": "einhorn-family",
+      "relationship": "family_member",
+      "role_note": "父系屬艾因霍恩家族",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 368,
+        "end": 430
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/elros-einhorn.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "hall-family:hibbert-hall:family_member": {
+      "character_id": "hibbert-hall",
+      "organization_id": "hall-family",
+      "relationship": "family_member",
+      "role_note": "霍爾長子，後任內閣秘書",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 309,
+        "end": 1341
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hibbert-hall.v1.json"
+        }
+      ]
+    },
+    "hall-family:alfred-hall:family_member": {
+      "character_id": "alfred-hall",
+      "organization_id": "hall-family",
+      "relationship": "family_member",
+      "role_note": "霍爾次子，曾在東拜朗服役",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 238,
+        "end": 1360
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alfred-hall.v1.json"
+        }
+      ]
+    },
+    "augustus-family:edessak-augustus:royal_family_member": {
+      "character_id": "edessak-augustus",
+      "organization_id": "augustus-family",
+      "relationship": "royal_family_member",
+      "role_note": "埃德薩克王子，死因有多方敘述",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 439,
+        "end": 868
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/edessak-augustus.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Abraham_Family"
+        }
+      ]
+    },
+    "curly-haired-baboons-research-society:gandalf:president": {
+      "character_id": "gandalf",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "president",
+      "role_note": "研究會會長，審查委員會成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 211,
+        "end": 412
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gandalf.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "curly-haired-baboons-research-society:hela:vice_president": {
+      "character_id": "hela",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "vice_president",
+      "role_note": "研究會副會長，審查委員會成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 392,
+        "end": 412
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hela.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "curly-haired-baboons-research-society:professor-baboon:member": {
+      "character_id": "professor-baboon",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "role_note": "學院小組的巫師代表",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 376,
+        "end": 867
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/professor-baboon.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "curly-haired-baboons-research-society:franca-roland:member": {
+      "character_id": "franca-roland",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "role_note": "代號袖劍；加入審查委員會",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 392,
+        "end": 412
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/franca-roland.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "curly-haired-baboons-research-society:angouleme:member": {
+      "character_id": "angouleme",
+      "organization_id": "curly-haired-baboons-research-society",
+      "relationship": "member",
+      "role_note": "研究會代號007；另有淨化者身分",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/angouleme.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "april-fools:hiso-tupian:core_member": {
+      "character_id": "hiso-tupian",
+      "organization_id": "april-fools",
+      "relationship": "core_member",
+      "role_note": "西索，亦在派洛斯港巡查隊活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 383,
+        "end": 691
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hiso-tupian.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "april-fools:latto-giaro:core_member": {
+      "character_id": "latto-giaro",
+      "organization_id": "april-fools",
+      "relationship": "core_member",
+      "role_note": "鹹蛋超人，參與桑塔港行動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 396,
+        "end": 589
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/latto-giaro.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "april-fools:bard-april-fools:core_member": {
+      "character_id": "bard-april-fools",
+      "organization_id": "april-fools",
+      "relationship": "core_member",
+      "role_note": "吟遊詩人，參與祈海騙局",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 377,
+        "end": 595
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bard-april-fools.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "april-fools:madwoman-april-fools:core_member": {
+      "character_id": "madwoman-april-fools",
+      "organization_id": "april-fools",
+      "relationship": "core_member",
+      "role_note": "瘋女，參與桑塔港行動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 396,
+        "end": 594
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/madwoman-april-fools.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "april-fools:i-have-a-friend:core_member": {
+      "character_id": "i-have-a-friend",
+      "organization_id": "april-fools",
+      "relationship": "core_member",
+      "role_note": "以心理醫師身分接觸奧蘿爾",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 378,
+        "end": 436
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/i-have-a-friend.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Curly-Haired_Baboons_Research_Society"
+        }
+      ]
+    },
+    "sinners:voisin-sanson:leader": {
+      "character_id": "voisin-sanson",
+      "organization_id": "sinners",
+      "relationship": "leader",
+      "role_note": "以桑松一家發展聯絡網",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 343,
+        "end": 496
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/voisin-sanson.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "sinners:bouvar-pomperro:liaison": {
+      "character_id": "bouvar-pomperro",
+      "organization_id": "sinners",
+      "relationship": "liaison",
+      "role_note": "紀堯姆指認的組織聯絡人",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 332,
+        "end": 453
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bouvar-pomperro.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "sinners:guillaume-benet:archbishop": {
+      "character_id": "guillaume-benet",
+      "organization_id": "sinners",
+      "relationship": "archbishop",
+      "role_note": "科爾杜儀式後逃至特里爾，以罪人組織的大主教身分活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 120,
+        "end": 331
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guillaume-benet.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "bliss-society:susanna-matisse:high_priestess": {
+      "character_id": "susanna-matisse",
+      "organization_id": "bliss-society",
+      "relationship": "high_priestess",
+      "role_note": "死後以墮落樹精活動，籌備暗影之樹獻祭",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 141,
+        "end": 276
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/susanna-matisse.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "bliss-society:charlotte-calvino:core_member": {
+      "character_id": "charlotte-calvino",
+      "organization_id": "bliss-society",
+      "relationship": "core_member",
+      "role_note": "老鴿籠劇場女演員，知悉暗影之樹計畫",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 156,
+        "end": 262
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/charlotte-calvino.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "bliss-society:maip-maier:core_member": {
+      "character_id": "maip-maier",
+      "organization_id": "bliss-society",
+      "relationship": "core_member",
+      "role_note": "老鴿籠劇場經理，蘇珊娜的親信",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 156,
+        "end": 475
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maip-maier.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "bliss-society:lentas:operative": {
+      "character_id": "lentas",
+      "organization_id": "bliss-society",
+      "relationship": "operative",
+      "role_note": "冒充埃夫與夏爾，誘走查理",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 113,
+        "end": 420
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lentas.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "school-of-truth:perle:overseer": {
+      "character_id": "perle",
+      "organization_id": "school-of-truth",
+      "relationship": "overseer",
+      "role_note": "監督者、漩渦計畫發起人之一",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 705,
+        "end": 884
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/perle.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "school-of-truth:jebus:operative": {
+      "character_id": "jebus",
+      "organization_id": "school-of-truth",
+      "relationship": "operative",
+      "role_note": "直屬佩爾樂，奉命看守莫蘭書房的鏡子",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 712,
+        "end": 724
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/jebus.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "nightstalkers:lady-moon-nightwalk:member": {
+      "character_id": "lady-moon-nightwalk",
+      "organization_id": "nightstalkers",
+      "relationship": "member",
+      "role_note": "信奉偉大母親，為毒刺幫提供幕後支持",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 195,
+        "end": 484
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lady-moon-nightwalk.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "iron-and-blood-cross-order:gardner-martin:officer": {
+      "character_id": "gardner-martin",
+      "organization_id": "iron-and-blood-cross-order",
+      "relationship": "officer",
+      "role_note": "主持盧米安入會，在特里爾布置旅舍儀式",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 271,
+        "end": 493
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gardner-martin.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "iron-and-blood-cross-order:lumian-lee:member": {
+      "character_id": "lumian-lee",
+      "organization_id": "iron-and-blood-cross-order",
+      "relationship": "member",
+      "role_note": "通過市場大道13號考驗後加入",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 279,
+        "end": 286
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "iron-and-blood-cross-order:olson:overseer": {
+      "character_id": "olson",
+      "organization_id": "iron-and-blood-cross-order",
+      "relationship": "overseer",
+      "role_note": "特里爾市場區督導",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 271,
+        "end": 491
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/olson.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "iron-and-blood-cross-order:albus-medici:former_member": {
+      "character_id": "albus-medici",
+      "organization_id": "iron-and-blood-cross-order",
+      "relationship": "former_member",
+      "role_note": "曾同加德納行動；離開後在摩羅拉仍合作",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 283,
+        "end": 840
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/albus-medici.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "iron-and-blood-cross-order:gusin:operative": {
+      "character_id": "gusin",
+      "organization_id": "iron-and-blood-cross-order",
+      "relationship": "operative",
+      "role_note": "混入摩羅拉的鐵血十字會成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 798,
+        "end": 837
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gusin.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "mirror-people:moran-avigny:member": {
+      "character_id": "moran-avigny",
+      "organization_id": "mirror-people",
+      "relationship": "member",
+      "role_note": "以工業部長身分活動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 632,
+        "end": 739
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/moran-avigny.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "mirror-people:nikila:member": {
+      "character_id": "nikila",
+      "organization_id": "mirror-people",
+      "relationship": "member",
+      "role_note": "鏡中人身分在鏡後交鋒中確認",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 814,
+        "end": 822
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nikila.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "mirror-people:guy-morora:member": {
+      "character_id": "guy-morora",
+      "organization_id": "mirror-people",
+      "relationship": "member",
+      "role_note": "以重刑犯身分進入摩羅拉的鏡中人",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 792,
+        "end": 837
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/guy-morora.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "sava-gang:gardner-martin:leader": {
+      "character_id": "gardner-martin",
+      "organization_id": "sava-gang",
+      "relationship": "leader",
+      "role_note": "薩瓦黨首領",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 174,
+        "end": 493
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/gardner-martin.v1.json"
+        }
+      ]
+    },
+    "sava-gang:baron-brignais:officer": {
+      "character_id": "baron-brignais",
+      "organization_id": "sava-gang",
+      "relationship": "officer",
+      "role_note": "曾管理微風舞廳",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 122,
+        "end": 196
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/baron-brignais.v1.json"
+        }
+      ]
+    },
+    "sava-gang:christo:smuggling_officer": {
+      "character_id": "christo",
+      "organization_id": "sava-gang",
+      "relationship": "smuggling_officer",
+      "role_note": "負責走私，薩瓦黨出事後逃走",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 185,
+        "end": 505
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/christo.v1.json"
+        }
+      ]
+    },
+    "sava-gang:simon-savoie:officer": {
+      "character_id": "simon-savoie",
+      "organization_id": "sava-gang",
+      "relationship": "officer",
+      "role_note": "管理夜鶯街舞廳和酒吧，後被捕",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 156,
+        "end": 505
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/simon-savoie.v1.json"
+        }
+      ]
+    },
+    "sava-gang:lumian-lee:venue_manager": {
+      "character_id": "lumian-lee",
+      "organization_id": "sava-gang",
+      "relationship": "venue_manager",
+      "role_note": "接手微風舞廳",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 174,
+        "end": 234
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lumian-lee.v1.json"
+        }
+      ]
+    },
+    "sava-gang:sakota:staff": {
+      "character_id": "sakota",
+      "organization_id": "sava-gang",
+      "relationship": "staff",
+      "role_note": "轉到盧米安手下留在微風舞廳",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 174,
+        "end": 413
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/sakota.v1.json"
+        }
+      ]
+    },
+    "stinger-gang:roger-black-scorpion:cofounder": {
+      "character_id": "roger-black-scorpion",
+      "organization_id": "stinger-gang",
+      "relationship": "cofounder",
+      "role_note": "創立毒刺幫，於總部遭突襲身亡",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 132,
+        "end": 230
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/roger-black-scorpion.v1.json"
+        }
+      ]
+    },
+    "stinger-gang:haman-stinger:cofounder": {
+      "character_id": "haman-stinger",
+      "organization_id": "stinger-gang",
+      "relationship": "cofounder",
+      "role_note": "與羅傑創立毒刺幫，任副手",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 164,
+        "end": 230
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/haman-stinger.v1.json"
+        }
+      ]
+    },
+    "stinger-gang:margot-stinger:officer": {
+      "character_id": "margot-stinger",
+      "organization_id": "stinger-gang",
+      "relationship": "officer",
+      "role_note": "惡狼馬格特，曾管磨坊舞廳",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 126,
+        "end": 225
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/margot-stinger.v1.json"
+        }
+      ]
+    },
+    "stinger-gang:ait-iron-hammer:officer": {
+      "character_id": "ait-iron-hammer",
+      "organization_id": "stinger-gang",
+      "relationship": "officer",
+      "role_note": "原薩瓦黨成員，叛向毒刺幫",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 130,
+        "end": 174
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ait-iron-hammer.v1.json"
+        }
+      ]
+    },
+    "fisheries-guild:juan-oro:president": {
+      "character_id": "juan-oro",
+      "organization_id": "fisheries-guild",
+      "relationship": "president",
+      "role_note": "桑塔港漁業公會會長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 546,
+        "end": 589
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/juan-oro.v1.json"
+        }
+      ]
+    },
+    "fisheries-guild:latto-giaro:committee_member": {
+      "character_id": "latto-giaro",
+      "organization_id": "fisheries-guild",
+      "relationship": "committee_member",
+      "role_note": "公會委員，亦是愚人節核心成員",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 545,
+        "end": 589
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/latto-giaro.v1.json"
+        }
+      ]
+    },
+    "port-pylos-patrol:reyaza:deputy_commander": {
+      "character_id": "reyaza",
+      "organization_id": "port-pylos-patrol",
+      "relationship": "deputy_commander",
+      "role_note": "派洛斯港巡查隊副隊長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 642,
+        "end": 699
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reyaza.v1.json"
+        }
+      ]
+    },
+    "port-pylos-patrol:camus-castiya:operations_lead": {
+      "character_id": "camus-castiya",
+      "organization_id": "port-pylos-patrol",
+      "relationship": "operations_lead",
+      "role_note": "巡查隊行動組組長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 639,
+        "end": 699
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/camus-castiya.v1.json"
+        }
+      ]
+    },
+    "port-pylos-patrol:hiso-tupian:officer": {
+      "character_id": "hiso-tupian",
+      "organization_id": "port-pylos-patrol",
+      "relationship": "officer",
+      "role_note": "以活屍身分掩護其真實途徑",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 635,
+        "end": 650
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hiso-tupian.v1.json"
+        }
+      ]
+    },
+    "port-pylos-patrol:kolobo:officer": {
+      "character_id": "kolobo",
+      "organization_id": "port-pylos-patrol",
+      "relationship": "officer",
+      "role_note": "巡查隊隊員，曾有車夫兼職",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 644,
+        "end": 695
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/kolobo.v1.json"
+        }
+      ]
+    },
+    "tizamo-patrol:maslow-tizamo:commander": {
+      "character_id": "maslow-tizamo",
+      "organization_id": "tizamo-patrol",
+      "relationship": "commander",
+      "role_note": "蒂扎莫鎮巡查隊隊長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 661,
+        "end": 697
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maslow-tizamo.v1.json"
+        }
+      ]
+    },
+    "tizamo-patrol:reya:officer": {
+      "character_id": "reya",
+      "organization_id": "tizamo-patrol",
+      "relationship": "officer",
+      "role_note": "在蒂扎莫鎮隨加繆等人行動",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 655,
+        "end": 699
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/reya.v1.json"
+        }
+      ]
+    },
+    "golden-dream-crew:edwina-edwards:captain": {
+      "character_id": "edwina-edwards",
+      "organization_id": "golden-dream-crew",
+      "relationship": "captain",
+      "role_note": "冰山中將，黃金夢想號船長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/edwina-edwards.v1.json"
+        }
+      ]
+    },
+    "golden-dream-crew:danitz:crew_member": {
+      "character_id": "danitz",
+      "organization_id": "golden-dream-crew",
+      "relationship": "crew_member",
+      "role_note": "黃金夢想號船員，另有愚者教會身分",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/danitz.v1.json"
+        }
+      ]
+    },
+    "future-crew:cattleya:captain": {
+      "character_id": "cattleya",
+      "organization_id": "future-crew",
+      "relationship": "captain",
+      "role_note": "未來號船長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/cattleya.v1.json"
+        }
+      ]
+    },
+    "future-crew:frank-lee:first_mate": {
+      "character_id": "frank-lee",
+      "organization_id": "future-crew",
+      "relationship": "first_mate",
+      "role_note": "未來號大副",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/frank-lee.v1.json"
+        }
+      ]
+    },
+    "future-crew:heath-doyle:second_mate": {
+      "character_id": "heath-doyle",
+      "organization_id": "future-crew",
+      "relationship": "second_mate",
+      "role_note": "未來號二副",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 638,
+        "end": 661
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/heath-doyle.v1.json"
+        }
+      ]
+    },
+    "future-crew:nina-future:boatswain": {
+      "character_id": "nina-future",
+      "organization_id": "future-crew",
+      "relationship": "boatswain",
+      "role_note": "未來號水手長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 639,
+        "end": 721
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nina-future.v1.json"
+        }
+      ]
+    },
+    "blood-pirates:senor:captain": {
+      "character_id": "senor",
+      "organization_id": "blood-pirates",
+      "relationship": "captain",
+      "role_note": "血之上將，血之海盜團領袖",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 498,
+        "end": 728
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/senor.v1.json"
+        }
+      ]
+    },
+    "blood-pirates:maveti:second_mate": {
+      "character_id": "maveti",
+      "organization_id": "blood-pirates",
+      "relationship": "second_mate",
+      "role_note": "血之海盜團二副",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 507,
+        "end": 568
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/maveti.v1.json"
+        }
+      ]
+    },
+    "black-death-crew:tracy:captain": {
+      "character_id": "tracy",
+      "organization_id": "black-death-crew",
+      "relationship": "captain",
+      "role_note": "黑死號船長",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/tracy.v1.json"
+        }
+      ]
+    },
+    "black-death-crew:misor-king:third_mate": {
+      "character_id": "misor-king",
+      "organization_id": "black-death-crew",
+      "relationship": "third_mate",
+      "role_note": "原為齊林格斯的船長，後任黑死號三副",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 580,
+        "end": 602
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/misor-king.v1.json"
+        }
+      ]
+    },
+    "church-combat:badheil:deity": {
+      "character_id": "badheil",
+      "organization_id": "church-combat",
+      "relationship": "deity",
+      "role_note": "戰神，第一部神戰中隕落",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1269,
+        "end": 1277
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/badheil.v1.json"
+        }
+      ]
+    },
+    "church-ancient-sun:ancient-sun-god:deity": {
+      "character_id": "ancient-sun-god",
+      "organization_id": "church-ancient-sun",
+      "relationship": "deity",
+      "role_note": "第三紀信仰中心；背叛之宴後身分須分期",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ancient-sun-god.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Hanged_Man_Pathway/Related_Groups"
+        }
+      ]
+    },
+    "element-dawn:bernadette-gustav:founder": {
+      "character_id": "bernadette-gustav",
+      "organization_id": "element-dawn",
+      "relationship": "founder",
+      "role_note": "創立要素黎明，與家族身分分開",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/bernadette-gustav.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "dreamseekers:general-philip:patron": {
+      "character_id": "general-philip",
+      "organization_id": "dreamseekers",
+      "relationship": "patron",
+      "role_note": "假死後利用尋夢者資助畫家及恩賜者",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 308,
+        "end": 476
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/general-philip.v1.json"
+        }
+      ]
+    },
+    "sick-church:lugano-toscano:archbishop": {
+      "character_id": "lugano-toscano",
+      "organization_id": "sick-church",
+      "relationship": "archbishop",
+      "role_note": "後期在特里爾負責病教教務",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "coi",
+        "start": 1060,
+        "end": 1172
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/lugano-toscano.v1.json"
+        },
+        {
+          "kind": "external_reference",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ]
+    },
+    "loen-military:amyrius-levitt:admiral": {
+      "character_id": "amyrius-levitt",
+      "organization_id": "loen-military",
+      "relationship": "admiral",
+      "role_note": "曾任中蘇尼亞海海軍最高統帥，後回貝克蘭德",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 622,
+        "end": 709
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/amyrius-levitt.v1.json"
+        }
+      ]
+    },
+    "loen-military:alfred-hall:major_general": {
+      "character_id": "alfred-hall",
+      "organization_id": "loen-military",
+      "relationship": "major_general",
+      "role_note": "曾在東拜朗服役，升任少將後返國",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 1328,
+        "end": 1360
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/alfred-hall.v1.json"
+        }
+      ]
+    },
+    "tingen-divination-club:hanass-vincent:instructor": {
+      "character_id": "hanass-vincent",
+      "organization_id": "tingen-divination-club",
+      "relationship": "instructor",
+      "role_note": "公開職務為占卜導師",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 38,
+        "end": 105
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/hanass-vincent.v1.json"
+        }
+      ]
+    },
+    "tingen-divination-club:klein-moretti:participant": {
+      "character_id": "klein-moretti",
+      "organization_id": "tingen-divination-club",
+      "relationship": "participant",
+      "role_note": "曾以占卜師身分出入俱樂部",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "date_unresolved",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/klein-moretti.v1.json"
+        }
+      ]
+    },
+    "sanguines:nibbs-odora:marquis": {
+      "character_id": "nibbs-odora",
+      "organization_id": "sanguines",
+      "relationship": "marquis",
+      "role_note": "貝克蘭德血族高位侯爵",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 458,
+        "end": 540
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/nibbs-odora.v1.json"
+        }
+      ]
+    },
+    "sanguines:casimi-odora:baron": {
+      "character_id": "casimi-odora",
+      "organization_id": "sanguines",
+      "relationship": "baron",
+      "role_note": "血族男爵，替尼拜斯出面",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 458,
+        "end": 969
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/casimi-odora.v1.json"
+        }
+      ]
+    },
+    "sanguines:ernes-boyar:viscount": {
+      "character_id": "ernes-boyar",
+      "organization_id": "sanguines",
+      "relationship": "viscount",
+      "role_note": "血族子爵，曾為埃姆林提供古堡情報",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "chapter_locator_only",
+      "chapter_span": {
+        "book": "lotm",
+        "start": 969,
+        "end": 1310
+      },
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_biography_draft",
+          "reference": "lore/characters/biographies/ernes-boyar.v1.json"
+        }
+      ]
+    },
+    "tarot-club:klein-moretti:founder": {
+      "character_id": "klein-moretti",
+      "organization_id": "tarot-club",
+      "relationship": "founder",
+      "role_note": "代號「愚者」；日期依既有的二手來源研究表。",
+      "time_from": "1349-06-28",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:audrey-hall:member": {
+      "character_id": "audrey-hall",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「正義」；日期依既有的二手來源研究表。",
+      "time_from": "1349-06-28",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:alger-wilson:member": {
+      "character_id": "alger-wilson",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「倒吊人」；日期依既有的二手來源研究表。",
+      "time_from": "1349-06-28",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:derrick-berg:member": {
+      "character_id": "derrick-berg",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「太陽」；日期依既有的二手來源研究表。",
+      "time_from": "1349-08-19",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:fors-wall:member": {
+      "character_id": "fors-wall",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「魔術師」；日期依既有的二手來源研究表。",
+      "time_from": "1349-10-10",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:emlyn-white:member": {
+      "character_id": "emlyn-white",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「月亮」；日期依既有的二手來源研究表。",
+      "time_from": "1349-12-28",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:cattleya:member": {
+      "character_id": "cattleya",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「隱者」；日期依既有的二手來源研究表。",
+      "time_from": "1350-01-23",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:leonard-mitchell:member": {
+      "character_id": "leonard-mitchell",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「星星」；日期依既有的二手來源研究表。",
+      "time_from": "1350-07-01",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:xio-derecha:member": {
+      "character_id": "xio-derecha",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「審判」；日期依既有的二手來源研究表。",
+      "time_from": "1350-07-02",
+      "time_to": null,
+      "temporal_confidence": "secondary_day",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:sharron:member": {
+      "character_id": "sharron",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「節制」；日期依既有的二手來源研究表。",
+      "time_from": "1359-03",
+      "time_to": null,
+      "temporal_confidence": "secondary_month",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:lumian-lee:member": {
+      "character_id": "lumian-lee",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「戰車」；日期依既有的二手來源研究表。",
+      "time_from": "1359-03",
+      "time_to": null,
+      "temporal_confidence": "secondary_month",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    },
+    "tarot-club:franca-roland:member": {
+      "character_id": "franca-roland",
+      "organization_id": "tarot-club",
+      "relationship": "member",
+      "role_note": "代號「皇后」；日期依既有的二手來源研究表。",
+      "time_from": "1360-07",
+      "time_to": null,
+      "temporal_confidence": "secondary_month",
+      "chapter_span": null,
+      "review_status": "pending_user_review",
+      "sources": [
+        {
+          "kind": "repository_date_research",
+          "reference": "lore/characters/tarot_club_join_dates_research.json"
+        },
+        {
+          "kind": "community_wiki_member_list",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Tarot_Club/List_of_Members"
+        }
+      ]
+    }
+  },
+  "by_organization": {
+    "psychology-alchemists": [
+      "psychology-alchemists:audrey-hall:former",
+      "psychology-alchemists:pauli-derlau:member",
+      "psychology-alchemists:hvin-rambis:former",
+      "psychology-alchemists:anthony-reid:member",
+      "psychology-alchemists:daxter-guderian:member",
+      "psychology-alchemists:escalante-oseleka:member",
+      "psychology-alchemists:islant:recruiter",
+      "psychology-alchemists:hermes:senior_member",
+      "psychology-alchemists:hood-eugen:member"
+    ],
+    "hall-family": [
+      "hall-family:audrey-hall:member",
+      "hall-family:susie:household_companion",
+      "hall-family:hibbert-hall:family_member",
+      "hall-family:alfred-hall:family_member"
+    ],
+    "city-of-silver": [
+      "city-of-silver:derrick-berg:member",
+      "city-of-silver:colin-iliad:leader",
+      "city-of-silver:lovia-tiffany:elder"
+    ],
+    "sanguines": [
+      "sanguines:emlyn-white:member",
+      "sanguines:nibbs-odora:marquis",
+      "sanguines:casimi-odora:baron",
+      "sanguines:ernes-boyar:viscount"
+    ],
+    "element-dawn": [
+      "element-dawn:cattleya:former",
+      "element-dawn:bernadette-gustav:founder"
+    ],
+    "rose-school-of-thought": [
+      "rose-school-of-thought:sharron:member",
+      "rose-school-of-thought:maric:member",
+      "rose-school-of-thought:reinette-tinekerr:member",
+      "rose-school-of-thought:suah:member",
+      "rose-school-of-thought:klarman:member"
+    ],
+    "rose-school-indulgence": [
+      "rose-school-indulgence:jason-rose:member",
+      "rose-school-indulgence:barranca:member",
+      "rose-school-indulgence:tirie:member",
+      "rose-school-indulgence:mahmosi:member",
+      "rose-school-indulgence:zatwen:member",
+      "rose-school-indulgence:maveti:member",
+      "rose-school-indulgence:tyre:member",
+      "rose-school-indulgence:suah:leader",
+      "rose-school-indulgence:steve:pursuer",
+      "rose-school-indulgence:senor:member"
+    ],
+    "nighthawks": [
+      "nighthawks:daly-simone:member",
+      "nighthawks:aiur-harson:member",
+      "nighthawks:orianna:civilian_staff",
+      "nighthawks:lorotta:member",
+      "nighthawks:borgia:member",
+      "nighthawks:bredt:civilian_staff",
+      "nighthawks:cesare-francis:civilian_staff",
+      "nighthawks:jasmine:civilian_staff",
+      "nighthawks:adelaide:member",
+      "nighthawks:dwayne-nighthawks:member",
+      "nighthawks:hitte:member",
+      "nighthawks:grey-captain:member",
+      "nighthawks:klein-moretti:investigator",
+      "nighthawks:dunn-smith:captain",
+      "nighthawks:leonard-mitchell:investigator",
+      "nighthawks:old-neil:investigator",
+      "nighthawks:kenley-white:investigator",
+      "nighthawks:frye:investigator",
+      "nighthawks:royale-reideen:investigator",
+      "nighthawks:seeka-tron:investigator",
+      "nighthawks:rozanne:civilian_staff"
+    ],
+    "red-gloves": [
+      "red-gloves:crestet-cesimir:member",
+      "red-gloves:davy-raymond:member",
+      "red-gloves:cindy-redgloves:member",
+      "red-gloves:bob-redgloves:member",
+      "red-gloves:albert-redgloves:member",
+      "red-gloves:eric-redgloves:member",
+      "red-gloves:soest:squad_leader",
+      "red-gloves:leonard-mitchell:investigator",
+      "red-gloves:daly-simone:assigned_support"
+    ],
+    "aurora-order": [
+      "aurora-order:ouroboros:leader",
+      "aurora-order:mr-z:member",
+      "aurora-order:kisma:member",
+      "aurora-order:leomaster:member",
+      "aurora-order:sirius-arapis:member",
+      "aurora-order:mr-a:envoy",
+      "aurora-order:mr-x:envoy",
+      "aurora-order:mr-k:envoy",
+      "aurora-order:botis:saint",
+      "aurora-order:lumian-lee:member",
+      "aurora-order:lumian-lee:envoy_candidate",
+      "aurora-order:hanass-vincent:member"
+    ],
+    "gustav-family": [
+      "gustav-family:bernadette-gustav:member",
+      "gustav-family:roselle-gustav:member"
+    ],
+    "demoness-sect": [
+      "demoness-sect:judith-demoness:member",
+      "demoness-sect:tracy:member",
+      "demoness-sect:trissy:former",
+      "demoness-sect:clarice:senior_member",
+      "demoness-sect:blanche-sauron:liaison",
+      "demoness-sect:franca-roland:member",
+      "demoness-sect:madam-sharon:member",
+      "demoness-sect:panatiya:representative",
+      "demoness-sect:katarina-pelle:senior_member"
+    ],
+    "tarot-club": [
+      "tarot-club:jenna:member",
+      "tarot-club:klein-moretti:founder",
+      "tarot-club:audrey-hall:member",
+      "tarot-club:alger-wilson:member",
+      "tarot-club:derrick-berg:member",
+      "tarot-club:fors-wall:member",
+      "tarot-club:emlyn-white:member",
+      "tarot-club:cattleya:member",
+      "tarot-club:leonard-mitchell:member",
+      "tarot-club:xio-derecha:member",
+      "tarot-club:sharron:member",
+      "tarot-club:lumian-lee:member",
+      "tarot-club:franca-roland:member"
+    ],
+    "eggers-family": [
+      "eggers-family:azik-eggers:member"
+    ],
+    "moretti-family": [
+      "moretti-family:melissa-moretti:member",
+      "moretti-family:benson-moretti:member"
+    ],
+    "amon-family": [
+      "amon-family:amon:associated"
+    ],
+    "zoroast-family": [
+      "zoroast-family:pallez-zoroast:member"
+    ],
+    "secret-order": [
+      "secret-order:zaratul:member",
+      "secret-order:tuxedo-clown:member"
+    ],
+    "zaratul-family": [
+      "zaratul-family:zaratul:member"
+    ],
+    "curly-haired-baboons-research-society": [
+      "curly-haired-baboons-research-society:aurore-lee:member",
+      "curly-haired-baboons-research-society:gandalf:president",
+      "curly-haired-baboons-research-society:hela:vice_president",
+      "curly-haired-baboons-research-society:professor-baboon:member",
+      "curly-haired-baboons-research-society:franca-roland:member",
+      "curly-haired-baboons-research-society:angouleme:member"
+    ],
+    "rose-redemption": [
+      "rose-redemption:medici:historical_member",
+      "rose-redemption:sasrir:organizer",
+      "rose-redemption:evernight-goddess:organizer",
+      "rose-redemption:badheil:member"
+    ],
+    "church-ancient-sun": [
+      "church-ancient-sun:medici:former_member",
+      "church-ancient-sun:nim:former_believer",
+      "church-ancient-sun:sasrir:king_of_angels",
+      "church-ancient-sun:ancient-sun-god:deity"
+    ],
+    "church-fool": [
+      "church-fool:nim:later_archbishop",
+      "church-fool:klein-moretti:deity",
+      "church-fool:danitz:oracle"
+    ],
+    "abraham-family": [
+      "abraham-family:bethel-abraham:ancestor",
+      "abraham-family:dorian-gray-abraham:family_member",
+      "abraham-family:verdu-abraham:family_member",
+      "abraham-family:fors-wall:disciple",
+      "abraham-family:botis:former_disciple"
+    ],
+    "antigonus-family": [
+      "antigonus-family:antigonus:founder"
+    ],
+    "augustus-family": [
+      "augustus-family:george-augustus-iii:family_member",
+      "augustus-family:edessak-augustus:royal_family_member"
+    ],
+    "twilight-hermit-order": [
+      "twilight-hermit-order:george-augustus-iii:associated",
+      "twilight-hermit-order:adam:founder"
+    ],
+    "church-earth-mother": [
+      "church-earth-mother:frank-lee:former_affiliation",
+      "church-earth-mother:utralavsky:bishop",
+      "church-earth-mother:father-montserrat:priest"
+    ],
+    "church-evernight": [
+      "church-evernight:arianna:senior_clergy",
+      "church-evernight:anthony-stevenson:archbishop",
+      "church-evernight:bishop-elektra:bishop",
+      "church-evernight:ince-zangwill:former_archbishop"
+    ],
+    "church-storms": [
+      "church-storms:alger-wilson:clergy",
+      "church-storms:jahn-kottman:archbishop"
+    ],
+    "mandated-punishers": [
+      "mandated-punishers:jahn-kottman:senior_deacon"
+    ],
+    "church-steam": [
+      "church-steam:horamick-haydn:archbishop",
+      "church-steam:horamick-haydn:church_official"
+    ],
+    "machinery-hivemind": [
+      "machinery-hivemind:ikanser-bernard:deacon"
+    ],
+    "church-eternal-sun": [
+      "church-eternal-sun:guillaume-benet:parish_priest",
+      "church-eternal-sun:michel-garrigou:assistant_parish_priest",
+      "church-eternal-sun:father-cali:parish_priest"
+    ],
+    "purifiers": [
+      "purifiers:angouleme:squad_leader",
+      "purifiers:valentine:investigator",
+      "purifiers:imre:investigator"
+    ],
+    "church-knowledge": [
+      "church-knowledge:herabergen:deity"
+    ],
+    "church-sea-god": [
+      "church-sea-god:alger-wilson:pontiff",
+      "church-sea-god:kalat:religious_official"
+    ],
+    "mi9": [
+      "mi9:qunas-kilgor:deputy_director",
+      "mi9:wendel:officer"
+    ],
+    "intis-bureau-eight": [
+      "intis-bureau-eight:lia:investigator"
+    ],
+    "city-of-silver-council": [
+      "city-of-silver-council:colin-iliad:chief",
+      "city-of-silver-council:lovia-tiffany:elder",
+      "city-of-silver-council:waite-hillmon:elder",
+      "city-of-silver-council:waite-hillmon:chief"
+    ],
+    "rose-school-temperance": [
+      "rose-school-temperance:reinette-tinekerr:leader",
+      "rose-school-temperance:sharron:member",
+      "rose-school-temperance:maric:member"
+    ],
+    "numinous-royalist": [
+      "numinous-royalist:reyaza:operative",
+      "numinous-royalist:maslow-tizamo:member"
+    ],
+    "moses-ascetic-order": [
+      "moses-ascetic-order:nikila:member"
+    ],
+    "life-school-of-thought": [
+      "life-school-of-thought:enzo:former_member",
+      "life-school-of-thought:darkwill:affiliated"
+    ],
+    "sauron-family": [
+      "sauron-family:puifur-sauron:family_member",
+      "sauron-family:vermonda-sauron:ancestor",
+      "sauron-family:blanche-sauron:family_member",
+      "sauron-family:elros-einhorn:maternal_descendant",
+      "sauron-family:elaine:family_member"
+    ],
+    "einhorn-family": [
+      "einhorn-family:elros-einhorn:family_member"
+    ],
+    "april-fools": [
+      "april-fools:hiso-tupian:core_member",
+      "april-fools:latto-giaro:core_member",
+      "april-fools:bard-april-fools:core_member",
+      "april-fools:madwoman-april-fools:core_member",
+      "april-fools:i-have-a-friend:core_member"
+    ],
+    "sinners": [
+      "sinners:voisin-sanson:leader",
+      "sinners:bouvar-pomperro:liaison",
+      "sinners:guillaume-benet:archbishop"
+    ],
+    "bliss-society": [
+      "bliss-society:susanna-matisse:high_priestess",
+      "bliss-society:charlotte-calvino:core_member",
+      "bliss-society:maip-maier:core_member",
+      "bliss-society:lentas:operative"
+    ],
+    "school-of-truth": [
+      "school-of-truth:perle:overseer",
+      "school-of-truth:jebus:operative"
+    ],
+    "nightstalkers": [
+      "nightstalkers:lady-moon-nightwalk:member"
+    ],
+    "iron-and-blood-cross-order": [
+      "iron-and-blood-cross-order:gardner-martin:officer",
+      "iron-and-blood-cross-order:lumian-lee:member",
+      "iron-and-blood-cross-order:olson:overseer",
+      "iron-and-blood-cross-order:albus-medici:former_member",
+      "iron-and-blood-cross-order:gusin:operative"
+    ],
+    "mirror-people": [
+      "mirror-people:moran-avigny:member",
+      "mirror-people:nikila:member",
+      "mirror-people:guy-morora:member"
+    ],
+    "sava-gang": [
+      "sava-gang:gardner-martin:leader",
+      "sava-gang:baron-brignais:officer",
+      "sava-gang:christo:smuggling_officer",
+      "sava-gang:simon-savoie:officer",
+      "sava-gang:lumian-lee:venue_manager",
+      "sava-gang:sakota:staff"
+    ],
+    "stinger-gang": [
+      "stinger-gang:roger-black-scorpion:cofounder",
+      "stinger-gang:haman-stinger:cofounder",
+      "stinger-gang:margot-stinger:officer",
+      "stinger-gang:ait-iron-hammer:officer"
+    ],
+    "fisheries-guild": [
+      "fisheries-guild:juan-oro:president",
+      "fisheries-guild:latto-giaro:committee_member"
+    ],
+    "port-pylos-patrol": [
+      "port-pylos-patrol:reyaza:deputy_commander",
+      "port-pylos-patrol:camus-castiya:operations_lead",
+      "port-pylos-patrol:hiso-tupian:officer",
+      "port-pylos-patrol:kolobo:officer"
+    ],
+    "tizamo-patrol": [
+      "tizamo-patrol:maslow-tizamo:commander",
+      "tizamo-patrol:reya:officer"
+    ],
+    "golden-dream-crew": [
+      "golden-dream-crew:edwina-edwards:captain",
+      "golden-dream-crew:danitz:crew_member"
+    ],
+    "future-crew": [
+      "future-crew:cattleya:captain",
+      "future-crew:frank-lee:first_mate",
+      "future-crew:heath-doyle:second_mate",
+      "future-crew:nina-future:boatswain"
+    ],
+    "blood-pirates": [
+      "blood-pirates:senor:captain",
+      "blood-pirates:maveti:second_mate"
+    ],
+    "black-death-crew": [
+      "black-death-crew:tracy:captain",
+      "black-death-crew:misor-king:third_mate"
+    ],
+    "church-combat": [
+      "church-combat:badheil:deity"
+    ],
+    "dreamseekers": [
+      "dreamseekers:general-philip:patron"
+    ],
+    "sick-church": [
+      "sick-church:lugano-toscano:archbishop"
+    ],
+    "loen-military": [
+      "loen-military:amyrius-levitt:admiral",
+      "loen-military:alfred-hall:major_general"
+    ],
+    "tingen-divination-club": [
+      "tingen-divination-club:hanass-vincent:instructor",
+      "tingen-divination-club:klein-moretti:participant"
+    ]
+  },
+  "by_character": {
+    "audrey-hall": [
+      "psychology-alchemists:audrey-hall:former",
+      "hall-family:audrey-hall:member",
+      "tarot-club:audrey-hall:member"
+    ],
+    "derrick-berg": [
+      "city-of-silver:derrick-berg:member",
+      "tarot-club:derrick-berg:member"
+    ],
+    "emlyn-white": [
+      "sanguines:emlyn-white:member",
+      "tarot-club:emlyn-white:member"
+    ],
+    "cattleya": [
+      "element-dawn:cattleya:former",
+      "future-crew:cattleya:captain",
+      "tarot-club:cattleya:member"
+    ],
+    "sharron": [
+      "rose-school-of-thought:sharron:member",
+      "rose-school-temperance:sharron:member",
+      "tarot-club:sharron:member"
+    ],
+    "maric": [
+      "rose-school-of-thought:maric:member",
+      "rose-school-temperance:maric:member"
+    ],
+    "reinette-tinekerr": [
+      "rose-school-of-thought:reinette-tinekerr:member",
+      "rose-school-temperance:reinette-tinekerr:leader"
+    ],
+    "suah": [
+      "rose-school-of-thought:suah:member",
+      "rose-school-indulgence:suah:leader"
+    ],
+    "jason-rose": [
+      "rose-school-indulgence:jason-rose:member"
+    ],
+    "klarman": [
+      "rose-school-of-thought:klarman:member"
+    ],
+    "barranca": [
+      "rose-school-indulgence:barranca:member"
+    ],
+    "tirie": [
+      "rose-school-indulgence:tirie:member"
+    ],
+    "mahmosi": [
+      "rose-school-indulgence:mahmosi:member"
+    ],
+    "zatwen": [
+      "rose-school-indulgence:zatwen:member"
+    ],
+    "maveti": [
+      "rose-school-indulgence:maveti:member",
+      "blood-pirates:maveti:second_mate"
+    ],
+    "tyre": [
+      "rose-school-indulgence:tyre:member"
+    ],
+    "daly-simone": [
+      "nighthawks:daly-simone:member",
+      "red-gloves:daly-simone:assigned_support"
+    ],
+    "crestet-cesimir": [
+      "red-gloves:crestet-cesimir:member"
+    ],
+    "aiur-harson": [
+      "nighthawks:aiur-harson:member"
+    ],
+    "orianna": [
+      "nighthawks:orianna:civilian_staff"
+    ],
+    "ouroboros": [
+      "aurora-order:ouroboros:leader"
+    ],
+    "mr-z": [
+      "aurora-order:mr-z:member"
+    ],
+    "kisma": [
+      "aurora-order:kisma:member"
+    ],
+    "leomaster": [
+      "aurora-order:leomaster:member"
+    ],
+    "sirius-arapis": [
+      "aurora-order:sirius-arapis:member"
+    ],
+    "bernadette-gustav": [
+      "gustav-family:bernadette-gustav:member",
+      "element-dawn:bernadette-gustav:founder"
+    ],
+    "pauli-derlau": [
+      "psychology-alchemists:pauli-derlau:member"
+    ],
+    "hvin-rambis": [
+      "psychology-alchemists:hvin-rambis:former"
+    ],
+    "anthony-reid": [
+      "psychology-alchemists:anthony-reid:member"
+    ],
+    "daxter-guderian": [
+      "psychology-alchemists:daxter-guderian:member"
+    ],
+    "escalante-oseleka": [
+      "psychology-alchemists:escalante-oseleka:member"
+    ],
+    "judith-demoness": [
+      "demoness-sect:judith-demoness:member"
+    ],
+    "tracy": [
+      "demoness-sect:tracy:member",
+      "black-death-crew:tracy:captain"
+    ],
+    "trissy": [
+      "demoness-sect:trissy:former"
+    ],
+    "jenna": [
+      "tarot-club:jenna:member"
+    ],
+    "azik-eggers": [
+      "eggers-family:azik-eggers:member"
+    ],
+    "melissa-moretti": [
+      "moretti-family:melissa-moretti:member"
+    ],
+    "benson-moretti": [
+      "moretti-family:benson-moretti:member"
+    ],
+    "amon": [
+      "amon-family:amon:associated"
+    ],
+    "roselle-gustav": [
+      "gustav-family:roselle-gustav:member"
+    ],
+    "pallez-zoroast": [
+      "zoroast-family:pallez-zoroast:member"
+    ],
+    "zaratul": [
+      "secret-order:zaratul:member",
+      "zaratul-family:zaratul:member"
+    ],
+    "lorotta": [
+      "nighthawks:lorotta:member"
+    ],
+    "borgia": [
+      "nighthawks:borgia:member"
+    ],
+    "bredt": [
+      "nighthawks:bredt:civilian_staff"
+    ],
+    "cesare-francis": [
+      "nighthawks:cesare-francis:civilian_staff"
+    ],
+    "jasmine": [
+      "nighthawks:jasmine:civilian_staff"
+    ],
+    "adelaide": [
+      "nighthawks:adelaide:member"
+    ],
+    "dwayne-nighthawks": [
+      "nighthawks:dwayne-nighthawks:member"
+    ],
+    "hitte": [
+      "nighthawks:hitte:member"
+    ],
+    "grey-captain": [
+      "nighthawks:grey-captain:member"
+    ],
+    "davy-raymond": [
+      "red-gloves:davy-raymond:member"
+    ],
+    "cindy-redgloves": [
+      "red-gloves:cindy-redgloves:member"
+    ],
+    "bob-redgloves": [
+      "red-gloves:bob-redgloves:member"
+    ],
+    "albert-redgloves": [
+      "red-gloves:albert-redgloves:member"
+    ],
+    "eric-redgloves": [
+      "red-gloves:eric-redgloves:member"
+    ],
+    "tuxedo-clown": [
+      "secret-order:tuxedo-clown:member"
+    ],
+    "aurore-lee": [
+      "curly-haired-baboons-research-society:aurore-lee:member"
+    ],
+    "medici": [
+      "rose-redemption:medici:historical_member",
+      "church-ancient-sun:medici:former_member"
+    ],
+    "colin-iliad": [
+      "city-of-silver:colin-iliad:leader",
+      "city-of-silver-council:colin-iliad:chief"
+    ],
+    "lovia-tiffany": [
+      "city-of-silver:lovia-tiffany:elder",
+      "city-of-silver-council:lovia-tiffany:elder"
+    ],
+    "nim": [
+      "church-ancient-sun:nim:former_believer",
+      "church-fool:nim:later_archbishop"
+    ],
+    "bethel-abraham": [
+      "abraham-family:bethel-abraham:ancestor"
+    ],
+    "antigonus": [
+      "antigonus-family:antigonus:founder"
+    ],
+    "sasrir": [
+      "church-ancient-sun:sasrir:king_of_angels",
+      "rose-redemption:sasrir:organizer"
+    ],
+    "george-augustus-iii": [
+      "augustus-family:george-augustus-iii:family_member",
+      "twilight-hermit-order:george-augustus-iii:associated"
+    ],
+    "susie": [
+      "hall-family:susie:household_companion"
+    ],
+    "frank-lee": [
+      "church-earth-mother:frank-lee:former_affiliation",
+      "future-crew:frank-lee:first_mate"
+    ],
+    "dorian-gray-abraham": [
+      "abraham-family:dorian-gray-abraham:family_member"
+    ],
+    "arianna": [
+      "church-evernight:arianna:senior_clergy"
+    ],
+    "anthony-stevenson": [
+      "church-evernight:anthony-stevenson:archbishop"
+    ],
+    "bishop-elektra": [
+      "church-evernight:bishop-elektra:bishop"
+    ],
+    "ince-zangwill": [
+      "church-evernight:ince-zangwill:former_archbishop"
+    ],
+    "klein-moretti": [
+      "nighthawks:klein-moretti:investigator",
+      "church-fool:klein-moretti:deity",
+      "tingen-divination-club:klein-moretti:participant",
+      "tarot-club:klein-moretti:founder"
+    ],
+    "dunn-smith": [
+      "nighthawks:dunn-smith:captain"
+    ],
+    "leonard-mitchell": [
+      "nighthawks:leonard-mitchell:investigator",
+      "red-gloves:leonard-mitchell:investigator",
+      "tarot-club:leonard-mitchell:member"
+    ],
+    "old-neil": [
+      "nighthawks:old-neil:investigator"
+    ],
+    "kenley-white": [
+      "nighthawks:kenley-white:investigator"
+    ],
+    "frye": [
+      "nighthawks:frye:investigator"
+    ],
+    "royale-reideen": [
+      "nighthawks:royale-reideen:investigator"
+    ],
+    "seeka-tron": [
+      "nighthawks:seeka-tron:investigator"
+    ],
+    "rozanne": [
+      "nighthawks:rozanne:civilian_staff"
+    ],
+    "soest": [
+      "red-gloves:soest:squad_leader"
+    ],
+    "alger-wilson": [
+      "church-storms:alger-wilson:clergy",
+      "church-sea-god:alger-wilson:pontiff",
+      "tarot-club:alger-wilson:member"
+    ],
+    "jahn-kottman": [
+      "church-storms:jahn-kottman:archbishop",
+      "mandated-punishers:jahn-kottman:senior_deacon"
+    ],
+    "horamick-haydn": [
+      "church-steam:horamick-haydn:archbishop",
+      "church-steam:horamick-haydn:church_official"
+    ],
+    "ikanser-bernard": [
+      "machinery-hivemind:ikanser-bernard:deacon"
+    ],
+    "guillaume-benet": [
+      "church-eternal-sun:guillaume-benet:parish_priest",
+      "sinners:guillaume-benet:archbishop"
+    ],
+    "michel-garrigou": [
+      "church-eternal-sun:michel-garrigou:assistant_parish_priest"
+    ],
+    "father-cali": [
+      "church-eternal-sun:father-cali:parish_priest"
+    ],
+    "angouleme": [
+      "purifiers:angouleme:squad_leader",
+      "curly-haired-baboons-research-society:angouleme:member"
+    ],
+    "valentine": [
+      "purifiers:valentine:investigator"
+    ],
+    "imre": [
+      "purifiers:imre:investigator"
+    ],
+    "utralavsky": [
+      "church-earth-mother:utralavsky:bishop"
+    ],
+    "father-montserrat": [
+      "church-earth-mother:father-montserrat:priest"
+    ],
+    "herabergen": [
+      "church-knowledge:herabergen:deity"
+    ],
+    "danitz": [
+      "church-fool:danitz:oracle",
+      "golden-dream-crew:danitz:crew_member"
+    ],
+    "kalat": [
+      "church-sea-god:kalat:religious_official"
+    ],
+    "qunas-kilgor": [
+      "mi9:qunas-kilgor:deputy_director"
+    ],
+    "wendel": [
+      "mi9:wendel:officer"
+    ],
+    "lia": [
+      "intis-bureau-eight:lia:investigator"
+    ],
+    "waite-hillmon": [
+      "city-of-silver-council:waite-hillmon:elder",
+      "city-of-silver-council:waite-hillmon:chief"
+    ],
+    "steve": [
+      "rose-school-indulgence:steve:pursuer"
+    ],
+    "senor": [
+      "rose-school-indulgence:senor:member",
+      "blood-pirates:senor:captain"
+    ],
+    "reyaza": [
+      "numinous-royalist:reyaza:operative",
+      "port-pylos-patrol:reyaza:deputy_commander"
+    ],
+    "maslow-tizamo": [
+      "numinous-royalist:maslow-tizamo:member",
+      "tizamo-patrol:maslow-tizamo:commander"
+    ],
+    "mr-a": [
+      "aurora-order:mr-a:envoy"
+    ],
+    "mr-x": [
+      "aurora-order:mr-x:envoy"
+    ],
+    "mr-k": [
+      "aurora-order:mr-k:envoy"
+    ],
+    "botis": [
+      "aurora-order:botis:saint",
+      "abraham-family:botis:former_disciple"
+    ],
+    "lumian-lee": [
+      "aurora-order:lumian-lee:member",
+      "aurora-order:lumian-lee:envoy_candidate",
+      "iron-and-blood-cross-order:lumian-lee:member",
+      "sava-gang:lumian-lee:venue_manager",
+      "tarot-club:lumian-lee:member"
+    ],
+    "hanass-vincent": [
+      "aurora-order:hanass-vincent:member",
+      "tingen-divination-club:hanass-vincent:instructor"
+    ],
+    "clarice": [
+      "demoness-sect:clarice:senior_member"
+    ],
+    "blanche-sauron": [
+      "demoness-sect:blanche-sauron:liaison",
+      "sauron-family:blanche-sauron:family_member"
+    ],
+    "franca-roland": [
+      "demoness-sect:franca-roland:member",
+      "curly-haired-baboons-research-society:franca-roland:member",
+      "tarot-club:franca-roland:member"
+    ],
+    "madam-sharon": [
+      "demoness-sect:madam-sharon:member"
+    ],
+    "panatiya": [
+      "demoness-sect:panatiya:representative"
+    ],
+    "katarina-pelle": [
+      "demoness-sect:katarina-pelle:senior_member"
+    ],
+    "adam": [
+      "twilight-hermit-order:adam:founder"
+    ],
+    "evernight-goddess": [
+      "rose-redemption:evernight-goddess:organizer"
+    ],
+    "badheil": [
+      "rose-redemption:badheil:member",
+      "church-combat:badheil:deity"
+    ],
+    "islant": [
+      "psychology-alchemists:islant:recruiter"
+    ],
+    "hermes": [
+      "psychology-alchemists:hermes:senior_member"
+    ],
+    "hood-eugen": [
+      "psychology-alchemists:hood-eugen:member"
+    ],
+    "nikila": [
+      "moses-ascetic-order:nikila:member",
+      "mirror-people:nikila:member"
+    ],
+    "enzo": [
+      "life-school-of-thought:enzo:former_member"
+    ],
+    "darkwill": [
+      "life-school-of-thought:darkwill:affiliated"
+    ],
+    "verdu-abraham": [
+      "abraham-family:verdu-abraham:family_member"
+    ],
+    "fors-wall": [
+      "abraham-family:fors-wall:disciple",
+      "tarot-club:fors-wall:member"
+    ],
+    "puifur-sauron": [
+      "sauron-family:puifur-sauron:family_member"
+    ],
+    "vermonda-sauron": [
+      "sauron-family:vermonda-sauron:ancestor"
+    ],
+    "elros-einhorn": [
+      "sauron-family:elros-einhorn:maternal_descendant",
+      "einhorn-family:elros-einhorn:family_member"
+    ],
+    "elaine": [
+      "sauron-family:elaine:family_member"
+    ],
+    "hibbert-hall": [
+      "hall-family:hibbert-hall:family_member"
+    ],
+    "alfred-hall": [
+      "hall-family:alfred-hall:family_member",
+      "loen-military:alfred-hall:major_general"
+    ],
+    "edessak-augustus": [
+      "augustus-family:edessak-augustus:royal_family_member"
+    ],
+    "gandalf": [
+      "curly-haired-baboons-research-society:gandalf:president"
+    ],
+    "hela": [
+      "curly-haired-baboons-research-society:hela:vice_president"
+    ],
+    "professor-baboon": [
+      "curly-haired-baboons-research-society:professor-baboon:member"
+    ],
+    "hiso-tupian": [
+      "april-fools:hiso-tupian:core_member",
+      "port-pylos-patrol:hiso-tupian:officer"
+    ],
+    "latto-giaro": [
+      "april-fools:latto-giaro:core_member",
+      "fisheries-guild:latto-giaro:committee_member"
+    ],
+    "bard-april-fools": [
+      "april-fools:bard-april-fools:core_member"
+    ],
+    "madwoman-april-fools": [
+      "april-fools:madwoman-april-fools:core_member"
+    ],
+    "i-have-a-friend": [
+      "april-fools:i-have-a-friend:core_member"
+    ],
+    "voisin-sanson": [
+      "sinners:voisin-sanson:leader"
+    ],
+    "bouvar-pomperro": [
+      "sinners:bouvar-pomperro:liaison"
+    ],
+    "susanna-matisse": [
+      "bliss-society:susanna-matisse:high_priestess"
+    ],
+    "charlotte-calvino": [
+      "bliss-society:charlotte-calvino:core_member"
+    ],
+    "maip-maier": [
+      "bliss-society:maip-maier:core_member"
+    ],
+    "lentas": [
+      "bliss-society:lentas:operative"
+    ],
+    "perle": [
+      "school-of-truth:perle:overseer"
+    ],
+    "jebus": [
+      "school-of-truth:jebus:operative"
+    ],
+    "lady-moon-nightwalk": [
+      "nightstalkers:lady-moon-nightwalk:member"
+    ],
+    "gardner-martin": [
+      "iron-and-blood-cross-order:gardner-martin:officer",
+      "sava-gang:gardner-martin:leader"
+    ],
+    "olson": [
+      "iron-and-blood-cross-order:olson:overseer"
+    ],
+    "albus-medici": [
+      "iron-and-blood-cross-order:albus-medici:former_member"
+    ],
+    "gusin": [
+      "iron-and-blood-cross-order:gusin:operative"
+    ],
+    "moran-avigny": [
+      "mirror-people:moran-avigny:member"
+    ],
+    "guy-morora": [
+      "mirror-people:guy-morora:member"
+    ],
+    "baron-brignais": [
+      "sava-gang:baron-brignais:officer"
+    ],
+    "christo": [
+      "sava-gang:christo:smuggling_officer"
+    ],
+    "simon-savoie": [
+      "sava-gang:simon-savoie:officer"
+    ],
+    "sakota": [
+      "sava-gang:sakota:staff"
+    ],
+    "roger-black-scorpion": [
+      "stinger-gang:roger-black-scorpion:cofounder"
+    ],
+    "haman-stinger": [
+      "stinger-gang:haman-stinger:cofounder"
+    ],
+    "margot-stinger": [
+      "stinger-gang:margot-stinger:officer"
+    ],
+    "ait-iron-hammer": [
+      "stinger-gang:ait-iron-hammer:officer"
+    ],
+    "juan-oro": [
+      "fisheries-guild:juan-oro:president"
+    ],
+    "camus-castiya": [
+      "port-pylos-patrol:camus-castiya:operations_lead"
+    ],
+    "kolobo": [
+      "port-pylos-patrol:kolobo:officer"
+    ],
+    "reya": [
+      "tizamo-patrol:reya:officer"
+    ],
+    "edwina-edwards": [
+      "golden-dream-crew:edwina-edwards:captain"
+    ],
+    "heath-doyle": [
+      "future-crew:heath-doyle:second_mate"
+    ],
+    "nina-future": [
+      "future-crew:nina-future:boatswain"
+    ],
+    "misor-king": [
+      "black-death-crew:misor-king:third_mate"
+    ],
+    "ancient-sun-god": [
+      "church-ancient-sun:ancient-sun-god:deity"
+    ],
+    "general-philip": [
+      "dreamseekers:general-philip:patron"
+    ],
+    "lugano-toscano": [
+      "sick-church:lugano-toscano:archbishop"
+    ],
+    "amyrius-levitt": [
+      "loen-military:amyrius-levitt:admiral"
+    ],
+    "nibbs-odora": [
+      "sanguines:nibbs-odora:marquis"
+    ],
+    "casimi-odora": [
+      "sanguines:casimi-odora:baron"
+    ],
+    "ernes-boyar": [
+      "sanguines:ernes-boyar:viscount"
+    ],
+    "xio-derecha": [
+      "tarot-club:xio-derecha:member"
+    ]
+  }
+}
