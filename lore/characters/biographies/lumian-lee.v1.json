@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lumian-lee",
+  "name_zh": "盧米安·李",
+  "name_en": "Lumian Lee",
+  "importance": "A",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "非凡道路的起點",
+      "summary": "盧米安的早年生活與奧蘿爾相連，科爾杜異常事件改變其人生方向。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "前往特里爾後接觸地方黑幫、隱秘組織及不同非凡體系，逐步接近末日危機。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "與芙蘭卡、簡娜及其他同伴的經歷改變其對命運、責任與目的的理解。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "需要將兩部作品的世界時鐘連動，不能讓他在不合理年份替玩家執行任務。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

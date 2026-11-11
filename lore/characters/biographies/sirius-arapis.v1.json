@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "sirius-arapis",
+  "name_zh": "西里斯·阿瑞匹斯",
+  "name_en": "Sirius Arapis",
+  "importance": "B",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "隱蔽的信徒網絡",
+      "summary": "西里斯·阿瑞匹斯與極光會及廷根異常事件有聯繫，並和相關隱秘活動人物存在交集。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "研究歷史與魔法的外部掩護，不代表其全部交易和信仰會向初次見面的玩家公開。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "他的行動對值夜者案件及地下神秘學圈具有線索意義。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "可在城市謠言、危險書籍與地下信徒調查中分層顯示其身份。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

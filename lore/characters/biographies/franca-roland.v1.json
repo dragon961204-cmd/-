@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "franca-roland",
+  "name_zh": "芙蘭卡·羅蘭",
+  "name_en": "Franca Roland",
+  "importance": "A",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "前世與魔女途徑",
+      "summary": "芙蘭卡在特里爾的街頭勢力和非凡者圈中活動，具有多重身份與秘密。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "與盧米安、簡娜及安東尼的關係逐步形成合作，但每個人仍保留自己的創傷、工作與目標。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "卷毛狒狒研究會、魔女教派和塔羅會的各時期關係必須分開記錄。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "適合特里爾不同主線的情報人物，1349不可直接出場。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

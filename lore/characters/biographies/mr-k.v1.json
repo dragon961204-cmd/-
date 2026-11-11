@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "mr-k",
+  "name_zh": "K先生",
+  "name_en": "Mr. K",
+  "importance": "B",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "神使與第二部時序",
+      "summary": "K先生是極光會相關人物，與第二部的組織運作和人物命運產生交集。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "對他真實身份與他人的評價，必須區分公開的宗教活動、秘密身分和不同時段的立場。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "與盧米安等人接觸的情況不能提前放入1349年廷根，應根據第二部場景設計。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "適合作為派系引薦、教會衝突和信仰選擇的事件人物。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

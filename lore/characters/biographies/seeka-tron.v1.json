@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "seeka-tron",
+  "name_zh": "西迦·特昂",
+  "name_en": "Seeka Tron",
+  "importance": "B",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "案件與公共掩護",
+      "summary": "西迦是廷根值夜者小隊成員，參與值夜者維護地區神秘世界秩序的工作。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "平日掩護身份與具體調查職務應隨劇情情境變化，而不是公開向所有市民宣告非凡者身份。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "其與鄧恩及其他隊員形成的小隊關係是廷根篇的職業背景。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "設計成具體小隊工作與訓練事件的配角；重要個人經歷需要原作章節補證。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

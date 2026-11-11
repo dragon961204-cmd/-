@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "daxter-guderian",
+  "name_zh": "達克斯特·古德里安",
+  "name_en": "Daxter Guderian",
+  "importance": "B",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "心理醫生的雙重身份",
+      "summary": "達克斯特是精神醫療工作者，與心理鍊金會有聯繫，工作環境給予他接觸病患和非凡異常的特殊機會。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "值夜者對心理鍊金會的追查可能利用他提供的情報，但雙重身份帶來長期風險。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "醫療職責和秘密信仰不應完全一致，人物需根據所知資訊決定行動。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "可作廷根第一批觀眾途徑及精神醫療相關委託的關鍵線索。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}

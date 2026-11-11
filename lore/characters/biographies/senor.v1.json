@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "character_id": "senor",
+  "name_zh": "塞尼奧爾",
+  "name_en": "Senor",
+  "importance": "B",
+  "status": "research_draft_incomplete",
+  "source_notes": "本傳記由2026年11月研究補稿獨立成檔；只整理有二手來源的有限事實，不包含未核實的個人經歷",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "海盜與追捕",
+      "summary": "塞尼奧爾與放縱派有聯繫，在海上地下世界留下名聲，因其能力和行動成為非凡者追查的目標。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 2,
+      "title": "命運與組織",
+      "summary": "其在故事中的活動與格爾曼·斯帕羅相關，後續身分和狀態發生變化，不能任意沿用初期敵對海盜標籤。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 3,
+      "title": "後續脈絡",
+      "summary": "船員、港口、懸賞與組織關係使他適合引出囚犯途徑的地域劇情。",
+      "verification": "secondary_only"
+    },
+    {
+      "part": 4,
+      "title": "遊戲使用條件",
+      "summary": "遊戲中先建立追捕線索再允許玩家接觸，重要事件發生後更新人物狀態。",
+      "verification": "secondary_only"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "notes": "內容為遊戲用途建議，非原作對話或既有事件；NPC出場需以時間、地理與角色知情度檢查"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "completed": false,
+    "not_yet_established": [
+      "詳細家世與個人完整生平",
+      "精確年代、首次登場和事件章號",
+      "序列與晉升時間",
+      "當期組織隸屬與關係"
+    ],
+    "chapter_checked_count": 0
+  }
+}
