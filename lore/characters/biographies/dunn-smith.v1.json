@@ -1,0 +1,238 @@
+{
+  "schema_version": "1.0",
+  "character_id": "dunn-smith",
+  "name_zh": "鄧恩·史密斯",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "黑夜女神教會廷根值夜者隊長，將守護市民和隊員的責任放在日常行動之中。他招募並訓練克萊恩，與戴莉有深刻情感聯繫；廷根危機是其人物結局的中心。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "教會訓練",
+      "summary": "走上不眠者途徑，作為黑夜女神教會的非凡者服務，逐漸熟悉處理失控與超自然案件的職責。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "廷根小隊隊長",
+      "summary": "在黑荊棘安保公司的掩護下統籌值夜者，需同時處理文書、偵查、封印物及隊員安全。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "夢魘能力",
+      "summary": "身為序列7夢魘，他能透過夢境相關手段調查；精神與記憶方面的表現同途徑影響相關。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "克萊恩的招募",
+      "summary": "調查筆記事件之後，給予克萊恩選擇是否加入官方隊伍的機會，並安排非凡知識教育。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "小隊的人情",
+      "summary": "與倫納德、弗萊、老尼爾等各有不同工作關係，與戴莉的私人感情不能簡化為純職務。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "安提哥努斯筆記線",
+      "summary": "小隊追查筆記和相關危險時，需要受教會紀律約束，並無法事先洞悉高層陰謀。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "因斯的布局",
+      "summary": "0-08能改變事件的連鎖發展，鄧恩在廷根所面對的是超出一般調查規模的系統性威脅。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "廷根重大事件",
+      "summary": "1349年9月9日隊伍處理迫近的非凡危機，鄧恩的犧牲成為倫納德與克萊恩後續行動的重要動因。",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "1334",
+      "event": "開始不眠者途徑（百科年表）",
+      "precision": "year",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-06-28",
+      "event": "調查克萊恩與筆記事件",
+      "precision": "day",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-06-29",
+      "event": "邀請克萊恩與小隊合作",
+      "precision": "day",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-07-02",
+      "event": "克萊恩成為正式隊員",
+      "precision": "day",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-09-09",
+      "event": "廷根重大事件與犧牲",
+      "precision": "day",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "之後",
+      "event": "其故事影響倫納德、戴莉與克萊恩的選擇",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "dunn",
+        "tingen",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-evernight",
+      "start": "unknown",
+      "end": "1349-09-09",
+      "role": "教會非凡者",
+      "verification": "secondary_source"
+    },
+    {
+      "organization_id": "nighthawks",
+      "start": "unknown",
+      "end": "1349-09-09",
+      "role": "廷根小隊隊長",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [],
+  "pathway_history": [
+    {
+      "pathway": "darkness",
+      "sequence": "7",
+      "name": "夢魘",
+      "time": "1349年",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "klein-moretti",
+    "leonard-mitchell",
+    "daly-simone",
+    "old-neil",
+    "ince-zangwill"
+  ],
+  "game_integration": {
+    "early_visible_identity": "黑荊棘安保公司負責人、可信任的教會工作者。",
+    "restricted_truth": "封印物調查細節及其對高風險陰謀的局部認知。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": true,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "dunn": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/zh/wiki/邓恩·史密斯",
+      "validation": "secondary_not_line_checked"
+    },
+    "tingen": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Tingen_City_Doomsday",
+      "validation": "secondary_not_line_checked"
+    },
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
