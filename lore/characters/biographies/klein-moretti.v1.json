@@ -1,0 +1,313 @@
+{
+  "schema_version": "1.0",
+  "character_id": "klein-moretti",
+  "name_zh": "克萊恩·莫雷蒂",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "廷根歷史系畢業生經歷神祕事件後，周明瑞以其身分醒來。在家庭生計、值夜者工作和追索穿越真相之間，他逐步建立自己的非凡生存策略。後續以不同身分在貝克蘭德與海上活動，並藉灰霧聚會建立塔羅會；最終涉及世界級的源質與外神危機。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "莫雷蒂家的日常",
+      "summary": "與兄長班森、妹妹梅麗莎同住，具歷史學教育背景；家庭負擔與工作選擇使他在早期不是脫離世俗的冒險者。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "神祕筆記與身分轉變",
+      "summary": "韋爾奇、娜婭與安提哥努斯家族筆記引發的異常事件，是周明瑞在1349年6月28日醒來的直接敘事起點。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "值夜者的招募",
+      "summary": "與鄧恩、倫納德和戴莉接觸後，克萊恩從接受調查到成為黑荊棘安保公司文職，並接觸老尼爾的神秘學教育。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "灰霧與塔羅會",
+      "summary": "透過灰霧的特殊聯繫，他與奧黛麗、阿爾傑建立神秘聚會；其對外形象與現實身份必須嚴格隔離。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "占卜家的晉升",
+      "summary": "1349年7月2日成為序列9占卜家；扮演法、消化、魔藥配方和隊伍調查逐漸成為成長主軸。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "廷根之變",
+      "summary": "與因斯安排的陰謀和小隊的重大危機牽連，促成克萊恩離開原本的生活並改換身份。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "貝克蘭德偵探",
+      "summary": "以夏洛克·莫里亞蒂身分調查委託、接觸社會各階層，尋找仇敵和魔藥線索。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "格爾曼·斯帕羅與海上",
+      "summary": "出海後使用冒險家身分追查非凡材料和秘密，與海盜、非凡組織建立複雜關係。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 9,
+      "title": "道恩·唐泰斯及高序列",
+      "summary": "回到貝克蘭德後使用新的社交身分，逐步接觸教會高層、隱秘存在與第四紀遺產。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 10,
+      "title": "愚者與末日",
+      "summary": "成長為高位存在後，私人尋鄉與守護人性的目標，同世界末日和外神威脅交織；遊戲早期不可公開高序列結果。",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "1349-06-28",
+      "event": "周明瑞承接克萊恩身份；灰霧相關塔羅會首次聚會",
+      "precision": "day",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-06-29",
+      "event": "與值夜者的職務關係開始建立",
+      "precision": "day",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-07-02",
+      "event": "晉升序列9占卜家並成為正式值夜者",
+      "precision": "day",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-09-09",
+      "event": "廷根重大事件形成生涯轉折",
+      "precision": "day",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349之後",
+      "event": "貝克蘭德偵探階段，具體日期待核",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349之後",
+      "event": "海上冒險與格爾曼身份，具體日期待核",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "後期",
+      "event": "逐步晉升並面對末日主線，詳情待逐章標註",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "《宿命之環》時段",
+      "event": "按第二部事件重新記錄其狀態",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "timeline",
+        "klein",
+        "kleinProgress"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "nighthawks",
+      "start": "1349-07-02",
+      "end": "1349-09-09",
+      "role": "正式值夜者",
+      "verification": "secondary_source"
+    },
+    {
+      "organization_id": "tarot-club",
+      "start": "1349-06-28",
+      "end": null,
+      "role": "創建者",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [],
+  "pathway_history": [
+    {
+      "pathway": "fool",
+      "sequence": "9",
+      "name": "占卜家",
+      "time": "1349-07-02",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "fool",
+      "sequence": "8",
+      "name": "小丑",
+      "time": "第一部後續，日期待核",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "fool",
+      "sequence": "7",
+      "name": "魔術師",
+      "time": "第一部第295章（百科索引）",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "fool",
+      "sequence": "6",
+      "name": "無面人",
+      "time": "第一部第451章（百科索引）",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "fool",
+      "sequence": "5",
+      "name": "秘偶大師",
+      "time": "第一部第664章（百科索引）",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "benson-moretti",
+    "melissa-moretti",
+    "dunn-smith",
+    "leonard-mitchell",
+    "azik-eggers",
+    "audrey-hall"
+  ],
+  "game_integration": {
+    "early_visible_identity": "廷根歷史系畢業生及後來黑荊棘工作人員。",
+    "restricted_truth": "周明瑞身分、灰霧與塔羅會創建者、後續多重偽裝。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": true,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    },
+    "klein": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Klein_Moretti/History",
+      "validation": "secondary_not_line_checked"
+    },
+    "kleinProgress": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Klein_Moretti/Progress",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
