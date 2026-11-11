@@ -1,0 +1,275 @@
+{
+  "schema_version": "1.0",
+  "character_id": "leonard-mitchell",
+  "name_zh": "倫納德·米切爾",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "從廷根值夜者一路成長為紅手套和塔羅會成員。他與帕列斯的秘密關係、對因斯的追查，以及對克萊恩真實身分的逐步理解，構成長期角色弧線。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "成長與教會",
+      "summary": "青年時加入教會非凡者體系，1346年成為不眠者，帶有不拘小節且自認特殊的性格。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "廷根值夜者",
+      "summary": "在鄧恩領導下調查案件，初期與克萊恩合作，信任與競爭感並存。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "帕列斯的寄居",
+      "summary": "體內存在錯誤途徑的古老存在，向他提供資訊與提醒；這不是可向玩家隨意展示的普通能力。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "與克萊恩的關係",
+      "summary": "從一同當差到彼此協助偵查，廷根時期的隊友情誼成為後期合作基礎。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "廷根災難後",
+      "summary": "好友與隊長遭遇重大變故，使他放下早期自信，開始追查因斯。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "紅手套行動",
+      "summary": "加入官方精英隊伍執行跨地區案件，於貝克蘭德重新接觸大量與克萊恩相關的線索。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "揭開身份",
+      "summary": "根據案情與多重假名之間的關聯，逐步理解夏洛克、格爾曼及昔日同事的身份線索。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "共同復仇",
+      "summary": "與克萊恩和戴莉合作對抗因斯，實現多年的追查目標。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 9,
+      "title": "塔羅會星星",
+      "summary": "在復仇事件後加入塔羅會，後期同時承擔教會和塔羅會的不同責任。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 10,
+      "title": "第二部時代",
+      "summary": "成為更高層級的非凡者；新的能力和組織關係需按第二部章節核驗。",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "1346",
+      "event": "成為不眠者並加入黑荊棘（百科年表）",
+      "precision": "year",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-06-28",
+      "event": "在廷根與克萊恩接觸",
+      "precision": "day",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-09-09",
+      "event": "廷根危機後決意追查因斯",
+      "precision": "day",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部第二卷",
+      "event": "加入紅手套（確切日待核）",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部第944章左右",
+      "event": "參與因斯之死事件",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部第951章",
+      "event": "加入塔羅會並使用星星稱號",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部後期",
+      "event": "晉升教會高階非凡者",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第二部",
+      "event": "多次參與第二部主線，序列狀態需章節核對",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "leonard",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "nighthawks",
+      "start": "1346",
+      "end": null,
+      "role": "早期正式成員",
+      "verification": "secondary_source"
+    },
+    {
+      "organization_id": "red-gloves",
+      "start": "第一部第二卷",
+      "end": null,
+      "role": "紅手套；不是1349-06初始身份",
+      "verification": "secondary_source"
+    },
+    {
+      "organization_id": "tarot-club",
+      "start": "第一部第951章",
+      "end": null,
+      "role": "星星",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [],
+  "pathway_history": [
+    {
+      "pathway": "darkness",
+      "sequence": "9",
+      "name": "不眠者",
+      "time": "1346",
+      "verification": "secondary_source"
+    },
+    {
+      "pathway": "darkness",
+      "sequence": "higher",
+      "name": "後續晉升",
+      "time": "按章節確認",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "klein-moretti",
+    "dunn-smith",
+    "pallez-zoroast",
+    "daly-simone",
+    "ince-zangwill"
+  ],
+  "game_integration": {
+    "early_visible_identity": "廷根值夜者成員；後期則為紅手套。",
+    "restricted_truth": "帕列斯的身分、塔羅會稱號及克萊恩相關真相。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": true,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "leonard": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Leonard_Mitchell/History",
+      "validation": "secondary_not_line_checked"
+    },
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
