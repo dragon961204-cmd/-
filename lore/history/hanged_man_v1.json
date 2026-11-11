@@ -1,0 +1,2079 @@
+{
+  "schema_version": "1.0",
+  "id": "hanged-man",
+  "name_zh": "第五紀｜倒吊人",
+  "scope": "承接白銀城找到出路，整理第七卷的遷徙、各方職務與晉升，以及愚者途徑競爭的跨卷線索。",
+  "source_revision": "a0b776ce55f96af3ecb393d4128fd5007b1f6079",
+  "previous_timeline": {
+    "path": "lore/history/lightseeker_v1.json",
+    "last_event_id": "lightseeker-exit"
+  },
+  "ordering_note": "章節範圍沿用傳記的生涯分段，部分橫跨第六至第八卷。月城遷徙、克萊恩天使晉升的精確章次及各事件的日曆日期待核。",
+  "phases": {
+    "migration": "神棄之地與遷徙",
+    "authority": "高位權柄與競爭",
+    "parallel": "並行支線"
+  },
+  "locations": {
+    "forsaken-land": {
+      "name_zh": "神棄之地"
+    },
+    "moon-city": {
+      "name_zh": "月城"
+    },
+    "rhistor": {
+      "name_zh": "羅思德群島"
+    },
+    "hornacis": {
+      "name_zh": "霍納奇斯山脈主峰"
+    },
+    "utopia": {
+      "name_zh": "烏托邦"
+    }
+  },
+  "events": [
+    {
+      "id": "hanged-man-exodus",
+      "name_zh": "戴里克帶領白銀城居民離開神棄之地",
+      "phase": "migration",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1267,
+          "end": 1350
+        }
+      },
+      "location_id": "forsaken-land",
+      "summary": "巨人王庭遠征打開出路後，戴里克帶領白銀城居民走出神棄之地，面對後續定居與信仰安排。",
+      "related_character_ids": [
+        "derrick-berg"
+      ],
+      "related_organization_ids": [
+        "city-of-silver"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "locator": "戴里克帶領白銀城居民離開神棄之地",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "遷徙可由居民得知，愚者與塔羅會的安排另須取證。"
+      }
+    },
+    {
+      "id": "hanged-man-moon",
+      "name_zh": "月城考慮離開神棄之地",
+      "phase": "migration",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": null
+        }
+      },
+      "location_id": "moon-city",
+      "summary": "與格爾曼接觸後，尼姆帶領月城居民重新考慮如何離開。既有傳記待補遷徙的具體章次與落腳點。",
+      "related_character_ids": [
+        "nim",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/nim.v1.json",
+          "locator": "月城考慮離開神棄之地",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "月城考慮離開神棄之地",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "可向居民查詢交涉後的變化，格爾曼身分另須查證。"
+      }
+    },
+    {
+      "id": "hanged-man-angel",
+      "name_zh": "克萊恩進入天使階段",
+      "phase": "migration",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1151,
+          "end": 1269
+        }
+      },
+      "location_id": "forsaken-land",
+      "summary": "克萊恩在神棄之地接觸白銀城、月城與遠古太陽神的遺留祕密。這段傳記橫跨第六、七卷，天使晉升的具體章次與地點待核。",
+      "related_character_ids": [
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "克萊恩進入天使階段",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "天使位階與晉升經過須有相關證據。"
+      }
+    },
+    {
+      "id": "hanged-man-alger",
+      "name_zh": "阿爾傑在羅思德擔任樞機主教",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1276,
+          "end": 1350
+        }
+      },
+      "location_id": "rhistor",
+      "summary": "阿爾傑在羅思德群島承擔風暴教會樞機主教職務。塔羅會代號與教會公開身分各有知情範圍。",
+      "related_character_ids": [
+        "alger-wilson"
+      ],
+      "related_organization_ids": [
+        "church-storms",
+        "tarot-club"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/alger-wilson.v1.json",
+          "locator": "阿爾傑在羅思德擔任樞機主教",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "ordinary_contact",
+        "rule_status": "original_game",
+        "notes": "主教職務可由教會渠道取得。"
+      }
+    },
+    {
+      "id": "hanged-man-emlyn",
+      "name_zh": "埃姆林的高級執事與南下支線",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1277,
+          "end": 1392
+        }
+      },
+      "location_id": null,
+      "summary": "傳記將高級執事與南下行動列為跨第七、八卷的階段，兩件事的精確章次待核。",
+      "related_character_ids": [
+        "emlyn-white"
+      ],
+      "related_organization_ids": [
+        "church-earth-mother",
+        "sanguines"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/emlyn-white.v1.json",
+          "locator": "埃姆林的高級執事與南下支線",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "職務、南下目的及血族立場需各自查證。"
+      }
+    },
+    {
+      "id": "hanged-man-fors",
+      "name_zh": "佛爾思走向半神",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1279,
+          "end": 1389
+        }
+      },
+      "location_id": null,
+      "summary": "佛爾思的晉升支線牽連亞伯拉罕家族和門先生的祕密。傳記將半神階段定位於第七至第八卷。",
+      "related_character_ids": [
+        "fors-wall"
+      ],
+      "related_organization_ids": [
+        "abraham-family",
+        "tarot-club"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/fors-wall.v1.json",
+          "locator": "佛爾思走向半神",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "序列變動及家族掌握的情報各須取得證據。"
+      }
+    },
+    {
+      "id": "hanged-man-antigonus",
+      "name_zh": "霍納奇斯主峰的半個愚者",
+      "phase": "authority",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1283,
+          "end": 1352
+        }
+      },
+      "location_id": "hornacis",
+      "summary": "克萊恩的晉升道路再次牽涉霍納奇斯主峰的安提哥努斯。其封印狀態與愚者途徑的權柄競爭相連。",
+      "related_character_ids": [
+        "antigonus",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/antigonus.v1.json",
+          "locator": "霍納奇斯主峰的半個愚者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "霍納奇斯主峰的半個愚者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "家族筆記與主峰深處的現況須分別查證。"
+      }
+    },
+    {
+      "id": "hanged-man-roselle",
+      "name_zh": "貝爾納黛追查羅塞爾的黑皇帝陵寢",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1300,
+          "end": 1391
+        }
+      },
+      "location_id": null,
+      "summary": "貝爾納黛循父親遺留的線索追查黑皇帝陵寢，面對羅塞爾與星空污染有關的祕密。傳記定位延續至第八卷。",
+      "related_character_ids": [
+        "bernadette-gustav",
+        "roselle-gustav"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/bernadette-gustav.v1.json",
+          "locator": "貝爾納黛追查羅塞爾的黑皇帝陵寢",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/roselle-gustav.v1.json",
+          "locator": "貝爾納黛追查羅塞爾的黑皇帝陵寢",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "陵寢位置與羅塞爾的狀態須另有線索。"
+      }
+    },
+    {
+      "id": "hanged-man-audrey",
+      "name_zh": "奧黛麗進入評議團與織夢人階段",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1316,
+          "end": 1393
+        }
+      },
+      "location_id": null,
+      "summary": "奧黛麗傳記將評議團職務與織夢人階段列在第七至第八卷，兩項變動的具體先後待核。",
+      "related_character_ids": [
+        "audrey-hall"
+      ],
+      "related_organization_ids": [
+        "psychology-alchemists"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/audrey-hall.v1.json",
+          "locator": "奧黛麗進入評議團與織夢人階段",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "組織職務與序列資訊有各自的知情門檻。"
+      }
+    },
+    {
+      "id": "hanged-man-hermes",
+      "name_zh": "赫密斯以「暴怒」身分介入心理鍊金會",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1319,
+          "end": 1390
+        }
+      },
+      "location_id": null,
+      "summary": "赫密斯傳記把心理鍊金會的暴怒身分定位在第七至第八卷。",
+      "related_character_ids": [
+        "hermes"
+      ],
+      "related_organization_ids": [
+        "psychology-alchemists"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/hermes.v1.json",
+          "locator": "赫密斯以「暴怒」身分介入心理鍊金會",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "代號背後的身分須有組織內部線索。"
+      }
+    },
+    {
+      "id": "hanged-man-pallez",
+      "name_zh": "帕列斯、倫納德與阿蒙衝突的後續",
+      "phase": "authority",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1325,
+          "end": 1327
+        }
+      },
+      "location_id": null,
+      "summary": "帕列斯傳記將本段標為「時之天使」與神戰之後。阿蒙對偷盜者途徑的追索影響帕列斯與倫納德的處境。",
+      "related_character_ids": [
+        "pallez-zoroast",
+        "leonard-mitchell",
+        "amon"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/pallez-zoroast.v1.json",
+          "locator": "帕列斯、倫納德與阿蒙衝突的後續",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+          "locator": "帕列斯、倫納德與阿蒙衝突的後續",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/amon.v1.json",
+          "locator": "帕列斯、倫納德與阿蒙衝突的後續",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "寄居關係、各方權柄與事件細節各自取證。"
+      }
+    },
+    {
+      "id": "hanged-man-cattleya",
+      "name_zh": "嘉德麗雅的預言大師晉升支線",
+      "phase": "parallel",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1323,
+          "end": 1389
+        }
+      },
+      "location_id": null,
+      "summary": "嘉德麗雅傳記將預言大師的晉升定位在第七至第八卷，與她追索神燈、羅塞爾及預言的生涯支線交疊。",
+      "related_character_ids": [
+        "cattleya"
+      ],
+      "related_organization_ids": [
+        "tarot-club"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/cattleya.v1.json",
+          "locator": "嘉德麗雅的預言大師晉升支線",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "晉升時點、預言與神燈情報須分別核實。"
+      }
+    },
+    {
+      "id": "hanged-man-utopia",
+      "name_zh": "烏托邦之戰的跨卷線索",
+      "phase": "authority",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1344,
+          "end": 1375
+        }
+      },
+      "location_id": "utopia",
+      "summary": "查拉圖傳記將烏托邦之戰與落幕定位在第七至第八卷。這場衝突牽涉他與克萊恩在占卜家途徑上的競爭。",
+      "related_character_ids": [
+        "zaratul",
+        "klein-moretti"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/zaratul.v1.json",
+          "locator": "烏托邦之戰的跨卷線索",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "烏托邦之戰的跨卷線索",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "城市內外所見與交鋒內情需分別取得。結局待依第八卷細化。"
+      }
+    }
+  ],
+  "indexes": {
+    "by_character": {
+      "derrick-berg": [
+        "hanged-man-exodus"
+      ],
+      "nim": [
+        "hanged-man-moon"
+      ],
+      "klein-moretti": [
+        "hanged-man-moon",
+        "hanged-man-angel",
+        "hanged-man-antigonus",
+        "hanged-man-utopia"
+      ],
+      "alger-wilson": [
+        "hanged-man-alger"
+      ],
+      "emlyn-white": [
+        "hanged-man-emlyn"
+      ],
+      "fors-wall": [
+        "hanged-man-fors"
+      ],
+      "antigonus": [
+        "hanged-man-antigonus"
+      ],
+      "bernadette-gustav": [
+        "hanged-man-roselle"
+      ],
+      "roselle-gustav": [
+        "hanged-man-roselle"
+      ],
+      "audrey-hall": [
+        "hanged-man-audrey"
+      ],
+      "hermes": [
+        "hanged-man-hermes"
+      ],
+      "pallez-zoroast": [
+        "hanged-man-pallez"
+      ],
+      "leonard-mitchell": [
+        "hanged-man-pallez"
+      ],
+      "amon": [
+        "hanged-man-pallez"
+      ],
+      "cattleya": [
+        "hanged-man-cattleya"
+      ],
+      "zaratul": [
+        "hanged-man-utopia"
+      ]
+    },
+    "by_organization": {
+      "city-of-silver": [
+        "hanged-man-exodus"
+      ],
+      "church-storms": [
+        "hanged-man-alger"
+      ],
+      "tarot-club": [
+        "hanged-man-alger",
+        "hanged-man-fors",
+        "hanged-man-cattleya"
+      ],
+      "church-earth-mother": [
+        "hanged-man-emlyn"
+      ],
+      "sanguines": [
+        "hanged-man-emlyn"
+      ],
+      "abraham-family": [
+        "hanged-man-fors"
+      ],
+      "psychology-alchemists": [
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ]
+    },
+    "by_phase": {
+      "migration": [
+        "hanged-man-exodus",
+        "hanged-man-moon",
+        "hanged-man-angel"
+      ],
+      "parallel": [
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "authority": [
+        "hanged-man-antigonus",
+        "hanged-man-pallez",
+        "hanged-man-utopia"
+      ]
+    },
+    "by_chapter": {
+      "1151": [
+        "hanged-man-angel"
+      ],
+      "1152": [
+        "hanged-man-angel"
+      ],
+      "1153": [
+        "hanged-man-angel"
+      ],
+      "1154": [
+        "hanged-man-angel"
+      ],
+      "1155": [
+        "hanged-man-angel"
+      ],
+      "1156": [
+        "hanged-man-angel"
+      ],
+      "1157": [
+        "hanged-man-angel"
+      ],
+      "1158": [
+        "hanged-man-angel"
+      ],
+      "1159": [
+        "hanged-man-angel"
+      ],
+      "1160": [
+        "hanged-man-angel"
+      ],
+      "1161": [
+        "hanged-man-angel"
+      ],
+      "1162": [
+        "hanged-man-angel"
+      ],
+      "1163": [
+        "hanged-man-angel"
+      ],
+      "1164": [
+        "hanged-man-angel"
+      ],
+      "1165": [
+        "hanged-man-angel"
+      ],
+      "1166": [
+        "hanged-man-angel"
+      ],
+      "1167": [
+        "hanged-man-angel"
+      ],
+      "1168": [
+        "hanged-man-angel"
+      ],
+      "1169": [
+        "hanged-man-angel"
+      ],
+      "1170": [
+        "hanged-man-angel"
+      ],
+      "1171": [
+        "hanged-man-angel"
+      ],
+      "1172": [
+        "hanged-man-angel"
+      ],
+      "1173": [
+        "hanged-man-angel"
+      ],
+      "1174": [
+        "hanged-man-angel"
+      ],
+      "1175": [
+        "hanged-man-angel"
+      ],
+      "1176": [
+        "hanged-man-angel"
+      ],
+      "1177": [
+        "hanged-man-angel"
+      ],
+      "1178": [
+        "hanged-man-angel"
+      ],
+      "1179": [
+        "hanged-man-angel"
+      ],
+      "1180": [
+        "hanged-man-angel"
+      ],
+      "1181": [
+        "hanged-man-angel"
+      ],
+      "1182": [
+        "hanged-man-angel"
+      ],
+      "1183": [
+        "hanged-man-angel"
+      ],
+      "1184": [
+        "hanged-man-angel"
+      ],
+      "1185": [
+        "hanged-man-angel"
+      ],
+      "1186": [
+        "hanged-man-angel"
+      ],
+      "1187": [
+        "hanged-man-angel"
+      ],
+      "1188": [
+        "hanged-man-angel"
+      ],
+      "1189": [
+        "hanged-man-angel"
+      ],
+      "1190": [
+        "hanged-man-angel"
+      ],
+      "1191": [
+        "hanged-man-angel"
+      ],
+      "1192": [
+        "hanged-man-angel"
+      ],
+      "1193": [
+        "hanged-man-angel"
+      ],
+      "1194": [
+        "hanged-man-angel"
+      ],
+      "1195": [
+        "hanged-man-angel"
+      ],
+      "1196": [
+        "hanged-man-angel"
+      ],
+      "1197": [
+        "hanged-man-angel"
+      ],
+      "1198": [
+        "hanged-man-angel"
+      ],
+      "1199": [
+        "hanged-man-angel"
+      ],
+      "1200": [
+        "hanged-man-angel"
+      ],
+      "1201": [
+        "hanged-man-angel"
+      ],
+      "1202": [
+        "hanged-man-angel"
+      ],
+      "1203": [
+        "hanged-man-angel"
+      ],
+      "1204": [
+        "hanged-man-angel"
+      ],
+      "1205": [
+        "hanged-man-angel"
+      ],
+      "1206": [
+        "hanged-man-angel"
+      ],
+      "1207": [
+        "hanged-man-angel"
+      ],
+      "1208": [
+        "hanged-man-angel"
+      ],
+      "1209": [
+        "hanged-man-angel"
+      ],
+      "1210": [
+        "hanged-man-angel"
+      ],
+      "1211": [
+        "hanged-man-angel"
+      ],
+      "1212": [
+        "hanged-man-angel"
+      ],
+      "1213": [
+        "hanged-man-angel"
+      ],
+      "1214": [
+        "hanged-man-angel"
+      ],
+      "1215": [
+        "hanged-man-angel"
+      ],
+      "1216": [
+        "hanged-man-angel"
+      ],
+      "1217": [
+        "hanged-man-angel"
+      ],
+      "1218": [
+        "hanged-man-angel"
+      ],
+      "1219": [
+        "hanged-man-angel"
+      ],
+      "1220": [
+        "hanged-man-angel"
+      ],
+      "1221": [
+        "hanged-man-angel"
+      ],
+      "1222": [
+        "hanged-man-angel"
+      ],
+      "1223": [
+        "hanged-man-angel"
+      ],
+      "1224": [
+        "hanged-man-angel"
+      ],
+      "1225": [
+        "hanged-man-angel"
+      ],
+      "1226": [
+        "hanged-man-angel"
+      ],
+      "1227": [
+        "hanged-man-angel"
+      ],
+      "1228": [
+        "hanged-man-angel"
+      ],
+      "1229": [
+        "hanged-man-angel"
+      ],
+      "1230": [
+        "hanged-man-angel"
+      ],
+      "1231": [
+        "hanged-man-angel"
+      ],
+      "1232": [
+        "hanged-man-angel"
+      ],
+      "1233": [
+        "hanged-man-angel"
+      ],
+      "1234": [
+        "hanged-man-angel"
+      ],
+      "1235": [
+        "hanged-man-angel"
+      ],
+      "1236": [
+        "hanged-man-angel"
+      ],
+      "1237": [
+        "hanged-man-angel"
+      ],
+      "1238": [
+        "hanged-man-angel"
+      ],
+      "1239": [
+        "hanged-man-angel"
+      ],
+      "1240": [
+        "hanged-man-angel"
+      ],
+      "1241": [
+        "hanged-man-angel"
+      ],
+      "1242": [
+        "hanged-man-angel"
+      ],
+      "1243": [
+        "hanged-man-angel"
+      ],
+      "1244": [
+        "hanged-man-angel"
+      ],
+      "1245": [
+        "hanged-man-angel"
+      ],
+      "1246": [
+        "hanged-man-angel"
+      ],
+      "1247": [
+        "hanged-man-angel"
+      ],
+      "1248": [
+        "hanged-man-angel"
+      ],
+      "1249": [
+        "hanged-man-angel"
+      ],
+      "1250": [
+        "hanged-man-angel"
+      ],
+      "1251": [
+        "hanged-man-angel"
+      ],
+      "1252": [
+        "hanged-man-angel"
+      ],
+      "1253": [
+        "hanged-man-angel"
+      ],
+      "1254": [
+        "hanged-man-angel"
+      ],
+      "1255": [
+        "hanged-man-angel"
+      ],
+      "1256": [
+        "hanged-man-angel"
+      ],
+      "1257": [
+        "hanged-man-angel"
+      ],
+      "1258": [
+        "hanged-man-angel"
+      ],
+      "1259": [
+        "hanged-man-angel"
+      ],
+      "1260": [
+        "hanged-man-angel"
+      ],
+      "1261": [
+        "hanged-man-angel"
+      ],
+      "1262": [
+        "hanged-man-angel"
+      ],
+      "1263": [
+        "hanged-man-angel"
+      ],
+      "1264": [
+        "hanged-man-angel"
+      ],
+      "1265": [
+        "hanged-man-angel"
+      ],
+      "1266": [
+        "hanged-man-angel"
+      ],
+      "1267": [
+        "hanged-man-exodus",
+        "hanged-man-angel"
+      ],
+      "1268": [
+        "hanged-man-exodus",
+        "hanged-man-angel"
+      ],
+      "1269": [
+        "hanged-man-exodus",
+        "hanged-man-angel"
+      ],
+      "1270": [
+        "hanged-man-exodus"
+      ],
+      "1271": [
+        "hanged-man-exodus"
+      ],
+      "1272": [
+        "hanged-man-exodus"
+      ],
+      "1273": [
+        "hanged-man-exodus"
+      ],
+      "1274": [
+        "hanged-man-exodus"
+      ],
+      "1275": [
+        "hanged-man-exodus"
+      ],
+      "1276": [
+        "hanged-man-exodus",
+        "hanged-man-alger"
+      ],
+      "1277": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn"
+      ],
+      "1278": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn"
+      ],
+      "1279": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors"
+      ],
+      "1280": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors"
+      ],
+      "1281": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors"
+      ],
+      "1282": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors"
+      ],
+      "1283": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1284": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1285": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1286": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1287": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1288": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1289": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1290": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1291": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1292": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1293": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1294": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1295": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1296": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1297": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1298": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1299": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus"
+      ],
+      "1300": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1301": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1302": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1303": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1304": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1305": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1306": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1307": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1308": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1309": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1310": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1311": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1312": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1313": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1314": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1315": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle"
+      ],
+      "1316": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey"
+      ],
+      "1317": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey"
+      ],
+      "1318": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey"
+      ],
+      "1319": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ],
+      "1320": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ],
+      "1321": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ],
+      "1322": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ],
+      "1323": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1324": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1325": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-pallez",
+        "hanged-man-cattleya"
+      ],
+      "1326": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-pallez",
+        "hanged-man-cattleya"
+      ],
+      "1327": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-pallez",
+        "hanged-man-cattleya"
+      ],
+      "1328": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1329": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1330": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1331": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1332": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1333": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1334": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1335": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1336": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1337": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1338": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1339": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1340": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1341": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1342": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1343": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1344": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1345": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1346": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1347": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1348": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1349": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1350": [
+        "hanged-man-exodus",
+        "hanged-man-alger",
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1351": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1352": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-antigonus",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1353": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1354": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1355": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1356": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1357": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1358": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1359": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1360": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1361": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1362": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1363": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1364": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1365": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1366": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1367": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1368": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1369": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1370": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1371": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1372": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1373": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1374": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1375": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya",
+        "hanged-man-utopia"
+      ],
+      "1376": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1377": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1378": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1379": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1380": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1381": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1382": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1383": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1384": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1385": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1386": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1387": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1388": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1389": [
+        "hanged-man-emlyn",
+        "hanged-man-fors",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes",
+        "hanged-man-cattleya"
+      ],
+      "1390": [
+        "hanged-man-emlyn",
+        "hanged-man-roselle",
+        "hanged-man-audrey",
+        "hanged-man-hermes"
+      ],
+      "1391": [
+        "hanged-man-emlyn",
+        "hanged-man-roselle",
+        "hanged-man-audrey"
+      ],
+      "1392": [
+        "hanged-man-emlyn",
+        "hanged-man-audrey"
+      ],
+      "1393": [
+        "hanged-man-audrey"
+      ]
+    }
+  }
+}
