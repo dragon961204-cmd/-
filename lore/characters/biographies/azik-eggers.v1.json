@@ -1,0 +1,232 @@
+{
+  "schema_version": "1.0",
+  "character_id": "azik-eggers",
+  "name_zh": "阿茲克·艾格斯",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "一名在廷根教書且長期失憶的歷史學教員，其真相跨越第四紀、死神途徑與南大陸歷史。克萊恩與他共同追索記憶碎片，並形成超越一般師生的信任。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "第四紀的來歷",
+      "summary": "出身南大陸與拜朗帝國相關的艾格斯家族，與死神薩林格爾存在血緣和命運連結。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "死亡執政官",
+      "summary": "曾以死神途徑高序列身分參與古老帝國的秩序和衝突；不是1349年社會公眾所知的歷史。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "不完整的靈魂",
+      "summary": "與死神復活安排相關的靈魂分離導致記憶反覆缺失，他在不同人生中重新建立家庭與身分。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "拉姆德男爵的記憶",
+      "summary": "曾以拉姆德男爵身分生活，留有家人與地方史痕跡；這些線索讓他逐漸懷疑自己遠不止一位老師。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "廷根講師",
+      "summary": "在霍伊大學歷史學圈與克萊恩有所接觸，熟悉歷史觀點卻無法完整回憶自己過去。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "與克萊恩追查",
+      "summary": "克萊恩協助尋找拉姆德的歷史證據，阿茲克則發現克萊恩身上異常的命運痕跡。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "銅哨與通信",
+      "summary": "離開廷根後仍透過特殊信使聯絡克萊恩，並在若干重大事件中提供協助。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "南大陸與過往",
+      "summary": "隨著追查深入，更多死神教團、蒼白年代及古老人物的回憶浮現。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 9,
+      "title": "記憶與自由的選擇",
+      "summary": "面對恢復完整靈魂、重現古代性格和保持當代自我的選擇，他重視歷次人生累積的情感與人性。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 10,
+      "title": "後續甦醒",
+      "summary": "第二部描寫其狀態和記憶的進一步發展；遊戲需按具體時點切換。",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第四紀",
+      "event": "曾為死神途徑高位存在",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第四紀後",
+      "event": "多次失憶並經歷不同人生",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-06-30",
+      "event": "廷根大學與克萊恩重新接觸",
+      "precision": "day",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349夏季",
+      "event": "追查拉姆德男爵歷史",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第一部後期",
+      "event": "與克萊恩合作調查南大陸死神秘密",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "第二部1359年",
+      "event": "甦醒與記憶狀態變化（依二部核驗）",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "azik",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "eggers-family",
+      "start": "第四紀",
+      "end": null,
+      "role": "家族成員／血脈關係；不是行政組織入會",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [],
+  "pathway_history": [
+    {
+      "pathway": "death",
+      "sequence": "2",
+      "name": "死亡執政官",
+      "time": "第四紀起",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "klein-moretti",
+    "ince-zangwill",
+    "katarina-pelle"
+  ],
+  "game_integration": {
+    "early_visible_identity": "霍伊大學歷史學教員，對個人往事缺乏記憶。",
+    "restricted_truth": "死神之子、死亡執政官、分裂靈魂與古老經歷。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": true,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "azik": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Azik_Eggers/History",
+      "validation": "secondary_not_line_checked"
+    },
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
