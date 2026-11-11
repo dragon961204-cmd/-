@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "amon",
+  "name_zh": "阿蒙",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "阿蒙與第四紀的時天使、錯誤途徑及古老家族歷史相關，其分身與寄生能力挑戰人物身份的穩定性。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "在神棄之地、各大城市和高序列爭奪中，他的存在常透過間接線索和真假身份揭示。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "與克萊恩對源堡和權柄的角逐是第一部後期關鍵衝突，不能變成低序列玩家可單挑的敵人。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "後期身份與外神危機及第二部世界變化有關，需按時序保留分支。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "遊戲事件可利用假情報與身份異常設計，但應提供公平可追查的線索。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
