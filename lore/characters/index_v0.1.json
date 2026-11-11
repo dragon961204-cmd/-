@@ -1187,6 +1187,502 @@
       ],
       "aliases": [],
       "first_appearance": null
+    },
+    {
+      "id": "welch-mcgovern",
+      "name_zh": "韋爾奇·麥格文",
+      "name_en": "Welch McGovern",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·9"
+      }
+    },
+    {
+      "id": "naya",
+      "name_zh": "娜婭",
+      "name_en": "Naya",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·9"
+      }
+    },
+    {
+      "id": "selena-wood",
+      "name_zh": "賽琳娜·伍德",
+      "name_en": "Selena Wood",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·24"
+      }
+    },
+    {
+      "id": "elizabeth",
+      "name_zh": "伊莉莎白",
+      "name_en": "Elizabeth",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·24"
+      }
+    },
+    {
+      "id": "biber",
+      "name_zh": "瑞爾·比伯",
+      "name_en": "Ray Bieber",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·46"
+      }
+    },
+    {
+      "id": "lorotta",
+      "name_zh": "洛絡塔",
+      "name_en": "Lorotta",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·71"
+      }
+    },
+    {
+      "id": "borgia",
+      "name_zh": "博爾吉亞",
+      "name_en": "Borgia",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·71"
+      }
+    },
+    {
+      "id": "bredt",
+      "name_zh": "布萊特",
+      "name_en": "Bredt",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·19"
+      }
+    },
+    {
+      "id": "cesare-francis",
+      "name_zh": "凱撒·弗朗西斯",
+      "name_en": "Cesare Francis",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "jasmine",
+      "name_zh": "茉莉",
+      "name_en": "Jasmine",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "adelaide",
+      "name_zh": "阿德萊德",
+      "name_en": "Adelaide",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "dwayne-nighthawks",
+      "name_zh": "德韋恩",
+      "name_en": "Dwayne",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hitte",
+      "name_zh": "希特",
+      "name_en": "Hitte",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "grey-captain",
+      "name_zh": "格雷",
+      "name_en": "Grey",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "davy-raymond",
+      "name_zh": "戴維·雷蒙德",
+      "name_en": "Davy Raymond",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "cindy-redgloves",
+      "name_zh": "辛迪",
+      "name_en": "Cindy",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "bob-redgloves",
+      "name_zh": "鮑勃",
+      "name_en": "Bob",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "albert-redgloves",
+      "name_zh": "艾伯特",
+      "name_en": "Albert",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "eric-redgloves",
+      "name_zh": "埃里克",
+      "name_en": "Eric",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·1296"
+      }
+    },
+    {
+      "id": "grassis",
+      "name_zh": "格拉西斯",
+      "name_en": "Grassis",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·38"
+      }
+    },
+    {
+      "id": "anna-tingen",
+      "name_zh": "安娜",
+      "name_en": "Anna",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·54"
+      }
+    },
+    {
+      "id": "tuxedo-clown",
+      "name_zh": "燕尾服小丑",
+      "name_en": "Tuxedo Clown",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·73"
+      }
+    },
+    {
+      "id": "ralph-pund",
+      "name_zh": "拉夫特·龐德",
+      "name_en": "Raft Pound",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·262"
+      }
+    },
+    {
+      "id": "leppard",
+      "name_zh": "雷帕德",
+      "name_en": "Leppard",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·227"
+      }
+    },
+    {
+      "id": "cohen-quentin",
+      "name_zh": "科恩·昆汀",
+      "name_en": "Cohen Quentin",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kopshti-reid",
+      "name_zh": "考普斯蒂·瑞德",
+      "name_en": "Kopshti Reid",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·301"
+      }
+    },
+    {
+      "id": "jake-young",
+      "name_zh": "傑克",
+      "name_en": "Jack",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": {
+        "work": "Lord of Mysteries",
+        "chapter_index": "诡秘·53"
+      }
+    },
+    {
+      "id": "ait-tingen",
+      "name_zh": "艾特",
+      "name_en": "Ait",
+      "identity_status": "named_character",
+      "affiliation_review": "community_index_only",
+      "notes": "首批廷根優先考據；實際活動地點與在籍時點需逐章核實",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
     }
   ]
 }
