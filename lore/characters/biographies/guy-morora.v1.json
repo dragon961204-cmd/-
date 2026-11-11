@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "guy-morora",
+  "name_zh": "格伊",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-0f968a962ddc.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-0f968a962ddc.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第5卷·第792章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0792.html"
+    },
+    {
+      "label": "《宿命》第5卷·第837章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0837.html"
+    },
+    {
+      "label": "宿命·835",
+      "url": "https://lotmfanwiki.com/chapter/coi-0835.html"
+    },
+    {
+      "label": "宿命·828",
+      "url": "https://lotmfanwiki.com/chapter/coi-0828.html"
+    },
+    {
+      "label": "宿命·829",
+      "url": "https://lotmfanwiki.com/chapter/coi-0829.html"
+    },
+    {
+      "label": "宿命·804",
+      "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+    },
+    {
+      "label": "宿命·793",
+      "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+    },
+    {
+      "label": "宿命·808",
+      "url": "https://lotmfanwiki.com/chapter/coi-0808.html"
+    },
+    {
+      "label": "宿命·836",
+      "url": "https://lotmfanwiki.com/chapter/coi-0836.html"
+    },
+    {
+      "label": "宿命·798",
+      "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+    },
+    {
+      "label": "宿命·800",
+      "url": "https://lotmfanwiki.com/chapter/coi-0800.html"
+    },
+    {
+      "label": "宿命·823",
+      "url": "https://lotmfanwiki.com/chapter/coi-0823.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "格伊｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以重刑犯身分進入摩羅拉",
+        "prose": "格伊自稱殺過多人，與盧米安、朱莉、列斯一同被送往流放之城。他先到知識教堂閱讀和勘查，之後消失。後續揭露，他是來自特殊鏡中世界的閱讀者途徑非凡者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0f968a962ddc.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 792,
+          "end": 828
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第792章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0792.html"
+          },
+          {
+            "label": "宿命·828",
+            "url": "https://lotmfanwiki.com/chapter/coi-0828.html"
+          },
+          {
+            "label": "宿命·804",
+            "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+          },
+          {
+            "label": "宿命·793",
+            "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+          },
+          {
+            "label": "宿命·808",
+            "url": "https://lotmfanwiki.com/chapter/coi-0808.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "受污染後化為灰燼",
+        "prose": "格伊藏在漆黑胸甲中窺視外界，後來污染加劇，身體崩潰並失控。盧米安將他引向阿不思和莎莉絲特；他的屍體最終碎裂，流出的膿液引燃火焰，將其燒盡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-0f968a962ddc.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 835,
+          "end": 837
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第837章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0837.html"
+          },
+          {
+            "label": "宿命·835",
+            "url": "https://lotmfanwiki.com/chapter/coi-0835.html"
+          },
+          {
+            "label": "宿命·836",
+            "url": "https://lotmfanwiki.com/chapter/coi-0836.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

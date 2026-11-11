@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "maip-maier",
+  "name_zh": "邁普·邁爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-cb0749b6c9e4.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-cb0749b6c9e4.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第180章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0180.html"
+    },
+    {
+      "label": "《宿命》第3卷·第475章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+    },
+    {
+      "label": "宿命·417",
+      "url": "https://lotmfanwiki.com/chapter/coi-0417.html"
+    },
+    {
+      "label": "宿命·419",
+      "url": "https://lotmfanwiki.com/chapter/coi-0419.html"
+    },
+    {
+      "label": "宿命·458",
+      "url": "https://lotmfanwiki.com/chapter/coi-0458.html"
+    },
+    {
+      "label": "宿命·156",
+      "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+    },
+    {
+      "label": "宿命·157",
+      "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+    },
+    {
+      "label": "宿命·163",
+      "url": "https://lotmfanwiki.com/chapter/coi-0163.html"
+    },
+    {
+      "label": "宿命·179",
+      "url": "https://lotmfanwiki.com/chapter/coi-0179.html"
+    },
+    {
+      "label": "宿命·213",
+      "url": "https://lotmfanwiki.com/chapter/coi-0213.html"
+    },
+    {
+      "label": "宿命·215",
+      "url": "https://lotmfanwiki.com/chapter/coi-0215.html"
+    },
+    {
+      "label": "宿命·217",
+      "url": "https://lotmfanwiki.com/chapter/coi-0217.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 140
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "邁普·邁爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "劇場經理與大祭司的親信",
+        "prose": "邁普擁有並管理老鴿籠劇場，私下是至福會的受勳者，也是蘇珊娜的情人及親信。他與夏綠蒂都預先知悉暗影之樹的獻祭計畫。警方查到他牽涉邪教時，他已失去蹤影。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cb0749b6c9e4.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 156,
+          "end": 218
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第180章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0180.html"
+          },
+          {
+            "label": "宿命·156",
+            "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+          },
+          {
+            "label": "宿命·157",
+            "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+          },
+          {
+            "label": "宿命·163",
+            "url": "https://lotmfanwiki.com/chapter/coi-0163.html"
+          },
+          {
+            "label": "宿命·179",
+            "url": "https://lotmfanwiki.com/chapter/coi-0179.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "離開劇場後轉入地下",
+        "prose": "邁普不再當劇場經理，也逐漸受到其他核心成員排斥。魔女教派清理至福會後，他仍藏身市場區，並向其他邪神教派提供盧米安及其體內天使的消息。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-cb0749b6c9e4.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 363,
+          "end": 475
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第475章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0475.html"
+          },
+          {
+            "label": "宿命·417",
+            "url": "https://lotmfanwiki.com/chapter/coi-0417.html"
+          },
+          {
+            "label": "宿命·419",
+            "url": "https://lotmfanwiki.com/chapter/coi-0419.html"
+          },
+          {
+            "label": "宿命·458",
+            "url": "https://lotmfanwiki.com/chapter/coi-0458.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

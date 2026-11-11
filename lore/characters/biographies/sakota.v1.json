@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "sakota",
+  "name_zh": "薩科塔",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8c2dfd63d5b1.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8c2dfd63d5b1.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第176章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0176.html"
+    },
+    {
+      "label": "《宿命》第3卷·第413章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0413.html"
+    },
+    {
+      "label": "宿命·178",
+      "url": "https://lotmfanwiki.com/chapter/coi-0178.html"
+    },
+    {
+      "label": "宿命·181",
+      "url": "https://lotmfanwiki.com/chapter/coi-0181.html"
+    },
+    {
+      "label": "宿命·295",
+      "url": "https://lotmfanwiki.com/chapter/coi-0295.html"
+    },
+    {
+      "label": "宿命·174",
+      "url": "https://lotmfanwiki.com/chapter/coi-0174.html"
+    },
+    {
+      "label": "宿命·182",
+      "url": "https://lotmfanwiki.com/chapter/coi-0182.html"
+    },
+    {
+      "label": "宿命·195",
+      "url": "https://lotmfanwiki.com/chapter/coi-0195.html"
+    },
+    {
+      "label": "宿命·239",
+      "url": "https://lotmfanwiki.com/chapter/coi-0239.html"
+    },
+    {
+      "label": "宿命·309",
+      "url": "https://lotmfanwiki.com/chapter/coi-0309.html"
+    },
+    {
+      "label": "宿命·310",
+      "url": "https://lotmfanwiki.com/chapter/coi-0310.html"
+    },
+    {
+      "label": "宿命·362",
+      "url": "https://lotmfanwiki.com/chapter/coi-0362.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 137
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "薩科塔｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "舞廳交接時轉到盧米安麾下",
+        "prose": "加德納讓布里涅爾交出微風舞廳後，薩科塔和路易斯也轉而替盧米安辦事。薩科塔負責維持舞廳秩序，曾按盧米安的指示安排手下到市場大道126號附近蹲守。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c2dfd63d5b1.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 174,
+          "end": 239
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第176章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0176.html"
+          },
+          {
+            "label": "宿命·178",
+            "url": "https://lotmfanwiki.com/chapter/coi-0178.html"
+          },
+          {
+            "label": "宿命·181",
+            "url": "https://lotmfanwiki.com/chapter/coi-0181.html"
+          },
+          {
+            "label": "宿命·174",
+            "url": "https://lotmfanwiki.com/chapter/coi-0174.html"
+          },
+          {
+            "label": "宿命·182",
+            "url": "https://lotmfanwiki.com/chapter/coi-0182.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "替盧米安通報消息",
+        "prose": "薩科塔留在微風舞廳，向盧米安報告男爵的人正在找誰，也曾拿通緝令提醒他。特里爾洞穴協會的聯絡員求見時，由在樓梯口守候的薩科塔上樓通報。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8c2dfd63d5b1.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 309,
+          "end": 413
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第413章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0413.html"
+          },
+          {
+            "label": "宿命·309",
+            "url": "https://lotmfanwiki.com/chapter/coi-0309.html"
+          },
+          {
+            "label": "宿命·310",
+            "url": "https://lotmfanwiki.com/chapter/coi-0310.html"
+          },
+          {
+            "label": "宿命·362",
+            "url": "https://lotmfanwiki.com/chapter/coi-0362.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

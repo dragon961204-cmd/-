@@ -1,0 +1,164 @@
+{
+  "schema_version": "1.1",
+  "character_id": "waite-hillmon",
+  "name_zh": "韋特·希爾蒙",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-f800e5ad7e8c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-f800e5ad7e8c.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第4卷·第899章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0899.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1163章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1163.html"
+    },
+    {
+      "label": "詭祕·1216",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1216.html"
+    },
+    {
+      "label": "詭祕·1267",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1267.html"
+    },
+    {
+      "label": "詭祕·1299",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1299.html"
+    },
+    {
+      "label": "詭祕·1350",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1350.html"
+    },
+    {
+      "label": "詭祕·900",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0900.html"
+    },
+    {
+      "label": "詭祕·901",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0901.html"
+    },
+    {
+      "label": "詭祕·902",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0902.html"
+    },
+    {
+      "label": "詭祕·1168",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1168.html"
+    },
+    {
+      "label": "詭祕·1176",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1176.html"
+    },
+    {
+      "label": "詭祕·1266",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1266.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 145
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "韋特·希爾蒙｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "白銀城的半神長老",
+        "prose": "韋特原是白銀城六人議事團的長老與獵魔者。白銀城探索離開神棄之地的道路時，他是城內重要的半神戰力，後來晉升序列3銀騎士。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f800e5ad7e8c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 899,
+          "end": 1266
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第4卷·第899章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0899.html"
+          },
+          {
+            "label": "詭祕·1216",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1216.html"
+          },
+          {
+            "label": "詭祕·900",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0900.html"
+          },
+          {
+            "label": "詭祕·901",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0901.html"
+          },
+          {
+            "label": "詭祕·902",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0902.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "接任首席並帶領新白銀城",
+        "prose": "科林死後，韋特接任首席。白銀城在愚者的引導下走出神棄之地後，他在新白銀城延續這項職務。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f800e5ad7e8c.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1267,
+          "end": 1350
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1267",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1267.html"
+          },
+          {
+            "label": "詭祕·1299",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1299.html"
+          },
+          {
+            "label": "詭祕·1350",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1350.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "第二部仍任首席",
+        "prose": "《宿命之環》末期，韋特仍以新白銀城首席的身分行動，並在與榮耀之證有關的情節中受到阻礙。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-f800e5ad7e8c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1148,
+          "end": 1148
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

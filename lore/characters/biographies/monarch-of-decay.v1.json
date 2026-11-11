@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "monarch-of-decay",
+  "name_zh": "衰敗君王",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-7753cc3baaf2.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-7753cc3baaf2.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第7卷·第1270章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1270.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1175章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1175.html"
+    },
+    {
+      "label": "宿命·1164",
+      "url": "https://lotmfanwiki.com/chapter/coi-1164.html"
+    },
+    {
+      "label": "宿命·1167",
+      "url": "https://lotmfanwiki.com/chapter/coi-1167.html"
+    },
+    {
+      "label": "宿命·1165",
+      "url": "https://lotmfanwiki.com/chapter/coi-1165.html"
+    },
+    {
+      "label": "宿命·1052",
+      "url": "https://lotmfanwiki.com/chapter/coi-1052.html"
+    },
+    {
+      "label": "宿命·1089",
+      "url": "https://lotmfanwiki.com/chapter/coi-1089.html"
+    },
+    {
+      "label": "宿命·359",
+      "url": "https://lotmfanwiki.com/chapter/coi-0359.html"
+    },
+    {
+      "label": "宿命·1060",
+      "url": "https://lotmfanwiki.com/chapter/coi-1060.html"
+    },
+    {
+      "label": "宿命·1090",
+      "url": "https://lotmfanwiki.com/chapter/coi-1090.html"
+    },
+    {
+      "label": "宿命·1166",
+      "url": "https://lotmfanwiki.com/chapter/coi-1166.html"
+    },
+    {
+      "label": "宿命·1170",
+      "url": "https://lotmfanwiki.com/chapter/coi-1170.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 114
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "衰敗君王｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "病教背後的舊日",
+        "prose": "衰敗君王具有衰敗和必死的象徵，靠近祂的事物會迅速敗壞。病教曾用病神之名向民眾傳教，據後續揭露，該教派原先信奉的就是衰敗君王。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7753cc3baaf2.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1052,
+          "end": 1090
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1052",
+            "url": "https://lotmfanwiki.com/chapter/coi-1052.html"
+          },
+          {
+            "label": "宿命·1089",
+            "url": "https://lotmfanwiki.com/chapter/coi-1089.html"
+          },
+          {
+            "label": "宿命·1060",
+            "url": "https://lotmfanwiki.com/chapter/coi-1060.html"
+          },
+          {
+            "label": "宿命·1090",
+            "url": "https://lotmfanwiki.com/chapter/coi-1090.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "接受誘餌後遁入星界",
+        "prose": "末日交戰時，盧米安故意讓衰敗君王有機會占據自己的身體。祂接受機會後落入對方的安排，最終遭重創，遁入星界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7753cc3baaf2.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1164,
+          "end": 1174
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1164",
+            "url": "https://lotmfanwiki.com/chapter/coi-1164.html"
+          },
+          {
+            "label": "宿命·1167",
+            "url": "https://lotmfanwiki.com/chapter/coi-1167.html"
+          },
+          {
+            "label": "宿命·1165",
+            "url": "https://lotmfanwiki.com/chapter/coi-1165.html"
+          },
+          {
+            "label": "宿命·1166",
+            "url": "https://lotmfanwiki.com/chapter/coi-1166.html"
+          },
+          {
+            "label": "宿命·1170",
+            "url": "https://lotmfanwiki.com/chapter/coi-1170.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

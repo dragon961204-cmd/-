@@ -1,0 +1,133 @@
+{
+  "schema_version": "1.1",
+  "character_id": "kolobo",
+  "name_zh": "科洛博",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e21c97ca087f.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e21c97ca087f.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第644章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+    },
+    {
+      "label": "《宿命》第5卷·第768章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0768.html"
+    },
+    {
+      "label": "詭祕·256",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0256.html"
+    },
+    {
+      "label": "詭祕·605",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0605.html"
+    },
+    {
+      "label": "詭祕·849",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0849.html"
+    },
+    {
+      "label": "詭祕·910",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0910.html"
+    },
+    {
+      "label": "宿命·646",
+      "url": "https://lotmfanwiki.com/chapter/coi-0646.html"
+    },
+    {
+      "label": "宿命·661",
+      "url": "https://lotmfanwiki.com/chapter/coi-0661.html"
+    },
+    {
+      "label": "宿命·110",
+      "url": "https://lotmfanwiki.com/chapter/coi-0110.html"
+    },
+    {
+      "label": "宿命·222",
+      "url": "https://lotmfanwiki.com/chapter/coi-0222.html"
+    },
+    {
+      "label": "宿命·273",
+      "url": "https://lotmfanwiki.com/chapter/coi-0273.html"
+    },
+    {
+      "label": "宿命·307",
+      "url": "https://lotmfanwiki.com/chapter/coi-0307.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 145
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "科洛博｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以情報換報酬後遇襲",
+        "prose": "科洛博是派洛斯港巡查隊的命運途徑非凡者，兼做車夫。加繆引介他與盧米安見面後，他收取費用，寫下特瓦納科是隊內唯一一名囚犯途徑非凡者的情報。交出情報後他遭襲，因盧米安掩護而倖存。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e21c97ca087f.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 644,
+          "end": 654
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第644章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+          },
+          {
+            "label": "宿命·646",
+            "url": "https://lotmfanwiki.com/chapter/coi-0646.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在夢節前後顯出恐懼",
+        "prose": "科洛博曾躲在雜物間，想避開夢節，並對周遭變化表現出強烈恐懼。之後再見到化名路易·貝里的盧米安時，他仍不敢正眼看對方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e21c97ca087f.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 659,
+          "end": 768
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第768章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0768.html"
+          },
+          {
+            "label": "宿命·661",
+            "url": "https://lotmfanwiki.com/chapter/coi-0661.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

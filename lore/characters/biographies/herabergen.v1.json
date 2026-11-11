@@ -68,8 +68,8 @@
   },
   "biography_quality": {
     "continuous_prose_draft": true,
-    "narrative_sections": 3,
-    "narrative_zh_characters": 212
+    "narrative_sections": 4,
+    "narrative_zh_characters": 304
   },
   "narrative_biography": {
     "schema_version": "1.0",
@@ -95,7 +95,22 @@
         "status": "original_narrative_draft_pending_user_review"
       },
       {
-        "part": 3,
+        "title": "摩羅拉的人偶大主教",
+        "prose": "赫拉伯根在摩羅拉以赫拉貝格的身分活動，擔任知識教會的大主教。祂替盧米安指定讀物、出考題，還把書本知識提取到黃銅薄片裡。到了末日前夕，祂向盧米安說明，摩羅拉與周邊山脈實際位於祂的胃袋中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d2bda14a9315.html",
+          "https://lordofthemysteries.fandom.com/wiki/God_of_Knowledge_and_Wisdom"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 793,
+          "end": 1128
+        },
+        "status": "original_narrative_draft_pending_user_review",
+        "part": 3
+      },
+      {
+        "part": 4,
         "title": "從神國對抗到融合",
         "prose": "亞當試圖重聚權柄時，赫拉伯根曾與另外兩位真神一同被壓制在神國。到了《宿命之環》末期，祂選擇自我毀滅，最終與格里沙·亞當融合。",
         "source_pages": [

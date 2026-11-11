@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.1",
+  "character_id": "badheil",
+  "name_zh": "巴德海爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-dcb4abd4452e.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-dcb4abd4452e.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第18章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0018.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1066章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1066.html"
+    },
+    {
+      "label": "詭祕·138",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0138.html"
+    },
+    {
+      "label": "詭祕·180",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "詭祕·203",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0203.html"
+    },
+    {
+      "label": "詭祕·212",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0212.html"
+    },
+    {
+      "label": "詭祕·568",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+    },
+    {
+      "label": "詭祕·1068",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+    },
+    {
+      "label": "詭祕·1117",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+    },
+    {
+      "label": "詭祕·1118",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1118.html"
+    },
+    {
+      "label": "詭祕·649",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0649.html"
+    },
+    {
+      "label": "詭祕·1064",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1064.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 156
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "巴德海爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從巨人王長子到弗薩克正神",
+        "prose": "巴德海爾是巨人王奧爾米爾的長子，第二紀以晨曦之神活動，後來成為戰神。戴里克在巨人王庭的壁畫認出祂，也得知祂曾參與救贖薔薇。第五紀時，信奉祂的教會以弗薩克的黃昏巨殿為宗座。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dcb4abd4452e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 568,
+          "end": 1130
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·568",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+          },
+          {
+            "label": "詭祕·1068",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+          },
+          {
+            "label": "詭祕·1117",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+          },
+          {
+            "label": "詭祕·1118",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1118.html"
+          },
+          {
+            "label": "詭祕·649",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0649.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "神戰中失去盟友與神位",
+        "prose": "巴德海爾在戰爭中與黑夜女神正面交鋒，原以為會站在自己一方的大地母神卻是借用歐彌貝拉身分的莉莉絲。莉莉絲轉而協助黑夜女神，巴德海爾在神戰中隕落。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-dcb4abd4452e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1269,
+          "end": 1392
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

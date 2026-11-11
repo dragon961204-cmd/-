@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "an-xiaotian",
+  "name_zh": "安小天",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-2a250fe95244.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-2a250fe95244.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第6卷·第968章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0968.html"
+    },
+    {
+      "label": "《宿命》第6卷·第1031章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1031.html"
+    },
+    {
+      "label": "宿命·972",
+      "url": "https://lotmfanwiki.com/chapter/coi-0972.html"
+    },
+    {
+      "label": "宿命·990",
+      "url": "https://lotmfanwiki.com/chapter/coi-0990.html"
+    },
+    {
+      "label": "詭祕·1118",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1118.html"
+    },
+    {
+      "label": "詭祕·1165",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1165.html"
+    },
+    {
+      "label": "詭祕·1356",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1356.html"
+    },
+    {
+      "label": "詭祕·1374",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1374.html"
+    },
+    {
+      "label": "宿命·970",
+      "url": "https://lotmfanwiki.com/chapter/coi-0970.html"
+    },
+    {
+      "label": "宿命·976",
+      "url": "https://lotmfanwiki.com/chapter/coi-0976.html"
+    },
+    {
+      "label": "宿命·971",
+      "url": "https://lotmfanwiki.com/chapter/coi-0971.html"
+    },
+    {
+      "label": "宿命·974",
+      "url": "https://lotmfanwiki.com/chapter/coi-0974.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 132
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "安小天｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "演員因車禍退出拍攝",
+        "prose": "安小天在夢境都市原定飾演格爾曼·斯帕羅，車禍後成為植物人，長期住在紅月醫院。正義注意到換角後電影恢復拍攝，推測拍片原有的目的可能已經落空。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2a250fe95244.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 968,
+          "end": 976
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第6卷·第968章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0968.html"
+          },
+          {
+            "label": "宿命·972",
+            "url": "https://lotmfanwiki.com/chapter/coi-0972.html"
+          },
+          {
+            "label": "宿命·970",
+            "url": "https://lotmfanwiki.com/chapter/coi-0970.html"
+          },
+          {
+            "label": "宿命·976",
+            "url": "https://lotmfanwiki.com/chapter/coi-0976.html"
+          },
+          {
+            "label": "宿命·971",
+            "url": "https://lotmfanwiki.com/chapter/coi-0971.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "被喚醒後仍只是誤導選項",
+        "prose": "盧米安一行先設法培育治療蘑菇，失敗後改由路德維希協助，在病房讓安小天睜眼坐起。盧米安最後判斷，他和另一名演員賈玉都是誤導選項。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2a250fe95244.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 971,
+          "end": 1027
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·972",
+            "url": "https://lotmfanwiki.com/chapter/coi-0972.html"
+          },
+          {
+            "label": "宿命·990",
+            "url": "https://lotmfanwiki.com/chapter/coi-0990.html"
+          },
+          {
+            "label": "宿命·976",
+            "url": "https://lotmfanwiki.com/chapter/coi-0976.html"
+          },
+          {
+            "label": "宿命·971",
+            "url": "https://lotmfanwiki.com/chapter/coi-0971.html"
+          },
+          {
+            "label": "宿命·974",
+            "url": "https://lotmfanwiki.com/chapter/coi-0974.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

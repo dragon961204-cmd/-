@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "islant",
+  "name_zh": "伊思蘭特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a4ae5a83d4ef.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a4ae5a83d4ef.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第339章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0339.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1317章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1317.html"
+    },
+    {
+      "label": "詭祕·65",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0065.html"
+    },
+    {
+      "label": "詭祕·118",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0118.html"
+    },
+    {
+      "label": "詭祕·142",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0142.html"
+    },
+    {
+      "label": "詭祕·144",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0144.html"
+    },
+    {
+      "label": "詭祕·356",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0356.html"
+    },
+    {
+      "label": "詭祕·450",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0450.html"
+    },
+    {
+      "label": "詭祕·970",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0970.html"
+    },
+    {
+      "label": "詭祕·343",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0343.html"
+    },
+    {
+      "label": "詭祕·388",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0388.html"
+    },
+    {
+      "label": "詭祕·405",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0405.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 135
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊思蘭特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "心理學家庭教師",
+        "prose": "伊思蘭特由黛拉夫人推薦，到霍爾家教奧黛麗心理學。她談及潛意識和意識海，也說心理學與神秘學的交叉研究只在圈內流傳，讓奧黛麗推測她是心理鍊金會成員。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a4ae5a83d4ef.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 343,
+          "end": 405
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·356",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0356.html"
+          },
+          {
+            "label": "詭祕·343",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0343.html"
+          },
+          {
+            "label": "詭祕·388",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0388.html"
+          },
+          {
+            "label": "詭祕·405",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0405.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "引介奧黛麗進入研討圈",
+        "prose": "伊思蘭特邀奧黛麗參加研討會，帶她接觸斯蒂芬·漢普雷斯等人。奧黛麗以觀察與表演掩飾自己已知的內容，藉這次引介逐步接近心理鍊金會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a4ae5a83d4ef.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 388,
+          "end": 973
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·450",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0450.html"
+          },
+          {
+            "label": "詭祕·970",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0970.html"
+          },
+          {
+            "label": "詭祕·388",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0388.html"
+          },
+          {
+            "label": "詭祕·405",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0405.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

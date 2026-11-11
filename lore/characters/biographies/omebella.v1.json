@@ -1,0 +1,181 @@
+{
+  "schema_version": "1.1",
+  "character_id": "omebella",
+  "name_zh": "歐彌貝拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a8d3d20e2d52.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a8d3d20e2d52.html",
+      "verification": "pending_user_review"
+    },
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Omebella",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第3卷·第523章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0523.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1160章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1160.html"
+    },
+    {
+      "label": "宿命·775",
+      "url": "https://lotmfanwiki.com/chapter/coi-0775.html"
+    },
+    {
+      "label": "詭祕·1068",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+    },
+    {
+      "label": "宿命·741",
+      "url": "https://lotmfanwiki.com/chapter/coi-0741.html"
+    },
+    {
+      "label": "宿命·776",
+      "url": "https://lotmfanwiki.com/chapter/coi-0776.html"
+    },
+    {
+      "label": "宿命·1151",
+      "url": "https://lotmfanwiki.com/chapter/coi-1151.html"
+    },
+    {
+      "label": "詭祕·1067",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+    },
+    {
+      "label": "宿命·756",
+      "url": "https://lotmfanwiki.com/chapter/coi-0756.html"
+    },
+    {
+      "label": "詭祕·571",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0571.html"
+    },
+    {
+      "label": "詭祕·1078",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1078.html"
+    },
+    {
+      "label": "詭祕·1115",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1115.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 231
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "歐彌貝拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "巨人王后與被借用的身分",
+        "prose": "歐彌貝拉是巨人王奧爾米爾的王后，也曾被稱為豐收女神。她於第二紀末隕落，莉莉絲此後借用了她的身分與命運，以大地母神的身分活動。白銀城所持的「大地的恩賜」則留下真正王后的痕跡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a8d3d20e2d52.html",
+          "https://lordofthemysteries.fandom.com/wiki/Omebella"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 571,
+          "end": 1266
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1068",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+          },
+          {
+            "label": "詭祕·1067",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+          },
+          {
+            "label": "詭祕·571",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0571.html"
+          },
+          {
+            "label": "詭祕·1078",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1078.html"
+          },
+          {
+            "label": "詭祕·1115",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1115.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以神子之名再現",
+        "prose": "《宿命之環》中，歐彌貝拉之名又牽涉偉大母親的神子。普阿利斯孕育的女嬰、蒙塞拉特留下的臍帶，以及盧米安取得的血脈，都和這場安排相連。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a8d3d20e2d52.html",
+          "https://lordofthemysteries.fandom.com/wiki/Omebella"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 612,
+          "end": 1115
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·775",
+            "url": "https://lotmfanwiki.com/chapter/coi-0775.html"
+          },
+          {
+            "label": "宿命·741",
+            "url": "https://lotmfanwiki.com/chapter/coi-0741.html"
+          },
+          {
+            "label": "宿命·776",
+            "url": "https://lotmfanwiki.com/chapter/coi-0776.html"
+          },
+          {
+            "label": "宿命·756",
+            "url": "https://lotmfanwiki.com/chapter/coi-0756.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "末日中的象徵聯繫",
+        "prose": "盧米安在末日危機中毀去大地的恩賜與莉莉絲，藉象徵上的死亡打擊歐彌貝拉和母巢的聯繫。巨人王后、借其身分的莉莉絲，以及第二部的神子，在人物檔中依各自出現的時期理解。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a8d3d20e2d52.html",
+          "https://lordofthemysteries.fandom.com/wiki/Omebella"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1121,
+          "end": 1157
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·1151",
+            "url": "https://lotmfanwiki.com/chapter/coi-1151.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "來源頁跨古代巨人王后及第二部神子的不同時期。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

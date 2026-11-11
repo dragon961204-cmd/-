@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "flameng",
+  "name_zh": "弗拉芒",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a4012b51b913.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a4012b51b913.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第229章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0229.html"
+    },
+    {
+      "label": "《宿命》第5卷·第877章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0877.html"
+    },
+    {
+      "label": "宿命·230",
+      "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+    },
+    {
+      "label": "宿命·234",
+      "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+    },
+    {
+      "label": "宿命·247",
+      "url": "https://lotmfanwiki.com/chapter/coi-0247.html"
+    },
+    {
+      "label": "宿命·241",
+      "url": "https://lotmfanwiki.com/chapter/coi-0241.html"
+    },
+    {
+      "label": "宿命·268",
+      "url": "https://lotmfanwiki.com/chapter/coi-0268.html"
+    },
+    {
+      "label": "宿命·237",
+      "url": "https://lotmfanwiki.com/chapter/coi-0237.html"
+    },
+    {
+      "label": "宿命·266",
+      "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+    },
+    {
+      "label": "宿命·267",
+      "url": "https://lotmfanwiki.com/chapter/coi-0267.html"
+    },
+    {
+      "label": "宿命·414",
+      "url": "https://lotmfanwiki.com/chapter/coi-0414.html"
+    },
+    {
+      "label": "宿命·415",
+      "url": "https://lotmfanwiki.com/chapter/coi-0415.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "弗拉芒｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "遇見蒙蘇里鬼魂後失去家人",
+        "prose": "弗拉芒研究礦物，曾在市場區地底遇上蒙蘇里鬼魂，家人相繼死亡。他精神失常後搬到金雞旅館。盧米安用墮落水銀換走那段命運，使他恢復清明；弗拉芒後來仍在房內自縊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a4012b51b913.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 229,
+          "end": 241
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第229章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0229.html"
+          },
+          {
+            "label": "宿命·230",
+            "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+          },
+          {
+            "label": "宿命·234",
+            "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+          },
+          {
+            "label": "宿命·241",
+            "url": "https://lotmfanwiki.com/chapter/coi-0241.html"
+          },
+          {
+            "label": "宿命·237",
+            "url": "https://lotmfanwiki.com/chapter/coi-0237.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "骨灰與地血標本",
+        "prose": "依弗拉芒遺書所求，盧米安與警員把他的骨灰放進地下墓穴的墓燈墓室。盧米安也從警方領回他登記在案的遺物，當中有一塊地血礦石標本。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a4012b51b913.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 266,
+          "end": 415
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·268",
+            "url": "https://lotmfanwiki.com/chapter/coi-0268.html"
+          },
+          {
+            "label": "宿命·266",
+            "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+          },
+          {
+            "label": "宿命·267",
+            "url": "https://lotmfanwiki.com/chapter/coi-0267.html"
+          },
+          {
+            "label": "宿命·414",
+            "url": "https://lotmfanwiki.com/chapter/coi-0414.html"
+          },
+          {
+            "label": "宿命·415",
+            "url": "https://lotmfanwiki.com/chapter/coi-0415.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ruhr",
+  "name_zh": "魯爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-46d98b0a4c4c.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-46d98b0a4c4c.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第114章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "《宿命》第5卷·第876章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0876.html"
+    },
+    {
+      "label": "宿命·234",
+      "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+    },
+    {
+      "label": "宿命·236",
+      "url": "https://lotmfanwiki.com/chapter/coi-0236.html"
+    },
+    {
+      "label": "宿命·165",
+      "url": "https://lotmfanwiki.com/chapter/coi-0165.html"
+    },
+    {
+      "label": "宿命·232",
+      "url": "https://lotmfanwiki.com/chapter/coi-0232.html"
+    },
+    {
+      "label": "宿命·244",
+      "url": "https://lotmfanwiki.com/chapter/coi-0244.html"
+    },
+    {
+      "label": "宿命·245",
+      "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+    },
+    {
+      "label": "宿命·246",
+      "url": "https://lotmfanwiki.com/chapter/coi-0246.html"
+    },
+    {
+      "label": "宿命·265",
+      "url": "https://lotmfanwiki.com/chapter/coi-0265.html"
+    },
+    {
+      "label": "宿命·266",
+      "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+    },
+    {
+      "label": "宿命·235",
+      "url": "https://lotmfanwiki.com/chapter/coi-0235.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "魯爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "靠賣照片與拾荒過活",
+        "prose": "魯爾和妻子米歇爾住在金雞旅館302號房，在蘇希特車站向遊客賣假照片，晚上再去拾荒。他們打算存夠錢便回奧爾米爾買地種葡萄。于格當選宴會散場後，魯爾也到會場附近撿拾剩下的東西。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-46d98b0a4c4c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 114,
+          "end": 234
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第114章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+          },
+          {
+            "label": "宿命·234",
+            "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+          },
+          {
+            "label": "宿命·165",
+            "url": "https://lotmfanwiki.com/chapter/coi-0165.html"
+          },
+          {
+            "label": "宿命·232",
+            "url": "https://lotmfanwiki.com/chapter/coi-0232.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "怪病與地下墓穴",
+        "prose": "魯爾後來染上怪病，全身潰爛而死。妻子在他死後上吊，兩人未能返鄉。魯爾的遺體火化後，骨灰被送入地下墓穴安葬。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-46d98b0a4c4c.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 232,
+          "end": 266
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·234",
+            "url": "https://lotmfanwiki.com/chapter/coi-0234.html"
+          },
+          {
+            "label": "宿命·236",
+            "url": "https://lotmfanwiki.com/chapter/coi-0236.html"
+          },
+          {
+            "label": "宿命·232",
+            "url": "https://lotmfanwiki.com/chapter/coi-0232.html"
+          },
+          {
+            "label": "宿命·244",
+            "url": "https://lotmfanwiki.com/chapter/coi-0244.html"
+          },
+          {
+            "label": "宿命·245",
+            "url": "https://lotmfanwiki.com/chapter/coi-0245.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

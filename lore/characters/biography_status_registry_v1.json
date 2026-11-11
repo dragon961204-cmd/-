@@ -3,9 +3,9 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 268,
-    "individual_draft": 238,
-    "index_only": 30,
+    "indexed": 312,
+    "individual_draft": 283,
+    "index_only": 29,
     "verified": 0,
     "chapter_checked_claims": 12,
     "bios_with_some_chapter_checked_claims": 5,
@@ -1206,10 +1206,10 @@
     },
     {
       "character_id": "jake-young",
-      "name_zh": "傑克",
+      "name_zh": "小傑克",
       "tier": "C",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/jake-young.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -2763,6 +2763,402 @@
       "name_zh": "卡斯帕斯·坎立寧",
       "tier": null,
       "biography_path": "lore/characters/biographies/kaspars-kalinin.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "omebella",
+      "name_zh": "歐彌貝拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/omebella.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "original-creator",
+      "name_zh": "最初造物主",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/original-creator.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "green-roselle-knight",
+      "name_zh": "格林",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/green-roselle-knight.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hal-constantine",
+      "name_zh": "哈爾·康斯坦丁",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/hal-constantine.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "monarch-of-decay",
+      "name_zh": "衰敗君王",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/monarch-of-decay.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "baynfel",
+      "name_zh": "巴音費爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/baynfel.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "calamity-dragon",
+      "name_zh": "孽龍",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/calamity-dragon.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "armored-shadow",
+      "name_zh": "陳荼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/armored-shadow.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "peng-deng",
+      "name_zh": "彭登",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/peng-deng.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "islant",
+      "name_zh": "伊思蘭特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/islant.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ruhr",
+      "name_zh": "魯爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ruhr.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "charlotte-calvino",
+      "name_zh": "夏綠蒂·卡爾維諾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/charlotte-calvino.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "nikila",
+      "name_zh": "尼基拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/nikila.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "an-xiaotian",
+      "name_zh": "安小天",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/an-xiaotian.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "les-morora",
+      "name_zh": "列斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/les-morora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "stuart-detective",
+      "name_zh": "斯圖亞特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/stuart-detective.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "waite-hillmon",
+      "name_zh": "韋特·希爾蒙",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/waite-hillmon.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lentas",
+      "name_zh": "倫塔司",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/lentas.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "aurmir",
+      "name_zh": "奧爾米爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/aurmir.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gilchies",
+      "name_zh": "吉爾希艾斯",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gilchies.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "rosago",
+      "name_zh": "羅薩戈",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/rosago.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "luke-sommer",
+      "name_zh": "盧克·薩默爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/luke-sommer.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "margot-stinger",
+      "name_zh": "馬格特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/margot-stinger.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ait-iron-hammer",
+      "name_zh": "鐵錘艾特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ait-iron-hammer.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "guy-morora",
+      "name_zh": "格伊",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/guy-morora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "sakota",
+      "name_zh": "薩科塔",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/sakota.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "sir-de-ville",
+      "name_zh": "德維爾爵士",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/sir-de-ville.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "maip-maier",
+      "name_zh": "邁普·邁爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/maip-maier.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ilet-poet",
+      "name_zh": "伊萊特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/ilet-poet.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "tolzna",
+      "name_zh": "托爾茲納",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/tolzna.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "badheil",
+      "name_zh": "巴德海爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/badheil.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kendall-catacombs",
+      "name_zh": "肯達爾",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kendall-catacombs.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kolobo",
+      "name_zh": "科洛博",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/kolobo.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "baron-syndras",
+      "name_zh": "辛德拉斯男爵",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/baron-syndras.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "maslow-tizamo",
+      "name_zh": "麥斯洛",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/maslow-tizamo.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gregrace",
+      "name_zh": "格蕾嘉莉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/gregrace.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "haman-stinger",
+      "name_zh": "哈曼",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/haman-stinger.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "meursault",
+      "name_zh": "默爾索",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/meursault.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "flegrea",
+      "name_zh": "弗雷格拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/flegrea.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "nibbs-odora",
+      "name_zh": "尼拜斯·奧德拉",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/nibbs-odora.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "soniathrym",
+      "name_zh": "蘇尼亞索列姆",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/soniathrym.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "beost",
+      "name_zh": "貝奧斯特",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/beost.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "flameng",
+      "name_zh": "弗拉芒",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/flameng.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "raymond-craig",
+      "name_zh": "雷蒙德·克萊格",
+      "tier": null,
+      "biography_path": "lore/characters/biographies/raymond-craig.v1.json",
       "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": []

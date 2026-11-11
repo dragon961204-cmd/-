@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ait-iron-hammer",
+  "name_zh": "鐵錘艾特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-d88183a9863f.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-d88183a9863f.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第158章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0158.html"
+    },
+    {
+      "label": "《宿命》第3卷·第296章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0296.html"
+    },
+    {
+      "label": "詭祕·1290",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1290.html"
+    },
+    {
+      "label": "宿命·174",
+      "url": "https://lotmfanwiki.com/chapter/coi-0174.html"
+    },
+    {
+      "label": "宿命·171",
+      "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+    },
+    {
+      "label": "宿命·176",
+      "url": "https://lotmfanwiki.com/chapter/coi-0176.html"
+    },
+    {
+      "label": "宿命·192",
+      "url": "https://lotmfanwiki.com/chapter/coi-0192.html"
+    },
+    {
+      "label": "宿命·112",
+      "url": "https://lotmfanwiki.com/chapter/coi-0112.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·126",
+      "url": "https://lotmfanwiki.com/chapter/coi-0126.html"
+    },
+    {
+      "label": "宿命·130",
+      "url": "https://lotmfanwiki.com/chapter/coi-0130.html"
+    },
+    {
+      "label": "宿命·154",
+      "url": "https://lotmfanwiki.com/chapter/coi-0154.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 127
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "鐵錘艾特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從薩瓦黨叛向毒刺幫",
+        "prose": "艾特是擅長近戰的格鬥家，背離薩瓦黨後在毒刺幫做頭目。布里涅爾把獵殺任務交給盧米安，簡娜則在磨坊舞廳接觸盧米安，向他提供關於艾特的情報。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d88183a9863f.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 130,
+          "end": 165
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第158章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0158.html"
+          },
+          {
+            "label": "宿命·130",
+            "url": "https://lotmfanwiki.com/chapter/coi-0130.html"
+          },
+          {
+            "label": "宿命·154",
+            "url": "https://lotmfanwiki.com/chapter/coi-0154.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "盥洗室的伏擊",
+        "prose": "盧米安在艾特房間的盥洗室預先設下迷藥陷阱，伏擊並殺死他，隨後把屍體帶回微風舞廳。艾特析出的格鬥家特性被盧米安賣給加德納。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d88183a9863f.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 168,
+          "end": 174
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·174",
+            "url": "https://lotmfanwiki.com/chapter/coi-0174.html"
+          },
+          {
+            "label": "宿命·171",
+            "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "本檔是第二部毒刺幫的鐵錘艾特，早期 ait-tingen 索引身分仍待核。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

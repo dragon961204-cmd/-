@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "armored-shadow",
+  "name_zh": "陳荼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-b2acd53de209.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-b2acd53de209.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第319章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0319.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1080章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1080.html"
+    },
+    {
+      "label": "宿命·336",
+      "url": "https://lotmfanwiki.com/chapter/coi-0336.html"
+    },
+    {
+      "label": "宿命·373",
+      "url": "https://lotmfanwiki.com/chapter/coi-0373.html"
+    },
+    {
+      "label": "宿命·439",
+      "url": "https://lotmfanwiki.com/chapter/coi-0439.html"
+    },
+    {
+      "label": "宿命·318",
+      "url": "https://lotmfanwiki.com/chapter/coi-0318.html"
+    },
+    {
+      "label": "宿命·321",
+      "url": "https://lotmfanwiki.com/chapter/coi-0321.html"
+    },
+    {
+      "label": "宿命·320",
+      "url": "https://lotmfanwiki.com/chapter/coi-0320.html"
+    },
+    {
+      "label": "宿命·372",
+      "url": "https://lotmfanwiki.com/chapter/coi-0372.html"
+    },
+    {
+      "label": "宿命·374",
+      "url": "https://lotmfanwiki.com/chapter/coi-0374.html"
+    },
+    {
+      "label": "宿命·380",
+      "url": "https://lotmfanwiki.com/chapter/coi-0380.html"
+    },
+    {
+      "label": "宿命·437",
+      "url": "https://lotmfanwiki.com/chapter/coi-0437.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 185
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "陳荼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "意外召來的契約生物",
+        "prose": "盧米安原打算召喚尖嘯之影，卻召出盔甲幽影，從它身上取得影響靈體的哼哈之術。契約也讓盧米安在某些情況下產生想衝破拘束的強烈衝動，並須籌集黃金。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b2acd53de209.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 318,
+          "end": 374
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第319章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0319.html"
+          },
+          {
+            "label": "宿命·336",
+            "url": "https://lotmfanwiki.com/chapter/coi-0336.html"
+          },
+          {
+            "label": "宿命·373",
+            "url": "https://lotmfanwiki.com/chapter/coi-0373.html"
+          },
+          {
+            "label": "宿命·318",
+            "url": "https://lotmfanwiki.com/chapter/coi-0318.html"
+          },
+          {
+            "label": "宿命·321",
+            "url": "https://lotmfanwiki.com/chapter/coi-0321.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "以黃金重塑金身",
+        "prose": "盔甲幽影說自己的金身曾遭冥道人破壞，須用黃金重塑才能脫離拘禁。它又提到血皇帝擾亂地府、冥道人入河鎮壓之事；芙蘭卡從語言和描述推測，它與自己原本的世界有關。後來他自稱受天師敕封的鎮鬼之神陳荼，並向阿爾傑等人透露蓬萊及漂來屍體的線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b2acd53de209.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 373,
+          "end": 856
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·373",
+            "url": "https://lotmfanwiki.com/chapter/coi-0373.html"
+          },
+          {
+            "label": "宿命·439",
+            "url": "https://lotmfanwiki.com/chapter/coi-0439.html"
+          },
+          {
+            "label": "宿命·374",
+            "url": "https://lotmfanwiki.com/chapter/coi-0374.html"
+          },
+          {
+            "label": "宿命·380",
+            "url": "https://lotmfanwiki.com/chapter/coi-0380.html"
+          },
+          {
+            "label": "宿命·437",
+            "url": "https://lotmfanwiki.com/chapter/coi-0437.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

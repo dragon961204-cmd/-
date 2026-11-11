@@ -1,0 +1,169 @@
+{
+  "schema_version": "1.1",
+  "character_id": "aurmir",
+  "name_zh": "奧爾米爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8a48afb94a3b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8a48afb94a3b.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第203章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0203.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1131章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1131.html"
+    },
+    {
+      "label": "宿命·631",
+      "url": "https://lotmfanwiki.com/chapter/coi-0631.html"
+    },
+    {
+      "label": "詭祕·466",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0466.html"
+    },
+    {
+      "label": "詭祕·1068",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+    },
+    {
+      "label": "詭祕·1115",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1115.html"
+    },
+    {
+      "label": "詭祕·313",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+    },
+    {
+      "label": "詭祕·514",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0514.html"
+    },
+    {
+      "label": "詭祕·568",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+    },
+    {
+      "label": "詭祕·180",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "詭祕·315",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+    },
+    {
+      "label": "詭祕·448",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0448.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 215
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "奧爾米爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "巨人王庭的古神",
+        "prose": "奧爾米爾是第二紀的巨人王，統治巨人王庭；白銀城的先民也曾受其支配。王后歐彌貝拉有豐收女神之稱，長子巴德海爾日後成為戰神。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8a48afb94a3b.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 313,
+          "end": 568
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·466",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0466.html"
+          },
+          {
+            "label": "詭祕·313",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+          },
+          {
+            "label": "詭祕·514",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0514.html"
+          },
+          {
+            "label": "詭祕·568",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0568.html"
+          },
+          {
+            "label": "詭祕·315",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "古神盟約與背叛的說法",
+        "prose": "他曾與精靈王及莉莉絲結盟。古神戰爭之後，各方對誰先背叛盟約有不同說法；精靈王指責奧爾米爾，巨人一方則有相反記載。奧爾米爾後來已隕落，確切經過仍須按古史敘述核對。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8a48afb94a3b.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1068,
+          "end": 1130
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1068",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+          },
+          {
+            "label": "詭祕·1115",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1115.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "衰敗森林裡的人類墓葬",
+        "prose": "奧爾米爾只准自己進入父母下葬的衰敗森林。白銀城隊伍後來在兩具棺材裡找到人類遺骸；克萊恩據此推測，奧爾米爾可能是早期因融合非凡特性而成為巨人的人類之一。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8a48afb94a3b.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1068,
+          "end": 1130
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1068",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1068.html"
+          },
+          {
+            "label": "詭祕·1115",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1115.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

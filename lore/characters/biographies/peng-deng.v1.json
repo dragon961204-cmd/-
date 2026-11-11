@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "peng-deng",
+  "name_zh": "彭登",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-fd321065b065.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-fd321065b065.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第6卷·第925章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0925.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1088章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1088.html"
+    },
+    {
+      "label": "宿命·927",
+      "url": "https://lotmfanwiki.com/chapter/coi-0927.html"
+    },
+    {
+      "label": "宿命·1008",
+      "url": "https://lotmfanwiki.com/chapter/coi-1008.html"
+    },
+    {
+      "label": "宿命·928",
+      "url": "https://lotmfanwiki.com/chapter/coi-0928.html"
+    },
+    {
+      "label": "宿命·963",
+      "url": "https://lotmfanwiki.com/chapter/coi-0963.html"
+    },
+    {
+      "label": "宿命·964",
+      "url": "https://lotmfanwiki.com/chapter/coi-0964.html"
+    },
+    {
+      "label": "宿命·965",
+      "url": "https://lotmfanwiki.com/chapter/coi-0965.html"
+    },
+    {
+      "label": "宿命·976",
+      "url": "https://lotmfanwiki.com/chapter/coi-0976.html"
+    },
+    {
+      "label": "宿命·993",
+      "url": "https://lotmfanwiki.com/chapter/coi-0993.html"
+    },
+    {
+      "label": "宿命·1011",
+      "url": "https://lotmfanwiki.com/chapter/coi-1011.html"
+    },
+    {
+      "label": "宿命·1009",
+      "url": "https://lotmfanwiki.com/chapter/coi-1009.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 173
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "彭登｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "周明瑞在夢中的發小",
+        "prose": "夢境都市的彭登任職於設計公司盛維，是周明瑞的童年朋友，兩人在夢裡卻未曾於天黑後碰面。安東尼假裝找人裝修接觸他，之後出現接近祕偶化的異常，便主動退出夢境。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fd321065b065.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 925,
+          "end": 993
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第6卷·第925章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0925.html"
+          },
+          {
+            "label": "宿命·927",
+            "url": "https://lotmfanwiki.com/chapter/coi-0927.html"
+          },
+          {
+            "label": "宿命·928",
+            "url": "https://lotmfanwiki.com/chapter/coi-0928.html"
+          },
+          {
+            "label": "宿命·963",
+            "url": "https://lotmfanwiki.com/chapter/coi-0963.html"
+          },
+          {
+            "label": "宿命·964",
+            "url": "https://lotmfanwiki.com/chapter/coi-0964.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "租用魔鏡引來懷疑",
+        "prose": "彭登曾向星夢雜貨店借用阿羅德斯，芙蘭卡問魔鏡借用的目的卻沒有得到答覆。據夢中周明瑞所說，彭登由魔鏡遺留的力量和格里沙帶入夢境的部分意識形成。簡娜則推測，他和格里沙、阿蒙在終局牽制了偉大母親一方。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fd321065b065.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 976,
+          "end": 1088
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第7卷·第1088章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1088.html"
+          },
+          {
+            "label": "宿命·1008",
+            "url": "https://lotmfanwiki.com/chapter/coi-1008.html"
+          },
+          {
+            "label": "宿命·976",
+            "url": "https://lotmfanwiki.com/chapter/coi-0976.html"
+          },
+          {
+            "label": "宿命·993",
+            "url": "https://lotmfanwiki.com/chapter/coi-0993.html"
+          },
+          {
+            "label": "宿命·1011",
+            "url": "https://lotmfanwiki.com/chapter/coi-1011.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

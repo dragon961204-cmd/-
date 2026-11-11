@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "maslow-tizamo",
+  "name_zh": "麥斯洛",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-03bc70c3ac3b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-03bc70c3ac3b.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第661章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0661.html"
+    },
+    {
+      "label": "《宿命》第4卷·第699章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0699.html"
+    },
+    {
+      "label": "宿命·685",
+      "url": "https://lotmfanwiki.com/chapter/coi-0685.html"
+    },
+    {
+      "label": "宿命·670",
+      "url": "https://lotmfanwiki.com/chapter/coi-0670.html"
+    },
+    {
+      "label": "宿命·694",
+      "url": "https://lotmfanwiki.com/chapter/coi-0694.html"
+    },
+    {
+      "label": "宿命·671",
+      "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+    },
+    {
+      "label": "宿命·695",
+      "url": "https://lotmfanwiki.com/chapter/coi-0695.html"
+    },
+    {
+      "label": "宿命·697",
+      "url": "https://lotmfanwiki.com/chapter/coi-0697.html"
+    },
+    {
+      "label": "宿命·642",
+      "url": "https://lotmfanwiki.com/chapter/coi-0642.html"
+    },
+    {
+      "label": "宿命·644",
+      "url": "https://lotmfanwiki.com/chapter/coi-0644.html"
+    },
+    {
+      "label": "宿命·662",
+      "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+    },
+    {
+      "label": "宿命·640",
+      "url": "https://lotmfanwiki.com/chapter/coi-0640.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 148
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "麥斯洛｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "蒂扎莫鎮巡查隊長",
+        "prose": "據加繆所說，麥斯洛由雷亞薩招募並培養，後任蒂扎莫鎮巡查隊長。夢節期間他和雷亞薩一同從隊伍中消失，盧米安後來在叢林發現其遺體，加繆判斷死因涉及死亡領域的力量。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-03bc70c3ac3b.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 661,
+          "end": 685
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第661章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0661.html"
+          },
+          {
+            "label": "宿命·685",
+            "url": "https://lotmfanwiki.com/chapter/coi-0685.html"
+          },
+          {
+            "label": "宿命·670",
+            "url": "https://lotmfanwiki.com/chapter/coi-0670.html"
+          },
+          {
+            "label": "宿命·671",
+            "url": "https://lotmfanwiki.com/chapter/coi-0671.html"
+          },
+          {
+            "label": "宿命·662",
+            "url": "https://lotmfanwiki.com/chapter/coi-0662.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "夢中死亡與再醒",
+        "prose": "兩人在夢節中死亡後又在街上醒來。麥斯洛稱他們同屬靈教團皇室派，並轉述雷亞薩關於死神回歸的說法。其後他受控制，成了監視卡利神甫與鎮內情況的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-03bc70c3ac3b.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 694,
+          "end": 697
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·694",
+            "url": "https://lotmfanwiki.com/chapter/coi-0694.html"
+          },
+          {
+            "label": "宿命·695",
+            "url": "https://lotmfanwiki.com/chapter/coi-0695.html"
+          },
+          {
+            "label": "宿命·697",
+            "url": "https://lotmfanwiki.com/chapter/coi-0697.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

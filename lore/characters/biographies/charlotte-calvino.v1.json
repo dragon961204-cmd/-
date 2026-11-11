@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.1",
+  "character_id": "charlotte-calvino",
+  "name_zh": "夏綠蒂·卡爾維諾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-685bacca8cfa.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-685bacca8cfa.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第461章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0461.html"
+    },
+    {
+      "label": "宿命·255",
+      "url": "https://lotmfanwiki.com/chapter/coi-0255.html"
+    },
+    {
+      "label": "宿命·217",
+      "url": "https://lotmfanwiki.com/chapter/coi-0217.html"
+    },
+    {
+      "label": "宿命·363",
+      "url": "https://lotmfanwiki.com/chapter/coi-0363.html"
+    },
+    {
+      "label": "宿命·156",
+      "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+    },
+    {
+      "label": "宿命·157",
+      "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+    },
+    {
+      "label": "宿命·161",
+      "url": "https://lotmfanwiki.com/chapter/coi-0161.html"
+    },
+    {
+      "label": "宿命·163",
+      "url": "https://lotmfanwiki.com/chapter/coi-0163.html"
+    },
+    {
+      "label": "宿命·213",
+      "url": "https://lotmfanwiki.com/chapter/coi-0213.html"
+    },
+    {
+      "label": "宿命·251",
+      "url": "https://lotmfanwiki.com/chapter/coi-0251.html"
+    },
+    {
+      "label": "宿命·252",
+      "url": "https://lotmfanwiki.com/chapter/coi-0252.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 129
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "夏綠蒂·卡爾維諾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "劇場台柱兼至福會成員",
+        "prose": "夏綠蒂主演老鴿籠劇場的《林中仙女》，是當地人氣很高的女演員。她私下效力於信奉欲望母樹的至福會，和劇場經理邁普一樣，是少數預先知道蘇珊娜獻祭計畫的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-685bacca8cfa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 156,
+          "end": 217
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·217",
+            "url": "https://lotmfanwiki.com/chapter/coi-0217.html"
+          },
+          {
+            "label": "宿命·156",
+            "url": "https://lotmfanwiki.com/chapter/coi-0156.html"
+          },
+          {
+            "label": "宿命·157",
+            "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+          },
+          {
+            "label": "宿命·161",
+            "url": "https://lotmfanwiki.com/chapter/coi-0161.html"
+          },
+          {
+            "label": "宿命·163",
+            "url": "https://lotmfanwiki.com/chapter/coi-0163.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在暗影之樹中追捕祭品",
+        "prose": "計畫發動後，夏綠蒂受命控制被選作祭品的盧米安。她在暗影之樹影響的區域追擊他，最後在盧米安和芙蘭卡的反擊中身亡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-685bacca8cfa.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 253,
+          "end": 262
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·255",
+            "url": "https://lotmfanwiki.com/chapter/coi-0255.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "同頁另有第一部同名女工，本文只收第二部的劇場演員。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

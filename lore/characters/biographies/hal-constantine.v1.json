@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "hal-constantine",
+  "name_zh": "哈爾·康斯坦丁",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8802625902dd.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8802625902dd.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第292章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0292.html"
+    },
+    {
+      "label": "《宿命》第5卷·第791章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0791.html"
+    },
+    {
+      "label": "宿命·512",
+      "url": "https://lotmfanwiki.com/chapter/coi-0512.html"
+    },
+    {
+      "label": "宿命·779",
+      "url": "https://lotmfanwiki.com/chapter/coi-0779.html"
+    },
+    {
+      "label": "宿命·781",
+      "url": "https://lotmfanwiki.com/chapter/coi-0781.html"
+    },
+    {
+      "label": "宿命·778",
+      "url": "https://lotmfanwiki.com/chapter/coi-0778.html"
+    },
+    {
+      "label": "宿命·513",
+      "url": "https://lotmfanwiki.com/chapter/coi-0513.html"
+    },
+    {
+      "label": "宿命·777",
+      "url": "https://lotmfanwiki.com/chapter/coi-0777.html"
+    },
+    {
+      "label": "宿命·783",
+      "url": "https://lotmfanwiki.com/chapter/coi-0783.html"
+    },
+    {
+      "label": "宿命·780",
+      "url": "https://lotmfanwiki.com/chapter/coi-0780.html"
+    },
+    {
+      "label": "宿命·787",
+      "url": "https://lotmfanwiki.com/chapter/coi-0787.html"
+    },
+    {
+      "label": "宿命·784",
+      "url": "https://lotmfanwiki.com/chapter/coi-0784.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 125
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "哈爾·康斯坦丁｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "低調的深海中將",
+        "prose": "哈爾是海上諸位將軍之一，第一部稱他深海中將。海上有他具海怪血統的傳聞，他卻極少公開自身來歷；第二部時，他已以深海上將的稱號統領以紐因斯號為旗艦的船隊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8802625902dd.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 292,
+          "end": 292
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第292章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0292.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "巴納摩港遇襲",
+        "prose": "盧米安在巴納摩港登上紐因斯號與哈爾交戰。哈爾落敗後逃走；他在交鋒中表現出的能力引發了精靈身分的猜測。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8802625902dd.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 512,
+          "end": 791
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第791章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0791.html"
+          },
+          {
+            "label": "宿命·512",
+            "url": "https://lotmfanwiki.com/chapter/coi-0512.html"
+          },
+          {
+            "label": "宿命·779",
+            "url": "https://lotmfanwiki.com/chapter/coi-0779.html"
+          },
+          {
+            "label": "宿命·781",
+            "url": "https://lotmfanwiki.com/chapter/coi-0781.html"
+          },
+          {
+            "label": "宿命·778",
+            "url": "https://lotmfanwiki.com/chapter/coi-0778.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

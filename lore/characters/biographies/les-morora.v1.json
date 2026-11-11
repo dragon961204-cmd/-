@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "les-morora",
+  "name_zh": "列斯",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-7b8f9fedc488.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-7b8f9fedc488.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第5卷·第792章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0792.html"
+    },
+    {
+      "label": "《宿命》第5卷·第842章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0842.html"
+    },
+    {
+      "label": "宿命·740",
+      "url": "https://lotmfanwiki.com/chapter/coi-0740.html"
+    },
+    {
+      "label": "宿命·798",
+      "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+    },
+    {
+      "label": "宿命·818",
+      "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+    },
+    {
+      "label": "宿命·794",
+      "url": "https://lotmfanwiki.com/chapter/coi-0794.html"
+    },
+    {
+      "label": "宿命·804",
+      "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+    },
+    {
+      "label": "宿命·825",
+      "url": "https://lotmfanwiki.com/chapter/coi-0825.html"
+    },
+    {
+      "label": "宿命·793",
+      "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+    },
+    {
+      "label": "宿命·800",
+      "url": "https://lotmfanwiki.com/chapter/coi-0800.html"
+    },
+    {
+      "label": "宿命·797",
+      "url": "https://lotmfanwiki.com/chapter/coi-0797.html"
+    },
+    {
+      "label": "宿命·828",
+      "url": "https://lotmfanwiki.com/chapter/coi-0828.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 126
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "列斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "被流放的人肉廚師",
+        "prose": "列斯自稱是美食家途徑的廚師，以烹調他認定該死之人的肉聞名。他與盧米安等人被送往摩羅拉，之後受盧米安聘請，在食肉動物酒吧做廚師兼經理。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7b8f9fedc488.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 793,
+          "end": 804
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·798",
+            "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+          },
+          {
+            "label": "宿命·794",
+            "url": "https://lotmfanwiki.com/chapter/coi-0794.html"
+          },
+          {
+            "label": "宿命·804",
+            "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+          },
+          {
+            "label": "宿命·793",
+            "url": "https://lotmfanwiki.com/chapter/coi-0793.html"
+          },
+          {
+            "label": "宿命·800",
+            "url": "https://lotmfanwiki.com/chapter/coi-0800.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "死於自己招來的侍者",
+        "prose": "列斯把朱莉招進酒吧，讓她擔任侍者。朱莉暗中是痛苦魔女，後來殺死了他。這使酒吧原先的管理關係隨摩羅拉各方的非凡衝突而瓦解。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7b8f9fedc488.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 798,
+          "end": 842
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第5卷·第842章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0842.html"
+          },
+          {
+            "label": "宿命·798",
+            "url": "https://lotmfanwiki.com/chapter/coi-0798.html"
+          },
+          {
+            "label": "宿命·818",
+            "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+          },
+          {
+            "label": "宿命·804",
+            "url": "https://lotmfanwiki.com/chapter/coi-0804.html"
+          },
+          {
+            "label": "宿命·825",
+            "url": "https://lotmfanwiki.com/chapter/coi-0825.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

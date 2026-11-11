@@ -1,0 +1,152 @@
+{
+  "schema_version": "1.1",
+  "character_id": "nikila",
+  "name_zh": "尼基拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-4677b2649a80.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-4677b2649a80.html",
+      "verification": "pending_user_review"
+    },
+    {
+      "kind": "published_chapter_locator",
+      "url": "https://www.webnovel.com/book/lord-of-mysteries-2-circle-of-inevitability_25759730405792805/walking-into-a-trap_80010418818443856",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第727章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0727.html"
+    },
+    {
+      "label": "《宿命》第5卷·第848章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0848.html"
+    },
+    {
+      "label": "宿命·820",
+      "url": "https://lotmfanwiki.com/chapter/coi-0820.html"
+    },
+    {
+      "label": "宿命·821",
+      "url": "https://lotmfanwiki.com/chapter/coi-0821.html"
+    },
+    {
+      "label": "宿命·819",
+      "url": "https://lotmfanwiki.com/chapter/coi-0819.html"
+    },
+    {
+      "label": "宿命·739",
+      "url": "https://lotmfanwiki.com/chapter/coi-0739.html"
+    },
+    {
+      "label": "宿命·755",
+      "url": "https://lotmfanwiki.com/chapter/coi-0755.html"
+    },
+    {
+      "label": "宿命·814",
+      "url": "https://lotmfanwiki.com/chapter/coi-0814.html"
+    },
+    {
+      "label": "宿命·822",
+      "url": "https://lotmfanwiki.com/chapter/coi-0822.html"
+    },
+    {
+      "label": "宿命·818",
+      "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+    },
+    {
+      "label": "宿命·1063",
+      "url": "https://lotmfanwiki.com/chapter/coi-1063.html"
+    },
+    {
+      "label": "詭祕·164",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0164.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 138
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "尼基拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以普通職員身分藏身特里爾",
+        "prose": "尼基拉在糧食公司上班，作息規律，暗中是摩斯苦修會的非凡者。芙蘭卡等人懷疑他是鏡中人，設法把他誘進鏡中世界，由芙蘭卡、簡娜與安東尼合作制伏。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4677b2649a80.html",
+          "https://www.webnovel.com/book/lord-of-mysteries-2-circle-of-inevitability_25759730405792805/walking-into-a-trap_80010418818443856"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 814,
+          "end": 820
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·820",
+            "url": "https://lotmfanwiki.com/chapter/coi-0820.html"
+          },
+          {
+            "label": "宿命·819",
+            "url": "https://lotmfanwiki.com/chapter/coi-0819.html"
+          },
+          {
+            "label": "宿命·814",
+            "url": "https://lotmfanwiki.com/chapter/coi-0814.html"
+          },
+          {
+            "label": "宿命·818",
+            "url": "https://lotmfanwiki.com/chapter/coi-0818.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "受審後死亡",
+        "prose": "交鋒確認了他的鏡中人身分。審訊期間，他交代了荒野對窺秘人、通識者的呼喚，以及一部分鏡中人的活動線索；在他即將失控前，芙蘭卡和簡娜殺死了他。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-4677b2649a80.html",
+          "https://www.webnovel.com/book/lord-of-mysteries-2-circle-of-inevitability_25759730405792805/walking-into-a-trap_80010418818443856"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 820,
+          "end": 822
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·820",
+            "url": "https://lotmfanwiki.com/chapter/coi-0820.html"
+          },
+          {
+            "label": "宿命·821",
+            "url": "https://lotmfanwiki.com/chapter/coi-0821.html"
+          },
+          {
+            "label": "宿命·822",
+            "url": "https://lotmfanwiki.com/chapter/coi-0822.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

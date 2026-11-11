@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "flegrea",
+  "name_zh": "弗雷格拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9f93d4259251.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9f93d4259251.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第46章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0046.html"
+    },
+    {
+      "label": "《宿命》第4卷·第631章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0631.html"
+    },
+    {
+      "label": "詭祕·653",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0653.html"
+    },
+    {
+      "label": "詭祕·992",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0992.html"
+    },
+    {
+      "label": "詭祕·1171",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1171.html"
+    },
+    {
+      "label": "詭祕·313",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+    },
+    {
+      "label": "詭祕·314",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0314.html"
+    },
+    {
+      "label": "詭祕·315",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+    },
+    {
+      "label": "詭祕·519",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0519.html"
+    },
+    {
+      "label": "詭祕·57",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0057.html"
+    },
+    {
+      "label": "詭祕·168",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0168.html"
+    },
+    {
+      "label": "詭祕·169",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0169.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 159
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "弗雷格拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "第二紀的毀滅魔狼",
+        "prose": "弗雷格拉是執掌黑夜與隱秘等權柄的古神，也掌握占卜家途徑的力量。阿曼妮西斯曾以厄運女神的身分在祂麾下，安提哥努斯是祂的幼子，天之母親則是祂的女兒。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f93d4259251.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 313,
+          "end": 653
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·653",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0653.html"
+          },
+          {
+            "label": "詭祕·313",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+          },
+          {
+            "label": "詭祕·314",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0314.html"
+          },
+          {
+            "label": "詭祕·315",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+          },
+          {
+            "label": "詭祕·519",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0519.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "隕落後仍留下囈語",
+        "prose": "弗雷格拉早在第二紀便隕落，克萊恩服食占卜家途徑魔藥或接觸筆記殘留時，卻曾聽見祂的名字和霍納奇斯一同出現。迷霧小鎮教堂裡也有相似的聲音，讓古神的名字再度與安提哥努斯的歷史接上。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f93d4259251.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 46,
+          "end": 1374
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第1卷·第46章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0046.html"
+          },
+          {
+            "label": "詭祕·653",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0653.html"
+          },
+          {
+            "label": "詭祕·992",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0992.html"
+          },
+          {
+            "label": "詭祕·1171",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1171.html"
+          },
+          {
+            "label": "詭祕·313",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0313.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

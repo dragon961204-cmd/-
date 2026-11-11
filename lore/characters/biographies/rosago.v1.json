@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "rosago",
+  "name_zh": "羅薩戈",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-8f008b7369e8.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-8f008b7369e8.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第249章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0249.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1232章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1232.html"
+    },
+    {
+      "label": "詭祕·251",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0251.html"
+    },
+    {
+      "label": "詭祕·252",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0252.html"
+    },
+    {
+      "label": "詭祕·350",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0350.html"
+    },
+    {
+      "label": "詭祕·248",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0248.html"
+    },
+    {
+      "label": "詭祕·250",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0250.html"
+    },
+    {
+      "label": "詭祕·253",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0253.html"
+    },
+    {
+      "label": "詭祕·92",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0092.html"
+    },
+    {
+      "label": "詭祕·104",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0104.html"
+    },
+    {
+      "label": "詭祕·183",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0183.html"
+    },
+    {
+      "label": "詭祕·261",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0261.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 141
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "羅薩戈｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "替因蒂斯大使行動的祕偶大師",
+        "prose": "羅薩戈是貝克朗最得力的助手，為序列5祕偶大師。他奉命報復克萊恩，冒充法辛警長進入明斯克街15號，試圖控制在場的人，卻被帶有真實造物主囈語的手段反制，死在克萊恩手下。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f008b7369e8.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 248,
+          "end": 253
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第249章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0249.html"
+          },
+          {
+            "label": "詭祕·251",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0251.html"
+          },
+          {
+            "label": "詭祕·252",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0252.html"
+          },
+          {
+            "label": "詭祕·248",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0248.html"
+          },
+          {
+            "label": "詭祕·250",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0250.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "全黑之眼成為晉升材料",
+        "prose": "他的遺體被丟進下水道，析出的全黑之眼則帶有污染。克萊恩把特性留在灰霧之上，等無面人魔藥消化後，再以其中的非凡特性晉升。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-8f008b7369e8.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 251,
+          "end": 668
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·251",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0251.html"
+          },
+          {
+            "label": "詭祕·252",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0252.html"
+          },
+          {
+            "label": "詭祕·350",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0350.html"
+          },
+          {
+            "label": "詭祕·253",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0253.html"
+          },
+          {
+            "label": "詭祕·261",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0261.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

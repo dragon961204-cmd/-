@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "margot-stinger",
+  "name_zh": "馬格特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-bc32d8694768.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-bc32d8694768.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第126章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0126.html"
+    },
+    {
+      "label": "《宿命》第4卷·第660章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0660.html"
+    },
+    {
+      "label": "宿命·139",
+      "url": "https://lotmfanwiki.com/chapter/coi-0139.html"
+    },
+    {
+      "label": "宿命·129",
+      "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+    },
+    {
+      "label": "宿命·133",
+      "url": "https://lotmfanwiki.com/chapter/coi-0133.html"
+    },
+    {
+      "label": "宿命·192",
+      "url": "https://lotmfanwiki.com/chapter/coi-0192.html"
+    },
+    {
+      "label": "宿命·112",
+      "url": "https://lotmfanwiki.com/chapter/coi-0112.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·173",
+      "url": "https://lotmfanwiki.com/chapter/coi-0173.html"
+    },
+    {
+      "label": "宿命·402",
+      "url": "https://lotmfanwiki.com/chapter/coi-0402.html"
+    },
+    {
+      "label": "宿命·131",
+      "url": "https://lotmfanwiki.com/chapter/coi-0131.html"
+    },
+    {
+      "label": "宿命·132",
+      "url": "https://lotmfanwiki.com/chapter/coi-0132.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 127
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "馬格特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "磨坊舞廳的毒刺幫頭目",
+        "prose": "馬格特外號惡狼，是序列8挑釁者，替毒刺幫管理磨坊舞廳並控制部分收入。他曾性侵一名照顧簡娜的地下歌手，簡娜因此起過親手報仇的念頭。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bc32d8694768.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 126,
+          "end": 173
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第126章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0126.html"
+          },
+          {
+            "label": "宿命·139",
+            "url": "https://lotmfanwiki.com/chapter/coi-0139.html"
+          },
+          {
+            "label": "宿命·129",
+            "url": "https://lotmfanwiki.com/chapter/coi-0129.html"
+          },
+          {
+            "label": "宿命·133",
+            "url": "https://lotmfanwiki.com/chapter/coi-0133.html"
+          },
+          {
+            "label": "宿命·173",
+            "url": "https://lotmfanwiki.com/chapter/coi-0173.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "遭墮落水銀劃傷後死亡",
+        "prose": "盧米安把馬格特引到巷中，以墮落水銀劃傷他。馬格特逃到黑蠍羅傑家中，仍在羅傑眼前離奇死亡，市場區一度混亂，幫內位置由威爾遜接替。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bc32d8694768.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 131,
+          "end": 225
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·139",
+            "url": "https://lotmfanwiki.com/chapter/coi-0139.html"
+          },
+          {
+            "label": "宿命·133",
+            "url": "https://lotmfanwiki.com/chapter/coi-0133.html"
+          },
+          {
+            "label": "宿命·192",
+            "url": "https://lotmfanwiki.com/chapter/coi-0192.html"
+          },
+          {
+            "label": "宿命·173",
+            "url": "https://lotmfanwiki.com/chapter/coi-0173.html"
+          },
+          {
+            "label": "宿命·131",
+            "url": "https://lotmfanwiki.com/chapter/coi-0131.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

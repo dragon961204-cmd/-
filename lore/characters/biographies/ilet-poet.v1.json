@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "ilet-poet",
+  "name_zh": "伊萊特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e95c7a021100.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e95c7a021100.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第3卷·第340章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0340.html"
+    },
+    {
+      "label": "《宿命》第3卷·第435章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0435.html"
+    },
+    {
+      "label": "宿命·342",
+      "url": "https://lotmfanwiki.com/chapter/coi-0342.html"
+    },
+    {
+      "label": "宿命·370",
+      "url": "https://lotmfanwiki.com/chapter/coi-0370.html"
+    },
+    {
+      "label": "宿命·339",
+      "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+    },
+    {
+      "label": "宿命·341",
+      "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+    },
+    {
+      "label": "宿命·424",
+      "url": "https://lotmfanwiki.com/chapter/coi-0424.html"
+    },
+    {
+      "label": "宿命·434",
+      "url": "https://lotmfanwiki.com/chapter/coi-0434.html"
+    },
+    {
+      "label": "宿命·367",
+      "url": "https://lotmfanwiki.com/chapter/coi-0367.html"
+    },
+    {
+      "label": "宿命·368",
+      "url": "https://lotmfanwiki.com/chapter/coi-0368.html"
+    },
+    {
+      "label": "宿命·369",
+      "url": "https://lotmfanwiki.com/chapter/coi-0369.html"
+    },
+    {
+      "label": "宿命·425",
+      "url": "https://lotmfanwiki.com/chapter/coi-0425.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 135
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "伊萊特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "參加黑貓聚會的詩人",
+        "prose": "伊萊特與阿諾利、盧米安等人在黑貓聚會中相識。他常參加普伊弗伯爵的國王餅遊戲；有一回普伊弗成為國王，命他把身上的錢都給街對面的流浪漢。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e95c7a021100.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 341,
+          "end": 342
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·342",
+            "url": "https://lotmfanwiki.com/chapter/coi-0342.html"
+          },
+          {
+            "label": "宿命·341",
+            "url": "https://lotmfanwiki.com/chapter/coi-0341.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "在紅天鵝堡尋求贊助",
+        "prose": "伊萊特帶女伴赴普伊弗的沙龍，當眾表示與其投資廣告，不如贊助他，盧米安便表示願意。沙龍的國王餅遊戲中，這次換成盧米安當國王，伊萊特向他行禮。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e95c7a021100.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 367,
+          "end": 435
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第3卷·第435章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0435.html"
+          },
+          {
+            "label": "宿命·370",
+            "url": "https://lotmfanwiki.com/chapter/coi-0370.html"
+          },
+          {
+            "label": "宿命·424",
+            "url": "https://lotmfanwiki.com/chapter/coi-0424.html"
+          },
+          {
+            "label": "宿命·434",
+            "url": "https://lotmfanwiki.com/chapter/coi-0434.html"
+          },
+          {
+            "label": "宿命·367",
+            "url": "https://lotmfanwiki.com/chapter/coi-0367.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

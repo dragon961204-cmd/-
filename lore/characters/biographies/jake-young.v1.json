@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "jake-young",
+  "name_zh": "小傑克",
+  "name_en": "Jack",
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-d3f615a46b14.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-d3f615a46b14.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第53章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0053.html"
+    },
+    {
+      "label": "《詭祕》第6卷·第1155章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1155.html"
+    },
+    {
+      "label": "詭祕·457",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0457.html"
+    },
+    {
+      "label": "詭祕·486",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0486.html"
+    },
+    {
+      "label": "詭祕·467",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0467.html"
+    },
+    {
+      "label": "詭祕·625",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+    },
+    {
+      "label": "詭祕·455",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0455.html"
+    },
+    {
+      "label": "詭祕·460",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0460.html"
+    },
+    {
+      "label": "詭祕·616",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0616.html"
+    },
+    {
+      "label": "詭祕·672",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0672.html"
+    },
+    {
+      "label": "詭祕·540",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0540.html"
+    },
+    {
+      "label": "詭祕·666",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0666.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 155
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "小傑克｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "跟著父親來到神棄之地",
+        "prose": "傑克是來自魯恩恩馬特港的男孩，後來確認他被極光會的傾聽者帶進神棄之地。白銀城小隊在祭台後發現他；探索遭遇循環時，他曾異變並重傷約書亞，直到科林斬去他胸腹的人臉。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d3f615a46b14.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 53,
+          "end": 467
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第1卷·第53章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0053.html"
+          },
+          {
+            "label": "詭祕·457",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0457.html"
+          },
+          {
+            "label": "詭祕·467",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0467.html"
+          },
+          {
+            "label": "詭祕·455",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0455.html"
+          },
+          {
+            "label": "詭祕·460",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0460.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "為白銀城探索隊引路",
+        "prose": "傑克傷勢好轉後，隨科林等人再度出城。小隊靠他的記憶找到路徑與廢墟，他也透露自己一行是從海邊進入神棄之地。這使白銀城首次得以循一位外來者的經驗探索出路。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d3f615a46b14.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 486,
+          "end": 672
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·486",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0486.html"
+          },
+          {
+            "label": "詭祕·625",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0625.html"
+          },
+          {
+            "label": "詭祕·616",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0616.html"
+          },
+          {
+            "label": "詭祕·672",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0672.html"
+          },
+          {
+            "label": "詭祕·540",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0540.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "沿用既有人物 ID，補上恩馬特港與白銀城兩段身分線索。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

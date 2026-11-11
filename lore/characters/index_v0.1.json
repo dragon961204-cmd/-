@@ -1661,7 +1661,7 @@
     },
     {
       "id": "jake-young",
-      "name_zh": "傑克",
+      "name_zh": "小傑克",
       "name_en": "Jack",
       "identity_status": "named_character",
       "affiliation_review": "community_index_only",
@@ -1670,6 +1670,10 @@
         {
           "kind": "community_index",
           "reference": "https://lotmfanwiki.com/type/p.html"
+        },
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d3f615a46b14.html"
         }
       ],
       "aliases": [],
@@ -3019,12 +3023,17 @@
         {
           "kind": "wiki_published_character_page",
           "reference": "https://lotmfanwiki.com/node/cn-p-fb8730bf5918.html"
+        },
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d2bda14a9315.html"
         }
       ],
       "aliases": [
         "知識與智慧之神",
         "智天使",
-        "智慧之龍"
+        "智慧之龍",
+        "赫拉貝格"
       ],
       "first_appearance": null
     },
@@ -4451,6 +4460,745 @@
         {
           "kind": "wiki_published_character_page",
           "reference": "https://lotmfanwiki.com/node/cn-p-16f0fb326d2e.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "omebella",
+      "name_zh": "歐彌貝拉",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "來源頁跨古代巨人王后及第二部神子的不同時期。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a8d3d20e2d52.html"
+        }
+      ],
+      "aliases": [
+        "巨人王后",
+        "豐收女神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "original-creator",
+      "name_zh": "最初造物主",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "部分文本的原初稱號有歧義，按情境區分最初造物主與原初上帝。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ea04bbd0af4d.html"
+        }
+      ],
+      "aliases": [
+        "最初那位造物主"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "green-roselle-knight",
+      "name_zh": "格林",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-6d55bc3191e1.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "hal-constantine",
+      "name_zh": "哈爾·康斯坦丁",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-8802625902dd.html"
+        }
+      ],
+      "aliases": [
+        "深海中將",
+        "深海上將"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "monarch-of-decay",
+      "name_zh": "衰敗君王",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-7753cc3baaf2.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "baynfel",
+      "name_zh": "巴音費爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-6f33e9a6f331.html"
+        }
+      ],
+      "aliases": [
+        "懺悔者"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "calamity-dragon",
+      "name_zh": "孽龍",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-03f2fe5b6789.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "armored-shadow",
+      "name_zh": "陳荼",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-b2acd53de209.html"
+        }
+      ],
+      "aliases": [
+        "盔甲幽影",
+        "鎮鬼之神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "peng-deng",
+      "name_zh": "彭登",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-fd321065b065.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "islant",
+      "name_zh": "伊思蘭特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a4ae5a83d4ef.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ruhr",
+      "name_zh": "魯爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-46d98b0a4c4c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "charlotte-calvino",
+      "name_zh": "夏綠蒂·卡爾維諾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "同頁另有第一部同名女工，本文只收第二部的劇場演員。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-685bacca8cfa.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "nikila",
+      "name_zh": "尼基拉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-4677b2649a80.html"
+        }
+      ],
+      "aliases": [
+        "格里菲斯"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "an-xiaotian",
+      "name_zh": "安小天",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-2a250fe95244.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "les-morora",
+      "name_zh": "列斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-7b8f9fedc488.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "stuart-detective",
+      "name_zh": "斯圖亞特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-398556320df0.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "waite-hillmon",
+      "name_zh": "韋特·希爾蒙",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f800e5ad7e8c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "lentas",
+      "name_zh": "倫塔司",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-60b75db76f0a.html"
+        }
+      ],
+      "aliases": [
+        "假埃夫"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "aurmir",
+      "name_zh": "奧爾米爾",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-8a48afb94a3b.html"
+        }
+      ],
+      "aliases": [
+        "巨人王"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "gilchies",
+      "name_zh": "吉爾希艾斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a6921ad8ddf7.html"
+        }
+      ],
+      "aliases": [
+        "屠殺者"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "rosago",
+      "name_zh": "羅薩戈",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-8f008b7369e8.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "luke-sommer",
+      "name_zh": "盧克·薩默爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-c6d7951cac82.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "margot-stinger",
+      "name_zh": "馬格特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-bc32d8694768.html"
+        }
+      ],
+      "aliases": [
+        "惡狼馬格特"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "ait-iron-hammer",
+      "name_zh": "鐵錘艾特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "本檔是第二部毒刺幫的鐵錘艾特，早期 ait-tingen 索引身分仍待核。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d88183a9863f.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "guy-morora",
+      "name_zh": "格伊",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-0f968a962ddc.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "sakota",
+      "name_zh": "薩科塔",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-8c2dfd63d5b1.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "sir-de-ville",
+      "name_zh": "德維爾爵士",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-bd636690585e.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "maip-maier",
+      "name_zh": "邁普·邁爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-cb0749b6c9e4.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "ilet-poet",
+      "name_zh": "伊萊特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e95c7a021100.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "tolzna",
+      "name_zh": "托爾茲納",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9e801b888ef3.html"
+        }
+      ],
+      "aliases": [
+        "被縛之神",
+        "靈物之神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "badheil",
+      "name_zh": "巴德海爾",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-dcb4abd4452e.html"
+        }
+      ],
+      "aliases": [
+        "戰神",
+        "晨曦之神"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "kendall-catacombs",
+      "name_zh": "肯達爾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "同頁的守泉老人是否即肯達爾，待核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-3747dfcb28b0.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "kolobo",
+      "name_zh": "科洛博",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e21c97ca087f.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "baron-syndras",
+      "name_zh": "辛德拉斯男爵",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-03956eec01b8.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "maslow-tizamo",
+      "name_zh": "麥斯洛",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-03bc70c3ac3b.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "gregrace",
+      "name_zh": "格蕾嘉莉",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-38cc4773907a.html"
+        }
+      ],
+      "aliases": [
+        "不死鳥始祖"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "haman-stinger",
+      "name_zh": "哈曼",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-d9f660125eb4.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "meursault",
+      "name_zh": "默爾索",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-74e1931969d7.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "flegrea",
+      "name_zh": "弗雷格拉",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9f93d4259251.html"
+        }
+      ],
+      "aliases": [
+        "毀滅魔狼"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "nibbs-odora",
+      "name_zh": "尼拜斯·奧德拉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9b25b8936627.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "soniathrym",
+      "name_zh": "蘇尼亞索列姆",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-976c56a3e3bb.html"
+        }
+      ],
+      "aliases": [
+        "精靈王"
+      ],
+      "first_appearance": null
+    },
+    {
+      "id": "beost",
+      "name_zh": "貝奧斯特",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e290c05f4480.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "flameng",
+      "name_zh": "弗拉芒",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a4012b51b913.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": null
+    },
+    {
+      "id": "raymond-craig",
+      "name_zh": "雷蒙德·克萊格",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由已收錄來源頁補建，待使用者核對。",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html"
         }
       ],
       "aliases": [],

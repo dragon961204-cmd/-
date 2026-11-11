@@ -1,0 +1,153 @@
+{
+  "schema_version": "1.1",
+  "character_id": "nibbs-odora",
+  "name_zh": "尼拜斯·奧德拉",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9b25b8936627.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9b25b8936627.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第458章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0458.html"
+    },
+    {
+      "label": "《詭祕》第7卷·第1279章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1279.html"
+    },
+    {
+      "label": "詭祕·1009",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1009.html"
+    },
+    {
+      "label": "詭祕·1226",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1226.html"
+    },
+    {
+      "label": "詭祕·1238",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1238.html"
+    },
+    {
+      "label": "詭祕·459",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0459.html"
+    },
+    {
+      "label": "詭祕·639",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0639.html"
+    },
+    {
+      "label": "詭祕·797",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0797.html"
+    },
+    {
+      "label": "詭祕·539",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0539.html"
+    },
+    {
+      "label": "詭祕·540",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0540.html"
+    },
+    {
+      "label": "詭祕·969",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0969.html"
+    },
+    {
+      "label": "詭祕·970",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0970.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 156
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "尼拜斯·奧德拉｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "沉睡的侯爵試探埃姆林",
+        "prose": "尼拜斯是早在第四紀便活動的血族侯爵，平時由孫子卡西米代為出面。他告訴埃姆林，始祖把埃姆林列為應對末日的關鍵人物，私下卻向卡西米承認這是自己編來說服對方的。大霧霾後，他仍向埃姆林交付原先準備的獎賞。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9b25b8936627.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 458,
+          "end": 540
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第458章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0458.html"
+          },
+          {
+            "label": "詭祕·459",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0459.html"
+          },
+          {
+            "label": "詭祕·539",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0539.html"
+          },
+          {
+            "label": "詭祕·540",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0540.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "古堡情報加深猜疑",
+        "prose": "歐內斯轉述尼拜斯提供的德萊爾森林古堡情報，使埃姆林再度接觸血族上層的安排。埃姆林認為那是試探，開始對尼拜斯心生提防。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9b25b8936627.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 969,
+          "end": 1238
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1009",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1009.html"
+          },
+          {
+            "label": "詭祕·1226",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1226.html"
+          },
+          {
+            "label": "詭祕·1238",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1238.html"
+          },
+          {
+            "label": "詭祕·969",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0969.html"
+          },
+          {
+            "label": "詭祕·970",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0970.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

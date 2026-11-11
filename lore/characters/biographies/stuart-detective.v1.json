@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "stuart-detective",
+  "name_zh": "斯圖亞特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-398556320df0.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-398556320df0.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第299章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0299.html"
+    },
+    {
+      "label": "《詭祕》第3卷·第613章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0613.html"
+    },
+    {
+      "label": "詭祕·412",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0412.html"
+    },
+    {
+      "label": "詭祕·413",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0413.html"
+    },
+    {
+      "label": "詭祕·306",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0306.html"
+    },
+    {
+      "label": "詭祕·371",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0371.html"
+    },
+    {
+      "label": "詭祕·305",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0305.html"
+    },
+    {
+      "label": "詭祕·315",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+    },
+    {
+      "label": "詭祕·316",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0316.html"
+    },
+    {
+      "label": "詭祕·337",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0337.html"
+    },
+    {
+      "label": "詭祕·365",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0365.html"
+    },
+    {
+      "label": "詭祕·366",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0366.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 117
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "斯圖亞特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "與夏洛克往來的私家偵探",
+        "prose": "斯圖亞特在貝克蘭德當偵探。處理珠寶商兒子亞特魯的異常時，他提議求助醫師或風暴教會，並對夏洛克當場保持鎮定留下深刻印象。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-398556320df0.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 299,
+          "end": 371
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第299章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0299.html"
+          },
+          {
+            "label": "詭祕·306",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0306.html"
+          },
+          {
+            "label": "詭祕·371",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0371.html"
+          },
+          {
+            "label": "詭祕·305",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0305.html"
+          },
+          {
+            "label": "詭祕·315",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0315.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "遭欲望使徒操弄",
+        "prose": "斯圖亞特後來被欲望使徒引導，情緒失控並開槍。事後他和家人被安排接受保護；相關事件後來仍在偵探與官方追查案件時被提及。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-398556320df0.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 412,
+          "end": 613
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第3卷·第613章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0613.html"
+          },
+          {
+            "label": "詭祕·412",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0412.html"
+          },
+          {
+            "label": "詭祕·413",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0413.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

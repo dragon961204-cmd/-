@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "haman-stinger",
+  "name_zh": "哈曼",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-d9f660125eb4.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-d9f660125eb4.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第147章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0147.html"
+    },
+    {
+      "label": "《宿命》第2卷·第230章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+    },
+    {
+      "label": "宿命·164",
+      "url": "https://lotmfanwiki.com/chapter/coi-0164.html"
+    },
+    {
+      "label": "宿命·224",
+      "url": "https://lotmfanwiki.com/chapter/coi-0224.html"
+    },
+    {
+      "label": "宿命·165",
+      "url": "https://lotmfanwiki.com/chapter/coi-0165.html"
+    },
+    {
+      "label": "宿命·225",
+      "url": "https://lotmfanwiki.com/chapter/coi-0225.html"
+    },
+    {
+      "label": "宿命·171",
+      "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+    },
+    {
+      "label": "宿命·199",
+      "url": "https://lotmfanwiki.com/chapter/coi-0199.html"
+    },
+    {
+      "label": "宿命·222",
+      "url": "https://lotmfanwiki.com/chapter/coi-0222.html"
+    },
+    {
+      "label": "宿命·226",
+      "url": "https://lotmfanwiki.com/chapter/coi-0226.html"
+    },
+    {
+      "label": "宿命·170",
+      "url": "https://lotmfanwiki.com/chapter/coi-0170.html"
+    },
+    {
+      "label": "宿命·227",
+      "url": "https://lotmfanwiki.com/chapter/coi-0227.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 124
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "哈曼｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "與羅傑創立毒刺幫",
+        "prose": "哈曼外號光頭，和羅傑一起在特里爾市場區開磨坊舞廳，是毒刺幫頭目兼羅傑副手。他能讓身體變得堅硬，在盧米安獵殺毒刺幫頭目時曾與他交手。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d9f660125eb4.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 164,
+          "end": 199
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·164",
+            "url": "https://lotmfanwiki.com/chapter/coi-0164.html"
+          },
+          {
+            "label": "宿命·165",
+            "url": "https://lotmfanwiki.com/chapter/coi-0165.html"
+          },
+          {
+            "label": "宿命·171",
+            "url": "https://lotmfanwiki.com/chapter/coi-0171.html"
+          },
+          {
+            "label": "宿命·199",
+            "url": "https://lotmfanwiki.com/chapter/coi-0199.html"
+          },
+          {
+            "label": "宿命·170",
+            "url": "https://lotmfanwiki.com/chapter/coi-0170.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "等候恩賜時遭突襲",
+        "prose": "哈曼與羅傑、卡斯蒂娜在市場大道126號等待月女士的恩賜。突襲中芙蘭卡開槍打碎他的頭，他死後化成活屍，又被她以黑焰處理。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-d9f660125eb4.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 222,
+          "end": 230
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第230章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0230.html"
+          },
+          {
+            "label": "宿命·224",
+            "url": "https://lotmfanwiki.com/chapter/coi-0224.html"
+          },
+          {
+            "label": "宿命·225",
+            "url": "https://lotmfanwiki.com/chapter/coi-0225.html"
+          },
+          {
+            "label": "宿命·222",
+            "url": "https://lotmfanwiki.com/chapter/coi-0222.html"
+          },
+          {
+            "label": "宿命·226",
+            "url": "https://lotmfanwiki.com/chapter/coi-0226.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

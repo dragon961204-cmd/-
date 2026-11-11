@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "raymond-craig",
+  "name_zh": "雷蒙德·克萊格",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-a7bf04e1cd6b.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第3章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0003.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1045章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1045.html"
+    },
+    {
+      "label": "宿命·5",
+      "url": "https://lotmfanwiki.com/chapter/coi-0005.html"
+    },
+    {
+      "label": "宿命·20",
+      "url": "https://lotmfanwiki.com/chapter/coi-0020.html"
+    },
+    {
+      "label": "宿命·104",
+      "url": "https://lotmfanwiki.com/chapter/coi-0104.html"
+    },
+    {
+      "label": "宿命·7",
+      "url": "https://lotmfanwiki.com/chapter/coi-0007.html"
+    },
+    {
+      "label": "宿命·11",
+      "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+    },
+    {
+      "label": "宿命·16",
+      "url": "https://lotmfanwiki.com/chapter/coi-0016.html"
+    },
+    {
+      "label": "宿命·8",
+      "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+    },
+    {
+      "label": "宿命·30",
+      "url": "https://lotmfanwiki.com/chapter/coi-0030.html"
+    },
+    {
+      "label": "宿命·31",
+      "url": "https://lotmfanwiki.com/chapter/coi-0031.html"
+    },
+    {
+      "label": "宿命·63",
+      "url": "https://lotmfanwiki.com/chapter/coi-0063.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 144
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "雷蒙德·克萊格｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜村的青年",
+        "prose": "雷蒙德是皮埃爾·克萊格的次子，常和盧米安、阿娃一起玩，原打算學習牧羊。他也曾陪盧米安訪問村裡老人，打聽巫師的傳聞。夢中的四旬節慶典後，他出門便沒有再回來。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 3,
+          "end": 63
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第1卷·第3章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0003.html"
+          },
+          {
+            "label": "宿命·5",
+            "url": "https://lotmfanwiki.com/chapter/coi-0005.html"
+          },
+          {
+            "label": "宿命·20",
+            "url": "https://lotmfanwiki.com/chapter/coi-0020.html"
+          },
+          {
+            "label": "宿命·7",
+            "url": "https://lotmfanwiki.com/chapter/coi-0007.html"
+          },
+          {
+            "label": "宿命·11",
+            "url": "https://lotmfanwiki.com/chapter/coi-0011.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "遭蓬斯一夥滅口",
+        "prose": "奧蘿爾通靈時，雷蒙德的靈指出蓬斯·貝內和教堂地底。後來蘇茜分析，雷蒙德與阿娃是因發現村裡的異常而遭滅口，雷蒙德被蓬斯等人按進河裡淹死。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-a7bf04e1cd6b.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 64,
+          "end": 278
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·104",
+            "url": "https://lotmfanwiki.com/chapter/coi-0104.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

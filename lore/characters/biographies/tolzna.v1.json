@@ -1,0 +1,165 @@
+{
+  "schema_version": "1.1",
+  "character_id": "tolzna",
+  "name_zh": "托爾茲納",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-9e801b888ef3.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-9e801b888ef3.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第180章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0180.html"
+    },
+    {
+      "label": "《宿命》第8卷·第1157章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1157.html"
+    },
+    {
+      "label": "詭祕·1234",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1234.html"
+    },
+    {
+      "label": "詭祕·314",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0314.html"
+    },
+    {
+      "label": "詭祕·1067",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+    },
+    {
+      "label": "詭祕·1117",
+      "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+    },
+    {
+      "label": "詭祕·878",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0878.html"
+    },
+    {
+      "label": "詭祕·366",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0366.html"
+    },
+    {
+      "label": "詭祕·630",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0630.html"
+    },
+    {
+      "label": "詭祕·689",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0689.html"
+    },
+    {
+      "label": "詭祕·735",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0735.html"
+    },
+    {
+      "label": "詭祕·904",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0904.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 3,
+    "narrative_zh_characters": 194
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "托爾茲納｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "靈物之神與玫瑰學派",
+        "prose": "托爾茲納曾是異種王的從神，也參與救贖薔薇。拜朗的反抗運動中，祂再度出現，玫瑰學派隨之興起。蕾妮特曾是祂的眷者；據她所說，早期學派只信奉被縛之神，奉行節制。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e801b888ef3.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 1041,
+          "end": 1130
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1067",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+          },
+          {
+            "label": "詭祕·1117",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "被欲望母樹侵蝕",
+        "prose": "斯厄阿自稱是被縛之神的子嗣；學派有人把被縛之神解釋成欲望母樹的化身。克萊恩則推測，欲望母樹曾頂替托爾茲納，侵佔祂的權柄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e801b888ef3.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 366,
+          "end": 1366
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·1234",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1234.html"
+          },
+          {
+            "label": "詭祕·1067",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1067.html"
+          },
+          {
+            "label": "詭祕·1117",
+            "url": "https://lotmfanwiki.com/chapter/lotm-1117.html"
+          },
+          {
+            "label": "詭祕·878",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0878.html"
+          },
+          {
+            "label": "詭祕·366",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0366.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "成為祭品",
+        "prose": "《宿命之環》的漩渦事件與紅月降臨後，托爾茲納的身體和精神已被欲望母樹的污染填滿，實質死亡，並在後續儀式中成為祭品。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e801b888ef3.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 1140,
+          "end": 1157
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第8卷·第1157章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1157.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

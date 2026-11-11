@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "kendall-catacombs",
+  "name_zh": "肯達爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-3747dfcb28b0.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-3747dfcb28b0.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第115章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0115.html"
+    },
+    {
+      "label": "《宿命》第5卷·第850章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0850.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·123",
+      "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+    },
+    {
+      "label": "宿命·159",
+      "url": "https://lotmfanwiki.com/chapter/coi-0159.html"
+    },
+    {
+      "label": "宿命·266",
+      "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+    },
+    {
+      "label": "宿命·339",
+      "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+    },
+    {
+      "label": "宿命·750",
+      "url": "https://lotmfanwiki.com/chapter/coi-0750.html"
+    },
+    {
+      "label": "宿命·414",
+      "url": "https://lotmfanwiki.com/chapter/coi-0414.html"
+    },
+    {
+      "label": "宿命·751",
+      "url": "https://lotmfanwiki.com/chapter/coi-0751.html"
+    },
+    {
+      "label": "宿命·752",
+      "url": "https://lotmfanwiki.com/chapter/coi-0752.html"
+    },
+    {
+      "label": "宿命·753",
+      "url": "https://lotmfanwiki.com/chapter/coi-0753.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 160
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "肯達爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "以白蠟燭引人進入墓穴",
+        "prose": "肯達爾是特里爾地下墓穴的管理員，帶參觀者前往藏骨堂，也提醒他們更深處可能有惡靈。盧米安帶弗拉芒的骨灰來安葬時，他再次負責引路；後來洞穴協會透過他得知盧米安能察覺墓穴異常。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3747dfcb28b0.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 115,
+          "end": 414
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第115章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0115.html"
+          },
+          {
+            "label": "宿命·123",
+            "url": "https://lotmfanwiki.com/chapter/coi-0123.html"
+          },
+          {
+            "label": "宿命·159",
+            "url": "https://lotmfanwiki.com/chapter/coi-0159.html"
+          },
+          {
+            "label": "宿命·266",
+            "url": "https://lotmfanwiki.com/chapter/coi-0266.html"
+          },
+          {
+            "label": "宿命·339",
+            "url": "https://lotmfanwiki.com/chapter/coi-0339.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "同頁記載的守泉老人",
+        "prose": "第五卷另有一位蒼老的墓穴管理員守在撒瑪利亞婦人泉，見到盧米安掌中的封印便把他視作同類，託他處理異變屍骸。這段先保留為同頁記載，身分是否確為肯達爾待核。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3747dfcb28b0.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 750,
+          "end": 752
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·750",
+            "url": "https://lotmfanwiki.com/chapter/coi-0750.html"
+          },
+          {
+            "label": "宿命·751",
+            "url": "https://lotmfanwiki.com/chapter/coi-0751.html"
+          },
+          {
+            "label": "宿命·752",
+            "url": "https://lotmfanwiki.com/chapter/coi-0752.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "同頁的守泉老人是否即肯達爾，待核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

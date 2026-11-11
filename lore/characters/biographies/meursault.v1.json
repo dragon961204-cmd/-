@@ -1,0 +1,145 @@
+{
+  "schema_version": "1.1",
+  "character_id": "meursault",
+  "name_zh": "默爾索",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-74e1931969d7.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-74e1931969d7.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第2卷·第224章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0224.html"
+    },
+    {
+      "label": "《詭祕》第2卷·第253章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0253.html"
+    },
+    {
+      "label": "詭祕·248",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0248.html"
+    },
+    {
+      "label": "詭祕·227",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0227.html"
+    },
+    {
+      "label": "詭祕·228",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0228.html"
+    },
+    {
+      "label": "詭祕·229",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0229.html"
+    },
+    {
+      "label": "詭祕·247",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0247.html"
+    },
+    {
+      "label": "詭祕·234",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0234.html"
+    },
+    {
+      "label": "詭祕·244",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0244.html"
+    },
+    {
+      "label": "詭祕·223",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0223.html"
+    },
+    {
+      "label": "詭祕·236",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0236.html"
+    },
+    {
+      "label": "詭祕·242",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0242.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "默爾索｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "替大使追索伊恩",
+        "prose": "默爾索是茲曼格黨的處刑人，也是貝克朗的手下。他在蒸汽地鐵追趕伊恩，稱對方偷了重要物品。向私家偵探夏洛克提出尋人委託遭拒後，他決定親自登門。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-74e1931969d7.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 224,
+          "end": 227
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第2卷·第224章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0224.html"
+          },
+          {
+            "label": "詭祕·227",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0227.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "突襲失敗並遭通靈",
+        "prose": "身為序列9獵人，他以帶毒的小箭突襲克萊恩，卻在近身交鋒中被克萊恩反殺。克萊恩事後用通靈和占卜追查主使，進一步把事情和因蒂斯的情報網聯繫起來。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-74e1931969d7.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 228,
+          "end": 247
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·228",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0228.html"
+          },
+          {
+            "label": "詭祕·229",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0229.html"
+          },
+          {
+            "label": "詭祕·247",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0247.html"
+          },
+          {
+            "label": "詭祕·234",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0234.html"
+          },
+          {
+            "label": "詭祕·244",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0244.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

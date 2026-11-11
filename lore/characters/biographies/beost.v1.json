@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.1",
+  "character_id": "beost",
+  "name_zh": "貝奧斯特",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-e290c05f4480.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e290c05f4480.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第1卷·第5章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0005.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1046章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1046.html"
+    },
+    {
+      "label": "宿命·8",
+      "url": "https://lotmfanwiki.com/chapter/coi-0008.html"
+    },
+    {
+      "label": "宿命·12",
+      "url": "https://lotmfanwiki.com/chapter/coi-0012.html"
+    },
+    {
+      "label": "宿命·35",
+      "url": "https://lotmfanwiki.com/chapter/coi-0035.html"
+    },
+    {
+      "label": "宿命·18",
+      "url": "https://lotmfanwiki.com/chapter/coi-0018.html"
+    },
+    {
+      "label": "宿命·21",
+      "url": "https://lotmfanwiki.com/chapter/coi-0021.html"
+    },
+    {
+      "label": "宿命·24",
+      "url": "https://lotmfanwiki.com/chapter/coi-0024.html"
+    },
+    {
+      "label": "宿命·26",
+      "url": "https://lotmfanwiki.com/chapter/coi-0026.html"
+    },
+    {
+      "label": "宿命·31",
+      "url": "https://lotmfanwiki.com/chapter/coi-0031.html"
+    },
+    {
+      "label": "宿命·39",
+      "url": "https://lotmfanwiki.com/chapter/coi-0039.html"
+    },
+    {
+      "label": "宿命·65",
+      "url": "https://lotmfanwiki.com/chapter/coi-0065.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 124
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "貝奧斯特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "管轄科爾杜的行政官",
+        "prose": "貝奧斯特從達列日來到科爾杜，兼任行政官和領地法官，與妻子普阿利斯住在官邸。他曾替本堂神甫主持四旬節慶典，在村廣場向村民宣讀春天精靈候選人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e290c05f4480.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 18,
+          "end": 66
+        },
+        "chapter_locators": [
+          {
+            "label": "宿命·35",
+            "url": "https://lotmfanwiki.com/chapter/coi-0035.html"
+          },
+          {
+            "label": "宿命·18",
+            "url": "https://lotmfanwiki.com/chapter/coi-0018.html"
+          },
+          {
+            "label": "宿命·21",
+            "url": "https://lotmfanwiki.com/chapter/coi-0021.html"
+          },
+          {
+            "label": "宿命·24",
+            "url": "https://lotmfanwiki.com/chapter/coi-0024.html"
+          },
+          {
+            "label": "宿命·26",
+            "url": "https://lotmfanwiki.com/chapter/coi-0026.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "儀式前離村",
+        "prose": "第十二夜儀式前，他隨普阿利斯、管家路易斯·隆德和女僕卡茜離開科爾杜。幾人後來到了特里爾，避過了村莊最後的災難。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e290c05f4480.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 108,
+          "end": 219
+        },
+        "chapter_locators": [],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

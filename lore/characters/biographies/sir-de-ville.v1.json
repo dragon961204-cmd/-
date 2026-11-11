@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.1",
+  "character_id": "sir-de-ville",
+  "name_zh": "德維爾爵士",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-bd636690585e.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-bd636690585e.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第52章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0052.html"
+    },
+    {
+      "label": "《詭祕》第1卷·第158章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0158.html"
+    },
+    {
+      "label": "詭祕·81",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0081.html"
+    },
+    {
+      "label": "詭祕·29",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0029.html"
+    },
+    {
+      "label": "詭祕·90",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0090.html"
+    },
+    {
+      "label": "詭祕·82",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0082.html"
+    },
+    {
+      "label": "詭祕·89",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0089.html"
+    },
+    {
+      "label": "詭祕·91",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0091.html"
+    },
+    {
+      "label": "詭祕·92",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0092.html"
+    },
+    {
+      "label": "詭祕·356",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0356.html"
+    },
+    {
+      "label": "詭祕·4",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0004.html"
+    },
+    {
+      "label": "詭祕·10",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0010.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 148
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "德維爾爵士｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "受哭聲與失眠困擾的工廠主",
+        "prose": "德維爾名下有製鉛與瓷器工廠，也有進入上議院的志向。他在廷根連續多晚聽見哭聲和呻吟，外出才稍有緩解。警方把案件轉給值夜者，克萊恩用靈視和夢境占卜追查。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bd636690585e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 82,
+          "end": 90
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·90",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0090.html"
+          },
+          {
+            "label": "詭祕·82",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0082.html"
+          },
+          {
+            "label": "詭祕·89",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0089.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "查明鉛中毒後給付補償",
+        "prose": "克萊恩發現，瓷器女工海莉葉·沃克生前因上釉工作鉛中毒而死，怨念與爵士的異常有關。德維爾命管家給她家人三百鎊，克萊恩也要求他透過報刊宣傳鉛中毒的危害。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-bd636690585e.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 90,
+          "end": 92
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·90",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0090.html"
+          },
+          {
+            "label": "詭祕·91",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0091.html"
+          },
+          {
+            "label": "詭祕·92",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0092.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

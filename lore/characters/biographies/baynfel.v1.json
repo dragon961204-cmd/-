@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.1",
+  "character_id": "baynfel",
+  "name_zh": "巴音費爾",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-6f33e9a6f331.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-6f33e9a6f331.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第4卷·第503章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0503.html"
+    },
+    {
+      "label": "《宿命》第7卷·第1062章",
+      "url": "https://lotmfanwiki.com/chapter/coi-1062.html"
+    },
+    {
+      "label": "宿命·711",
+      "url": "https://lotmfanwiki.com/chapter/coi-0711.html"
+    },
+    {
+      "label": "宿命·509",
+      "url": "https://lotmfanwiki.com/chapter/coi-0509.html"
+    },
+    {
+      "label": "宿命·778",
+      "url": "https://lotmfanwiki.com/chapter/coi-0778.html"
+    },
+    {
+      "label": "宿命·737",
+      "url": "https://lotmfanwiki.com/chapter/coi-0737.html"
+    },
+    {
+      "label": "宿命·526",
+      "url": "https://lotmfanwiki.com/chapter/coi-0526.html"
+    },
+    {
+      "label": "宿命·632",
+      "url": "https://lotmfanwiki.com/chapter/coi-0632.html"
+    },
+    {
+      "label": "宿命·665",
+      "url": "https://lotmfanwiki.com/chapter/coi-0665.html"
+    },
+    {
+      "label": "宿命·666",
+      "url": "https://lotmfanwiki.com/chapter/coi-0666.html"
+    },
+    {
+      "label": "宿命·710",
+      "url": "https://lotmfanwiki.com/chapter/coi-0710.html"
+    },
+    {
+      "label": "宿命·782",
+      "url": "https://lotmfanwiki.com/chapter/coi-0782.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 139
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "巴音費爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "與盧米安簽訂信使契約",
+        "prose": "巴音費爾是魔術師女士介紹給盧米安的靈界生物之一，稱號懺悔者。盧米安以儀式召來他，用古弗薩克語談妥契約，使他成為自己的信使。芙蘭卡之後也能召他替盧米安傳信。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6f33e9a6f331.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 503,
+          "end": 710
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第4卷·第503章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0503.html"
+          },
+          {
+            "label": "宿命·509",
+            "url": "https://lotmfanwiki.com/chapter/coi-0509.html"
+          },
+          {
+            "label": "宿命·526",
+            "url": "https://lotmfanwiki.com/chapter/coi-0526.html"
+          },
+          {
+            "label": "宿命·632",
+            "url": "https://lotmfanwiki.com/chapter/coi-0632.html"
+          },
+          {
+            "label": "宿命·665",
+            "url": "https://lotmfanwiki.com/chapter/coi-0665.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "信件往來中的古怪回應",
+        "prose": "巴音費爾平時經靈界送信，曾說忙碌能讓自己好受一點。梅森從巴納摩島寄信到特里爾後，盧米安請他把自己當成回信，直接帶回巴納摩港。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-6f33e9a6f331.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 778,
+          "end": 1062
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第7卷·第1062章",
+            "url": "https://lotmfanwiki.com/chapter/coi-1062.html"
+          },
+          {
+            "label": "宿命·778",
+            "url": "https://lotmfanwiki.com/chapter/coi-0778.html"
+          },
+          {
+            "label": "宿命·782",
+            "url": "https://lotmfanwiki.com/chapter/coi-0782.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lentas",
+  "name_zh": "倫塔司",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-60b75db76f0a.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-60b75db76f0a.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《宿命》第2卷·第209章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0209.html"
+    },
+    {
+      "label": "《宿命》第3卷·第420章",
+      "url": "https://lotmfanwiki.com/chapter/coi-0420.html"
+    },
+    {
+      "label": "宿命·211",
+      "url": "https://lotmfanwiki.com/chapter/coi-0211.html"
+    },
+    {
+      "label": "宿命·212",
+      "url": "https://lotmfanwiki.com/chapter/coi-0212.html"
+    },
+    {
+      "label": "宿命·416",
+      "url": "https://lotmfanwiki.com/chapter/coi-0416.html"
+    },
+    {
+      "label": "宿命·417",
+      "url": "https://lotmfanwiki.com/chapter/coi-0417.html"
+    },
+    {
+      "label": "宿命·386",
+      "url": "https://lotmfanwiki.com/chapter/coi-0386.html"
+    },
+    {
+      "label": "宿命·113",
+      "url": "https://lotmfanwiki.com/chapter/coi-0113.html"
+    },
+    {
+      "label": "宿命·114",
+      "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+    },
+    {
+      "label": "宿命·152",
+      "url": "https://lotmfanwiki.com/chapter/coi-0152.html"
+    },
+    {
+      "label": "宿命·157",
+      "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+    },
+    {
+      "label": "宿命·210",
+      "url": "https://lotmfanwiki.com/chapter/coi-0210.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 133
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "倫塔司｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "劇場演員借用他人的臉",
+        "prose": "倫塔司是老鴿籠劇場演員，也是至福會成員。他曾假扮金雞旅館老闆埃夫，之後又裝成盧米安所用的夏爾，讓查理信以為真，跟著他去地底見蘇珊娜。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-60b75db76f0a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 113,
+          "end": 209
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第209章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0209.html"
+          },
+          {
+            "label": "宿命·113",
+            "url": "https://lotmfanwiki.com/chapter/coi-0113.html"
+          },
+          {
+            "label": "宿命·114",
+            "url": "https://lotmfanwiki.com/chapter/coi-0114.html"
+          },
+          {
+            "label": "宿命·152",
+            "url": "https://lotmfanwiki.com/chapter/coi-0152.html"
+          },
+          {
+            "label": "宿命·157",
+            "url": "https://lotmfanwiki.com/chapter/coi-0157.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "地底塌方、交戰與通靈",
+        "prose": "倫塔司先被塌方困住，後遭盧米安與芙蘭卡聯手擊殺。芙蘭卡通靈追問，他的亡靈交代了一部分至福會的消息；真正埃夫的去向須和他的冒名經歷分開。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-60b75db76f0a.html"
+        ],
+        "chapter_range": {
+          "book": "coi",
+          "start": 209,
+          "end": 420
+        },
+        "chapter_locators": [
+          {
+            "label": "《宿命》第2卷·第209章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0209.html"
+          },
+          {
+            "label": "《宿命》第3卷·第420章",
+            "url": "https://lotmfanwiki.com/chapter/coi-0420.html"
+          },
+          {
+            "label": "宿命·211",
+            "url": "https://lotmfanwiki.com/chapter/coi-0211.html"
+          },
+          {
+            "label": "宿命·212",
+            "url": "https://lotmfanwiki.com/chapter/coi-0212.html"
+          },
+          {
+            "label": "宿命·416",
+            "url": "https://lotmfanwiki.com/chapter/coi-0416.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}

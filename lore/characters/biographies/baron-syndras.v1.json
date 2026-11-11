@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.1",
+  "character_id": "baron-syndras",
+  "name_zh": "辛德拉斯男爵",
+  "name_en": null,
+  "status": "pending_user_review",
+  "source_page_record": "lore/characters/source_page_records/cn-p-03956eec01b8.json",
+  "source_registry": [
+    {
+      "kind": "wiki_published_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-03956eec01b8.html",
+      "verification": "pending_user_review"
+    }
+  ],
+  "chapter_locators": [
+    {
+      "label": "《詭祕》第1卷·第177章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0177.html"
+    },
+    {
+      "label": "《詭祕》第5卷·第975章",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0975.html"
+    },
+    {
+      "label": "詭祕·798",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0798.html"
+    },
+    {
+      "label": "詭祕·858",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0858.html"
+    },
+    {
+      "label": "詭祕·739",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0739.html"
+    },
+    {
+      "label": "詭祕·855",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0855.html"
+    },
+    {
+      "label": "詭祕·819",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0819.html"
+    },
+    {
+      "label": "詭祕·857",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0857.html"
+    },
+    {
+      "label": "詭祕·863",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0863.html"
+    },
+    {
+      "label": "詭祕·867",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0867.html"
+    },
+    {
+      "label": "詭祕·868",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0868.html"
+    },
+    {
+      "label": "詭祕·872",
+      "url": "https://lotmfanwiki.com/chapter/lotm-0872.html"
+    }
+  ],
+  "verification": {
+    "chapter_verified": false,
+    "user_review_status": "pending"
+  },
+  "biography_quality": {
+    "continuous_prose_draft": true,
+    "narrative_sections": 2,
+    "narrative_zh_characters": 135
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "辛德拉斯男爵｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "從大商人到新貴族",
+        "prose": "辛德拉斯經營銀行和工廠，因向保守黨捐款獲得爵位。他想與朋友推動考伊姆公司上市，曾登門拜訪道恩·唐泰斯，希望取得其手上的一部分股份。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-03956eec01b8.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 177,
+          "end": 858
+        },
+        "chapter_locators": [
+          {
+            "label": "《詭祕》第1卷·第177章",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0177.html"
+          },
+          {
+            "label": "詭祕·798",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0798.html"
+          },
+          {
+            "label": "詭祕·858",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0858.html"
+          },
+          {
+            "label": "詭祕·739",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0739.html"
+          },
+          {
+            "label": "詭祕·855",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0855.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "被牽進卡隆之死",
+        "prose": "克萊恩發現有人打算栽贓男爵，讓瓦爾特上門警告。卡隆自殺前所見的畫面中出現男爵身影，一度讓調查者懷疑他；幕後誘導卡隆自殺的實際是赫溫·蘭比斯。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-03956eec01b8.html"
+        ],
+        "chapter_range": {
+          "book": "lotm",
+          "start": 857,
+          "end": 874
+        },
+        "chapter_locators": [
+          {
+            "label": "詭祕·858",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0858.html"
+          },
+          {
+            "label": "詭祕·857",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0857.html"
+          },
+          {
+            "label": "詭祕·863",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0863.html"
+          },
+          {
+            "label": "詭祕·867",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0867.html"
+          },
+          {
+            "label": "詭祕·868",
+            "url": "https://lotmfanwiki.com/chapter/lotm-0868.html"
+          }
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "章節索引與原文細節待使用者核對。"
+    ],
+    "quality_note": "章節範圍用於定位情節，待核對原文。"
+  }
+}
