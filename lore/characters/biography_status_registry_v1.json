@@ -6,7 +6,9 @@
     "indexed": 118,
     "individual_draft": 68,
     "index_only": 50,
-    "verified": 0
+    "verified": 0,
+    "chapter_checked_claims": 12,
+    "bios_with_some_chapter_checked_claims": 5
   },
   "characters": [
     {
@@ -14,37 +16,43 @@
       "name_zh": "克萊恩·莫雷蒂",
       "tier": "A",
       "biography_path": "lore/characters/biographies/klein-moretti.v1.json",
-      "status": "draft_unverified",
+      "status": "draft_with_chapter_checked_claims",
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club",
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 4,
+      "evidence_ledger": "lore/characters/evidence/claims_batch_01.json"
     },
     {
       "character_id": "audrey-hall",
       "name_zh": "奧黛麗·霍爾",
       "tier": "A",
       "biography_path": "lore/characters/biographies/audrey-hall.v1.json",
-      "status": "draft_unverified",
+      "status": "draft_with_chapter_checked_claims",
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club",
         "psychology-alchemists",
         "hall-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 2,
+      "evidence_ledger": "lore/characters/evidence/claims_batch_01.json"
     },
     {
       "character_id": "alger-wilson",
       "name_zh": "阿爾傑·威爾遜",
       "tier": "A",
       "biography_path": "lore/characters/biographies/alger-wilson.v1.json",
-      "status": "draft_unverified",
+      "status": "draft_with_chapter_checked_claims",
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club",
         "church-storms"
-      ]
+      ],
+      "chapter_checked_claim_count": 1,
+      "evidence_ledger": "lore/characters/evidence/claims_batch_01.json"
     },
     {
       "character_id": "derrick-berg",
@@ -56,7 +64,8 @@
       "possible_organizations": [
         "tarot-club",
         "city-of-silver"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "fors-wall",
@@ -67,7 +76,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "emlyn-white",
@@ -79,7 +89,8 @@
       "possible_organizations": [
         "tarot-club",
         "sanguines"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "cattleya",
@@ -91,7 +102,8 @@
       "possible_organizations": [
         "tarot-club",
         "element-dawn"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "leonard-mitchell",
@@ -104,7 +116,8 @@
         "tarot-club",
         "nighthawks",
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "xio-derecha",
@@ -115,7 +128,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "sharron",
@@ -127,7 +141,8 @@
       "possible_organizations": [
         "rose-school-temperance",
         "rose-school-of-thought"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "maric",
@@ -139,7 +154,8 @@
       "possible_organizations": [
         "rose-school-temperance",
         "rose-school-of-thought"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "reinette-tinekerr",
@@ -151,7 +167,8 @@
       "possible_organizations": [
         "rose-school-temperance",
         "rose-school-of-thought"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "suah",
@@ -163,7 +180,8 @@
       "possible_organizations": [
         "rose-school-indulgence",
         "rose-school-of-thought"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "senor",
@@ -174,7 +192,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "steve",
@@ -185,7 +204,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "jason-rose",
@@ -196,7 +216,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "klarman",
@@ -207,7 +228,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-of-thought"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "barranca",
@@ -218,7 +240,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "tirie",
@@ -229,7 +252,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "mahmosi",
@@ -240,7 +264,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "zatwen",
@@ -251,7 +276,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "maveti",
@@ -262,7 +288,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "tyre",
@@ -273,7 +300,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "dunn-smith",
@@ -284,7 +312,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "daly-simone",
@@ -295,7 +324,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "frye",
@@ -306,7 +336,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "seeka-tron",
@@ -317,7 +348,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "old-neil",
@@ -328,7 +360,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "rozanne",
@@ -339,7 +372,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "royale-reideen",
@@ -350,7 +384,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "kenley-white",
@@ -361,7 +396,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "soest",
@@ -372,7 +408,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "crestet-cesimir",
@@ -383,7 +420,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "aiur-harson",
@@ -394,7 +432,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "orianna",
@@ -405,7 +444,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "ouroboros",
@@ -416,7 +456,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "mr-a",
@@ -427,7 +468,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "mr-k",
@@ -438,7 +480,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "mr-x",
@@ -449,7 +492,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "mr-z",
@@ -460,7 +504,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "botis",
@@ -471,7 +516,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "kisma",
@@ -482,7 +528,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "leomaster",
@@ -493,7 +540,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "hanass-vincent",
@@ -504,7 +552,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "sirius-arapis",
@@ -515,7 +564,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "bernadette-gustav",
@@ -527,7 +577,8 @@
       "possible_organizations": [
         "element-dawn",
         "gustav-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "pauli-derlau",
@@ -538,7 +589,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "hermes",
@@ -549,7 +601,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "hvin-rambis",
@@ -560,7 +613,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "anthony-reid",
@@ -571,7 +625,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "hood-eugen",
@@ -582,7 +637,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "daxter-guderian",
@@ -593,7 +649,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "escalante-oseleka",
@@ -604,7 +661,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "judith-demoness",
@@ -615,7 +673,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "demoness-sect"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "katarina-pelle",
@@ -626,7 +685,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "demoness-sect"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "tracy",
@@ -637,7 +697,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "demoness-sect"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "trissy",
@@ -648,7 +709,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "demoness-sect"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "panatiya",
@@ -659,7 +721,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "demoness-sect"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "franca-roland",
@@ -672,7 +735,8 @@
         "demoness-sect",
         "tarot-club",
         "curly-haired-baboons-research-society"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "lumian-lee",
@@ -684,7 +748,8 @@
       "possible_organizations": [
         "tarot-club",
         "aurora-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "jenna",
@@ -695,7 +760,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "tarot-club"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "azik-eggers",
@@ -706,18 +772,21 @@
       "chapter_verified": false,
       "possible_organizations": [
         "eggers-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "melissa-moretti",
       "name_zh": "梅麗莎·莫雷蒂",
       "tier": "B",
       "biography_path": "lore/characters/biographies/melissa-moretti.v1.json",
-      "status": "draft_unverified",
+      "status": "draft_with_chapter_checked_claims",
       "chapter_verified": false,
       "possible_organizations": [
         "moretti-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 3,
+      "evidence_ledger": "lore/characters/evidence/claims_batch_01.json"
     },
     {
       "character_id": "benson-moretti",
@@ -728,7 +797,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "moretti-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "adam",
@@ -737,7 +807,8 @@
       "biography_path": "lore/characters/biographies/adam.v1.json",
       "status": "draft_unverified",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "amon",
@@ -748,7 +819,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "amon-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "roselle-gustav",
@@ -759,7 +831,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "gustav-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "pallez-zoroast",
@@ -770,7 +843,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "zoroast-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "will-auceptin",
@@ -779,7 +853,8 @@
       "biography_path": "lore/characters/biographies/will-auceptin.v1.json",
       "status": "draft_unverified",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "ince-zangwill",
@@ -790,7 +865,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "church-evernight"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "danitz",
@@ -799,7 +875,8 @@
       "biography_path": "lore/characters/biographies/danitz.v1.json",
       "status": "draft_unverified",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "edwina-edwards",
@@ -808,7 +885,8 @@
       "biography_path": "lore/characters/biographies/edwina-edwards.v1.json",
       "status": "draft_unverified",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "aurore-lee",
@@ -819,7 +897,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "curly-haired-baboons-research-society"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "zaratul",
@@ -831,7 +910,8 @@
       "possible_organizations": [
         "secret-order",
         "zaratul-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "welch-mcgovern",
@@ -840,7 +920,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "naya",
@@ -849,7 +930,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "selena-wood",
@@ -858,7 +940,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "elizabeth",
@@ -867,7 +950,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "biber",
@@ -876,7 +960,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "lorotta",
@@ -887,7 +972,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "borgia",
@@ -898,7 +984,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "bredt",
@@ -909,7 +996,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "cesare-francis",
@@ -920,7 +1008,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "jasmine",
@@ -931,7 +1020,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "adelaide",
@@ -942,7 +1032,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "dwayne-nighthawks",
@@ -953,7 +1044,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "hitte",
@@ -964,7 +1056,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "grey-captain",
@@ -975,7 +1068,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "davy-raymond",
@@ -986,7 +1080,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "cindy-redgloves",
@@ -997,7 +1092,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "bob-redgloves",
@@ -1008,7 +1104,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "albert-redgloves",
@@ -1019,7 +1116,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "eric-redgloves",
@@ -1030,7 +1128,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "red-gloves"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "grassis",
@@ -1039,7 +1138,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "anna-tingen",
@@ -1048,7 +1148,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "tuxedo-clown",
@@ -1059,7 +1160,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "secret-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "ralph-pund",
@@ -1068,7 +1170,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "leppard",
@@ -1077,7 +1180,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "cohen-quentin",
@@ -1086,7 +1190,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "kopshti-reid",
@@ -1095,7 +1200,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "jake-young",
@@ -1104,7 +1210,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "ait-tingen",
@@ -1113,7 +1220,8 @@
       "biography_path": null,
       "status": "index_only",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "梅迪奇",
@@ -1125,7 +1233,8 @@
         "rose-redemption",
         "church-ancient-sun"
       ],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "索倫—艾因霍恩—梅迪奇",
@@ -1134,7 +1243,8 @@
       "character_id": "sauron-einhorn-medici",
       "tier": "A",
       "possible_organizations": [],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "科林·伊利亞特",
@@ -1146,7 +1256,8 @@
         "city-of-silver",
         "city-of-silver-council"
       ],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "洛薇雅·蒂芙尼",
@@ -1158,7 +1269,8 @@
         "city-of-silver",
         "city-of-silver-council"
       ],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "阿里安娜",
@@ -1169,7 +1281,8 @@
       "possible_organizations": [
         "church-evernight"
       ],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "亞利斯塔·圖鐸",
@@ -1178,7 +1291,8 @@
       "character_id": "alista-tudor",
       "tier": "A",
       "possible_organizations": [],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "name_zh": "尼姆",
@@ -1190,7 +1304,8 @@
         "church-ancient-sun",
         "church-fool"
       ],
-      "status": "draft_unverified"
+      "status": "draft_unverified",
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "bethel-abraham",
@@ -1201,7 +1316,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "abraham-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "antigonus",
@@ -1212,7 +1328,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "antigonus-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "sasrir",
@@ -1224,7 +1341,8 @@
       "possible_organizations": [
         "rose-redemption",
         "church-ancient-sun"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "ancient-sun-god",
@@ -1235,7 +1353,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "church-ancient-sun"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "george-augustus-iii",
@@ -1247,18 +1366,21 @@
       "possible_organizations": [
         "augustus-family",
         "twilight-hermit-order"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "susie",
       "name_zh": "蘇茜",
       "tier": "B",
       "biography_path": "lore/characters/biographies/susie.v1.json",
-      "status": "draft_unverified",
+      "status": "draft_with_chapter_checked_claims",
       "chapter_verified": false,
       "possible_organizations": [
         "hall-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 2,
+      "evidence_ledger": "lore/characters/evidence/claims_batch_01.json"
     },
     {
       "character_id": "frank-lee",
@@ -1269,7 +1391,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "church-earth-mother"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "anderson-hood",
@@ -1278,7 +1401,8 @@
       "biography_path": "lore/characters/biographies/anderson-hood.v1.json",
       "status": "draft_unverified",
       "chapter_verified": false,
-      "possible_organizations": []
+      "possible_organizations": [],
+      "chapter_checked_claim_count": 0
     },
     {
       "character_id": "dorian-gray-abraham",
@@ -1289,7 +1413,8 @@
       "chapter_verified": false,
       "possible_organizations": [
         "abraham-family"
-      ]
+      ],
+      "chapter_checked_claim_count": 0
     }
   ]
 }
