@@ -1,0 +1,27 @@
+name: Attach source chronology to biographies
+on:
+  push:
+    paths:
+      - 'scripts/attach_source_chronology.py'
+      - '.github/workflows/attach-source-chronology.yml'
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python scripts/attach_source_chronology.py
+      - name: Commit linked chronology
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add lore/characters/biographies/*.v1.json lore/characters/biography_chronology_import_report.json
+          if ! git diff --cached --quiet; then
+            git commit -m "research: link source life-stage outlines to 85 existing biographies"
+            git push
+          fi
