@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "character_id": "old-neil",
+  "name_zh": "老尼爾",
+  "biography_level": "A_or_B",
+  "status": "expanded_draft",
+  "scope": "原作兩部可用；人物每個時間點狀態須另核實",
+  "long_summary": "年長的前值夜者因健康及年齡轉任黑荊棘文職，向克萊恩傳授神秘學；對往昔親人的思念與危險情報的侵擾構成其悲劇。",
+  "historical_sections": [
+    {
+      "sequence": 1,
+      "title": "早年加入教會",
+      "summary": "曾以正式值夜者身分處理案件，走上窺秘人途徑並積累神秘學知識。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 2,
+      "title": "個人牽掛",
+      "summary": "對未婚妻賽萊斯特的懷念一直是他研究神秘學的重要個人動機。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 3,
+      "title": "轉任文職",
+      "summary": "隨年齡與身體狀況改變，不再適合頻繁外勤，留在黑荊棘安保公司整理資料。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "medium"
+    },
+    {
+      "sequence": 4,
+      "title": "教導克萊恩",
+      "summary": "以日常課程介紹儀式魔法、靈視、符號等入門知識，亦讓克萊恩接觸羅塞爾的日記。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 5,
+      "title": "地下交易圈",
+      "summary": "熟悉廷根的地下非凡交易者，能協助新人了解非正式管道及其中風險。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 6,
+      "title": "隱匿賢者的侵擾",
+      "summary": "他受到異常神秘資訊持續影響，試圖以超自然手段解決無法釋懷的私人困境。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 7,
+      "title": "失控事件",
+      "summary": "1349年8月末，遭遇不可逆的非凡危機，使克萊恩深刻理解接觸神秘知識的代價。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    },
+    {
+      "sequence": 8,
+      "title": "後續影響",
+      "summary": "老尼爾的故事對廷根小隊與克萊恩的成長留下長久影響，也可成為遊戲調查過度追求知識風險的例子。",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "verification": "secondary_source",
+      "spoiler_level": "high"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "1349-06-29",
+      "event": "克萊恩開始接觸老尼爾與羅塞爾日記",
+      "precision": "day",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-07-03",
+      "event": "開始較系統的神秘學課程",
+      "precision": "day",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349夏季",
+      "event": "帶克萊恩認識地下交易市場",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "1349-08-29",
+      "event": "非凡失控事件（百科日期）",
+      "precision": "day",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    },
+    {
+      "time": "其後",
+      "event": "隊員對此事持續受到影響",
+      "precision": "approximate_or_chapter",
+      "source_ids": [
+        "oldNeil",
+        "timeline"
+      ],
+      "canon_status": "needs_novel_verification"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "nighthawks",
+      "start": "unknown",
+      "end": "1349年以前",
+      "role": "前正式成員，後轉文職",
+      "verification": "secondary_source"
+    },
+    {
+      "organization_id": "church-evernight",
+      "start": "unknown",
+      "end": "1349-08-29",
+      "role": "教會工作人員",
+      "verification": "secondary_source"
+    }
+  ],
+  "exclusion_note": [],
+  "pathway_history": [
+    {
+      "pathway": "hermit",
+      "sequence": "9",
+      "name": "窺秘人",
+      "time": "1349年",
+      "verification": "secondary_source"
+    }
+  ],
+  "connected_characters": [
+    "klein-moretti",
+    "dunn-smith",
+    "rozanne"
+  ],
+  "game_integration": {
+    "early_visible_identity": "黑荊棘資料室的年長文職神秘學教師。",
+    "restricted_truth": "受到隱匿賢者資訊侵擾，並試圖解決個人遺憾。",
+    "design_notes": "玩家知情度按事件和時間線解鎖；原作人物的秘密不能由玩家自由查閱，NPC交互事件必須重新原創且符合當時世界情勢。",
+    "allow_direct_interaction_1349": true,
+    "notes": "是否在場仍須按地點與日期動態檢查"
+  },
+  "source_registry": {
+    "oldNeil": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Old_Neil",
+      "validation": "secondary_not_line_checked"
+    },
+    "timeline": {
+      "kind": "community_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Volume_1:_Clown",
+      "validation": "secondary_not_line_checked"
+    }
+  },
+  "verification": {
+    "status": "needs_original_chapter_verification",
+    "complete": false,
+    "notes": "原創文字摘要；使用二手Wiki作考據導航。章號與日期尚未全部回小說原文逐章比對。"
+  },
+  "copyright_note": "僅事實整理與自行撰寫背景摘要，未複製原作章節。"
+}
