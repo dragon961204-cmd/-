@@ -459,6 +459,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 14
+    "source_stage_count": 14,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 808
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "克萊恩·莫雷蒂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根與莫雷蒂家庭",
+        "prose": "克萊恩原本是廷根一名出身普通家庭的歷史系畢業生，與兄長班森、妹妹梅麗莎共同生活。周明瑞在異變後以他的身分醒來，必須一邊適應新的語言、金錢與社會秩序，一邊查明筆記、同學和自身異常遭遇的關係。生活在家庭日常裡的溫情，使他始終無法將這個世界的人當作沒有分量的背景。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "值夜者與廷根悲劇",
+        "prose": "克萊恩加入黑夜教會的值夜者，從占卜家途徑開始，逐漸與鄧恩、倫納德等隊員建立情誼。他在調查危險事件的過程中學會魔藥扮演、封印物管理與官方非凡者的規矩。廷根的重大變故打斷原本逐步安穩的生活，也讓他理解自己已不可能永遠留在親人身旁。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "夏洛克·莫里亞蒂的貝克蘭德歲月",
+        "prose": "離開廷根後，他改用偵探夏洛克·莫里亞蒂的身份在貝克蘭德生活，透過案件與委託認識這座城市。貧民生活、貴族政治、地下交易與教會的複雜關係，使他從局部的非凡者調查走向更大的社會陰謀。他也逐步體會到自己有能力幫助人，卻無法憑一人解決所有悲劇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "格爾曼·斯帕羅的海上冒險",
+        "prose": "他以冷峻的冒險家格爾曼·斯帕羅身份出海，在海盜、教會勢力、神秘島嶼和高序列遺跡間周旋。這個身份建立了強烈名聲，也讓他的行動更加危險。他持續借灰霧與塔羅會收集線索，將分散在世界各地的資源串成支持自身晉升的網絡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "道恩·唐泰斯與半神",
+        "prose": "回到貝克蘭德後，他化身富商道恩·唐泰斯，進入上層社交圈，參與慈善與政治交往，並以這層身份掩護祕密行動。他與奧黛麗、教會人物和各種高序列非凡者接觸，逐漸踏上半神之路。相較早期的廷根青年，他必須學會在看似平和的城市生活中應對足以改變國家命運的危機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "神棄之地與天使道路",
+        "prose": "隨力量和知識增長，他前往神棄之地，接觸白銀城、月城及遠古太陽神的遺留秘密。那些被黑暗困住的社群，讓他再次看見普通人在神靈和非凡力量面前的渺小與堅持。與阿蒙、查拉圖和古老神性意志的衝突，也讓他的晉升代價不斷增加。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "愚者、沉睡與後續",
+        "prose": "在第一部結尾，克萊恩接近並取得愚者的神位，面對天尊意志與更高位格存在的威脅。為了保持自身意識與保護世界，他進入長期沉睡；塔羅會和愚者信仰則在外界持續成長。《宿命之環》後期的夢境城市將沉睡中的衝突帶回故事中心，也使他的甦醒成為世界級事件。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ef5f0ffca4b0.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

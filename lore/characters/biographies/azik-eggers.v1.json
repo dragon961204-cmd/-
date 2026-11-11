@@ -318,6 +318,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 593
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿茲克·艾格斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根的歷史教師",
+        "prose": "阿茲克·艾格斯以學識豐富的教師身份在霍伊大學任教，是克萊恩初期能信任的成年人之一。他的談吐溫和、善於理解學生，也能指出史料中不合理的細節；然而對自己真正的出身，他同樣有難以說清的困惑。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "記憶空白與身世之謎",
+        "prose": "阿茲克的人生存在反覆出現的記憶斷裂。他擁有比普通人更深的歷史痕跡，卻不能完整回憶自身經歷；陌生的古老線索和似曾相識的物品，逐漸證實他並非普通的人類學者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與克萊恩的互助",
+        "prose": "克萊恩在廷根與他建立師生之誼，離開廷根後仍保持聯繫。阿茲克會在必要時提供保護、情報和建議，克萊恩也試圖幫助他尋回記憶。雙方的相處不像單純的上級和下屬，而是建立在互相信任上的長期情誼。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "死神後裔與第四紀",
+        "prose": "隨真相逐步揭露，阿茲克的身世與第四紀死神相關歷史、南大陸以及古老權柄聯繫起來。他既擁有接近天使層級的力量，也承受歷史留下的精神負擔。這些能力不能無限制地用在普通社會，因為力量和身份暴露都可能吸引更高位存在注意。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "過往生命與自我選擇",
+        "prose": "分散的記憶暗示他在不同時期曾擁有不同職務、生活與人際關係。每個階段並非全然可以無縫拼接成一個完整自我，也讓他必須面對重拾過去是否值得犧牲現在的難題。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "沉睡與書信",
+        "prose": "在自身狀態需要調整時，阿茲克選擇沉睡或暫離，與克萊恩之間透過書信延續聯繫。這些信件保存了彼此的人生變化，也讓克萊恩在逐漸接近神靈級秘密時，仍能與早年的師長保持個人情感。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "後期與第二部",
+        "prose": "隨第一部後期與第二部局勢演變，阿茲克的恢復、死神權柄的變動與南大陸事件相互交織。對外公開的教師身份、記憶恢復程度和當前力量必須依時間分開建檔。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3d041f4bbedd.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

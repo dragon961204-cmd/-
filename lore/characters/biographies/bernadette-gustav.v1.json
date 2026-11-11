@@ -151,6 +151,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 567
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "貝爾納黛·古斯塔夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "羅塞爾的女兒",
+        "prose": "貝爾納黛出生於古斯塔夫家族，是羅塞爾的重要子女。父親從政治人物走向皇帝的過程，使她從小便置身世界權力變遷的中心。她對父親既有深厚感情，也逐漸看見權力會改變家庭和人的生活。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "家庭疏離與祕密",
+        "prose": "羅塞爾晚年的異常行動和宮廷局勢，使父女關係出現距離。貝爾納黛努力理解父親的改變，並在其身後留下的日記與遺物中尋找線索。追索父親的真相逐漸成為她長期行動的重要動機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "神秘女王的崛起",
+        "prose": "她離開一般宮廷身分，成長為海上赫赫有名的神秘女王，掌握豐富知識和高序列非凡力量。她能與海盜將軍、教會高層、古老組織打交道，並有能力調動自己的人脈尋找罕見的歷史線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "嘉德麗雅的師長",
+        "prose": "貝爾納黛對嘉德麗雅有深厚情感，在教導與保護之間保持複雜的師徒、養育關係。嘉德麗雅希望獲得她的認可，也需要逐步形成自己的判斷；兩人對彼此的感情不能只簡化為組織中的上級與下屬。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "羅塞爾日記與克萊恩",
+        "prose": "克萊恩擁有解讀羅塞爾日記的特殊能力，與貝爾納黛追查父親的目標形成交集。貝爾納黛透過多條途徑蒐集資訊，但她所知的前紀元語言和神秘學真相與克萊恩並不完全相同。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "黑皇帝與父親的命運",
+        "prose": "羅塞爾與黑皇帝途徑及嚴重污染相關的秘密，迫使貝爾納黛面對極高層次的非凡威脅。對她而言，追查不是單純的學術興趣，而是嘗試理解並挽回一個父親可能仍留存的部分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部及世界危機",
+        "prose": "她在第二部依舊是高位非凡者，涉及神燈、羅塞爾遺留秘密和末日陰影。若以世界模擬方式記錄她，必須分辨她作為女王、作為母親般的師長以及作為女兒時各不相同的決策動機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-fc12503fa6a6.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

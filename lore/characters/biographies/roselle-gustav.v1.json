@@ -505,6 +505,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 593
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "羅塞爾·古斯塔夫｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黃濤與異世界",
+        "prose": "羅塞爾原本是來自前紀元的黃濤，因神秘安排在另一個世界以古斯塔夫家族成員的身份生活。面對新的語言、宗教和科技，他帶著前世的知識及強烈的個人野心，希望不只生存，還能改變社會。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "發明與聲望",
+        "prose": "他把前世熟悉的文化與技術概念引入新世界，透過工業、發明和公共文化逐步累積名聲。很多人將他視為時代先驅，卻不知道這些成果背後包含大量前世記憶；羅塞爾自己的日記也保留了成就以外的困惑和私事。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "因蒂斯的政治冒險",
+        "prose": "他的社會地位隨政治活動持續上升，進入軍政權力核心，最後成為皇帝。這一過程伴隨盟友和對手的轉變，也使他必須處理經濟、對外關係與貴族權力，而不再只是推動個人發明的冒險家。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "家庭與貝爾納黛",
+        "prose": "羅塞爾擁有自己的家庭，與女兒貝爾納黛的感情尤其重要。隨他接近高層神秘學和權柄秘密，原本的親近關係逐漸受到影響。貝爾納黛後來追查父親遺留謎團，正是這段家庭歷史的延伸。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "非凡道路與高位秘密",
+        "prose": "他在非凡途徑上持續攀升，接觸古代歷史、隱秘結社及神靈級秘密。越接近這些真相，他越發現自己並非真正自由，也不能靠前世知識對抗一切古老力量。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "黑皇帝與污染",
+        "prose": "羅塞爾晚年的選擇與黑皇帝途徑、陵寢及來自星空的污染有關。他表面上達到極高的政治與非凡地位，卻必須付出難以公開說明的代價；其隕落和隱藏後續不能只用一個簡單的死亡日期概括。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "日記、克萊恩與第二部",
+        "prose": "羅塞爾日記成為克萊恩了解前紀元與神秘歷史的重要線索。兩人雖然沒有在早期面對面相處，卻因共享另一個世界的文化記憶而形成特殊的跨時代聯繫。到了第二部，羅塞爾留下的命運與貝爾納黛的努力仍在推動重大事件。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b300f73a6402.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

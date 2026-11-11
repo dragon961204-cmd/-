@@ -175,6 +175,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 12
+    "source_stage_count": 12,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 629
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "埃姆林·懷特｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "血族青年",
+        "prose": "埃姆林·懷特出身血族，重視自身族群的歷史與尊嚴，對人類社會抱有某種優越感。他也有鮮明的私人喜好，特別喜愛收藏和打理人偶，因此在同族與普通人眼中都顯得有些特立獨行。這些日常興趣使他不像傳說裡陰森的吸血鬼，而是有明確偏好與自尊的年輕人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "大地母神教會的經歷",
+        "prose": "埃姆林與大地母神教會產生密切交集，特別是在烏特拉夫斯基神父附近的生活，使他原本堅持的血族立場開始受到挑戰。他不願被當作普通信徒，卻也逐漸看見教會對人們的實際幫助。血族與正神教會的複雜關係因此進入他的個人命運。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "進入塔羅會",
+        "prose": "在機緣下加入塔羅會後，他以『月亮』為代號。其他成員為他帶來配方、材料與不同國家的情報，也促使他重新理解血族在神秘世界中的位置。埃姆林喜歡強調自己的族群身份，然而真正的成長來自逐漸學會與不同背景的人合作。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "血族家族與晉升",
+        "prose": "他沿血族對應的途徑前進，處理與古老族群、親王、家族政治有關的任務。晉升不只是個人能力提升，也意味著他必須擔負更多組織責任，而不再能單純專注自己收藏的人偶。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "戰爭與信仰矛盾",
+        "prose": "隨著戰爭和更高位神靈權柄問題浮現，血族與大地母神之間的利益關係更難保持簡單。埃姆林需要在族群利益、自己的價值觀以及新認識的塔羅會同伴之間做選擇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "參與塔羅會行動",
+        "prose": "他不再只是聚會中提供血族常識的人物，而逐漸參與實際的非凡行動，並建立對愚者及其他成員的信任。原先看似自大的性格也在需要承擔風險的任務中展現不同面向。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "後續命運",
+        "prose": "故事後期的埃姆林與血族、母親途徑及月亮權柄的變局相連。第二部及末日階段需要分清他代表自身、代表血族或代表塔羅會行動的不同情況，避免把他的立場固定為一個永不變化的組織標籤。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9735d656fa1d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

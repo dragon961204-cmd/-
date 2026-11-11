@@ -121,6 +121,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 503
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "達尼茲｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黃金夢想號的船員",
+        "prose": "達尼茲是黃金夢想號上的重要船員，追隨冰山中將艾德雯娜，在海上冒險、衝突和情報交易中磨練生存本領。與冷靜博學的船長相比，他說話直接、情緒外露，更擅長處理眼前實際問題。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "獵人途徑與海盜名聲",
+        "prose": "他屬於紅祭司途徑的獵人類型非凡者，並在海上以『烈焰』之名受到關注。他理解海上勢力的危險，也知道名聲有時是保護自己、有時反而會招致追捕的負擔。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "遇見格爾曼·斯帕羅",
+        "prose": "與冒險家格爾曼相遇後，達尼茲被迫進入一連串超出自己預期的高危任務。他常把對方的沉默和冷峻視為令人難以捉摸的威脅，卻也慢慢認識到格爾曼在危機中的判斷和行動能力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "從被動同行到合作",
+        "prose": "他向格爾曼提供情報、海上人脈和船隊資訊，也在過程中接觸越來越多高序列非凡事件。面對力量差距，他依舊保留活潑、愛抱怨的性格，這讓兩人之間形成鮮明對比。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "對艾德雯娜的感情與忠誠",
+        "prose": "達尼茲對船長抱有敬重與特殊情感，願意為她冒險，也想證明自己不只是船上容易被嘲笑的部下。這種感情與其對自由海上生活的眷戀，構成他在重大選擇面前的重要動機。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "愚者教會的特殊角色",
+        "prose": "隨格爾曼與愚者信仰的發展，達尼茲逐漸成為教會與海上世界之間的重要聯繫者。他早年是海盜船員的身份，不能直接套用到後期教會相關職務上。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部後續",
+        "prose": "第二部的海上局勢與愚者教會繼續影響他的生活。達尼茲並未失去原本的個性，但行動責任與他能接觸的組織情報已和早期不同。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-279740237fb7.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

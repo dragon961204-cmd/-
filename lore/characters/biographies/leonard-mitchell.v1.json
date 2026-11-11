@@ -401,6 +401,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 14
+    "source_stage_count": 14,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 666
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "倫納德·米切爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "教會青年與廷根值夜者",
+        "prose": "倫納德是黑夜女神教會的青年值夜者，與鄧恩、克萊恩等人在廷根小隊共事。他談吐輕鬆、帶有詩人氣質，常以玩笑化解尷尬，但面對真正的非凡者危險也能展現實際勇氣。他相信自己有某種特殊性，這在早期既是自信來源，也讓他偶爾顯得不夠成熟。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "帕列斯的秘密",
+        "prose": "寄居在他身上的古老存在帕列斯·索羅亞斯德，使倫納德接觸到超越普通值夜者知情範圍的神秘學知識。兩者的關係介於互相提防、交換情報與逐漸建立特殊信任之間。倫納德必須維持教會成員的日常身份，同時小心不讓體內秘密暴露。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "廷根事件後的轉變",
+        "prose": "廷根的重大變故使他失去重要同伴，也迫使他重新思考自己的自信和能力。早期對『主角』式命運的想像，逐漸轉為對現實責任和復仇目標的追尋。他不再只靠口頭上的勇敢，而是選擇進入更高危險程度的教會工作。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "紅手套與貝克蘭德",
+        "prose": "倫納德成為紅手套後，參與不同城市的非凡事件調查，重新遇見克萊恩留下的線索。他一面承擔追查危險組織和封印物的官方任務，一面開始理解同伴在廷根之後可能留下的不同身份和祕密。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "塔羅會與星星",
+        "prose": "加入塔羅會後，他以『星星』為代號，逐步參與跨教會、跨國家的情報與非凡行動。教會對他的身份有自己的期待，塔羅會則提供另一套合作與信任網絡。他需要在信仰、同伴關係和保密要求間取得平衡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "帕列斯與阿蒙的威脅",
+        "prose": "偷盜者途徑高位存在之間的衝突，使帕列斯的處境越來越危險，也讓倫納德理解自己的秘密不是單純的個人奇遇。他能協助或保護這位長期寄居的存在，但不能用普通值夜者的力量對等處理天使之王的爭鬥。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "高序列與第二部",
+        "prose": "倫納德隨教會職務與自身序列成長，逐漸從廷根青年變成能夠獨立處理大型神秘事件的非凡者。到第二部，他依舊與黑夜教會、塔羅會及帕列斯的歷史有牽連；不同時代的職務、序列與知情層級應逐項區分。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-651b36914bba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }

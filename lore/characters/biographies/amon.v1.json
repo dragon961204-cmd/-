@@ -159,6 +159,86 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 528
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿蒙｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨作品人物歷程；七階段敘事",
+    "sections": [
+      {
+        "part": 1,
+        "title": "古太陽神之子",
+        "prose": "阿蒙是遠古太陽神相關的天使之王，與亞當有緊密淵源。他出生於非凡者權柄遠高於世俗王國的古老年代，因此對人類的恐懼、規矩與道德界線具有不同理解。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "錯誤途徑的詭詐",
+        "prose": "他掌握偷盜者途徑的高位權柄，能利用寄生、分身及規則漏洞完成計畫。單一現身的阿蒙未必等於本體，也不能因某個分身被擊敗就推斷其全部意志消滅。這是與他接觸者最重要的生存認知。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "歷史中的天使之王",
+        "prose": "在第三紀與第四紀歷史中，他與其他天使之王、帝國及古老家族有複雜互動。其活動影響多個途徑的權柄平衡，也讓偷盜者途徑的非凡者長期承受高位威脅。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "白銀城及神棄之地",
+        "prose": "戴里克等人在白銀城探索中接觸阿蒙的寄生與誘惑，逐漸理解這種存在能把看似平凡的對話變成危機。阿蒙並不只是從正面進攻的強敵，他擅長讓對方在不知情的情況下遵循其設下的規則。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "克萊恩的長期對手",
+        "prose": "克萊恩與阿蒙的衝突從追查分身與情報，逐漸升級成涉及源堡、途徑權柄和神靈位格的對抗。兩人都善於利用身分與計畫，但對他人的感情與承諾有明顯差異。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "愚者道路的決戰",
+        "prose": "第一部後期，阿蒙在接近舊日權柄的競爭中與克萊恩發生決定性衝突。這場爭奪不是普通高序列決鬥，而牽涉古老意志和誰能承擔更高存在的危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部與後續",
+        "prose": "阿蒙在第二部仍以難以預料的方式影響局勢，特別涉及宿命之環、克萊恩夢境及某些命運相關秘密。應對其每次現身建立個別的分身、身份、記憶與權限狀態，不能用同一個全知全能的NPC處理。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-e4e11eebaa1c.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "序列晉升的確切章節和時間",
+      "各年代職務與教會組織起訖",
+      "後期神性或人格變化精確關係"
+    ],
+    "quality_note": "原創敘事初稿，未獲使用者全文驗收；涉及神靈、分身、末日等細節應以原作審核。"
   }
 }
