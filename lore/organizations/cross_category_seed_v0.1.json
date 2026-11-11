@@ -1,0 +1,736 @@
+{
+  "schema_version": "0.1",
+  "scope": "第一批跨類別勢力種子名錄（不等於95項完整分類）；與隱秘組織index.json部分重疊，須用ID去重",
+  "counts": {
+    "entries": 47,
+    "by_category": {
+      "church": 9,
+      "historical_organization": 1,
+      "official": 6,
+      "family": 15,
+      "species_community": 1,
+      "city_government": 1,
+      "governing_body": 1,
+      "local_group": 2,
+      "guild": 1,
+      "umbrella": 1,
+      "military": 1,
+      "government": 1,
+      "secret_organization": 2,
+      "subgroup": 1,
+      "faction": 4
+    }
+  },
+  "sources": [
+    "https://www.lotmfanwiki.com/type/o.html",
+    "https://lordofthemysteries.fandom.com/wiki/List_of_Orthodox_Organizations",
+    "https://lordofthemysteries.fandom.com/wiki/Category:Characters_by_Affiliation"
+  ],
+  "organizations": [
+    {
+      "id": "church-evernight",
+      "name_zh": "黑夜女神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-storms",
+      "name_zh": "風暴之主教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-eternal-sun",
+      "name_zh": "永恆烈陽教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-earth-mother",
+      "name_zh": "大地母神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-steam",
+      "name_zh": "蒸汽與機械之神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-knowledge",
+      "name_zh": "知識與智慧之神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-combat",
+      "name_zh": "戰神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-fool",
+      "name_zh": "愚者教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-sea-god",
+      "name_zh": "海神教會",
+      "category": "church",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "church-ancient-sun",
+      "name_zh": "遠古太陽神教會",
+      "category": "historical_organization",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "nighthawks",
+      "name_zh": "值夜者",
+      "category": "official",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "red-gloves",
+      "name_zh": "紅手套",
+      "category": "official",
+      "parent_id": "nighthawks",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "machinery-hivemind",
+      "name_zh": "機械之心",
+      "category": "official",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "mandated-punishers",
+      "name_zh": "代罰者",
+      "category": "official",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "purifiers",
+      "name_zh": "淨化者",
+      "category": "official",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "mi9",
+      "name_zh": "軍情九處",
+      "category": "official",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "abraham-family",
+      "name_zh": "亞伯拉罕家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "antigonus-family",
+      "name_zh": "安提哥努斯家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "amon-family",
+      "name_zh": "阿蒙家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "zoroast-family",
+      "name_zh": "索羅亞斯德家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "zaratul-family",
+      "name_zh": "查拉圖家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "hall-family",
+      "name_zh": "霍爾家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "gustav-family",
+      "name_zh": "古斯塔夫家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "eggers-family",
+      "name_zh": "艾格斯家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "sauron-family",
+      "name_zh": "索倫家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "einhorn-family",
+      "name_zh": "艾因霍恩家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "tudor-family",
+      "name_zh": "圖鐸家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "solomon-family",
+      "name_zh": "所羅門家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "trunsoest-family",
+      "name_zh": "特倫索斯特家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "tamara-family",
+      "name_zh": "塔瑪拉家族",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "moretti-family",
+      "name_zh": "莫雷蒂家庭",
+      "category": "family",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "sanguines",
+      "name_zh": "血族",
+      "category": "species_community",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "city-of-silver",
+      "name_zh": "白銀城",
+      "category": "city_government",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "city-of-silver-council",
+      "name_zh": "白銀城六人議事團",
+      "category": "governing_body",
+      "parent_id": "city-of-silver",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "sava-gang",
+      "name_zh": "薩瓦黨",
+      "category": "local_group",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "tingen-divination-club",
+      "name_zh": "廷根占卜俱樂部",
+      "category": "local_group",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "fisheries-guild",
+      "name_zh": "漁業公會",
+      "category": "guild",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "pirates",
+      "name_zh": "海盜群體（統稱）",
+      "category": "umbrella",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "loen-military",
+      "name_zh": "魯恩軍方",
+      "category": "military",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "loen-police",
+      "name_zh": "魯恩警察機構（統稱）",
+      "category": "government",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "curly-haired-baboons-research-society",
+      "name_zh": "卷毛狒狒研究會",
+      "category": "secret_organization",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "april-fools",
+      "name_zh": "愚人節",
+      "category": "secret_organization",
+      "parent_id": null,
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "tarot-club-major-arcana",
+      "name_zh": "大阿卡那牌成員",
+      "category": "subgroup",
+      "parent_id": "tarot-club",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "rose-school-temperance",
+      "name_zh": "玫瑰學派節制派",
+      "category": "faction",
+      "parent_id": "rose-school-of-thought",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "rose-school-indulgence",
+      "name_zh": "玫瑰學派放縱派",
+      "category": "faction",
+      "parent_id": "rose-school-of-thought",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "numinous-royalist",
+      "name_zh": "靈教團皇室派",
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    },
+    {
+      "id": "numinous-artificial-death",
+      "name_zh": "靈教團人造死神派",
+      "category": "faction",
+      "parent_id": "numinous-episcopate",
+      "canon_status": "needs_verification",
+      "temporal_status": "unspecified",
+      "sources": [
+        {
+          "kind": "community_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ],
+      "notes": "已見於百科組織或相關分類索引；需按原作逐章核實成立時間、獨立性及具體關係"
+    }
+  ]
+}
