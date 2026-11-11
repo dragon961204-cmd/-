@@ -153,6 +153,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 297
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "弗蘭克·李｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黃金夢想號上的研究者",
+        "prose": "弗蘭克·李在冰山中將艾德雯娜的黃金夢想號上活動，以對生物和農業研究的狂熱聞名。他對植物、蘑菇和生物特性的好奇遠超一般船員，有時甚至讓同伴對實驗成果感到緊張。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "大地途徑與生命研究",
+        "prose": "他與大地相關的非凡能力使研究涉及超自然變化，理論上可能改善食物供給與生物生存環境。但他經常比一般人更著迷於可能性本身，忽略其他人對實驗風險的觀感。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "格爾曼的海上旅程",
+        "prose": "克萊恩與黃金夢想號接觸後，弗蘭克的研究也成為他經常面對的奇特現象。兩者的交流帶有幽默色彩，但也讓一些非凡生物技術和材料進入塔羅會相關資源網絡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "對白銀城的意義",
+        "prose": "隨白銀城等長期缺乏自然資源的群體獲得走向外界的機會，特殊作物和蘑菇具有潛在實用價值。弗蘭克的研究不只是笑料，也與神棄之地居民能否改善生活形成有趣連結。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-10ad8d8f76ba.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

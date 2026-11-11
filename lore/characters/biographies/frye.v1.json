@@ -89,6 +89,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 281
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "弗萊｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "廷根值夜者的守夜人",
+        "prose": "弗萊是黑荊棘安保公司值夜者小隊成員，與鄧恩和克萊恩等人共同工作。他的性格與部分同事不同，平日較安靜，對涉及遺體和現場調查的工作也表現出專業態度。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3c343a95ba2e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "屍體與非凡案件",
+        "prose": "弗萊的能力及工作範圍與處理死者相關，經常能在調查中提供特殊線索。從他的視角看，值夜者工作有大量沉默而必要的程序，並不是每一次都由隊長或主角完成推理。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3c343a95ba2e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "隊伍內部生活",
+        "prose": "日常值班、案件交接與同僚合作，構成弗萊與廷根小隊之間的長期連結。即使沒有大量獨立篇幅，他仍是呈現教會基層非凡者如何工作的重要人物。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3c343a95ba2e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "廷根事件後",
+        "prose": "廷根變故使原有小隊的人事結構受到衝擊。弗萊後續是否繼續擔任原職、何時轉調，必須以來源章節為準；在沒有證據時不應把所有值夜者都設定為同一命運。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-3c343a95ba2e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

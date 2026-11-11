@@ -137,6 +137,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 313
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "多里安·格雷·亞伯拉罕｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "衰落的亞伯拉罕家族",
+        "prose": "多里安·格雷·亞伯拉罕出身古老的亞伯拉罕家族。先祖門先生被封印後，家族後人長期承受滿月囈語和高序列力量缺失的困境。多里安既要保存家族知識，也要提防傳承落入危險勢力手中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7d765623b9c2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "勞倫斯的遺物",
+        "prose": "家族成員勞倫斯留下的遺物與魔藥傳承，使多里安接觸到佛爾思·沃爾。他並不會立即對來歷不明的學徒交付全部秘密，而是透過行為和處境逐步判斷其可信程度。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7d765623b9c2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "教導佛爾思",
+        "prose": "佛爾思成為他的學生後，多里安傳授學徒途徑相關知識，並介紹家族長期遭受詛咒的歷史。佛爾思除了取得非凡資源，也慢慢對這位老師和古老家族產生責任感。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7d765623b9c2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "門先生歸來的危機",
+        "prose": "隨世界級事件接近，亞伯拉罕家族對先祖回歸的期待與實際風險開始衝突。多里安需要在延續家族、保護學生和查清詛咒真相間做出選擇。後續家族處境不可簡單理解為一切詛咒突然無條件消失。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-7d765623b9c2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

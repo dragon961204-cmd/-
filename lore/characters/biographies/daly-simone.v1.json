@@ -127,6 +127,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 330
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "戴莉·西蒙妮｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "值夜者的通靈者",
+        "prose": "戴莉·西蒙妮是黑夜女神教會非凡者，以通靈及與靈界相關的能力聞名。她對工作和生活有自己的風格，談吐大膽卻並非缺乏同理心。對需要處理異常死亡與危險案件的值夜者而言，她的能力能提供普通調查手段無法取得的線索。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c194ca7d453.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與廷根小隊的聯繫",
+        "prose": "她與鄧恩·史密斯及廷根值夜者成員保持關係，也在克萊恩初次接觸非凡世界時幫助他理解靈性與儀式。她雖然不會一直駐留在相同地點，但個人的感情與工作選擇始終受到廷根人事影響。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c194ca7d453.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "鄧恩留下的遺憾",
+        "prose": "廷根悲劇後，戴莉對鄧恩的感情和未曾說出口的話成為她人生深刻的負擔。這份牽掛並不意味着她無法繼續履行責任，反而影響她對因斯等相關事件的態度。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c194ca7d453.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "紅手套與後期追查",
+        "prose": "隨教會與克萊恩等人追蹤當年的陰謀，她參與更高風險的調查和對抗。她的選擇使廷根事件在故事中得到情感上的回應，相關結局必須與鄧恩、倫納德和克萊恩的時間線對接。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c194ca7d453.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

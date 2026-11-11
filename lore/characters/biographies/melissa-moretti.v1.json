@@ -146,6 +146,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 6
+    "source_stage_count": 6,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 353
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "梅麗莎·莫雷蒂｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "莫雷蒂家的妹妹",
+        "prose": "梅麗莎與哥哥班森、克萊恩生活於廷根，家境並不富裕。她重視生活開支，也希望透過教育和技術改善未來。兄妹間對小錢與飲食的在意，展現出莫雷蒂家樸實的感情。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "機械與學校",
+        "prose": "梅麗莎就讀技術學校，對機械結構、工具與修理有興趣。她的學習不像神秘世界中的魔藥晉升那麼戲劇化，卻是另一條憑努力改變自身處境的道路。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "克萊恩加入值夜者",
+        "prose": "克萊恩找到工作後，家庭經濟逐漸改善。梅麗莎知道兄長有新的職務，卻不知道值夜者工作的全部秘密；這份知情差距對普通人的安全和家庭信任都有影響。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "廷根事件的後果",
+        "prose": "廷根變故讓莫雷蒂家遭遇沉重轉折。梅麗莎必須在不知道所有真相的情況下面對生活變化，並與班森繼續維持家庭。她對兄長的記憶也始終保留在克萊恩後續的人生之中。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "後續人生",
+        "prose": "隨時代與教會局勢變動，梅麗莎的教育和生活繼續發展。她是否獲得更多非凡世界知識及何時知道克萊恩的真相，需區分第一部文本、第二部和特殊番外資訊。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-ca42cdd0de8d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

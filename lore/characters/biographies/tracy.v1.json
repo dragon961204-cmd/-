@@ -105,6 +105,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 4
+    "source_stage_count": 4,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 272
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "特雷茜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "海上的疾病中將",
+        "prose": "特雷茜是海盜將軍之一，以疾病中將身份活動，掌握魔女途徑的力量。海上生活讓她習慣在危險交易、船員管理與強敵追捕之間維持權力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "魔女教派的牽連",
+        "prose": "她的力量和過往與魔女教派密切相關，但教派指揮和她個人的情感與目標並非永遠相同。非凡者身分既為她帶來保護，也使她難以擺脫更高層的安排。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與特莉絲的關係",
+        "prose": "特雷茜與特莉絲之間的關係具有重要情感張力，不能只用『同屬魔女教派』一筆帶過。兩人的經歷和處境不同，對教派和彼此的態度也會在事件中改變。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "海上衝突與後續",
+        "prose": "克萊恩以格爾曼·斯帕羅等身份活動時，相關海盜勢力與魔女教派的陰謀交會。特雷茜在此背景下作出自己的抉擇，結局須依實際章節補充，不宜因海盜頭銜就設定為單一陣營。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-53df6eb1ccae.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

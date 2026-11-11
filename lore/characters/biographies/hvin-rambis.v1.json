@@ -113,6 +113,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 271
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "赫溫·蘭比斯｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "心理鍊金會的高層",
+        "prose": "赫溫·蘭比斯是心理鍊金會的重要人物，擁有觀眾途徑的高階能力。外在的理性與優雅，使他能夠在上層社交圈和神秘組織中活動，而不容易引起旁人警覺。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "操縱精神的權力",
+        "prose": "隨序列提升，赫溫能夠透過心理暗示與其他手段影響人。他與一般醫生最大的不同，在於能將這種能力用來支配他人的選擇，因此對不知情的觀眾途徑學習者極其危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "對奧黛麗的影響",
+        "prose": "奧黛麗在心理鍊金會深入學習時逐漸接近更高位的權力網絡。赫溫將她視為可利用的棋子，讓她被迫思考自己的心智是否仍由自己掌握。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "衝突與反制",
+        "prose": "當奧黛麗察覺精神受到干涉，她必須利用塔羅會的情報、對自身的了解與謹慎準備反制對方。赫溫的事件因此成為她獨立判斷與精神防護能力的重要轉折。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-97dcd03d4503.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

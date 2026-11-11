@@ -163,6 +163,67 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 9
+    "source_stage_count": 9,
+    "continuous_prose_draft": true,
+    "narrative_sections": 5,
+    "narrative_zh_characters": 341
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "安東尼·瑞德｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "軍旅經歷與創傷",
+        "prose": "安東尼·瑞德有軍事與情報相關的過往經歷，這段歷史影響其處理風險的方式，也留下需要面對的心理負擔。他並非從一開始就屬於盧米安的同伴群體，而是在追索自身目標的過程中接近特里爾的秘密世界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "觀眾途徑的專長",
+        "prose": "他擁有觀眾途徑的心理分析與精神能力，能觀察情緒、理解動機並輔助團隊判斷；但這種能力需要具體條件，不能設定為不受限制的讀心。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與盧米安團隊相識",
+        "prose": "安東尼逐漸與盧米安、芙蘭卡和簡娜建立聯繫。相較於早期主要依靠街頭行動的團隊，他帶來專業化的心理分析和風險評估，也有自己的未竟目標。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "追查過往與合作",
+        "prose": "在更深的非凡調查中，他必須面對個人的創傷及關於過去的秘密。與同伴合作並不代表他的私人目標立刻消失，反而使他有更多方式尋找答案。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "後續發展",
+        "prose": "隨第二部局勢擴大，他不再只是個別案件的協助者，而與更高層次的任務相連。具體組織關係、能力晉升與最終命運仍須依來源階段核實。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-c79adb2ab4d9.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

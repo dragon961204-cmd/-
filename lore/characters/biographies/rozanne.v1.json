@@ -113,6 +113,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 5
+    "source_stage_count": 5,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 294
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "羅珊｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黑荊棘的接待員",
+        "prose": "羅珊在黑荊棘安保公司負責日常接待及部分文書聯絡，是普通市民和祕密值夜者工作之間的重要接點。她言語活潑，對小隊成員有親切感，也讓初次走進公司的克萊恩看見表面安保工作背後的生活氣息。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e899191db95.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "熟悉但並非無所不知",
+        "prose": "她知道公司的不少日常規範與人物性格，卻不等於可以接觸所有封印物或神靈級秘密。對普通職員而言，保持部分資訊隔離本身就是保護。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e899191db95.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與克萊恩的日常",
+        "prose": "她與克萊恩和其他同事間的談話，涉及工作安排、薪資、飲食及消息傳遞，使廷根篇有較為平凡的一面。這些片段在小隊悲劇後，反而成為角色對故鄉的深刻記憶。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e899191db95.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "後期的身份延續",
+        "prose": "羅珊並不是以戰鬥力推動劇情的非凡者，她的意義在於教會制度與普通人生活的連結。傳記要把她在不同時期的工作與認知限制寫清楚，避免隨意給她高序列能力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9e899191db95.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }

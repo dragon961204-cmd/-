@@ -237,6 +237,58 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 2
+    "source_stage_count": 2,
+    "continuous_prose_draft": true,
+    "narrative_sections": 4,
+    "narrative_zh_characters": 321
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "老尼爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "sections": [
+      {
+        "part": 1,
+        "title": "黑荊棘安保公司的老同事",
+        "prose": "老尼爾是廷根值夜者體系裡富有經驗的神秘學工作者，熟悉儀式魔法與日常封印物管理。他也會談起薪資和生活中的小願望，讓初入組織的克萊恩感覺非凡者並非總是冷酷的戰士。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "克萊恩的啟蒙",
+        "prose": "克萊恩在黑荊棘學習儀式和神秘學時，老尼爾提供實用指導，分享工作經驗，也提醒新人對知識保持謹慎。兩人相處帶有生活氣息，使值夜者小隊不只是由任務編號組成的機構。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "失去所愛者的執念",
+        "prose": "老尼爾對已離世的親近之人抱有強烈思念，並因此接觸不應輕信的神秘學力量。悲傷與誘惑相互作用，逐漸侵蝕他的判斷；曾經善於提醒別人的老師，卻未能完全守住自己的界線。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "早期的警示事件",
+        "prose": "老尼爾的遭遇成為克萊恩理解非凡者失控與神秘污染的重要教訓。其故事也顯示教會規章並不能替每名成員消除私人痛苦；在世界資料庫中，這段事實應與克萊恩的成長及教會的風險教育相連。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-2c1a4f47e126.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "確切章節時間線",
+      "主要組織身份的起訖及序列晉升",
+      "未來第二部與番外事件"
+    ],
+    "quality_note": "為原創連貫生平草稿；需使用者確認原作細節；未完成全篇驗收。"
   }
 }
