@@ -1,147 +1,603 @@
 {
-  "schema_version": "0.1",
-  "scope": "初始研究名單，不宣稱完整；所有組織存在、中文名、時間狀態需要原作回查",
-  "count_policy": "獨立組織與派系分開；教會與官方機構另分類",
+  "schema_version": "0.2",
+  "scope": "非官方英文百科 List of Secret Organizations 全部條目候選索引（跨第一部、第二部與歷史時代）；不是原作全組織的確定總數",
+  "source_list": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations",
+  "other_source": {
+    "url": "https://www.lotmfanwiki.com/type/o.html",
+    "description": "中文索引含教會、家族、企業、隊伍、國家等，不與隱秘組織名錄直接相加",
+    "published_pages_reported": 95,
+    "index_rows_reported": 513
+  },
+  "counts": {
+    "secret_candidates": 34,
+    "by_source_group": {
+      "second_epoch": 1,
+      "third_epoch": 1,
+      "fourth_epoch": 7,
+      "early_fifth_epoch": 4,
+      "fifth_epoch_new": 8,
+      "post_fifth_epoch_world_war": 13
+    }
+  },
+  "count_policy": "派系、教會、家族、官方組織分開統計；來源名錄可能包含關係組織與時代不同的組織；整體完全數量未知",
   "organizations": [
     {
-      "id": "tarot-club",
-      "name_zh": "塔羅會",
-      "category": "secret_organization",
+      "id": "great-white-brotherhood",
+      "name_en": "Great White Brotherhood",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "second_epoch",
       "canon_status": "needs_verification",
       "active_in_1349": "unknown",
       "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "aurora-order",
-      "name_zh": "極光會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "rose-school-of-thought",
-      "name_zh": "玫瑰學派",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "secret-order",
-      "name_zh": "密修會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "psychology-alchemists",
-      "name_zh": "心理鍊金會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "life-school-of-thought",
-      "name_zh": "生命學派",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "moses-ascetic-order",
-      "name_zh": "摩斯苦修會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "demoness-sect",
-      "name_zh": "魔女教派",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "numinous-episcopate",
-      "name_zh": "靈教團",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "iron-and-blood-cross-order",
-      "name_zh": "鐵血十字會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "element-dawn",
-      "name_zh": "要素黎明",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
-    },
-    {
-      "id": "twilight-hermit-order",
-      "name_zh": "黃昏隱士會",
-      "category": "secret_organization",
-      "canon_status": "needs_verification",
-      "active_in_1349": "unknown",
-      "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
     },
     {
       "id": "rose-redemption",
+      "name_en": "Rose Redemption",
       "name_zh": "救贖薔薇",
-      "category": "historical_organization",
+      "category": "secret_organization_candidate",
+      "source_group": "third_epoch",
       "canon_status": "needs_verification",
       "active_in_1349": "unknown",
       "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "twilight-hermit-order",
+      "name_en": "Twilight Hermit Order",
+      "name_zh": "黃昏隱士會",
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "moses-ascetic-order",
+      "name_en": "Moses Ascetic Order",
+      "name_zh": "摩斯苦修會",
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "demoness-sect",
+      "name_en": "Demoness Sect",
+      "name_zh": "魔女教派",
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "mirror-people",
+      "name_en": "Mirror People",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "secret-order",
+      "name_en": "Secret Order",
+      "name_zh": "密修會",
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "shadow-of-order",
+      "name_en": "Shadow of Order",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
     },
     {
       "id": "blood-sanctify-sect",
+      "name_en": "Blood Sanctify Sect",
       "name_zh": "拜血教",
-      "category": "secret_organization",
+      "category": "secret_organization_candidate",
+      "source_group": "fourth_epoch",
       "canon_status": "needs_verification",
       "active_in_1349": "unknown",
       "joinable": "undecided",
-      "sources": [],
-      "notes": "需核對組織成立年代、派系、勢力分布及中文譯名"
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "theosophy-order",
+      "name_en": "Theosophy Order",
+      "name_zh": "靈知會",
+      "category": "secret_organization_candidate",
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "numinous-episcopate",
+      "name_en": "Numinous Episcopate",
+      "name_zh": "靈教團",
+      "category": "secret_organization_candidate",
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "life-school-of-thought",
+      "name_en": "Life School of Thought",
+      "name_zh": "生命學派",
+      "category": "secret_organization_candidate",
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "rose-school-of-thought",
+      "name_en": "Rose School of Thought",
+      "name_zh": "玫瑰學派",
+      "category": "secret_organization_candidate",
+      "source_group": "early_fifth_epoch",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "aurora-order",
+      "name_en": "Aurora Order",
+      "name_zh": "極光會",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "iron-and-blood-cross-order",
+      "name_en": "Iron and Blood Cross Order",
+      "name_zh": "鐵血十字會",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "psychology-alchemists",
+      "name_en": "Psychology Alchemists",
+      "name_zh": "心理鍊金會",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "element-dawn",
+      "name_en": "Element Dawn",
+      "name_zh": "要素黎明",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "hermits-of-fate",
+      "name_en": "Hermits of Fate",
+      "name_zh": "命運隱士會",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "naturism-sect",
+      "name_en": "Naturism Sect",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "tarot-club",
+      "name_en": "Tarot Club",
+      "name_zh": "塔羅會",
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "celestial-research-association",
+      "name_en": "Celestial Research Association",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "fifth_epoch_new",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "curly-haired-baboons-research-society",
+      "name_en": "Curly-Haired Baboons Research Society",
+      "name_zh": "卷毛狒狒研究會",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "april-fools",
+      "name_en": "April Fool's",
+      "name_zh": "愚人節",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "sinners",
+      "name_en": "Sinners",
+      "name_zh": "罪人組織",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "nightstalkers",
+      "name_en": "Nightstalkers",
+      "name_zh": "夜遊會",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "bliss-society",
+      "name_en": "Bliss Society",
+      "name_zh": "至福會",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "order-of-all-extinction",
+      "name_en": "Order of All Extinction",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "entry-persons",
+      "name_en": "Entry Persons",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "dreamseekers",
+      "name_en": "Dreamseekers",
+      "name_zh": "尋夢者",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "school-of-gods-descent",
+      "name_en": "School of God's Descent",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "school-of-truth",
+      "name_en": "School of Truth",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "sick-church",
+      "name_en": "Sick Church",
+      "name_zh": "病教",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "school-of-deliciousness",
+      "name_en": "School of Deliciousness",
+      "name_zh": null,
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
+    },
+    {
+      "id": "fantasy-association",
+      "name_en": "Fantasy Association",
+      "name_zh": "幻想會",
+      "category": "secret_organization_candidate",
+      "source_group": "post_fifth_epoch_world_war",
+      "canon_status": "needs_verification",
+      "active_in_1349": "unknown",
+      "joinable": "undecided",
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/List_of_Secret_Organizations"
+        }
+      ],
+      "notes": "英文百科名錄候選；名稱、成立時期及是否獨立組織仍需回查小說；不可單憑本索引推定該時期可加入"
     }
   ],
   "factions": [
@@ -150,14 +606,24 @@
       "parent_id": "rose-school-of-thought",
       "name_zh": "節制派",
       "canon_status": "needs_verification",
-      "sources": []
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ]
     },
     {
       "id": "rose-school-indulgence",
       "parent_id": "rose-school-of-thought",
       "name_zh": "放縱派",
       "canon_status": "needs_verification",
-      "sources": []
+      "sources": [
+        {
+          "kind": "community_wiki_index",
+          "reference": "https://www.lotmfanwiki.com/type/o.html"
+        }
+      ]
     }
   ]
 }
