@@ -3,8 +3,8 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 118,
-    "individual_draft": 86,
+    "indexed": 137,
+    "individual_draft": 105,
     "index_only": 32,
     "verified": 0,
     "chapter_checked_claims": 12,
@@ -1416,6 +1416,177 @@
         "abraham-family"
       ],
       "chapter_checked_claim_count": 0
+    },
+    {
+      "character_id": "true-creator",
+      "name_zh": "真實造物主",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/true-creator.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "evernight-goddess",
+      "name_zh": "黑夜女神",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/evernight-goddess.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ludwig",
+      "name_zh": "路德維希",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/ludwig.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "celestial-worthy",
+      "name_zh": "天尊",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/celestial-worthy.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "primordial-demoness",
+      "name_zh": "原初魔女",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/primordial-demoness.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mother-goddess-of-depravity",
+      "name_zh": "偉大母親",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/mother-goddess-of-depravity.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lugano-toscano",
+      "name_zh": "盧加諾",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/lugano-toscano.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "guillaume-benet",
+      "name_zh": "紀堯姆·貝內",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/guillaume-benet.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "gardner-martin",
+      "name_zh": "加德納·馬丁",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/gardner-martin.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "eternal-blazing-sun",
+      "name_zh": "永恆烈陽",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/eternal-blazing-sun.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "madame-pualis",
+      "name_zh": "普阿利斯夫人",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/madame-pualis.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "earth-mother",
+      "name_zh": "大地母神",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/earth-mother.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lord-of-storms",
+      "name_zh": "風暴之主",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/lord-of-storms.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "hela",
+      "name_zh": "海拉",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/hela.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "mother-tree-of-desire",
+      "name_zh": "欲望母樹",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/mother-tree-of-desire.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "count-hall",
+      "name_zh": "霍爾伯爵",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/count-hall.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "isengard-stanton",
+      "name_zh": "艾辛格·斯坦頓",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/isengard-stanton.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "qilangos",
+      "name_zh": "齊林格斯",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/qilangos.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "steam-god",
+      "name_zh": "蒸汽與機械之神",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/steam-god.v1.json",
+      "status": "draft_for_user_review",
+      "chapter_verified": false,
+      "possible_organizations": []
     }
   ]
 }

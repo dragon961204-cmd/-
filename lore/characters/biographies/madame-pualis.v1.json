@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "madame-pualis",
+  "name_zh": "普阿利斯夫人",
+  "source_name_zh": "普阿利斯夫人",
+  "importance": "A",
+  "entity_type": "individual",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "section": 1,
+      "title": "起點與歷史背景",
+      "summary": "科爾杜地方上層家庭的重要成員，憑社交地位參與村中權力網絡",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 2,
+      "title": "勢力、能力及社會位置",
+      "summary": "表面社會身份下隱藏非凡能力與特殊信仰",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 3,
+      "title": "與主要人物的聯繫",
+      "summary": "與貝內神父有秘密關係，涉及科爾杜災難背後的利益交錯",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 4,
+      "title": "主要事件與轉折",
+      "summary": "盧米安逐步發現其異常並捲入與她相關的危險事件",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 5,
+      "title": "後續命運與時間限制",
+      "summary": "科爾杜事件之後的去向涉及現實與特殊循環的時間差，需謹慎建檔",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "宿命·2",
+      "event": "百科統計首次登場（不是直接核對小說的出生或初登場章）",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "verification": "source_index_only"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "mother",
+      "stage": "varies_by_time",
+      "verification": "pending_user_review"
+    }
+  ],
+  "organization_history": [],
+  "relationships": [],
+  "game_integration": {
+    "spoiler_gating": true,
+    "temporal_snapshots_required": true,
+    "notes": "僅以當期玩家可知情報顯示能力、立場及組織"
+  },
+  "source_registry": [
+    {
+      "kind": "independent_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html",
+      "source_character_index": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "review": {
+    "status": "pending_user_review",
+    "questions": [
+      "背景與出場階段是否吻合原作？",
+      "序列及組織關係是否漏記？",
+      "神靈本體、神性分身或複合實體應如何拆分？"
+    ]
+  },
+  "verification": {
+    "complete": false,
+    "reviewed_by_user": false,
+    "original_chapter_full_check": false
+  },
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+}

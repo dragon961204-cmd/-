@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "guillaume-benet",
+  "name_zh": "紀堯姆·貝內",
+  "source_name_zh": "纪尧姆.贝内",
+  "importance": "A",
+  "entity_type": "individual",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "section": 1,
+      "title": "起點與歷史背景",
+      "summary": "原是科爾杜村永恆烈陽教會的神父，在村莊具有實質宗教權力",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 2,
+      "title": "勢力、能力及社會位置",
+      "summary": "其私人關係與對地方宗教奉獻的處理充滿爭議",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 3,
+      "title": "與主要人物的聯繫",
+      "summary": "秘密投向宿命之環相關力量，擁有命運途徑的非凡能力",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 4,
+      "title": "主要事件與轉折",
+      "summary": "在科爾杜災變中扮演重要角色，使盧米安的人生徹底改變",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 5,
+      "title": "後續命運與時間限制",
+      "summary": "離村後仍牽涉盧米安與芙蘭卡的追查，後續衝突導向結局",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "宿命·2",
+      "event": "百科統計首次登場（不是直接核對小說的出生或初登場章）",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "verification": "source_index_only"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "circle-of-inevitability",
+      "stage": "varies_by_time",
+      "verification": "pending_user_review"
+    }
+  ],
+  "organization_history": [],
+  "relationships": [],
+  "game_integration": {
+    "spoiler_gating": true,
+    "temporal_snapshots_required": true,
+    "notes": "僅以當期玩家可知情報顯示能力、立場及組織"
+  },
+  "source_registry": [
+    {
+      "kind": "independent_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html",
+      "source_character_index": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "review": {
+    "status": "pending_user_review",
+    "questions": [
+      "背景與出場階段是否吻合原作？",
+      "序列及組織關係是否漏記？",
+      "神靈本體、神性分身或複合實體應如何拆分？"
+    ]
+  },
+  "verification": {
+    "complete": false,
+    "reviewed_by_user": false,
+    "original_chapter_full_check": false
+  },
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+}

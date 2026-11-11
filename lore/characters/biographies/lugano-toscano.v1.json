@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lugano-toscano",
+  "name_zh": "盧加諾",
+  "source_name_zh": "卢加诺",
+  "importance": "B",
+  "entity_type": "individual",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "section": 1,
+      "title": "起點與歷史背景",
+      "summary": "以治療、照護及生存能力見長的非凡者，出身和早年細節待補",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 2,
+      "title": "勢力、能力及社會位置",
+      "summary": "與盧米安結成工作關係，協助隊伍處理冒險中的醫療問題",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 3,
+      "title": "與主要人物的聯繫",
+      "summary": "與路德維希同行期間需兼顧其日常生活與異常需求",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 4,
+      "title": "主要事件與轉折",
+      "summary": "前往南大陸等地區之後，逐步承擔更複雜的任務",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 5,
+      "title": "後續命運與時間限制",
+      "summary": "作為同伴仍保留個人立場與判斷，不能設定為永久免費治療角色",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "宿命·288",
+      "event": "百科統計首次登場（不是直接核對小說的出生或初登場章）",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "verification": "source_index_only"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "mother",
+      "stage": "varies_by_time",
+      "verification": "pending_user_review"
+    }
+  ],
+  "organization_history": [],
+  "relationships": [],
+  "game_integration": {
+    "spoiler_gating": true,
+    "temporal_snapshots_required": true,
+    "notes": "僅以當期玩家可知情報顯示能力、立場及組織"
+  },
+  "source_registry": [
+    {
+      "kind": "independent_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html",
+      "source_character_index": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "review": {
+    "status": "pending_user_review",
+    "questions": [
+      "背景與出場階段是否吻合原作？",
+      "序列及組織關係是否漏記？",
+      "神靈本體、神性分身或複合實體應如何拆分？"
+    ]
+  },
+  "verification": {
+    "complete": false,
+    "reviewed_by_user": false,
+    "original_chapter_full_check": false
+  },
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+}

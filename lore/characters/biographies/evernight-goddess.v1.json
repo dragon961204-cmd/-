@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "evernight-goddess",
+  "name_zh": "黑夜女神",
+  "source_name_zh": "黑夜女神",
+  "importance": "A",
+  "entity_type": "deity",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "section": 1,
+      "title": "起點與歷史背景",
+      "summary": "真名阿曼妮西斯，生平源自古老年代，與魔狼時代的歷史密切相關",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 2,
+      "title": "勢力、能力及社會位置",
+      "summary": "第五紀教會在魯恩廣泛活動，擁有普通神職、值夜者、紅手套等層級",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 3,
+      "title": "與主要人物的聯繫",
+      "summary": "廷根事件透過教會和克萊恩相連，但普通值夜者並不知悉其全部計畫",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 4,
+      "title": "主要事件與轉折",
+      "summary": "其後對克萊恩的支持涉及神靈之間的權柄及歷史布局",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 5,
+      "title": "後續命運與時間限制",
+      "summary": "末日階段與死神、戰神權柄及宇宙污染相關，需分階段記錄",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "诡秘·1",
+      "event": "百科統計首次登場（不是直接核對小說的出生或初登場章）",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "verification": "source_index_only"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "darkness",
+      "stage": "varies_by_time",
+      "verification": "pending_user_review"
+    }
+  ],
+  "organization_history": [],
+  "relationships": [],
+  "game_integration": {
+    "spoiler_gating": true,
+    "temporal_snapshots_required": true,
+    "notes": "僅以當期玩家可知情報顯示能力、立場及組織"
+  },
+  "source_registry": [
+    {
+      "kind": "independent_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html",
+      "source_character_index": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "review": {
+    "status": "pending_user_review",
+    "questions": [
+      "背景與出場階段是否吻合原作？",
+      "序列及組織關係是否漏記？",
+      "神靈本體、神性分身或複合實體應如何拆分？"
+    ]
+  },
+  "verification": {
+    "complete": false,
+    "reviewed_by_user": false,
+    "original_chapter_full_check": false
+  },
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+}

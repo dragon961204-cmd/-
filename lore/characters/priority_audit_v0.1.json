@@ -2,8 +2,8 @@
   "schema_version": "0.1",
   "scope": "現有102名角色的編輯優先級評估；優先級是遊戲設計判斷，不是原作客觀定論。D級暫時排除但不刪歷史資料",
   "counts": {
-    "A": 40,
-    "B": 46,
+    "A": 57,
+    "B": 48,
     "C": 22,
     "D": 10
   },
@@ -1069,6 +1069,177 @@
       "chapter_verified": false,
       "in_game": "candidate",
       "review_notes": "有明確百科來源的生平初稿，非原作逐章已完成"
+    },
+    {
+      "character_id": "true-creator",
+      "name_zh": "真實造物主",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "evernight-goddess",
+      "name_zh": "黑夜女神",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "ludwig",
+      "name_zh": "路德維希",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "celestial-worthy",
+      "name_zh": "天尊",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "primordial-demoness",
+      "name_zh": "原初魔女",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "mother-goddess-of-depravity",
+      "name_zh": "偉大母親",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "lugano-toscano",
+      "name_zh": "盧加諾",
+      "rank": "B",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "guillaume-benet",
+      "name_zh": "紀堯姆·貝內",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "gardner-martin",
+      "name_zh": "加德納·馬丁",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "eternal-blazing-sun",
+      "name_zh": "永恆烈陽",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "madame-pualis",
+      "name_zh": "普阿利斯夫人",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "earth-mother",
+      "name_zh": "大地母神",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "lord-of-storms",
+      "name_zh": "風暴之主",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "hela",
+      "name_zh": "海拉",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "mother-tree-of-desire",
+      "name_zh": "欲望母樹",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "count-hall",
+      "name_zh": "霍爾伯爵",
+      "rank": "B",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "isengard-stanton",
+      "name_zh": "艾辛格·斯坦頓",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "qilangos",
+      "name_zh": "齊林格斯",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
+    },
+    {
+      "character_id": "steam-god",
+      "name_zh": "蒸汽與機械之神",
+      "rank": "A",
+      "biography_status": "draft_for_user_review",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "來源278頁，五節背景初稿，待用戶審核"
     }
   ]
 }

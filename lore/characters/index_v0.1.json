@@ -1939,6 +1939,310 @@
       ],
       "aliases": [],
       "first_appearance": null
+    },
+    {
+      "id": "true-creator",
+      "name_zh": "真實造物主",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-dadb6de000dc.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·18"
+    },
+    {
+      "id": "evernight-goddess",
+      "name_zh": "黑夜女神",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-34f83b503735.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·1"
+    },
+    {
+      "id": "ludwig",
+      "name_zh": "路德維希",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-ac5e19d32139.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·311"
+    },
+    {
+      "id": "celestial-worthy",
+      "name_zh": "天尊",
+      "name_en": null,
+      "identity_status": "cosmic_entity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-4c1eaba9437c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·57"
+    },
+    {
+      "id": "primordial-demoness",
+      "name_zh": "原初魔女",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-36cd76a73805.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·61"
+    },
+    {
+      "id": "mother-goddess-of-depravity",
+      "name_zh": "偉大母親",
+      "name_en": null,
+      "identity_status": "outer_deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-41049987c96b.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·362"
+    },
+    {
+      "id": "lugano-toscano",
+      "name_zh": "盧加諾",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-281ebb304662.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·288"
+    },
+    {
+      "id": "guillaume-benet",
+      "name_zh": "紀堯姆·貝內",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-a9cb839f4d9d.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·2"
+    },
+    {
+      "id": "gardner-martin",
+      "name_zh": "加德納·馬丁",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-9bdb2381a54a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·167"
+    },
+    {
+      "id": "eternal-blazing-sun",
+      "name_zh": "永恆烈陽",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e45f9cf34143.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "id": "madame-pualis",
+      "name_zh": "普阿利斯夫人",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-33eb92d22a34.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·2"
+    },
+    {
+      "id": "earth-mother",
+      "name_zh": "大地母神",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-3f2c165b8249.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "id": "lord-of-storms",
+      "name_zh": "風暴之主",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-7bd9fee60e24.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·3"
+    },
+    {
+      "id": "hela",
+      "name_zh": "海拉",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-77cb98c5511f.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "宿命·48"
+    },
+    {
+      "id": "mother-tree-of-desire",
+      "name_zh": "欲望母樹",
+      "name_en": null,
+      "identity_status": "outer_deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-da42e6cfdcd1.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·624"
+    },
+    {
+      "id": "count-hall",
+      "name_zh": "霍爾伯爵",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-f5768e8e8f15.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·8"
+    },
+    {
+      "id": "isengard-stanton",
+      "name_zh": "艾辛格·斯坦頓",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·157"
+    },
+    {
+      "id": "qilangos",
+      "name_zh": "齊林格斯",
+      "name_en": null,
+      "identity_status": "individual",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-44a38271b78c.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·145"
+    },
+    {
+      "id": "steam-god",
+      "name_zh": "蒸汽與機械之神",
+      "name_en": null,
+      "identity_status": "deity",
+      "affiliation_review": "pending_user_review",
+      "notes": "由278獨立頁面補建，尚未經使用者審核",
+      "sources": [
+        {
+          "kind": "wiki_published_character_page",
+          "reference": "https://lotmfanwiki.com/node/cn-p-7ae8d276426a.html"
+        }
+      ],
+      "aliases": [],
+      "first_appearance": "诡秘·3"
     }
   ]
 }

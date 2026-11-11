@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "isengard-stanton",
+  "name_zh": "艾辛格·斯坦頓",
+  "source_name_zh": "艾辛格·斯坦顿",
+  "importance": "A",
+  "entity_type": "individual",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "section": 1,
+      "title": "起點與歷史背景",
+      "summary": "貝克蘭德名偵探，以推理與案件分析著稱，並與警方合作",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 2,
+      "title": "勢力、能力及社會位置",
+      "summary": "曾在倫堡求學，改宗知識與智慧之神，接觸讀者途徑",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 3,
+      "title": "與主要人物的聯繫",
+      "summary": "用智慧之眼身份主持地下非凡聚會，處事謹慎並維持交易規矩",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 4,
+      "title": "主要事件與轉折",
+      "summary": "曾受休與佛爾思委託分析齊林格斯行動，也與夏洛克合作",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    },
+    {
+      "section": 5,
+      "title": "後續命運與時間限制",
+      "summary": "欲望使徒事件顯示其能力與局限；因晉升條件而長期停留序列7",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_and_secondary_background_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "诡秘·157",
+      "event": "百科統計首次登場（不是直接核對小說的出生或初登場章）",
+      "source_page_url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "verification": "source_index_only"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "white-tower",
+      "stage": "varies_by_time",
+      "verification": "pending_user_review"
+    }
+  ],
+  "organization_history": [],
+  "relationships": [],
+  "game_integration": {
+    "spoiler_gating": true,
+    "temporal_snapshots_required": true,
+    "notes": "僅以當期玩家可知情報顯示能力、立場及組織"
+  },
+  "source_registry": [
+    {
+      "kind": "independent_character_page",
+      "url": "https://lotmfanwiki.com/node/cn-p-e13cf6397fea.html",
+      "source_character_index": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "review": {
+    "status": "pending_user_review",
+    "questions": [
+      "背景與出場階段是否吻合原作？",
+      "序列及組織關係是否漏記？",
+      "神靈本體、神性分身或複合實體應如何拆分？"
+    ]
+  },
+  "verification": {
+    "complete": false,
+    "reviewed_by_user": false,
+    "original_chapter_full_check": false
+  },
+  "copyright_note": "研究用原創概述；未存取或複製長篇原文"
+}
