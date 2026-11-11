@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "character_id": "kenley-white",
+  "name_zh": "肯利·懷特",
+  "name_en": "Kenley White",
+  "importance": "B",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "出身與背景",
+      "summary": "廷根值夜者成員，曾先在黑荊棘安保公司從事文職，再轉為正式非凡者。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 2,
+      "title": "參與的重要事件",
+      "summary": "作為序列9不眠者，參與與其他隊員共同承擔的調查；他有未婚妻，顯示其工作外也有私人生活牽掛。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 3,
+      "title": "後續命運與意義",
+      "summary": "在涉及封印物的高風險任務中遭遇重大事故，提醒玩家教會行動不能無視封印物管理規範。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第42、106、198章（維基索引）",
+      "event": "可供使用者定位的出場或重大事件章節；不等於經過逐章驗證",
+      "verification": "secondary_or_unconfirmed_chapter_locator"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "nighthawks",
+      "role": "candidate_association",
+      "from": null,
+      "to": null,
+      "verification": "needs_user_review"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway_notes": "黑暗途徑，序列9不眠者。",
+      "verification": "needs_user_review"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "status": "provisional",
+    "notes": "依時間線及組織背景限制遇見條件；不可把未知情節或早期未加入的組織寫死"
+  },
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Kenley_White",
+      "verification": "source_locator_not_user_approved"
+    }
+  ],
+  "review": {
+    "reviewer": "user",
+    "status": "pending_user_review",
+    "questions": [
+      "人物中文譯名是否正確？",
+      "時序與序列是否和你閱讀的原作一致？",
+      "是否需要增加個人經歷或與其他人物的關係？"
+    ],
+    "risk": "medium"
+  },
+  "verification": {
+    "complete": false,
+    "chapter_verified": false
+  },
+  "copyright_note": "原創摘要，未收錄小說正文"
+}

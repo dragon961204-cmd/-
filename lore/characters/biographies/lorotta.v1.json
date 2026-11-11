@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lorotta",
+  "name_zh": "洛絡塔",
+  "name_en": "Lorotta",
+  "importance": "B",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "出身與背景",
+      "summary": "黑夜女神教會貝克蘭德教區的值夜者，精通射擊，與廷根小隊並非同一固定編制。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 2,
+      "title": "參與的重要事件",
+      "summary": "受派遣與同僚攜封印物前往廷根，協助追查安提哥努斯家族筆記及比伯。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 3,
+      "title": "後續命運與意義",
+      "summary": "她與廷根隊員共同執行高風險案件，展現跨教區支援和官方非凡者的工作方式。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第71、76、79章（維基索引）",
+      "event": "可供使用者定位的出場或重大事件章節；不等於經過逐章驗證",
+      "verification": "secondary_or_unconfirmed_chapter_locator"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "nighthawks",
+      "role": "candidate_association",
+      "from": null,
+      "to": null,
+      "verification": "needs_user_review"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway_notes": "死神途徑，序列8掘墓人。",
+      "verification": "needs_user_review"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "status": "provisional",
+    "notes": "依時間線及組織背景限制遇見條件；不可把未知情節或早期未加入的組織寫死"
+  },
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Lorotta",
+      "verification": "source_locator_not_user_approved"
+    }
+  ],
+  "review": {
+    "reviewer": "user",
+    "status": "pending_user_review",
+    "questions": [
+      "人物中文譯名是否正確？",
+      "時序與序列是否和你閱讀的原作一致？",
+      "是否需要增加個人經歷或與其他人物的關係？"
+    ],
+    "risk": "medium"
+  },
+  "verification": {
+    "complete": false,
+    "chapter_verified": false
+  },
+  "copyright_note": "原創摘要，未收錄小說正文"
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.1",
+  "character_id": "naya",
+  "name_zh": "娜婭",
+  "name_en": "Naya",
+  "importance": "B",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "出身與背景",
+      "summary": "霍伊大學相關學生，與原身克萊恩及韋爾奇在歷史研究上有合作關係。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 2,
+      "title": "參與的重要事件",
+      "summary": "受邀參與安提哥努斯家族筆記的解讀，因此與韋爾奇的家中聚會及異常事件關聯緊密。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 3,
+      "title": "後續命運與意義",
+      "summary": "她的遭遇是克萊恩最初接受值夜者調查的重要背景；人物背景不應額外編造未見原作的家庭資料。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部開篇與韋爾奇相關章節（精確章號待核）",
+      "event": "可供使用者定位的出場或重大事件章節；不等於經過逐章驗證",
+      "verification": "secondary_or_unconfirmed_chapter_locator"
+    }
+  ],
+  "organization_history": [],
+  "pathway_history": [
+    {
+      "pathway_notes": "非凡途徑未知。",
+      "verification": "needs_user_review"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "status": "provisional",
+    "notes": "依時間線及組織背景限制遇見條件；不可把未知情節或早期未加入的組織寫死"
+  },
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Naya",
+      "verification": "source_locator_not_user_approved"
+    }
+  ],
+  "review": {
+    "reviewer": "user",
+    "status": "pending_user_review",
+    "questions": [
+      "人物中文譯名是否正確？",
+      "時序與序列是否和你閱讀的原作一致？",
+      "是否需要增加個人經歷或與其他人物的關係？"
+    ],
+    "risk": "medium"
+  },
+  "verification": {
+    "complete": false,
+    "chapter_verified": false
+  },
+  "copyright_note": "原創摘要，未收錄小說正文"
+}

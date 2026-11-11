@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "character_id": "anthony-reid",
+  "name_zh": "安東尼·瑞德",
+  "name_en": "Anthony Reid",
+  "importance": "B",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "出身與背景",
+      "summary": "曾服役於軍隊的因蒂斯相關情報工作者，戰後於特里爾從事情蒐與心理學相關活動。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 2,
+      "title": "參與的重要事件",
+      "summary": "他以觀眾途徑的心理分析能力處理人際與情報案件，與第二部的盧米安團隊逐漸建立合作。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 3,
+      "title": "後續命運與意義",
+      "summary": "其軍旅經歷與對特定過往事件的追尋，是推動其介入第二部主線的重要因素；也與塔羅會小阿卡那體系相關。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "《宿命之環》第119、256、495、899、1078章（維基索引）",
+      "event": "可供使用者定位的出場或重大事件章節；不等於經過逐章驗證",
+      "verification": "secondary_or_unconfirmed_chapter_locator"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "psychology-alchemists",
+      "role": "candidate_association",
+      "from": null,
+      "to": null,
+      "verification": "needs_user_review"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway_notes": "觀眾途徑；初登場已有序列7精神病醫生層次，後續晉升另依章節核對。",
+      "verification": "needs_user_review"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "status": "provisional",
+    "notes": "依時間線及組織背景限制遇見條件；不可把未知情節或早期未加入的組織寫死"
+  },
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Anthony_Reid",
+      "verification": "source_locator_not_user_approved"
+    }
+  ],
+  "review": {
+    "reviewer": "user",
+    "status": "pending_user_review",
+    "questions": [
+      "人物中文譯名是否正確？",
+      "時序與序列是否和你閱讀的原作一致？",
+      "是否需要增加個人經歷或與其他人物的關係？"
+    ],
+    "risk": "medium"
+  },
+  "verification": {
+    "complete": false,
+    "chapter_verified": false
+  },
+  "copyright_note": "原創摘要，未收錄小說正文"
+}

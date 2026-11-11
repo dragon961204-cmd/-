@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.1",
+  "character_id": "klarman",
+  "name_zh": "克萊爾曼",
+  "name_en": "Klarman",
+  "importance": "B",
+  "status": "draft_for_user_review",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "出身與背景",
+      "summary": "來自南大陸的資深神秘學者，以巫王之名著稱，研究自然互動、儀式及非凡契約。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 2,
+      "title": "參與的重要事件",
+      "summary": "受原始月亮信仰影響，後加入玫瑰學派，長期與原始月亮派系相關；並撰寫《秘密之書》。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    },
+    {
+      "part": 3,
+      "title": "後續命運與意義",
+      "summary": "南大陸局勢及玫瑰學派的勢力變遷影響他的活動，最終捲入世界戰爭期間的非凡者衝突。",
+      "verification": "secondary_source_or_knowledge_pending_user_review"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第329、351、968、1233–1236章（維基索引）",
+      "event": "可供使用者定位的出場或重大事件章節；不等於經過逐章驗證",
+      "verification": "secondary_or_unconfirmed_chapter_locator"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "rose-school-of-thought",
+      "role": "candidate_association",
+      "from": null,
+      "to": null,
+      "verification": "needs_user_review"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway_notes": "月亮途徑，序列4巫王。",
+      "verification": "needs_user_review"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "status": "provisional",
+    "notes": "依時間線及組織背景限制遇見條件；不可把未知情節或早期未加入的組織寫死"
+  },
+  "source_registry": [
+    {
+      "kind": "community_wiki_character_page",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Klarman",
+      "verification": "source_locator_not_user_approved"
+    }
+  ],
+  "review": {
+    "reviewer": "user",
+    "status": "pending_user_review",
+    "questions": [
+      "人物中文譯名是否正確？",
+      "時序與序列是否和你閱讀的原作一致？",
+      "是否需要增加個人經歷或與其他人物的關係？"
+    ],
+    "risk": "medium"
+  },
+  "verification": {
+    "complete": false,
+    "chapter_verified": false
+  },
+  "copyright_note": "原創摘要，未收錄小說正文"
+}

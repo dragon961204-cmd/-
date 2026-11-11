@@ -4,11 +4,12 @@
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
     "indexed": 118,
-    "individual_draft": 68,
-    "index_only": 50,
+    "individual_draft": 86,
+    "index_only": 32,
     "verified": 0,
     "chapter_checked_claims": 12,
-    "bios_with_some_chapter_checked_claims": 5
+    "bios_with_some_chapter_checked_claims": 5,
+    "user_reviewed": 0
   },
   "characters": [
     {
@@ -199,8 +200,8 @@
       "character_id": "steve",
       "name_zh": "史蒂夫",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/steve.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
@@ -211,8 +212,8 @@
       "character_id": "jason-rose",
       "name_zh": "傑森",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/jason-rose.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-indulgence"
@@ -223,8 +224,8 @@
       "character_id": "klarman",
       "name_zh": "克萊爾曼",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/klarman.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "rose-school-of-thought"
@@ -379,8 +380,8 @@
       "character_id": "royale-reideen",
       "name_zh": null,
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/royale-reideen.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
@@ -391,8 +392,8 @@
       "character_id": "kenley-white",
       "name_zh": "肯利·懷特",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/kenley-white.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
@@ -620,8 +621,8 @@
       "character_id": "anthony-reid",
       "name_zh": "安東尼·瑞德",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/anthony-reid.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
@@ -632,8 +633,8 @@
       "character_id": "hood-eugen",
       "name_zh": "胡德·歐根",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/hood-eugen.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "psychology-alchemists"
@@ -917,8 +918,8 @@
       "character_id": "welch-mcgovern",
       "name_zh": "韋爾奇·麥格文",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/welch-mcgovern.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -927,8 +928,8 @@
       "character_id": "naya",
       "name_zh": "娜婭",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/naya.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -937,8 +938,8 @@
       "character_id": "selena-wood",
       "name_zh": "賽琳娜·伍德",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/selena-wood.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -947,8 +948,8 @@
       "character_id": "elizabeth",
       "name_zh": "伊莉莎白",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/elizabeth.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -957,8 +958,8 @@
       "character_id": "biber",
       "name_zh": "瑞爾·比伯",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/biber.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -967,8 +968,8 @@
       "character_id": "lorotta",
       "name_zh": "洛絡塔",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/lorotta.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
@@ -979,8 +980,8 @@
       "character_id": "borgia",
       "name_zh": "博爾吉亞",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/borgia.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "nighthawks"
@@ -1135,8 +1136,8 @@
       "character_id": "grassis",
       "name_zh": "格拉西斯",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/grassis.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -1155,8 +1156,8 @@
       "character_id": "tuxedo-clown",
       "name_zh": "燕尾服小丑",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/tuxedo-clown.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [
         "secret-order"
@@ -1177,8 +1178,8 @@
       "character_id": "leppard",
       "name_zh": "雷帕德",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/leppard.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
@@ -1197,8 +1198,8 @@
       "character_id": "kopshti-reid",
       "name_zh": "考普斯蒂·瑞德",
       "tier": "B",
-      "biography_path": null,
-      "status": "index_only",
+      "biography_path": "lore/characters/biographies/kopshti-reid.v1.json",
+      "status": "draft_for_user_review",
       "chapter_verified": false,
       "possible_organizations": [],
       "chapter_checked_claim_count": 0
