@@ -1,0 +1,89 @@
+{
+  "schema_version": "1.1",
+  "character_id": "arianna",
+  "name_zh": "阿里安娜",
+  "name_en": "Arianna",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "教會高層",
+      "summary": "阿里安娜是黑夜女神教會高位人物，負責重要的宗教與隱秘事務。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "非凡能力",
+      "summary": "她具有黑暗途徑的高位能力，與普通值夜者的工作層級完全不同。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "神諭與行動",
+      "summary": "她的重大行動受教會長期規劃與女神旨意影響，通常需要保密。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "與克萊恩的接觸",
+      "summary": "第一部後期她向克萊恩提供協助與重要警告，但這些屬高層事件，不適合提前放在1349年廷根序章。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "宇宙危機",
+      "summary": "她與宇宙知識、污染和非凡者認知風險相關的資訊需設置嚴格知情門檻。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第950章",
+      "event": "被提及",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第991章",
+      "event": "實際登場",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第1054章",
+      "event": "重要知識對話",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-evernight",
+      "relationship": "senior_clergy",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "darkness",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Arianna"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

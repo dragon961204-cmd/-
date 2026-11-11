@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "medici",
+  "name_zh": "梅迪奇",
+  "name_en": "Medici",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "古代紅天使",
+      "summary": "梅迪奇是遠古太陽神麾下的天使之王，涉及紅祭司途徑的唯一性，與戰爭權柄關係密切。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "救贖薔薇與真實造物主",
+      "summary": "他參與過救贖薔薇的歷史，後來延續對真實造物主的支持，與烏洛琉斯等高位存在有歷史淵源。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "第四紀政治",
+      "summary": "作為所羅門帝國的重要貴族與軍事力量領袖，他與索倫、艾因霍恩等高位存在競逐紅祭司途徑。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "圖鐸的陰謀",
+      "summary": "亞利斯塔·圖鐸為轉紅祭司途徑設局，梅迪奇與索倫、艾因霍恩均在此過程遭遇重大命運轉折。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "三者惡靈",
+      "summary": "三位存在的殘靈融合形成複合惡靈，遊戲不可將其後來的經歷直接視為原本梅迪奇個人經歷。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第二至第三紀",
+      "event": "遠古太陽神麾下天使之王",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第四紀",
+      "event": "所羅門帝國相關政治及軍事行動",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第四紀510年",
+      "event": "與圖鐸晉升陰謀相關的結局",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "rose-redemption",
+      "relationship": "historical_member",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_member",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "red-priest",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Medici"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "nim",
+  "name_zh": "尼姆",
+  "name_en": "Nim",
+  "importance": "B",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "月城的守望",
+      "summary": "尼姆是神棄之地月城的大祭司，月城長期守護灰霧邊界，生活與北大陸不同。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "古老信仰",
+      "summary": "月城延續古代太陽神相關的任務與儀式秩序，對外部世界所知有限。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "非凡者職責",
+      "summary": "他是黑暗途徑序列4守夜人，負責保護居民並判斷探索危險。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "格爾曼的來訪",
+      "summary": "第一部後期與格爾曼接觸，使月城居民重新思考外部世界與愚者信仰。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "新月城",
+      "summary": "後期月城離開神棄之地，尼姆的宗教組織角色隨之變化。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第1212章",
+      "event": "登場",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第1226章",
+      "event": "信仰轉變相關事件",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第五紀1352年",
+      "event": "月城遷移時期",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_believer",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "church-fool",
+      "relationship": "later_archbishop",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "darkness",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Nim"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

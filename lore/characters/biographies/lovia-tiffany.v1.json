@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "lovia-tiffany",
+  "name_zh": "洛薇雅·蒂芙尼",
+  "name_en": "Lovia Tiffany",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "白銀城長老",
+      "summary": "洛薇雅作為六人議事團成員，參與城市在黑暗環境中的重大決策。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "失去親人的探索",
+      "summary": "她曾在危險探索中失去丈夫，這段經歷引發居民對她的猜疑與爭議。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "真實造物主信仰",
+      "summary": "她相信真實造物主可能為白銀城帶來希望，但其秘密信仰也帶來污染及政治風險。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "對城邦的忠誠",
+      "summary": "她的宗教立場與議事團不同，卻不能因此簡化為毫無城邦歸屬感的叛徒。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "後期遠征",
+      "summary": "她在重要探索中扮演關鍵角色，與白銀城逃離黑暗的願望相連。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第202章",
+      "event": "初次登場",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部中期",
+      "event": "真實造物主神殿探索",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第1263章",
+      "event": "重要結局",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "city-of-silver",
+      "relationship": "elder",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "city-of-silver-council",
+      "relationship": "elder",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "hanged-man",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Lovia_Tiffany"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

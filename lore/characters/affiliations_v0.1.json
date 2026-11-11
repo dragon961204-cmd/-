@@ -1546,6 +1546,141 @@
           "reference": "https://lordofthemysteries.fandom.com/wiki/Category:Curly-Haired_Baboons_Research_Society"
         }
       ]
+    },
+    {
+      "character_id": "medici",
+      "organization_id": "rose-redemption",
+      "relationship": "historical_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Medici"
+        }
+      ]
+    },
+    {
+      "character_id": "medici",
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_member",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Medici"
+        }
+      ]
+    },
+    {
+      "character_id": "colin-iliad",
+      "organization_id": "city-of-silver",
+      "relationship": "leader",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Colin_Iliad"
+        }
+      ]
+    },
+    {
+      "character_id": "colin-iliad",
+      "organization_id": "city-of-silver-council",
+      "relationship": "chief",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Colin_Iliad"
+        }
+      ]
+    },
+    {
+      "character_id": "lovia-tiffany",
+      "organization_id": "city-of-silver",
+      "relationship": "elder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Lovia_Tiffany"
+        }
+      ]
+    },
+    {
+      "character_id": "lovia-tiffany",
+      "organization_id": "city-of-silver-council",
+      "relationship": "elder",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Lovia_Tiffany"
+        }
+      ]
+    },
+    {
+      "character_id": "arianna",
+      "organization_id": "church-evernight",
+      "relationship": "senior_clergy",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Arianna"
+        }
+      ]
+    },
+    {
+      "character_id": "nim",
+      "organization_id": "church-ancient-sun",
+      "relationship": "former_believer",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nim"
+        }
+      ]
+    },
+    {
+      "character_id": "nim",
+      "organization_id": "church-fool",
+      "relationship": "later_archbishop",
+      "time_from": null,
+      "time_to": null,
+      "temporal_confidence": "unresolved",
+      "source_status": "secondary_wiki_not_novel_verified",
+      "sources": [
+        {
+          "kind": "community_wiki",
+          "reference": "https://lordofthemysteries.fandom.com/wiki/Nim"
+        }
+      ]
     }
   ],
   "notes": "部分既有關係曾有類別錯誤；本次修正因斯曾任黑夜女神教會大主教（非標為前值夜者），並補入奧蘿爾及芙蘭卡與卷毛狒狒研究會關係。日期皆待逐章核定。"

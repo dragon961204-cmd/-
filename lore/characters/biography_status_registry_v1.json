@@ -3,9 +3,9 @@
   "last_updated": "2026-11-11",
   "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
   "summary": {
-    "indexed": 102,
-    "individual_draft": 52,
-    "index_only": 50,
+    "indexed": 109,
+    "individual_draft": 7,
+    "index_only": 102,
     "verified": 0
   },
   "characters": [
@@ -1114,6 +1114,83 @@
       "status": "index_only",
       "chapter_verified": false,
       "possible_organizations": []
+    },
+    {
+      "id": "medici",
+      "name_zh": "梅迪奇",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/medici.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": [
+        "rose-redemption",
+        "church-ancient-sun"
+      ]
+    },
+    {
+      "id": "sauron-einhorn-medici",
+      "name_zh": "索倫—艾因霍恩—梅迪奇",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/sauron-einhorn-medici.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": []
+    },
+    {
+      "id": "colin-iliad",
+      "name_zh": "科林·伊利亞特",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/colin-iliad.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": [
+        "city-of-silver",
+        "city-of-silver-council"
+      ]
+    },
+    {
+      "id": "lovia-tiffany",
+      "name_zh": "洛薇雅·蒂芙尼",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/lovia-tiffany.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": [
+        "city-of-silver",
+        "city-of-silver-council"
+      ]
+    },
+    {
+      "id": "arianna",
+      "name_zh": "阿里安娜",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/arianna.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": [
+        "church-evernight"
+      ]
+    },
+    {
+      "id": "alista-tudor",
+      "name_zh": "亞利斯塔·圖鐸",
+      "importance": "A",
+      "biography_file": "lore/characters/biographies/alista-tudor.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": []
+    },
+    {
+      "id": "nim",
+      "name_zh": "尼姆",
+      "importance": "B",
+      "biography_file": "lore/characters/biographies/nim.v1.json",
+      "record_status": "draft_exists",
+      "chapter_verified": false,
+      "affiliation_candidates": [
+        "church-ancient-sun",
+        "church-fool"
+      ]
     }
   ]
 }

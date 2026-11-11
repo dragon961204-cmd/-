@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "character_id": "colin-iliad",
+  "name_zh": "科林·伊利亞特",
+  "name_en": "Colin Iliad",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "白銀城的生存環境",
+      "summary": "白銀城長期孤立於神棄之地，科林成為負責城市存續與探索的重要領袖。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "六人議事團",
+      "summary": "他擔任六人議事團首席，需要處理探索隊、城邦秩序及與神秘力量相關的風險。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "對戴里克的判斷",
+      "summary": "他對戴里克帶來的新希望審慎評估，並非毫無懷疑地接受來自未知存在的承諾。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "洛薇雅的複雜立場",
+      "summary": "他既監督洛薇雅帶來的風險，又理解不同立場背後可能都是為了白銀城的生存。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "巨人王庭探索",
+      "summary": "在與城邦命運有關的後期探索中，他把後人的出路放在自身利益之前。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第一部第219章",
+      "event": "首度提及",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第361章",
+      "event": "登場",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第一部第1266章",
+      "event": "重要轉折",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [
+    {
+      "organization_id": "city-of-silver",
+      "relationship": "leader",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    },
+    {
+      "organization_id": "city-of-silver-council",
+      "relationship": "chief",
+      "start": null,
+      "end": null,
+      "verification": "secondary_reference"
+    }
+  ],
+  "pathway_history": [
+    {
+      "pathway": "twilight-giant",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Colin_Iliad"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

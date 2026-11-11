@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.1",
+  "character_id": "sauron-einhorn-medici",
+  "name_zh": "索倫—艾因霍恩—梅迪奇",
+  "name_en": "Sauron-Einhorn-Medici",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "不同的生前主體",
+      "summary": "索倫、艾因霍恩及梅迪奇本為不同歷史人物，具有互相敵對的立場與家族背景。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "形成原因",
+      "summary": "三者在圖鐸的紅祭司晉升事件中失去原有生命狀態，殘留意識在第四紀地下遺跡中融合。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "多重主體",
+      "summary": "這個惡靈並非單純梅迪奇的化名；多個主體意志影響其行動與對外關係。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "貝克蘭德地下遺跡",
+      "summary": "在第一部第五紀故事中，與地下遺跡、歷史遺物和克萊恩的調查發生交集。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "世界事件影響",
+      "summary": "其與紅祭司途徑權柄及第二部故事有關，玩家只能在具備合理條件時接觸。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第四紀510年",
+      "event": "三者殘留惡靈形成",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第五紀第一部",
+      "event": "與貝克蘭德地下探索交會",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [],
+  "pathway_history": [
+    {
+      "pathway": "red-priest",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Sauron-Einhorn-Medici"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}

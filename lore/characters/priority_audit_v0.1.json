@@ -2,8 +2,8 @@
   "schema_version": "0.1",
   "scope": "現有102名角色的編輯優先級評估；優先級是遊戲設計判斷，不是原作客觀定論。D級暫時排除但不刪歷史資料",
   "counts": {
-    "A": 29,
-    "B": 41,
+    "A": 35,
+    "B": 42,
     "C": 22,
     "D": 10
   },
@@ -925,6 +925,69 @@
       "chapter_verified": false,
       "in_game": "exclude_pending_review",
       "review_notes": "暫不優先收錄；需先確認人物索引、中文譯名與是否存在獨立劇情價值"
+    },
+    {
+      "character_id": "medici",
+      "name_zh": "梅迪奇",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "sauron-einhorn-medici",
+      "name_zh": "索倫—艾因霍恩—梅迪奇",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "colin-iliad",
+      "name_zh": "科林·伊利亞特",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "lovia-tiffany",
+      "name_zh": "洛薇雅·蒂芙尼",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "arianna",
+      "name_zh": "阿里安娜",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "alista-tudor",
+      "name_zh": "亞利斯塔·圖鐸",
+      "rank": "A",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
+    },
+    {
+      "character_id": "nim",
+      "name_zh": "尼姆",
+      "rank": "B",
+      "biography_status": "draft",
+      "chapter_verified": false,
+      "in_game": "candidate",
+      "review_notes": "資料由帶章節線索之二手維基整理，未原作逐章驗收"
     }
   ]
 }

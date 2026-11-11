@@ -1,0 +1,87 @@
+{
+  "schema_version": "1.1",
+  "character_id": "alista-tudor",
+  "name_zh": "亞利斯塔·圖鐸",
+  "name_en": "Alista Tudor",
+  "importance": "A",
+  "status": "expanded_draft",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "第四紀政治出身",
+      "summary": "亞利斯塔是第四紀政治格局中的重要貴族，早期涉及黑皇帝途徑的晉升與帝國權力競逐。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 2,
+      "title": "聯合帝國時代",
+      "summary": "他曾與特倫索斯特共治，聯合帝國的崩解涉及眾神與所羅門復活等因素。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 3,
+      "title": "晉升道路受阻",
+      "summary": "在黑皇帝途徑的目標受阻後，他轉而追求紅祭司途徑的神位。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 4,
+      "title": "對三位天使的布局",
+      "summary": "他在亞當、阿蒙等勢力的幫助下對梅迪奇、索倫、艾因霍恩設局，走上非相鄰途徑的高風險晉升。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 5,
+      "title": "血皇帝與圖鐸帝國",
+      "summary": "他建立第四紀圖鐸帝國，其政治統治、瘋狂與家族支持構成後續第四紀歷史的重要部分。",
+      "verification": "secondary_reference"
+    },
+    {
+      "part": 6,
+      "title": "遺跡對第五紀的影響",
+      "summary": "他留下的陵寢、地下建築與血統線索在兩部作品中先後成為故事核心。",
+      "verification": "secondary_reference"
+    }
+  ],
+  "timeline": [
+    {
+      "time": "第四紀",
+      "event": "聯合帝國共治與分裂",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第四紀510年",
+      "event": "紅祭司晉升相關事件",
+      "verification": "secondary_reference"
+    },
+    {
+      "time": "第五紀",
+      "event": "遺跡成為歷史研究與非凡事件的線索",
+      "verification": "secondary_reference"
+    }
+  ],
+  "organization_history": [],
+  "pathway_history": [
+    {
+      "pathway": "red-priest",
+      "sequence": "requires_timeline_research"
+    }
+  ],
+  "relationships": [],
+  "game_integration": {
+    "player_knowledge": "restricted_by_time_and_identity",
+    "notes": "禁止把歷史人物、組織後期關係直接帶入1349年初始地圖"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_wiki",
+      "url": "https://lordofthemysteries.fandom.com/wiki/Alista_Tudor"
+    }
+  ],
+  "verification": {
+    "status": "needs_original_chapters",
+    "complete": false,
+    "original_chapters_checked": 0
+  },
+  "copyright_note": "原創摘要，未轉載原作小說全文"
+}
