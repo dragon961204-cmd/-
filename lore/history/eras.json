@@ -1,0 +1,42 @@
+{
+  "schema_version": "0.1",
+  "description": "紀元索引；目前僅是分期骨架，具體年代待考據",
+  "eras": [
+    {
+      "id": "pre-epoch",
+      "name_zh": "前紀元",
+      "canon_status": "needs_verification",
+      "notes": "具體分期與邊界需回查小說"
+    },
+    {
+      "id": "epoch-1",
+      "name_zh": "第一紀",
+      "canon_status": "needs_verification",
+      "notes": "待擴充"
+    },
+    {
+      "id": "epoch-2",
+      "name_zh": "第二紀",
+      "canon_status": "needs_verification",
+      "notes": "待擴充"
+    },
+    {
+      "id": "epoch-3",
+      "name_zh": "第三紀",
+      "canon_status": "needs_verification",
+      "notes": "待擴充"
+    },
+    {
+      "id": "epoch-4",
+      "name_zh": "第四紀",
+      "canon_status": "needs_verification",
+      "notes": "待擴充"
+    },
+    {
+      "id": "epoch-5",
+      "name_zh": "第五紀",
+      "canon_status": "needs_verification",
+      "notes": "事件和紀年逐項校對"
+    }
+  ]
+}
