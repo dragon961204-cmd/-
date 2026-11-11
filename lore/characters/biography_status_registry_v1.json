@@ -1,0 +1,1119 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-11-11",
+  "notes": "以實際GitHub獨立人物檔為準；原作逐章驗收狀態全部未完成，禁止把此名冊當作278位已完成傳記。",
+  "summary": {
+    "indexed": 102,
+    "individual_draft": 52,
+    "index_only": 50,
+    "verified": 0
+  },
+  "characters": [
+    {
+      "character_id": "klein-moretti",
+      "name_zh": "克萊恩·莫雷蒂",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/klein-moretti.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "audrey-hall",
+      "name_zh": "奧黛麗·霍爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/audrey-hall.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "psychology-alchemists",
+        "hall-family"
+      ]
+    },
+    {
+      "character_id": "alger-wilson",
+      "name_zh": "阿爾傑·威爾遜",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/alger-wilson.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "church-storms"
+      ]
+    },
+    {
+      "character_id": "derrick-berg",
+      "name_zh": "戴里克·伯格",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/derrick-berg.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "city-of-silver"
+      ]
+    },
+    {
+      "character_id": "fors-wall",
+      "name_zh": "佛爾思·沃爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/fors-wall.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club"
+      ]
+    },
+    {
+      "character_id": "emlyn-white",
+      "name_zh": "埃姆林·懷特",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/emlyn-white.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "sanguines"
+      ]
+    },
+    {
+      "character_id": "cattleya",
+      "name_zh": "嘉德麗雅",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/cattleya.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "element-dawn"
+      ]
+    },
+    {
+      "character_id": "leonard-mitchell",
+      "name_zh": "倫納德·米切爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/leonard-mitchell.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "nighthawks",
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "xio-derecha",
+      "name_zh": "休·迪爾查",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/xio-derecha.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club"
+      ]
+    },
+    {
+      "character_id": "sharron",
+      "name_zh": "莎倫",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/sharron.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-temperance",
+        "rose-school-of-thought"
+      ]
+    },
+    {
+      "character_id": "maric",
+      "name_zh": "馬里奇",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/maric.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-temperance",
+        "rose-school-of-thought"
+      ]
+    },
+    {
+      "character_id": "reinette-tinekerr",
+      "name_zh": "蕾妮特·緹尼科爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/reinette-tinekerr.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-temperance",
+        "rose-school-of-thought"
+      ]
+    },
+    {
+      "character_id": "suah",
+      "name_zh": "斯亞",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/suah.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence",
+        "rose-school-of-thought"
+      ]
+    },
+    {
+      "character_id": "senor",
+      "name_zh": "塞尼奧爾",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/senor.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "steve",
+      "name_zh": "史蒂夫",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "jason-rose",
+      "name_zh": "傑森",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "klarman",
+      "name_zh": "克萊爾曼",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-of-thought"
+      ]
+    },
+    {
+      "character_id": "barranca",
+      "name_zh": "巴蘭卡",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "tirie",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "mahmosi",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "zatwen",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "maveti",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "tyre",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "rose-school-indulgence"
+      ]
+    },
+    {
+      "character_id": "dunn-smith",
+      "name_zh": "鄧恩·史密斯",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/dunn-smith.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "daly-simone",
+      "name_zh": "戴莉·西蒙妮",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/daly-simone.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "frye",
+      "name_zh": "弗萊",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/frye.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "seeka-tron",
+      "name_zh": "西迦·特昂",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/seeka-tron.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "old-neil",
+      "name_zh": "老尼爾",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/old-neil.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "rozanne",
+      "name_zh": "羅珊",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/rozanne.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "royale-reideen",
+      "name_zh": null,
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "kenley-white",
+      "name_zh": "肯利·懷特",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "soest",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "crestet-cesimir",
+      "name_zh": "克雷斯泰·塞西瑪",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/crestet-cesimir.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "aiur-harson",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "orianna",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "ouroboros",
+      "name_zh": "烏洛琉斯",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/ouroboros.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "mr-a",
+      "name_zh": "A先生",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/mr-a.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "mr-k",
+      "name_zh": "K先生",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/mr-k.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "mr-x",
+      "name_zh": "X先生",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/mr-x.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "mr-z",
+      "name_zh": "Z先生",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "botis",
+      "name_zh": "博提斯",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/botis.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "kisma",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "leomaster",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "hanass-vincent",
+      "name_zh": "哈納斯·文森特",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/hanass-vincent.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "sirius-arapis",
+      "name_zh": "西里斯·阿瑞匹斯",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/sirius-arapis.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "bernadette-gustav",
+      "name_zh": "貝爾納黛·古斯塔夫",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/bernadette-gustav.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "element-dawn",
+        "gustav-family"
+      ]
+    },
+    {
+      "character_id": "pauli-derlau",
+      "name_zh": null,
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "hermes",
+      "name_zh": "赫密斯",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/hermes.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "hvin-rambis",
+      "name_zh": "赫溫·蘭比斯",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/hvin-rambis.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "anthony-reid",
+      "name_zh": "安東尼·瑞德",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "hood-eugen",
+      "name_zh": "胡德·歐根",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "daxter-guderian",
+      "name_zh": "達克斯特·古德里安",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/daxter-guderian.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "escalante-oseleka",
+      "name_zh": null,
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "psychology-alchemists"
+      ]
+    },
+    {
+      "character_id": "judith-demoness",
+      "name_zh": null,
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect"
+      ]
+    },
+    {
+      "character_id": "katarina-pelle",
+      "name_zh": "卡特琳娜·佩萊",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/katarina-pelle.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect"
+      ]
+    },
+    {
+      "character_id": "tracy",
+      "name_zh": "特雷茜",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/tracy.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect"
+      ]
+    },
+    {
+      "character_id": "trissy",
+      "name_zh": "特莉絲",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/trissy.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect"
+      ]
+    },
+    {
+      "character_id": "panatiya",
+      "name_zh": "潘娜蒂亞",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/panatiya.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect"
+      ]
+    },
+    {
+      "character_id": "franca-roland",
+      "name_zh": "芙蘭卡·羅蘭",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/franca-roland.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "demoness-sect",
+        "tarot-club",
+        "curly-haired-baboons-research-society"
+      ]
+    },
+    {
+      "character_id": "lumian-lee",
+      "name_zh": "盧米安·李",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/lumian-lee.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club",
+        "aurora-order"
+      ]
+    },
+    {
+      "character_id": "jenna",
+      "name_zh": "簡娜",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/jenna.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "tarot-club"
+      ]
+    },
+    {
+      "character_id": "azik-eggers",
+      "name_zh": "阿茲克·艾格斯",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/azik-eggers.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "eggers-family"
+      ]
+    },
+    {
+      "character_id": "melissa-moretti",
+      "name_zh": "梅麗莎·莫雷蒂",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/melissa-moretti.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "moretti-family"
+      ]
+    },
+    {
+      "character_id": "benson-moretti",
+      "name_zh": "班森·莫雷蒂",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/benson-moretti.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "moretti-family"
+      ]
+    },
+    {
+      "character_id": "adam",
+      "name_zh": "亞當",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/adam.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "amon",
+      "name_zh": "阿蒙",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/amon.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "amon-family"
+      ]
+    },
+    {
+      "character_id": "roselle-gustav",
+      "name_zh": "羅塞爾·古斯塔夫",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/roselle-gustav.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "gustav-family"
+      ]
+    },
+    {
+      "character_id": "pallez-zoroast",
+      "name_zh": "帕列斯·索羅亞斯德",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/pallez-zoroast.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "zoroast-family"
+      ]
+    },
+    {
+      "character_id": "will-auceptin",
+      "name_zh": "威爾·昂賽汀",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/will-auceptin.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ince-zangwill",
+      "name_zh": "因斯·贊格威爾",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/ince-zangwill.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "church-evernight"
+      ]
+    },
+    {
+      "character_id": "danitz",
+      "name_zh": "達尼茲",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/danitz.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "edwina-edwards",
+      "name_zh": "艾德雯娜·愛德華茲",
+      "tier": "B",
+      "biography_path": "lore/characters/biographies/edwina-edwards.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "aurore-lee",
+      "name_zh": "奧蘿爾·李",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/aurore-lee.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "curly-haired-baboons-research-society"
+      ]
+    },
+    {
+      "character_id": "zaratul",
+      "name_zh": "查拉圖",
+      "tier": "A",
+      "biography_path": "lore/characters/biographies/zaratul.v1.json",
+      "status": "draft_unverified",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "secret-order",
+        "zaratul-family"
+      ]
+    },
+    {
+      "character_id": "welch-mcgovern",
+      "name_zh": "韋爾奇·麥格文",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "naya",
+      "name_zh": "娜婭",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "selena-wood",
+      "name_zh": "賽琳娜·伍德",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "elizabeth",
+      "name_zh": "伊莉莎白",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "biber",
+      "name_zh": "瑞爾·比伯",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "lorotta",
+      "name_zh": "洛絡塔",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "borgia",
+      "name_zh": "博爾吉亞",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "bredt",
+      "name_zh": "布萊特",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "cesare-francis",
+      "name_zh": "凱撒·弗朗西斯",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "jasmine",
+      "name_zh": "茉莉",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "adelaide",
+      "name_zh": "阿德萊德",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "dwayne-nighthawks",
+      "name_zh": "德韋恩",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "hitte",
+      "name_zh": "希特",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "grey-captain",
+      "name_zh": "格雷",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "nighthawks"
+      ]
+    },
+    {
+      "character_id": "davy-raymond",
+      "name_zh": "戴維·雷蒙德",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "cindy-redgloves",
+      "name_zh": "辛迪",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "bob-redgloves",
+      "name_zh": "鮑勃",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "albert-redgloves",
+      "name_zh": "艾伯特",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "eric-redgloves",
+      "name_zh": "埃里克",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "red-gloves"
+      ]
+    },
+    {
+      "character_id": "grassis",
+      "name_zh": "格拉西斯",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "anna-tingen",
+      "name_zh": "安娜",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "tuxedo-clown",
+      "name_zh": "燕尾服小丑",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": [
+        "secret-order"
+      ]
+    },
+    {
+      "character_id": "ralph-pund",
+      "name_zh": "拉夫特·龐德",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "leppard",
+      "name_zh": "雷帕德",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "cohen-quentin",
+      "name_zh": "科恩·昆汀",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "kopshti-reid",
+      "name_zh": "考普斯蒂·瑞德",
+      "tier": "B",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "jake-young",
+      "name_zh": "傑克",
+      "tier": "C",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    },
+    {
+      "character_id": "ait-tingen",
+      "name_zh": "艾特",
+      "tier": "D",
+      "biography_path": null,
+      "status": "index_only",
+      "chapter_verified": false,
+      "possible_organizations": []
+    }
+  ]
+}
