@@ -1,0 +1,221 @@
+{
+  "schema_version": "0.1",
+  "origin": {
+    "url": "https://lotmfanwiki.com/type/p.html",
+    "published_pages_claim": 278,
+    "index_rows_claim": 1368,
+    "obtained_through": "web_search_index_excerpts",
+    "retrieved": "2026-11-11"
+  },
+  "caveat": "本文件僅列出搜尋結果中可辨認為前段已發佈獨立頁面的名稱，並非278頁完整清單。存在標題合併多個本體（如「真实造物主」頁中包含遠古太陽神、亞當）的歧義，不能自動認定一頁等於一人物；未見原始HTML時不能機械推斷粗體或完整連結。",
+  "count": 23,
+  "entries": [
+    {
+      "source_title": "卢米安",
+      "existing_id": "lumian-lee",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "克莱恩",
+      "existing_id": "klein-moretti",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "芙兰卡",
+      "existing_id": "franca-roland",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "简娜",
+      "existing_id": "jenna",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "奥黛丽",
+      "existing_id": "audrey-hall",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "“魔术师”女士",
+      "existing_id": "fors-wall",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "阿尔杰",
+      "existing_id": "alger-wilson",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "戴里克",
+      "existing_id": "derrick-berg",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "伦纳德",
+      "existing_id": "leonard-mitchell",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "安东尼",
+      "existing_id": "anthony-reid",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "嘉德丽雅",
+      "existing_id": "cattleya",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "埃姆林·怀特",
+      "existing_id": "emlyn-white",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "阿蒙",
+      "existing_id": "amon",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "达尼兹",
+      "existing_id": "danitz",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "休",
+      "existing_id": "xio-derecha",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "路德维希",
+      "existing_id": null,
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "needs_disambiguation_or_new_entry",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "奥萝尔",
+      "existing_id": "aurore-lee",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "罗塞尔大帝",
+      "existing_id": "roselle-gustav",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "邓恩·史密斯",
+      "existing_id": "dunn-smith",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "真实造物主",
+      "existing_id": null,
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "needs_disambiguation_or_new_entry",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "科林·伊利亚特",
+      "existing_id": "colin-iliad",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "卢加诺",
+      "existing_id": null,
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "needs_disambiguation_or_new_entry",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    },
+    {
+      "source_title": "查拉图",
+      "existing_id": "zaratul",
+      "source_status": "observed_in_published_section_web_excerpt",
+      "identity_review": "tentatively_linked",
+      "page_url": null,
+      "aliases": [],
+      "approved_by_user": false
+    }
+  ]
+}
