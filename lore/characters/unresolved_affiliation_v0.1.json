@@ -1,0 +1,31 @@
+{
+  "schema_version": "0.1",
+  "meaning": "僅代表尚未確認可連到哪個正式組織，絕不等於角色確定獨行或無關係",
+  "entries": [
+    {
+      "character_id": "adam",
+      "reason": "無確認可按1349年直接套用的普通組織成員身分；涉及多重神性身分，另建關係",
+      "status": "unresolved"
+    },
+    {
+      "character_id": "will-auceptin",
+      "reason": "暫列未確認正式組織；不代表其沒有師承及合作關係",
+      "status": "unresolved"
+    },
+    {
+      "character_id": "danitz",
+      "reason": "曾從屬船長與海盜團體，待建立對應獨立勢力ID；不得當作真正無組織",
+      "status": "unresolved"
+    },
+    {
+      "character_id": "edwina-edwards",
+      "reason": "黃金夢想號船員勢力待建獨立條目",
+      "status": "unresolved"
+    },
+    {
+      "character_id": "aurore-lee",
+      "reason": "與卷毛狒狒研究會關係需確認身分層級及時間",
+      "status": "unresolved"
+    }
+  ]
+}
