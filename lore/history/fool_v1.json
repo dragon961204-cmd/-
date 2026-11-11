@@ -1,0 +1,1228 @@
+{
+  "schema_version": "1.0",
+  "id": "fool",
+  "name_zh": "第五紀｜愚者",
+  "scope": "第一部第八卷，接續烏托邦之戰至克萊恩沉睡與卷末後續。",
+  "source_revision": "1c69d2dce8fd8966d69904cc035178b1fa4099df",
+  "previous_timeline": {
+    "path": "lore/history/hanged_man_v1.json",
+    "last_event_id": "hanged-man-utopia"
+  },
+  "ordering_note": "章節範圍沿用專案既有傳記與年表，部分橫跨第七至第八卷。屍骨教堂在不同傳記有不同分段定位，本次交談的精確章次待核。晉升、源堡之戰與沉睡的細節及日曆日期待核。",
+  "phases": {
+    "權柄競爭": "權柄競爭",
+    "沉睡與後續": "沉睡與後續"
+  },
+  "locations": {
+    "utopia": {
+      "name_zh": "烏托邦"
+    },
+    "bone-cathedral": {
+      "name_zh": "屍骨教堂"
+    },
+    "hornacis": {
+      "name_zh": "霍納奇斯山脈"
+    },
+    "sefirah": {
+      "name_zh": "源堡"
+    }
+  },
+  "events": [
+    {
+      "id": "fool-door",
+      "name_zh": "伯特利回歸與隕落",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1353,
+          "end": 1353
+        }
+      },
+      "location_id": null,
+      "summary": "伯特利長期遭封印與放逐。回歸儀式牽涉星空污染、他自身的意志及外部勢力的圖謀，最終走向隕落。第1353章定位的是歸來的關鍵事件。",
+      "related_character_ids": [
+        "bethel-abraham"
+      ],
+      "related_organization_ids": [
+        "abraham-family"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/bethel-abraham.v1.json",
+          "locator": "伯特利回歸與隕落",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "回歸儀式與污染須分別取證。"
+      }
+    },
+    {
+      "id": "fool-error",
+      "name_zh": "阿蒙成為「錯誤」之神",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1283,
+          "end": 1387
+        }
+      },
+      "location_id": null,
+      "summary": "阿蒙的傳記將成為錯誤之神與源堡之戰列入同一跨卷分段。成神的精確章次待核。",
+      "related_character_ids": [
+        "amon"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/amon.v1.json",
+          "locator": "阿蒙成為「錯誤」之神",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "阿蒙的位格與分身狀態各有取證條件。"
+      }
+    },
+    {
+      "id": "fool-utopia",
+      "name_zh": "烏托邦之戰與查拉圖落幕",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1344,
+          "end": 1375
+        }
+      },
+      "location_id": "utopia",
+      "summary": "烏托邦之戰使克萊恩與查拉圖的愚者途徑之爭走向本部的結局。查拉圖在第二部的復甦另有後續。",
+      "related_character_ids": [
+        "klein-moretti",
+        "zaratul"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "烏托邦之戰與查拉圖落幕",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/zaratul.v1.json",
+          "locator": "烏托邦之戰與查拉圖落幕",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "城內見聞與交戰、祕偶及查拉圖的狀態須分別查證。"
+      }
+    },
+    {
+      "id": "fool-cathedral",
+      "name_zh": "亞當在屍骨教堂與克萊恩交談",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": null,
+          "end": null
+        }
+      },
+      "location_id": "bone-cathedral",
+      "summary": "據亞當傳記，亞當與阿蒙合作，在克萊恩與查拉圖交鋒後將克萊恩困在屍骨教堂。克萊恩由此理解亞當與遠古太陽神的關係。",
+      "related_character_ids": [
+        "adam",
+        "klein-moretti",
+        "amon"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "fool-utopia"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/adam.v1.json",
+          "locator": "亞當在屍骨教堂與克萊恩交談",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "亞當在屍骨教堂與克萊恩交談",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/amon.v1.json",
+          "locator": "亞當在屍骨教堂與克萊恩交談",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "阿蒙傳記也在第六卷分段提到屍骨教堂。本次交談章次待核。"
+      }
+    },
+    {
+      "id": "fool-antigonus",
+      "name_zh": "安提哥努斯的失控與甦醒",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1358,
+          "end": 1380
+        }
+      },
+      "location_id": "hornacis",
+      "summary": "安提哥努斯的傳記在本卷記錄其來歷、失控與甦醒。他容納過愚者途徑唯一性，其狀態和愚者權柄的變動相關。",
+      "related_character_ids": [
+        "antigonus"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/antigonus.v1.json",
+          "locator": "安提哥努斯的失控與甦醒",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "此分段涵蓋舊事揭露與當下變化，兩者的章節定位待細查。"
+      }
+    },
+    {
+      "id": "fool-apotheosis",
+      "name_zh": "克萊恩晉升愚者",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1273,
+          "end": 1392
+        }
+      },
+      "location_id": null,
+      "summary": "克萊恩在第一部末段取得愚者神位。亞當傳記記載，此時亞當與真實造物主已部分融合，並借混沌海介入。",
+      "related_character_ids": [
+        "klein-moretti",
+        "adam",
+        "true-creator"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "克萊恩晉升愚者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/adam.v1.json",
+          "locator": "克萊恩晉升愚者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/true-creator.v1.json",
+          "locator": "克萊恩晉升愚者",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "晉升過程、融合程度及介入方式屬高位情報。"
+      }
+    },
+    {
+      "id": "fool-sefirah",
+      "name_zh": "克萊恩與阿蒙在源堡交鋒",
+      "phase": "權柄競爭",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1283,
+          "end": 1387
+        }
+      },
+      "location_id": "sefirah",
+      "summary": "克萊恩與阿蒙就源堡與途徑權柄展開決定性交鋒。阿蒙傳記另列「源堡內的神戰」，具體交鋒與收束章次待核。",
+      "related_character_ids": [
+        "klein-moretti",
+        "amon"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [
+        "fool-error"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "克萊恩與阿蒙在源堡交鋒",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/amon.v1.json",
+          "locator": "克萊恩與阿蒙在源堡交鋒",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "只有掌握源堡相關線索的人能追查戰鬥全貌。"
+      }
+    },
+    {
+      "id": "fool-slumber",
+      "name_zh": "克萊恩進入長期沉睡",
+      "phase": "沉睡與後續",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1366,
+          "end": 1392
+        }
+      },
+      "location_id": null,
+      "summary": "為抵抗天尊意志並維持自我，克萊恩進入長期沉睡。塔羅會與愚者信仰在外界延續。",
+      "related_character_ids": [
+        "klein-moretti",
+        "leonard-mitchell"
+      ],
+      "related_organization_ids": [
+        "tarot-club"
+      ],
+      "after_event_ids": [
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "locator": "克萊恩進入長期沉睡",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        },
+        {
+          "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+          "locator": "克萊恩進入長期沉睡",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "secret",
+        "rule_status": "original_game",
+        "notes": "沉睡的原因與天尊意志各須取證。"
+      }
+    },
+    {
+      "id": "fool-alger",
+      "name_zh": "阿爾傑離開風暴教會並執掌海神教會",
+      "phase": "沉睡與後續",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1355,
+          "end": 1393
+        }
+      },
+      "location_id": null,
+      "summary": "阿爾傑離開風暴教會，承擔海神信仰相關的新職責。兩個職務的交接章次待核。",
+      "related_character_ids": [
+        "alger-wilson"
+      ],
+      "related_organization_ids": [
+        "church-storms",
+        "church-sea-god"
+      ],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/alger-wilson.v1.json",
+          "locator": "阿爾傑離開風暴教會並執掌海神教會",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "公開教職、信仰與塔羅會身分各有知情範圍。"
+      }
+    },
+    {
+      "id": "fool-azik",
+      "name_zh": "阿茲克甦醒並展開新的旅程",
+      "phase": "沉睡與後續",
+      "type": "historical_event",
+      "canon_status": "needs_verification",
+      "time": {
+        "epoch_id": "epoch-5",
+        "year": null,
+        "date": null,
+        "date_status": "chapter_sequence_only",
+        "chapter_span": {
+          "work": "lotm",
+          "start": 1394,
+          "end": 1394
+        }
+      },
+      "location_id": null,
+      "summary": "阿茲克傳記以第1394章定位其甦醒與新的旅程。他與克萊恩先前透過書信保持聯繫。",
+      "related_character_ids": [
+        "azik-eggers"
+      ],
+      "related_organization_ids": [],
+      "after_event_ids": [],
+      "sources": [
+        {
+          "path": "lore/characters/biographies/azik-eggers.v1.json",
+          "locator": "阿茲克甦醒並展開新的旅程",
+          "evidence": "repository_biography_draft_or_secondary_locator"
+        }
+      ],
+      "player_knowledge": {
+        "category": "case_access",
+        "rule_status": "original_game",
+        "notes": "甦醒消息與書信內容由各自的接觸途徑得知。"
+      }
+    }
+  ],
+  "indexes": {
+    "by_character": {
+      "bethel-abraham": [
+        "fool-door"
+      ],
+      "amon": [
+        "fool-error",
+        "fool-cathedral",
+        "fool-sefirah"
+      ],
+      "klein-moretti": [
+        "fool-utopia",
+        "fool-cathedral",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber"
+      ],
+      "zaratul": [
+        "fool-utopia"
+      ],
+      "adam": [
+        "fool-cathedral",
+        "fool-apotheosis"
+      ],
+      "antigonus": [
+        "fool-antigonus"
+      ],
+      "true-creator": [
+        "fool-apotheosis"
+      ],
+      "leonard-mitchell": [
+        "fool-slumber"
+      ],
+      "alger-wilson": [
+        "fool-alger"
+      ],
+      "azik-eggers": [
+        "fool-azik"
+      ]
+    },
+    "by_organization": {
+      "abraham-family": [
+        "fool-door"
+      ],
+      "tarot-club": [
+        "fool-slumber"
+      ],
+      "church-storms": [
+        "fool-alger"
+      ],
+      "church-sea-god": [
+        "fool-alger"
+      ]
+    },
+    "by_phase": {
+      "權柄競爭": [
+        "fool-door",
+        "fool-error",
+        "fool-utopia",
+        "fool-cathedral",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "沉睡與後續": [
+        "fool-slumber",
+        "fool-alger",
+        "fool-azik"
+      ]
+    },
+    "by_chapter": {
+      "1273": [
+        "fool-apotheosis"
+      ],
+      "1274": [
+        "fool-apotheosis"
+      ],
+      "1275": [
+        "fool-apotheosis"
+      ],
+      "1276": [
+        "fool-apotheosis"
+      ],
+      "1277": [
+        "fool-apotheosis"
+      ],
+      "1278": [
+        "fool-apotheosis"
+      ],
+      "1279": [
+        "fool-apotheosis"
+      ],
+      "1280": [
+        "fool-apotheosis"
+      ],
+      "1281": [
+        "fool-apotheosis"
+      ],
+      "1282": [
+        "fool-apotheosis"
+      ],
+      "1283": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1284": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1285": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1286": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1287": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1288": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1289": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1290": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1291": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1292": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1293": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1294": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1295": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1296": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1297": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1298": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1299": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1300": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1301": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1302": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1303": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1304": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1305": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1306": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1307": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1308": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1309": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1310": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1311": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1312": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1313": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1314": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1315": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1316": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1317": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1318": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1319": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1320": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1321": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1322": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1323": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1324": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1325": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1326": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1327": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1328": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1329": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1330": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1331": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1332": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1333": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1334": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1335": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1336": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1337": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1338": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1339": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1340": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1341": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1342": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1343": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1344": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1345": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1346": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1347": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1348": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1349": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1350": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1351": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1352": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1353": [
+        "fool-door",
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1354": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah"
+      ],
+      "1355": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1356": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1357": [
+        "fool-error",
+        "fool-utopia",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1358": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1359": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1360": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1361": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1362": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1363": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1364": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1365": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-alger"
+      ],
+      "1366": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1367": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1368": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1369": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1370": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1371": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1372": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1373": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1374": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1375": [
+        "fool-error",
+        "fool-utopia",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1376": [
+        "fool-error",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1377": [
+        "fool-error",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1378": [
+        "fool-error",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1379": [
+        "fool-error",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1380": [
+        "fool-error",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1381": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1382": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1383": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1384": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1385": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1386": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1387": [
+        "fool-error",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1388": [
+        "fool-apotheosis",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1389": [
+        "fool-apotheosis",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1390": [
+        "fool-apotheosis",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1391": [
+        "fool-apotheosis",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1392": [
+        "fool-apotheosis",
+        "fool-slumber",
+        "fool-alger"
+      ],
+      "1393": [
+        "fool-alger"
+      ],
+      "1394": [
+        "fool-azik"
+      ]
+    }
+  }
+}
