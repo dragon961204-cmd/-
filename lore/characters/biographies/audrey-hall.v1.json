@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "character_id": "audrey-hall",
+  "name_zh": "奧黛麗·霍爾",
+  "importance": "A_or_B",
+  "status": "expanded_draft_secondary_source",
+  "historical_sections": [
+    {
+      "part": 1,
+      "title": "人物起點",
+      "summary": "作為霍爾伯爵家的女兒，奧黛麗受良好教育，熟悉貴族禮節與社交規則，也因對非凡世界的好奇踏入神秘學。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 2,
+      "title": "進入非凡世界",
+      "summary": "在最初的灰霧聚會中選擇正義牌，透過互通情報和材料逐漸掌握觀眾途徑；她必須掩飾非凡者身份，不讓普通家族生活受到牽連。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 3,
+      "title": "命運轉折",
+      "summary": "心理鍊金會既提供知識和成長機會，也帶來階層化管理及觀念衝突；她對組織目的的理解隨經歷加深。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 4,
+      "title": "長期衝突",
+      "summary": "從旁觀上流社會轉向理解戰爭、飢荒及底層困境，在慈善、心理治療和非凡者責任間重新審視自己。",
+      "verification": "needs_original_chapter"
+    },
+    {
+      "part": 5,
+      "title": "遊戲接觸限制",
+      "summary": "在1349年貝克蘭德上流聚會、慈善團體和精神醫療場所可能間接接觸；早期玩家不應知道她是正義。",
+      "verification": "needs_original_chapter"
+    }
+  ],
+  "timeline": [],
+  "organization_history": [],
+  "pathway_history": [],
+  "relationships": [],
+  "game_integration": {
+    "knowledge_gating": true,
+    "notes": "事件地點、角色知情程度與身份變化須按玩家當前年份及已知情報判斷。"
+  },
+  "source_registry": [
+    {
+      "kind": "community_character_index",
+      "url": "https://lotmfanwiki.com/type/p.html"
+    }
+  ],
+  "verification": {
+    "complete": false,
+    "status": "secondary_draft",
+    "chapter_links_verified": 0,
+    "missing": [
+      "具體人生日期與章節",
+      "序列／途徑時序",
+      "勢力入會和離開時間",
+      "關係在不同年份的狀態"
+    ]
+  },
+  "copyright_note": "僅原創摘要；未收錄小說原文"
+}
