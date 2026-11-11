@@ -1,0 +1,839 @@
+{
+  "schema_version": "0.1",
+  "description": "29名優先人物的四節背景研究補稿；這是補充材料，不等同已驗收完整傳記。不可將此檔每條計作完成。",
+  "count": 26,
+  "entries": [
+    {
+      "character_id": "suah",
+      "context": "玫瑰學派放縱派",
+      "biography_sections": [
+        {
+          "title": "高階存在與派系衝突",
+          "text": "斯亞位於玫瑰學派放縱派權力核心，其地位與組織對欲望和力量的宗教觀相互結合。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "節制派分裂後，兩派對領導權、信仰和非凡特性的理解持續對立；放縱派的追捕塑造莎倫、馬里奇等人的行動。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "對普通非凡者而言，斯亞更可能作為幕後威脅與儀式傳聞存在，直接會面需要極高的接觸門檻。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "遊戲中要分清放縱派、節制派和學派歷史，而非將其概括成單一善惡勢力。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "senor",
+      "context": "玫瑰學派與海上勢力",
+      "biography_sections": [
+        {
+          "title": "海盜與追捕",
+          "text": "塞尼奧爾與放縱派有聯繫，在海上地下世界留下名聲，因其能力和行動成為非凡者追查的目標。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "其在故事中的活動與格爾曼·斯帕羅相關，後續身分和狀態發生變化，不能任意沿用初期敵對海盜標籤。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "船員、港口、懸賞與組織關係使他適合引出囚犯途徑的地域劇情。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "遊戲中先建立追捕線索再允許玩家接觸，重要事件發生後更新人物狀態。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "frye",
+      "context": "廷根值夜者",
+      "biography_sections": [
+        {
+          "title": "小隊的職責",
+          "text": "弗萊是廷根值夜者小隊成員，與克萊恩、鄧恩等人共同處理城市中出現的非凡案件。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他主要透過醫療、遺體或案件現場相關工作呈現官方非凡者的日常職責。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "隊伍合作與封印物風險提供了與普通市民完全不同的職業視角。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "遊戲可讓玩家透過值夜者委託接觸其工作，但應避免為缺少原作依據的私人生活編造細節。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "seeka-tron",
+      "context": "廷根值夜者",
+      "biography_sections": [
+        {
+          "title": "案件與公共掩護",
+          "text": "西迦是廷根值夜者小隊成員，參與值夜者維護地區神秘世界秩序的工作。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "平日掩護身份與具體調查職務應隨劇情情境變化，而不是公開向所有市民宣告非凡者身份。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "其與鄧恩及其他隊員形成的小隊關係是廷根篇的職業背景。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "設計成具體小隊工作與訓練事件的配角；重要個人經歷需要原作章節補證。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "rozanne",
+      "context": "黑荊棘安保公司的文職",
+      "biography_sections": [
+        {
+          "title": "普通人的組織生活",
+          "text": "羅珊在黑荊棘安保公司處理文書和接待，熟悉值夜者小隊部分工作制度與人物。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她的談吐與日常互動讓克萊恩在剛踏入非凡世界時，得以透過平常工作理解這個組織。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "她所掌握的消息並不是神靈秘密全集；文職身份和紀律限制必須獨立考慮。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可設計成接待、收件、日常生活和小隊辦公流程的重要角色。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "crestet-cesimir",
+      "context": "黑夜教會高階調查",
+      "biography_sections": [
+        {
+          "title": "教會與封印物管理",
+          "text": "克雷斯泰·塞西瑪是黑夜教會的高階執事，負責處理涉及重要非凡力量與教會程序的案件。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他與廷根小隊的工作交集反映官方組織內部的階級、文書、保密和風險審核制度。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "其行動受教會任務約束，不會因玩家初次請求便提供高階配方或封印物。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可作教會制度線、隊伍審查與非凡晉升相關事件的關鍵人物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "mr-a",
+      "context": "極光會",
+      "biography_sections": [
+        {
+          "title": "秘密崇拜與聚會",
+          "text": "A先生是極光會重要人物，其活動和真實造物主信仰、秘密聚會及高風險儀式有聯繫。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他接觸的信徒與外部組織具有高度保密性，城市社交身份不能等同真正的組織位置。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "極光會內部不同神使及階位不能被簡化成可以直接購買會員資格的派系。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "玩家應透過地下神秘學、線人或調查接觸，遭遇會依自身身份產生顯著後果。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "mr-k",
+      "context": "極光會",
+      "biography_sections": [
+        {
+          "title": "神使與第二部時序",
+          "text": "K先生是極光會相關人物，與第二部的組織運作和人物命運產生交集。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "對他真實身份與他人的評價，必須區分公開的宗教活動、秘密身分和不同時段的立場。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "與盧米安等人接觸的情況不能提前放入1349年廷根，應根據第二部場景設計。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "適合作為派系引薦、教會衝突和信仰選擇的事件人物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "mr-x",
+      "context": "極光會",
+      "biography_sections": [
+        {
+          "title": "地下勢力聯絡",
+          "text": "X先生與極光會的秘密活動有關，在貝克蘭德神秘學地下世界具有線索價值。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他的非凡能力與組織身分可能影響潛伏、交易和暗殺等事件的因果，不宜用普通NPC視角直接解釋。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "其命運與克萊恩相關事件存在聯繫，後續狀態必須按小說時序切換。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可作玩家調查極光會的高風險情報節點，而非固定常駐交易商。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "botis",
+      "context": "極光會與亞伯拉罕舊事",
+      "biography_sections": [
+        {
+          "title": "秘法傳承的背叛",
+          "text": "博提斯與亞伯拉罕家族的歷史及極光會有關，所使用的途徑力量牽涉空間移動與封印。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他的背叛和對家族的影響，與佛爾思的門途徑主線存在關係。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "其能力和實際地點應依後期重要事件呈現，不能視為任何年代都固定活動。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "適合設置在亞伯拉罕秘術、封印物與極光會衝突交叉處。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "hanass-vincent",
+      "context": "廷根極光會線索",
+      "biography_sections": [
+        {
+          "title": "地下學術及秘密行動",
+          "text": "哈納斯·文森特在廷根的神秘學活動與地下書籍、秘密信仰以及極光會案件相關。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "他的周圍人際網絡和會面紀錄可成為初期玩家追查異常現象的入口。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "要區分警方可取得的資料、教會內部記錄與真正非凡者知情的秘密。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "適合做低序列調查支線，而不是讓玩家立即掌握極光會全部高層結構。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "sirius-arapis",
+      "context": "廷根極光會線索",
+      "biography_sections": [
+        {
+          "title": "隱蔽的信徒網絡",
+          "text": "西里斯·阿瑞匹斯與極光會及廷根異常事件有聯繫，並和相關隱秘活動人物存在交集。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "研究歷史與魔法的外部掩護，不代表其全部交易和信仰會向初次見面的玩家公開。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "他的行動對值夜者案件及地下神秘學圈具有線索意義。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可在城市謠言、危險書籍與地下信徒調查中分層顯示其身份。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "hermes",
+      "context": "觀眾途徑古代知識",
+      "biography_sections": [
+        {
+          "title": "古代語言與非凡秘密",
+          "text": "赫密斯是與古赫密斯語及觀眾途徑歷史有深刻聯繫的古代人物，與心理鍊金會有重要關係。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "語言、儀式與組織知識對其角色功能極其重要，但玩家不能將所有古代名字當作可直接拜訪的導師。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "他與歷史人物和現代神秘學者的關係需依具體年代分開。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "適合知識考據線、古代文本與觀眾途徑重大秘密。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "hvin-rambis",
+      "context": "心理鍊金會",
+      "biography_sections": [
+        {
+          "title": "上層社交和操控",
+          "text": "赫溫·蘭比斯是心理鍊金會的高層人物之一，能利用觀眾途徑能力影響他人的認知與選擇。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "其與奧黛麗及貝克蘭德貴族圈相關的事件，揭示心理鍊金會並不是毫無目的的學術團體。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "社交會面、催眠與情報判斷都需要反制條件，不能讓玩家從對話選項直接識破。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "作為觀眾途徑的制度與倫理衝突節點。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "daxter-guderian",
+      "context": "廷根醫療與心理鍊金會",
+      "biography_sections": [
+        {
+          "title": "心理醫生的雙重身份",
+          "text": "達克斯特是精神醫療工作者，與心理鍊金會有聯繫，工作環境給予他接觸病患和非凡異常的特殊機會。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "值夜者對心理鍊金會的追查可能利用他提供的情報，但雙重身份帶來長期風險。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "醫療職責和秘密信仰不應完全一致，人物需根據所知資訊決定行動。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可作廷根第一批觀眾途徑及精神醫療相關委託的關鍵線索。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "katarina-pelle",
+      "context": "魔女教派",
+      "biography_sections": [
+        {
+          "title": "家族與組織政治",
+          "text": "卡特琳娜是魔女教派高位人物，與特雷茜的親屬關係及組織傳承交織。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她參與教派陰謀，對下層成員的影響與權力差距顯著。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "教派不同派系和高階存在的利益可能與她個人安排相互交疊，應避免簡化成單一惡意。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "作為魔女教派與海上勢力的高階人物出場，不能用普通市民關係網隨意觸發。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "tracy",
+      "context": "魔女教派與海盜",
+      "biography_sections": [
+        {
+          "title": "海上威脅及親情",
+          "text": "特雷茜在海上活躍，其角色同時涉及海盜圈、魔女教派與私人生活。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "與卡特琳娜的家族關係不意味兩人在所有事件中目標一致。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "她在某些事件中的選擇會改變周遭海上勢力及相關人物的處境。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可作海上通緝、殖民地與魔女教派支線的重要人物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "trissy",
+      "context": "魔女教派的陰謀",
+      "biography_sections": [
+        {
+          "title": "控制與選擇",
+          "text": "特莉絲被捲入魔女教派及貝克蘭德王室陰謀，人生遭受強大的外部安排影響。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她的決策存在對命運的抗拒，也牽涉重要人際關係與外部權力。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "不能只用標籤將她設定為永遠對玩家敵視的教派成員。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可以在貝克蘭德政治案件、地下信徒與個人選擇事件中出現。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "panatiya",
+      "context": "魔女教派",
+      "biography_sections": [
+        {
+          "title": "高階魔女的封閉事件",
+          "text": "潘娜蒂亞是魔女教派高序列非凡者，與貝克蘭德特殊危險空間及相關事件緊密相連。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她的高階能力改變了普通探索的安全條件，面對她不能使用低序列同等難度的事件判定。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "原作事件發生與否會影響她當時的所在地及後續命運。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "僅在符合特定歷史條件的高危探索線開放。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "danitz",
+      "context": "黃金夢想號",
+      "biography_sections": [
+        {
+          "title": "海上職業與同伴",
+          "text": "達尼茲是黃金夢想號船員，熟悉海盜世界的日常與多方勢力競爭。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "與格爾曼的共同經歷，以及對船長艾德雯娜的情感，影響他對冒險與危險的態度。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "後期宗教身分與在海上執行的任務，需要保留時間線而不能覆蓋早期角色。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可作海上情報、船員互動和港口委託的重要人物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "edwina-edwards",
+      "context": "黃金夢想號",
+      "biography_sections": [
+        {
+          "title": "知識、紀律與航海",
+          "text": "艾德雯娜以船長身分管理黃金夢想號，對知識和研究有持續興趣。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她與船員共同探索海上秘密，擅長透過規則、專業與能力維持船上秩序。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "其學識和過去的傳承會影響可取得的情報，但不是所有秘密都能無條件交換。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "海上船隊、研究航線與冒險者委託的關鍵人物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "franca-roland",
+      "context": "特里爾地下勢力",
+      "biography_sections": [
+        {
+          "title": "前世與魔女途徑",
+          "text": "芙蘭卡在特里爾的街頭勢力和非凡者圈中活動，具有多重身份與秘密。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "與盧米安、簡娜及安東尼的關係逐步形成合作，但每個人仍保留自己的創傷、工作與目標。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "卷毛狒狒研究會、魔女教派和塔羅會的各時期關係必須分開記錄。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "適合特里爾不同主線的情報人物，1349不可直接出場。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "lumian-lee",
+      "context": "科爾杜與特里爾",
+      "biography_sections": [
+        {
+          "title": "非凡道路的起點",
+          "text": "盧米安的早年生活與奧蘿爾相連，科爾杜異常事件改變其人生方向。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "前往特里爾後接觸地方黑幫、隱秘組織及不同非凡體系，逐步接近末日危機。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "與芙蘭卡、簡娜及其他同伴的經歷改變其對命運、責任與目的的理解。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "需要將兩部作品的世界時鐘連動，不能讓他在不合理年份替玩家執行任務。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "jenna",
+      "context": "特里爾底層生活",
+      "biography_sections": [
+        {
+          "title": "職業與人際關係",
+          "text": "簡娜原本為家庭生計而工作，生活與城市不平等緊密相連。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "重要危機後逐步踏上魔女途徑，並和盧米安、芙蘭卡成為同伴。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "她的家庭、職業與個人意願仍應在冒險故事中具有自主性。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "可設計與普通勞工、表演行業及城市社會有關的事件；第二部年代限定。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "aurore-lee",
+      "context": "科爾杜村",
+      "biography_sections": [
+        {
+          "title": "養姐與作家",
+          "text": "奧蘿爾在科爾杜村照顧盧米安，以寫作與神秘學知識維持生活。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "她同卷毛狒狒研究會有關，其前世秘密需要以知情度分層保存。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "她對盧米安的重要性不只在傳授知識，也在關係與重大事件的選擇。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "只在相容的第二部時間線和地理環境出場。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    },
+    {
+      "character_id": "zaratul",
+      "context": "密修會與高序列",
+      "biography_sections": [
+        {
+          "title": "古代權柄的爭奪",
+          "text": "查拉圖與第四紀、密修會及占卜家途徑高序列權柄有關，長期追求自己在歷史中的位置。"
+        },
+        {
+          "title": "命運與組織",
+          "text": "其在羅塞爾年代和第一部後期的活動涉及不同政治聯盟，不能將全部視為同一年份。"
+        },
+        {
+          "title": "後續脈絡",
+          "text": "和克萊恩的衝突關係與高階途徑、非凡特性和源堡有關。"
+        },
+        {
+          "title": "遊戲使用條件",
+          "text": "遊戲中需使用高階調查與身份驗證，不能把其設為普通野外怪物。"
+        }
+      ],
+      "canon_status": "needs_verification",
+      "sources": [
+        {
+          "kind": "community_index",
+          "url": "https://lotmfanwiki.com/type/p.html"
+        }
+      ],
+      "original_chapters_verified": 0,
+      "requires_timeline_review": true,
+      "classification": "research_expansion_not_final"
+    }
+  ]
+}
