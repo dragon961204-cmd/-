@@ -199,6 +199,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 14
+    "source_stage_count": 14,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 787
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "奧黛麗·霍爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "霍爾家族的女兒",
+        "prose": "奧黛麗成長於魯恩王國最富有、最有影響力的貴族家庭之一。伯爵家為她提供優渥生活、私人教育及大量上層社交機會，也讓她長期生活於階級秩序所構築的安全環境。她的好奇並非出於貧困或仇恨，而是想知道禮服、舞會與議會談話背後，是否還有另一個真正奇異的世界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "初登灰霧與塔羅會",
+        "prose": "因一次神秘事件，她在灰霧之上遇見自稱『愚者』的存在及『倒吊人』阿爾傑。她以『正義』為代號，開始以金錢、情報和物資與其他成員交換非凡知識。這個早期團體沒有她熟悉的貴族頭銜，卻逐漸成為能夠影響她一生的第二個社交世界。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "觀眾道路與蘇茜",
+        "prose": "奧黛麗選擇觀眾途徑。她服用魔藥後開始意識到眼神、肢體、語氣、欲言又止的停頓，都能揭示別人未說出口的想法。寵物蘇茜也因意外喝下魔藥而擁有非凡能力。這段經歷讓她在不改變日常身份的前提下，練習以新的視角觀察家人和貴族同伴。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "心理鍊金會與能力晉升",
+        "prose": "她為取得配方和非凡材料接觸心理鍊金會，逐步深入讀心者、心理醫生等觀眾途徑階段。在表面平靜的舞會、慈善活動和社交聚會間，她開始接觸集體潛意識、心理暗示及更深的精神世界。她必須學會不被自己的觀察能力支配，也需要防備高序列觀眾對其思想的干涉。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "對貧困與政治的認識",
+        "prose": "隨著與塔羅會成員交流、參與慈善和接觸貝克蘭德的下層生活，奧黛麗發覺貴族社會的溫和禮儀並不足以掩飾巨大貧富差距。她對父母和家族的感情沒有消失，但越來越難把既有秩序視為理所當然；這也是她從單純好奇的少女轉變為有獨立道德選擇之人的重要原因。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "赫溫·蘭比斯、戰爭與半神",
+        "prose": "與赫溫·蘭比斯相關的衝突使她體會觀眾途徑在精神控制上的危險。大戰逼近後，身為貴族的她一方面擁有資源與政治關係，另一方面也直面無法靠個人財富拯救的痛苦。她繼續晉升，成為能在更高層級影響個體精神與局勢的非凡者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第一部結尾及第二部",
+        "prose": "塔羅會逐漸從秘密交流組織發展成具有實際影響力的力量。奧黛麗在保持自身價值與身分秘密的同時承擔更多責任；到《宿命之環》，她已是盧米安的重要心理醫生與指引者，並投入愚者夢境及後續末日相關事件。須按卷次區分她不同時點的序列與具體能力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-b6201f5c4c1b.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

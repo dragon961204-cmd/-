@@ -167,6 +167,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 11
+    "source_stage_count": 11,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 610
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "嘉德麗雅｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "神秘女王的養育",
+        "prose": "嘉德麗雅與貝爾納黛·古斯塔夫具有深厚的養育和師徒關係。她並不僅僅是某艘船的船長：她的知識體系、行動方式和情感牽掛，都受到神秘女王的強烈影響。這份關係也使她對羅塞爾留下的秘密比多數海上冒險者更敏感。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "星之上將與未來號",
+        "prose": "她以『星之上將』名義在海上活動，統領未來號，船上有弗蘭克·李等風格迥異的成員。嘉德麗雅能在科研、神秘學、航海和海盜勢力的衝突間維持船隊運作，既要運用知識，也得處理部下的奇特研究和各種海上危險。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "進入塔羅會",
+        "prose": "嘉德麗雅加入塔羅會後，以『隱者』作為代號。她較其他新成員擁有深厚神秘學基礎，卻也因此更容易察覺聚會中的不尋常之處。她與貝爾納黛的關係使愚者要求她遵守對外保密規矩，避免把整個聚會的情報無限制傳遞給神秘女王。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "與貝爾納黛的矛盾",
+        "prose": "嘉德麗雅渴望得到貝爾納黛的認可，卻又必須建立自己的判斷與責任。當涉及羅塞爾日記、神秘女王的計畫或塔羅會的保密要求時，她經常面對個人情感和組織承諾之間的張力。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "高序列情報與關鍵行動",
+        "prose": "她參與獵殺極光會的高層、追查非凡物品及破解歷史謎團等事件，也在自身途徑上逐步晉升。這些經歷讓她從知識豐富的海上將軍，成長為可以直接介入神靈級計畫的高階非凡者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "神燈、預言與歷史秘密",
+        "prose": "嘉德麗雅在後期與涉及羅塞爾、神燈及重大預言的事件相連。知識在這個階段不再只是能夠交易的資源，也可能帶來污染和危險，因此她必須懂得何時追查、何時保持距離。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部與末日",
+        "prose": "進入《宿命之環》後，她以大阿卡那『隱者』繼續行動，參與更高層級的探索與末日局勢。未來號船長、神秘女王養女和塔羅會成員三種身份彼此相關，但在每個年代的公開程度不同。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-64b55e89180a.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

@@ -238,6 +238,94 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 20
+    "source_stage_count": 20,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 649
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "盧米安·李｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "科爾杜的少年與奧蘿爾",
+        "prose": "盧米安在因蒂斯的科爾杜村成長，與收養並照顧他的姐姐奧蘿爾一起生活。奧蘿爾給他教育、關懷和一個可以依靠的家。他在村中表現得機靈、愛惡作劇，對外界抱有好奇，卻未預料到身邊熟悉的村民會被捲入非凡陰謀。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "夢境、循環與村莊災難",
+        "prose": "村中的異常夢境、宗教活動和命運力量逐步交織。盧米安試圖查明神父紀堯姆·貝內等人的秘密，也試著保護姐姐。科爾杜的災變成為他人生最沉重的斷裂：離開村莊後，他的目標不再只是見識世界，而是找回失去的人並追查事件真相。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "流亡特里爾",
+        "prose": "他來到特里爾，在市場區與幫派、酒館、魔女及形形色色的普通人相遇。盧米安透過『獵人』等身份逐步進入紅祭司途徑的世界，行動常伴隨偽裝、情報交換和地方勢力鬥爭。奧蘿爾的記憶始終是他做出危險選擇的重要原因。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "芙蘭卡、簡娜與復仇",
+        "prose": "芙蘭卡和簡娜從特里爾的不同社會階層走進他的生命，三人建立起不容易由單純同伴關係概括的信任與感情。隨著特里爾地下秘密浮現，他一面追查與科爾杜事件有關的力量，一面卷入更大範圍的組織陰謀。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "路易·貝里與冒險家身份",
+        "prose": "他以路易·貝里等身份在更廣闊的地區行動，接觸南大陸、海上勢力和不同國家的神秘學傳承。這些旅行讓他的經驗超越早期市場區街頭衝突，也逐步揭開身上封印、宿命力量和更高位存在的安排。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "魔女之路與夢境都市",
+        "prose": "中後期的盧米安面對紅祭司與魔女兩條相鄰途徑的特殊關係，並被捲入愚者夢境。夢境中的偽裝身份、對抗天尊勢力及尋求讓克萊恩甦醒的行動，使他必須同時處理自己的命運與世界局勢。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "天使、神位與末日",
+        "prose": "故事末段，他的力量與責任急遽提升，牽連末日、神靈權柄以及身邊同伴的命運。這一階段不宜用早期『科爾杜村獵人』的能力模型概括；需要分開儲存不同卷次的途徑、性別形態、盟友及力量來源。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-33746a77d29d.html",
+          "https://lotmfanwiki.com/node/cn-p-a727fb5e113e.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

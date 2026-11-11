@@ -183,6 +183,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 13
+    "source_stage_count": 13,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 698
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "戴里克·伯格｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "出生於白銀城",
+        "prose": "戴里克·伯格生活在神棄之地的白銀城。那裡沒有他能記憶的正常陽光，居民必須依賴照明、巡邏、紀律與互助，在怪物和黑暗的威脅下維持城市。對他而言，離開這片土地並不是旅行計畫，而是世代追求卻不知能否實現的希望。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "家庭悲劇與守護職責",
+        "prose": "白銀城居民一旦出現某些失控或污染問題，親近的家人可能不得不親手結束威脅。戴里克年紀不大，卻已被迫承受這個殘酷社會的規矩。他選擇加入城市的非凡者體系，並非追逐名聲，而是希望守護剩下的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "加入塔羅會",
+        "prose": "機緣之下，他來到灰霧之上，以『太陽』為代號參加塔羅會。其他成員聽聞白銀城的生活條件，得知神棄之地並非僅存在於歷史記載。戴里克則藉由聚會取得與外界接觸的罕見機會，並開始相信世界上真的存在陽光、海洋及不需要時刻警戒黑暗的城市。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "對阿蒙與古老信仰的認識",
+        "prose": "白銀城探索遠古遺跡時，多次碰上比普通怪物更難理解的古老存在。他與阿蒙相關危機、神廟探索及舊日信仰問題有直接接觸，也逐漸發現原有歷史敘述的不完整。這些經驗使他在單純虔誠之外，學會以證據和同伴生死來判斷道路。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "巨人王庭與暗天使",
+        "prose": "隨著白銀城首席科林·伊利亞特率領探索，戴里克參與面向巨人王庭的艱難行動。與暗天使薩斯利爾殘留力量有關的遭遇，使城市接近神棄之地的深層秘密。許多同伴和前輩在過程中付出代價，也讓戴里克逐漸承擔超越少年身份的責任。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "走出神棄之地",
+        "prose": "在塔羅會與愚者的安排影響下，白銀城終於找到通往外界的道路。戴里克所期待的陽光不再只是傳說，城市居民得以重新面對開放的天空和更廣大的世界。這一轉折不代表白銀城一夜之間消除所有困難，後續仍有定居、宗教和文化衝突。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "新白銀城與第二部",
+        "prose": "戴里克成為新白銀城及愚者教會的重要人物，在第二部繼續承擔宗教和城市責任。其角色已從渴望逃離黑暗的少年，轉變成需要讓他人擁有未來的領導者；後續序列及教宗職務須分階段審核。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-39ce48173be2.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

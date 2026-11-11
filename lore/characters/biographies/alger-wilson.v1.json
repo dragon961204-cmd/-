@@ -190,6 +190,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 13
+    "source_stage_count": 13,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 630
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "阿爾傑·威爾遜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "海上教會成員",
+        "prose": "阿爾傑·威爾遜服務於風暴之主教會，長期熟悉海上航行、非凡者情報和官方組織的行事規範。他知道力量、地位與情報如何交易，也因此比剛接觸神秘世界的其他人更不容易輕信陌生人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "幽藍復仇者號與灰霧聚會",
+        "prose": "他以幽藍復仇者號船長身份行動，並在第一次塔羅會聚會與奧黛麗相識，以『倒吊人』為代號。早期他不斷試圖判斷愚者的真實位格，同時利用自身海上知識交換配方和資源。這種審慎與野心並存的性格，使他常扮演塔羅會中的現實主義者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "齊林格斯事件",
+        "prose": "海盜將軍齊林格斯的行動，使阿爾傑把海上情報帶進塔羅會。奧黛麗等人則利用貝克蘭德的人脈搜尋線索，展現聚會成員之間跨地區合作的能力。對阿爾傑而言，塔羅會逐漸證明自己不是普通的神秘學閒談。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "晉升與教會職務",
+        "prose": "他沿水手途徑不斷前進，在海上任務、帕蘇島述職及探索中尋找晉升機會。風暴教會給予他制度內的資源與身份，塔羅會卻提供另一條秘密上升道路。兩者在早期並未直接衝突，但隨著他獲得更多力量和知識，忠誠與風險逐漸難以平衡。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "精靈遺跡與半神之路",
+        "prose": "他在多次航海與非凡事件中接觸精靈遺跡及其他古老線索，並走向半神層次。其經驗讓他理解，海上那些被水手稱為傳說的存在，其實與神靈、途徑和遺失歷史有直接聯繫。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "離開風暴教會",
+        "prose": "到第一部後期，他與原本教會的關係發生重大變化，逐漸承擔與海神信仰及愚者教會相關的職責。此時的阿爾傑已不能再視作普通的風暴教會秘密成員；其公開職務、真正信仰及效忠對象需要依時間分開記錄。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部的海上局勢",
+        "prose": "他在《宿命之環》仍是塔羅會的重要大阿卡那牌，持續參與海上與高階非凡世界的行動。後期還涉及相鄰途徑與更高位格的局勢，不能把早期的船長身份直接延用至整個第二部。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-61827728a33d.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

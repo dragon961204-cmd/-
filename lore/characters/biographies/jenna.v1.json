@@ -153,6 +153,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 10
+    "source_stage_count": 10,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 550
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "簡娜｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "市場區的生活",
+        "prose": "簡娜原本生活在特里爾市場區，家庭經濟條件有限。她以歌唱和娛樂場所工作為生，努力應付日常生活，也必須面對不平等的城市權力結構。她的非凡故事首先是普通人艱難求生的故事。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "家庭變故與轉折",
+        "prose": "因社會和政治事件造成的家庭變故，她對原有秩序產生強烈不滿，並在復仇和生存需求下接觸超凡力量。這些經歷不是可以被後來的序列晉升輕易抹去的前史，而是她往後判斷他人行動的基礎。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "與芙蘭卡相識",
+        "prose": "她與芙蘭卡的關係從城市生活和共同遭遇逐步深化。芙蘭卡比她更早熟悉魔女途徑，提供了關於非凡世界的指引，也讓簡娜在追尋力量時擁有值得信任的同行者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "加入盧米安的團隊",
+        "prose": "隨著盧米安進入市場區並參與幫派和秘密組織事件，簡娜逐漸成為團隊的重要成員。她並非只是在主角旁邊提供情報的人，而是會主動決定是否參與任務、如何回應危險以及為何尋求更高力量。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "教唆者、女巫與晉升",
+        "prose": "她沿魔女途徑前進，逐步面對不同序列所要求的扮演與精神壓力。魔女途徑的力量能提供反擊與生存的可能，但也會讓她面臨失控、教派權力和自我認識的考驗。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "塔羅會、夢境與抉擇",
+        "prose": "與大阿卡那牌接觸後，她參與塔羅會相關任務，也被捲入愚者夢境都市。此時的她已經遠離初期只希望平安生活的願望，開始必須在同伴安全與更大危機之間做選擇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "後期命運",
+        "prose": "《宿命之環》後段的簡娜與魔女途徑的高序列災厄、犧牲和復歸有關。她對芙蘭卡、盧米安的感情及對自己道路的決定，是理解後期結局不可缺少的部分；具體序列和時間需要依各卷審核。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f60885478fb.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

@@ -215,6 +215,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 17
+    "source_stage_count": 17,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 712
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "佛爾思·沃爾｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "自由撰稿人與休的朋友",
+        "prose": "佛爾思·沃爾以小說創作維持生活，喜歡舒適的住處、穩定收入和沒有危險的日常。與休·迪爾查之間的友誼，使她雖然經常想偷懶，仍會在朋友遇到困難時提供支持。這種普通人的生活願望，是理解她後來面對驚人風險時反應的重要背景。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "滿月囈語與學徒魔藥",
+        "prose": "她曾因一次機緣接觸非凡世界，進入學徒途徑。這條道路給她穿越障礙與空間的可能，卻也將她與亞伯拉罕家族的滿月詛咒聯繫起來。每逢特定時刻的可怕囈語成為她的長期威脅，也逼迫她不能一直置身神秘世界之外。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "加入塔羅會",
+        "prose": "在與其他非凡者接觸後，她被引介到灰霧之上的聚會，使用『魔術師』作為代號。這裡讓她可以從相對可靠的來源獲取配方、材料和情報，也接觸了許多超越普通作家想像的事件。她的第一反應經常是恐懼和拖延，但在危急之際仍會完成必要的行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "多里安與亞伯拉罕傳承",
+        "prose": "佛爾思通過勞倫斯留下的遺物，與多里安·格雷·亞伯拉罕建立師徒關係。她得到學徒途徑的進階指引，也慢慢理解亞伯拉罕家族為何長期衰落、為何如此在意門先生。原本單純為了自救而探索的魔法學習，逐漸變成對師長和家族秘密的責任。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "寫作、遊歷和危險任務",
+        "prose": "她將自身經歷與神秘學世界的見聞融入創作，在非凡道路上從戲法大師等階段繼續前進。她也先後參與針對極光會相關人物與高序列者的行動，從依賴同伴的初學者成長為能夠完成跨地域、跨空間任務的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "門先生危機與晉升半神",
+        "prose": "隨著亞伯拉罕家族的命運與門先生相關秘密逐步揭露，佛爾思的道路直接牽連世界級事件。她不僅要理解學徒途徑的力量，也必須辨識來自星空與高位存在的風險。她最終踏入半神層次，與早年害怕危險的日常作家形成鮮明對照。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "第二部的大阿卡那牌",
+        "prose": "到了《宿命之環》，她已是塔羅會能獨立引導與指派任務的『魔術師』女士，並在盧米安進入非凡世界時成為重要引路人。其後涉及星之天使、夢境都市及末日相關事件。早期的佛爾思與後期的她不能用同一個固定力量模板描述。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-57e9626b8612.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }

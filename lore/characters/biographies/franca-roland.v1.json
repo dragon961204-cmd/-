@@ -177,6 +177,87 @@
   "biography_quality": {
     "source_chronology_attached": true,
     "independently_verified_full_biography": false,
-    "source_stage_count": 13
+    "source_stage_count": 13,
+    "continuous_prose_draft": true,
+    "narrative_sections": 7,
+    "narrative_zh_characters": 557
+  },
+  "narrative_biography": {
+    "schema_version": "1.0",
+    "title": "芙蘭卡·羅蘭｜連貫生平敘事初稿",
+    "status": "pending_user_review",
+    "scope": "跨《詭秘之主》與《宿命之環》；按生命階段整理",
+    "sections": [
+      {
+        "part": 1,
+        "title": "異鄉記憶與紅靴子",
+        "prose": "芙蘭卡生活在因蒂斯首都特里爾，擁有與周遭人不同的前世記憶和觀念。作為『紅靴子』，她活躍於薩瓦幫與市場區的人際網絡，外表擅長融入城市生活，內心仍努力尋找自己來到這個世界的原因。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 2,
+        "title": "與加德納的關係",
+        "prose": "她與加德納·馬丁及鐵血十字會有過牽連，既藉助地下組織取得資源，也必須提防權力與利用關係。她懂得街頭勢力的規矩，卻不把任何上級當作能永久信任的保護者。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 3,
+        "title": "魔女途徑與身分矛盾",
+        "prose": "她選擇魔女途徑，序列晉升與自身身體、記憶及自我認識形成長期矛盾。她以幽默和坦率維持日常生活，然而在面對有關前世的情報時，個人的身分困境會變得格外尖銳。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 4,
+        "title": "與盧米安、簡娜相識",
+        "prose": "芙蘭卡在特里爾與盧米安及簡娜建立關係，三人共同處理危險的非凡事件，也在互相信任中逐漸理解對方失去過什麼、想找回什麼。她的支持不是無條件附和，而是具有清楚個人目標的選擇。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 5,
+        "title": "臥底教派與晉升",
+        "prose": "為獲得資源和追尋秘密，她深入魔女教派及高階非凡者的衝突，隨序列提升而面對愈來愈嚴酷的任務。特里爾、地底空間和其他重要地點的行動，使她的角色從地方情報提供者成長為能左右大局的人。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 6,
+        "title": "夢境都市及前世真相",
+        "prose": "隨著愚者夢境等事件展開，她越來越接近自己的來歷，卻也必須面對真相可能顛覆原有期待的事實。她在夢境都市使用不同的身份，並與同伴參與關鍵行動。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      },
+      {
+        "part": 7,
+        "title": "末日與最終抉擇",
+        "prose": "故事後期她繼續晉升並面對魔女教派和更高位存在的衝突，努力在極端危險的局勢下守住對同伴的承諾。其高序列位格與結局，應按原作階段核對，而不能由早期魔女稱號直接推斷。",
+        "source_pages": [
+          "https://lotmfanwiki.com/node/cn-p-9f8c2d06a60f.html"
+        ],
+        "status": "original_narrative_draft_pending_user_review"
+      }
+    ],
+    "known_gaps": [
+      "每次序列晉升的準確章節及日期",
+      "正式加入與離開組織的明確日期",
+      "部分重要角色的人際關係階段",
+      "第二部最新結局及神靈階段的精確位格"
+    ],
+    "quality_note": "此處為人工組織之原創敘事初稿，不能視為已逐章核對的完整傳記；來源頁章節提綱與敘事文本必須由使用者審核。"
   }
 }
