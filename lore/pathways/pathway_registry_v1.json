@@ -2,7 +2,7 @@
   "schema_version": "1.0",
   "source_revision": "8b5c04f35600053b79bbd309e57c6705973afe44",
   "scope": "22 條標準途徑與序列 9 至 0",
-  "notes": "序列名稱標示是否有專案內的直接傳記線索。人物及勢力為考據入口。同一人物可因不同時期的途徑而連到多列。事件索引由相關人物推得，途徑在事件中是否使用仍須查證。魔藥、扮演法、非凡特性與儀式保留待核欄位。",
+  "notes": "序列名稱依使用者提供的圖表登錄，保留既有傳記來源及名稱差異。人物及勢力為考據入口。事件索引由相關人物推得，途徑在事件中是否使用仍須查證。魔藥配方、扮演法、非凡特性與晉升儀式待補。",
   "pathways": {
     "fool": {
       "id": "fool",
@@ -41,68 +41,105 @@
       "sequences": {
         "0": {
           "name_zh": "愚者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "5": {
-          "name_zh": "秘偶大師",
-          "name_status": "repository_draft",
+          "name_status": "user_chart_pending_verification",
           "sources": [
             {
-              "path": "lore/characters/biographies/klein-moretti.v1.json",
-              "locator": "pathway_history：序列 5",
-              "character_id": "klein-moretti"
-            },
-            {
-              "path": "lore/characters/biographies/rosago.v1.json",
-              "locator": "人物傳記：序列5祕偶大師",
-              "character_id": "rosago"
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 0"
             }
           ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": "詭祕侍者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 1"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": "奇蹟師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 2"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": "古代學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 3"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": "詭法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 4"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "祕偶大師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 5"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null,
+          "previous_name_candidates": [
+            {
+              "name_zh": "秘偶大師",
+              "name_status": "repository_draft",
+              "sources": [
+                {
+                  "path": "lore/characters/biographies/klein-moretti.v1.json",
+                  "locator": "pathway_history：序列 5",
+                  "character_id": "klein-moretti"
+                },
+                {
+                  "path": "lore/characters/biographies/rosago.v1.json",
+                  "locator": "人物傳記：序列5祕偶大師",
+                  "character_id": "rosago"
+                }
+              ]
+            }
+          ]
         },
         "6": {
           "name_zh": "無面人",
@@ -112,6 +149,10 @@
               "path": "lore/characters/biographies/klein-moretti.v1.json",
               "locator": "pathway_history：序列 6",
               "character_id": "klein-moretti"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 6"
             }
           ],
           "potion_formula": null,
@@ -127,6 +168,10 @@
               "path": "lore/characters/biographies/klein-moretti.v1.json",
               "locator": "pathway_history：序列 7",
               "character_id": "klein-moretti"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 7"
             }
           ],
           "potion_formula": null,
@@ -142,6 +187,10 @@
               "path": "lore/characters/biographies/klein-moretti.v1.json",
               "locator": "pathway_history：序列 8",
               "character_id": "klein-moretti"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 8"
             }
           ],
           "potion_formula": null,
@@ -157,6 +206,10 @@
               "path": "lore/characters/biographies/klein-moretti.v1.json",
               "locator": "pathway_history：序列 9",
               "character_id": "klein-moretti"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "愚者｜序列 9"
             }
           ],
           "potion_formula": null,
@@ -213,44 +266,69 @@
       "sequences": {
         "0": {
           "name_zh": "錯誤",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "時之蟲",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "命運木馬",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "欺瞞導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "寄生者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -264,6 +342,10 @@
               "path": "lore/characters/biographies/bard-april-fools.v1.json",
               "locator": "人物傳記：序列5竊夢家",
               "character_id": "bard-april-fools"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -272,27 +354,42 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "盜火人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "解密學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "詐騙師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -300,8 +397,13 @@
         },
         "9": {
           "name_zh": "偷盜者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "錯誤｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -341,80 +443,125 @@
       "sequences": {
         "0": {
           "name_zh": "門",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "星之匙",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "旅法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "漫遊者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "祕法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "旅行家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "記錄官",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "占星人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "戲法大師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -422,8 +569,13 @@
         },
         "9": {
           "name_zh": "學徒",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "門｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -468,80 +620,125 @@
       "sequences": {
         "0": {
           "name_zh": "空想家",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "作家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "洞察者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "織夢人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "操縱師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "夢境行者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "催眠師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "心理醫生",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "讀心者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -549,8 +746,13 @@
         },
         "9": {
           "name_zh": "觀眾",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "空想家｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -590,80 +792,125 @@
       "sequences": {
         "0": {
           "name_zh": "倒吊人",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "暗天使",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "穢語長老",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "三首聖堂",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "黑騎士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "牧羊人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "薔薇主教",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "隱修士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "傾聽者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -671,8 +918,13 @@
         },
         "9": {
           "name_zh": "祕祈人",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "倒吊人｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -712,6 +964,10 @@
             {
               "path": "lore/characters/biographies/eternal-blazing-sun.v1.json",
               "locator": "人物傳記：太陽"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 0"
             }
           ],
           "potion_formula": null,
@@ -720,72 +976,112 @@
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "純白天使",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "逐光者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "正義導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "無暗者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "光之祭司",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "公證人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "太陽神官",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "祈光人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -793,8 +1089,13 @@
         },
         "9": {
           "name_zh": "歌頌者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "太陽｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -839,26 +1140,41 @@
       "sequences": {
         "0": {
           "name_zh": "暴君",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "雷神",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "天災",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -872,6 +1188,10 @@
               "path": "lore/characters/biographies/jahn-kottman.v1.json",
               "locator": "人物傳記：序列3海王",
               "character_id": "jahn-kottman"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 3"
             }
           ],
           "potion_formula": null,
@@ -880,45 +1200,70 @@
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "災難主祭",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "海洋歌者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "風眷者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "航海家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "暴怒之民",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -926,8 +1271,13 @@
         },
         "9": {
           "name_zh": "水手",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "暴君｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -962,80 +1312,125 @@
       "sequences": {
         "0": {
           "name_zh": "白塔",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "全知之眼",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "智天使",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "洞悉者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "預言家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "祕術導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "博學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "守知者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "推理學員",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1043,8 +1438,13 @@
         },
         "9": {
           "name_zh": "閱讀者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "白塔｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1109,35 +1509,55 @@
       "sequences": {
         "0": {
           "name_zh": "黑暗",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "厄難騎士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "隱祕之僕",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "恐懼主教",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1156,6 +1576,10 @@
               "path": "lore/characters/biographies/nim.v1.json",
               "locator": "人物傳記：序列4守夜人",
               "character_id": "nim"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 4"
             }
           ],
           "potion_formula": null,
@@ -1171,6 +1595,10 @@
               "path": "lore/characters/biographies/soest.v1.json",
               "locator": "人物傳記：序列5靈巫",
               "character_id": "soest"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -1179,9 +1607,14 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "安魂師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1195,6 +1628,10 @@
               "path": "lore/characters/biographies/dunn-smith.v1.json",
               "locator": "pathway_history：序列 7",
               "character_id": "dunn-smith"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 7"
             }
           ],
           "potion_formula": null,
@@ -1203,9 +1640,14 @@
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "午夜詩人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1224,6 +1666,10 @@
               "path": "lore/characters/biographies/kenley-white.v1.json",
               "locator": "人物傳記：序列9不眠者",
               "character_id": "kenley-white"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑暗｜序列 9"
             }
           ],
           "potion_formula": null,
@@ -1260,17 +1706,27 @@
       "sequences": {
         "0": {
           "name_zh": "死神",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "蒼白皇帝",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1284,6 +1740,10 @@
               "path": "lore/characters/biographies/azik-eggers.v1.json",
               "locator": "pathway_history：序列 2",
               "character_id": "azik-eggers"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 2"
             }
           ],
           "potion_formula": null,
@@ -1292,18 +1752,28 @@
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "擺渡人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "不死者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1317,6 +1787,10 @@
               "path": "lore/characters/biographies/ince-zangwill.v1.json",
               "locator": "pathway_history：序列 5",
               "character_id": "ince-zangwill"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -1325,27 +1799,42 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "死靈導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "通靈者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "掘墓人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1353,8 +1842,13 @@
         },
         "9": {
           "name_zh": "收屍人",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "死神｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1399,26 +1893,41 @@
       "sequences": {
         "0": {
           "name_zh": "黃昏巨人",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "神明之手",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "榮耀者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1432,6 +1941,10 @@
               "path": "lore/characters/biographies/waite-hillmon.v1.json",
               "locator": "人物傳記：序列3銀騎士",
               "character_id": "waite-hillmon"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 3"
             }
           ],
           "potion_formula": null,
@@ -1440,45 +1953,70 @@
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "獵魔者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "守護者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "黎明騎士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "武器大師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "格鬥家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1486,8 +2024,13 @@
         },
         "9": {
           "name_zh": "戰士",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黃昏巨人｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1542,62 +2085,11 @@
       "sequences": {
         "0": {
           "name_zh": "魔女",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "5": {
-          "name_zh": "痛苦魔女",
-          "name_status": "repository_draft",
+          "name_status": "user_chart_pending_verification",
           "sources": [
             {
-              "path": "lore/characters/biographies/julie-morora.v1.json",
-              "locator": "人物傳記：序列5痛苦魔女",
-              "character_id": "julie-morora"
-            },
-            {
-              "path": "lore/characters/biographies/salist-morora.v1.json",
-              "locator": "人物傳記：序列5痛苦魔女",
-              "character_id": "salist-morora"
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 0"
             }
           ],
           "potion_formula": null,
@@ -1605,28 +2097,131 @@
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
+        "1": {
+          "name_zh": "末日",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 1"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": "災難",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 2"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": "不老",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 3"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": "絕望",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 4"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "痛苦",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 5"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null,
+          "previous_name_candidates": [
+            {
+              "name_zh": "痛苦魔女",
+              "name_status": "repository_draft",
+              "sources": [
+                {
+                  "path": "lore/characters/biographies/julie-morora.v1.json",
+                  "locator": "人物傳記：序列5痛苦魔女",
+                  "character_id": "julie-morora"
+                },
+                {
+                  "path": "lore/characters/biographies/salist-morora.v1.json",
+                  "locator": "人物傳記：序列5痛苦魔女",
+                  "character_id": "salist-morora"
+                }
+              ]
+            }
+          ]
+        },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "歡愉",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "女巫",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "教唆者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1634,8 +2229,13 @@
         },
         "9": {
           "name_zh": "刺客",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "魔女｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1700,8 +2300,13 @@
       "sequences": {
         "0": {
           "name_zh": "紅祭司",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1715,6 +2320,10 @@
               "path": "lore/characters/biographies/vermonda-sauron.v1.json",
               "locator": "人物傳記：序列1征服者",
               "character_id": "vermonda-sauron"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 1"
             }
           ],
           "potion_formula": null,
@@ -1723,36 +2332,56 @@
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "天氣術士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "戰爭主教",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "鐵血騎士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "收割者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1766,6 +2395,10 @@
               "path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
               "locator": "人物傳記：序列6陰謀家",
               "character_id": "bakerland-jean-madan"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 6"
             }
           ],
           "potion_formula": null,
@@ -1774,9 +2407,14 @@
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "縱火家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1790,6 +2428,10 @@
               "path": "lore/characters/biographies/margot-stinger.v1.json",
               "locator": "人物傳記：序列8挑釁者",
               "character_id": "margot-stinger"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 8"
             }
           ],
           "potion_formula": null,
@@ -1805,6 +2447,10 @@
               "path": "lore/characters/biographies/meursault.v1.json",
               "locator": "人物傳記：序列9獵人",
               "character_id": "meursault"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "紅祭司｜序列 9"
             }
           ],
           "potion_formula": null,
@@ -1817,7 +2463,7 @@
     "hermit": {
       "id": "hermit",
       "name_zh": "隱者",
-      "entry_sequence_candidate": "窺秘人",
+      "entry_sequence_candidate": "窺祕人",
       "canon_status": "needs_verification",
       "character_refs": [
         {
@@ -1851,44 +2497,69 @@
       "sequences": {
         "0": {
           "name_zh": "隱者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "知識皇帝",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "賢者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "預言大師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "神祕學家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -1902,6 +2573,10 @@
               "path": "lore/characters/biographies/professor-baboon.v1.json",
               "locator": "人物傳記：序列5星象師",
               "character_id": "professor-baboon"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -1910,46 +2585,73 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
-          "potion_formula": null,
-          "acting_method": null,
-          "advancement_ritual": null,
-          "beyonder_characteristics": null
-        },
-        "9": {
-          "name_zh": "窺秘人",
-          "name_status": "repository_draft",
+          "name_zh": "卷軸教授",
+          "name_status": "user_chart_pending_verification",
           "sources": [
             {
-              "path": "lore/characters/biographies/old-neil.v1.json",
-              "locator": "pathway_history：序列 9",
-              "character_id": "old-neil"
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 6"
             }
           ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": "巫師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 7"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": "格鬥學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 8"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "窺祕人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "隱者｜序列 9"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null,
+          "previous_name_candidates": [
+            {
+              "name_zh": "窺秘人",
+              "name_status": "repository_draft",
+              "sources": [
+                {
+                  "path": "lore/characters/biographies/old-neil.v1.json",
+                  "locator": "pathway_history：序列 9",
+                  "character_id": "old-neil"
+                }
+              ]
+            }
+          ]
         }
       }
     },
@@ -1985,80 +2687,125 @@
       "sequences": {
         "0": {
           "name_zh": "完美者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "啟蒙者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "知識導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "奧祕學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "煉金術士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "天文學家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "機械專家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "鑑定師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "考古學家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2066,8 +2813,13 @@
         },
         "9": {
           "name_zh": "通識者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "完美者｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2107,44 +2859,69 @@
       "sequences": {
         "0": {
           "name_zh": "命運之輪",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "巨蛇",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "先知",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "混亂行者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "厄運法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2158,6 +2935,10 @@
               "path": "lore/characters/biographies/enzo.v1.json",
               "locator": "人物傳記：序列5贏家",
               "character_id": "enzo"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -2166,27 +2947,42 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "災禍教士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "幸運者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "機器",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2194,8 +2990,13 @@
         },
         "9": {
           "name_zh": "怪物",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "命運之輪｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2235,71 +3036,111 @@
       "sequences": {
         "0": {
           "name_zh": "母親",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "自然行者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "荒蕪主母",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "抬棺人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "古代煉金師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "德魯伊",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "生物學家",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "豐收祭司",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2313,6 +3154,10 @@
               "path": "lore/characters/biographies/father-montserrat.v1.json",
               "locator": "人物傳記：序列8醫師",
               "character_id": "father-montserrat"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 8"
             }
           ],
           "potion_formula": null,
@@ -2322,8 +3167,13 @@
         },
         "9": {
           "name_zh": "耕種者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "母親｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2353,80 +3203,125 @@
       "sequences": {
         "0": {
           "name_zh": "月亮",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "美神",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "創生者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "召喚大師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "巫王",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "深紅學者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "魔藥教授",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "吸血鬼",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "馴獸師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2434,8 +3329,13 @@
         },
         "9": {
           "name_zh": "藥師",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "月亮｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2459,44 +3359,69 @@
       "sequences": {
         "0": {
           "name_zh": "深淵",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "污穢君王",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "鮮血大公",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "囈語者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "魔鬼",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2509,6 +3434,10 @@
             {
               "path": "lore/characters/biographies/gilchies.v1.json",
               "locator": "人物傳記：欲望使徒"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 5"
             }
           ],
           "potion_formula": null,
@@ -2517,27 +3446,42 @@
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "惡魔",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "連環殺手",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "折翼天使",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2545,8 +3489,13 @@
         },
         "9": {
           "name_zh": "罪犯",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "深淵｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2591,80 +3540,125 @@
       "sequences": {
         "0": {
           "name_zh": "被縛者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "神孽",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "古代邪物",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "沉默門徒",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "木偶",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "怨魂",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "活屍",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "狼人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "瘋子",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2672,8 +3666,13 @@
         },
         "9": {
           "name_zh": "囚犯",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "被縛者｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2718,53 +3717,83 @@
       "sequences": {
         "0": {
           "name_zh": "黑皇帝",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "弒序親王",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "熵之公爵",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "狂亂法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "墮落伯爵",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "混亂導師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2778,6 +3807,10 @@
               "path": "lore/characters/biographies/misor-king.v1.json",
               "locator": "人物傳記：序列6腐化男爵",
               "character_id": "misor-king"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 6"
             }
           ],
           "potion_formula": null,
@@ -2786,18 +3819,28 @@
           "beyonder_characteristics": null
         },
         "7": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "賄賂者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 7"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "野蠻人",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2805,8 +3848,13 @@
         },
         "9": {
           "name_zh": "律師",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "黑皇帝｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2841,62 +3889,97 @@
       "sequences": {
         "0": {
           "name_zh": "審判者",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 0"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "1": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "秩序之手",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 1"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "2": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "平衡者",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 2"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "3": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "混亂獵手",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 3"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "4": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "律令法師",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 4"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "5": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "懲戒騎士",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 5"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
           "beyonder_characteristics": null
         },
         "6": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "法官",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 6"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2910,6 +3993,10 @@
               "path": "lore/characters/biographies/camus-castiya.v1.json",
               "locator": "人物傳記：序列7審訊者",
               "character_id": "camus-castiya"
+            },
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 7"
             }
           ],
           "potion_formula": null,
@@ -2918,9 +4005,14 @@
           "beyonder_characteristics": null
         },
         "8": {
-          "name_zh": null,
-          "name_status": "unknown",
-          "sources": [],
+          "name_zh": "治安官",
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 8"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -2928,8 +4020,13 @@
         },
         "9": {
           "name_zh": "仲裁人",
-          "name_status": "candidate_needs_verification",
-          "sources": [],
+          "name_status": "user_chart_pending_verification",
+          "sources": [
+            {
+              "source_id": "user-supplied-sequence-chart",
+              "locator": "審判者｜序列 9"
+            }
+          ],
           "potion_formula": null,
           "acting_method": null,
           "advancement_ritual": null,
@@ -3860,6 +4957,14 @@
         "tingen-1349-old-neil-mentorship",
         "tingen-1349-old-neil-loses-control"
       ]
+    }
+  },
+  "source_registry": {
+    "user-supplied-sequence-chart": {
+      "kind": "user_supplied_chart",
+      "filename": "image(1).png",
+      "verification": "pending_novel_verification",
+      "notes": "序列名稱依圖表從左至右讀取，轉為繁體中文。"
     }
   }
 }
