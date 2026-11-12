@@ -12,6 +12,8 @@
 
 [拜亞姆首份魔藥取得正文](bayam_pathway_acquisition_v1.md)接續 09、11，收錄怪物、水手及兩線共用船位的分歧。
 
+[貝克蘭德首份魔藥取得正文](backlund_pathway_acquisition_v1.md)接續 07、13，收錄學徒、藥師、耕種者，以及和 17 共用的聯絡條件。
+
 [廷根第一批支線前置正文](tingen_sidequest_prologues_v1.md)收錄 02、03、04、08 的開場、對話與分歧，以及週中觸發樣稿。
 
 [開局支線與事件 v1](opening_sidequests_v1.md)是廷根和貝克蘭德的早期素材稿，包含觸發條件、AP、選項、後果與原作事件接點。
