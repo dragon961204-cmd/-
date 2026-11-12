@@ -88,4 +88,6 @@
 
 [查拉圖與烏托邦正文](utopia_zaratul_hornacis_story_v1.md)收錄 08、17 的失聯訪客、身分核驗、烏托邦交鋒及霍納奇斯主峰查證。
 
+[霍納奇斯與源堡之戰正文](hornacis_fool_sefirah_finale_story_v1.md)收錄安提哥努斯、愚者晉升、源堡交鋒及 08、17 共用的沉睡狀態。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
