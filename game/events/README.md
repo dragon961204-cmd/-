@@ -76,4 +76,6 @@
 
 [戰時通行與豐收教堂正文](wartime_passage_harvest_church_story_v1.md)收錄 06、10、13 的戰時通行、神父的保護安排、照護與補給。
 
+[喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)收錄陵寢核實、實際介入、一次儀式結算與兩條途徑的後段晉升。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
