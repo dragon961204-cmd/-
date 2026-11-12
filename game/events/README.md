@@ -30,6 +30,8 @@
 
 [尼根公爵遇刺與王室工程正文](backlund_negan_and_royal_works_story_v1.md)收錄兩次遇刺舊卷、霧霾後的查訪、王室工程差事與後期陵寢定位的銜接。
 
+[佛爾思、埃姆林與塔羅會外部聯絡正文](backlund_fors_emlyn_tarot_contacts_story_v1.md)收錄家族寄件、教堂召回及塔羅會的外部委託，並以一份承運紀錄承接後續事件。
+
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
