@@ -63,3 +63,5 @@ flowchart TD
 ```
 
 [第一部劇情總樹](part_one_story_tree.md)
+
+11 的危機窗口見[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)。到港、接應名冊及船位照前次實際結果讀取。
