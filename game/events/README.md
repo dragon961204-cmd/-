@@ -60,4 +60,6 @@
 
 [出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)收錄 01、09、11 的船位、接應及三條途徑晉升窗口。
 
+[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)收錄居民疏散、權杖持有與祈禱知情，以及暴君的復航晉升窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
