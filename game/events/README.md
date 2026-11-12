@@ -8,6 +8,8 @@
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
 
+[死神與隱者的跨城魔藥取得正文](death_and_hermit_pathway_acquisition_v1.md)接續 10、14，收錄靈教團兩派、摩斯苦修會及要素黎明外圍供應。
+
 [廷根第一批支線前置正文](tingen_sidequest_prologues_v1.md)收錄 02、03、04、08 的開場、對話與分歧，以及週中觸發樣稿。
 
 [開局支線與事件 v1](opening_sidequests_v1.md)是廷根和貝克蘭德的早期素材稿，包含觸發條件、AP、選項、後果與原作事件接點。
