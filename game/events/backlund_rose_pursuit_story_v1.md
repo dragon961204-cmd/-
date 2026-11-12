@@ -82,3 +82,5 @@ flowchart TD
 [第一部劇情總樹](part_one_story_tree.md)
 
 續見[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)。兩派依收到的警訊、撤離者是否登船及實際到港時點安排接應。
+
+01 的拜亞姆與木乃伊交接續見[玫瑰學派拜亞姆與木乃伊正文](rose_bayam_mummy_handover_story_v1.md)，依實際警訊、接應與物件去向結算。
