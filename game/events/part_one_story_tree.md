@@ -38,7 +38,7 @@ flowchart TD
     I --> J["南大陸史料後續"]
 ```
 
-已寫正文：[倉庫案](tingen_warehouse_story_v1.md)、[胡德與蘭爾烏斯](tingen_hood_and_lanevus_story_v1.md)、[老尼爾與雪倫](tingen_neil_and_sharon_story_v1.md)、[廷根之變](tingen_crisis_story_v1.md)。各案內的選擇與序列 8 機會見[廷根詳細分支圖](tingen_branch_map.md)。03 研討會、05 聚會、02 莊園等後續各自讀取仍可驗證的線索。
+已寫正文：[開場〈半袋煤〉](tingen_opening_story_v1.md)、[倉庫案](tingen_warehouse_story_v1.md)、[胡德與蘭爾烏斯](tingen_hood_and_lanevus_story_v1.md)、[老尼爾與雪倫](tingen_neil_and_sharon_story_v1.md)、[廷根之變](tingen_crisis_story_v1.md)。各案內的選擇與序列 8 機會見[廷根詳細分支圖](tingen_branch_map.md)。03 研討會、05 聚會、02 莊園等後續各自讀取仍可驗證的線索。
 
 ## 跨城｜廷根事後到貝克蘭德
 
