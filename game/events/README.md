@@ -16,6 +16,8 @@
 
 [極光會與王室外圍的魔藥取得正文](aurora_and_royal_pathway_acquisition_v1.md)接續 05、06，收錄祕祈人、仲裁人、律師，以及和 02 共用的接應變化。
 
+[玫瑰學派與戰時的魔藥取得正文](rose_and_wartime_pathway_acquisition_v1.md)收錄節制派、放縱派、戰時斥候及戰地分站的供應，並與 06、11、13 的事件銜接。
+
 [廷根第一批支線前置正文](tingen_sidequest_prologues_v1.md)收錄 02、03、04、08 的開場、對話與分歧，以及週中觸發樣稿。
 
 [開局支線與事件 v1](opening_sidequests_v1.md)是廷根和貝克蘭德的早期素材稿，包含觸發條件、AP、選項、後果與原作事件接點。
