@@ -51,7 +51,8 @@ flowchart TD
     A["貝克蘭德調查"] --> B["02 雪倫後續與莊園"]
     A --> C["05 代收線索與聚會"]
     A --> D["01 玫瑰學派追捕"]
-    A --> E["06 刺殺與王室工程"]
+    A --> N["06 兩次遇刺各自查證"]
+    N -->|"舊卷及可靠接點"| E["王室工程外圍查證"]
     C --> I["東區與碼頭的身分查證"]
     I --> J["追捕及外圍證詞"]
     B --> L["莊園的交接與證人"]
@@ -62,7 +63,8 @@ flowchart TD
     P -->|"證人與獲准資料"| E
     D --> K["酒吧兩派部署與追捕結算"]
     K --> G["海上兩派接應"]
-    E --> H["陵寢與戰時調度"]
+    E --> Q["已查證的路線與證物去向"]
+    Q -->|"後期重新核實"| H["陵寢與戰時調度"]
 ```
 
 ```mermaid
@@ -80,7 +82,7 @@ flowchart TD
     H --> I
 ```
 
-[東區與碼頭正文及細圖](backlund_docks_lanevus_story_v1.md)已接通短薪、代收線索和追捕。[勇敢者酒吧與玫瑰學派細圖](backlund_rose_pursuit_story_v1.md)接續兩派的警訊、外圍撤離及後續海上人脈。[A 先生與紅薔薇莊園正文及細圖](backlund_gathering_and_manor_story_v1.md)記錄兩處預警和實際到位的接應。[大霧霾正文及細圖](backlund_great_smog_story_v1.md)已接通兩方外圍進度、居民疏散與王室調查的事後入口。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
+[東區與碼頭正文及細圖](backlund_docks_lanevus_story_v1.md)已接通短薪、代收線索和追捕。[勇敢者酒吧與玫瑰學派細圖](backlund_rose_pursuit_story_v1.md)接續兩派的警訊、外圍撤離及後續海上人脈。[A 先生與紅薔薇莊園正文及細圖](backlund_gathering_and_manor_story_v1.md)記錄兩處預警和實際到位的接應。[大霧霾正文及細圖](backlund_great_smog_story_v1.md)已接通兩方外圍進度、居民疏散與王室調查的事後入口。[尼根公爵遇刺與王室工程正文及細圖](backlund_negan_and_royal_works_story_v1.md)接通兩次遇刺的分別查證、霧霾後證詞及工程外圍。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
 
 ## 海上、南大陸與戰事｜接應與運力
 
