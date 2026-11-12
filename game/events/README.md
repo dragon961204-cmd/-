@@ -84,4 +84,6 @@
 
 [白銀城遠征與外界接應正文](silver_city_expedition_and_resettlement_story_v1.md)收錄 11、12、17 的巨人王庭遠征、通路、撤離、定居與後期供應。
 
+[伯特利回歸與阿蒙介入正文](blue_mountain_bethel_return_story_v1.md)收錄 07、08、17 的維爾杜去向、藍山島回歸、權柄結果及家族接應。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
