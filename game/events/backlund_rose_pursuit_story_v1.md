@@ -80,3 +80,5 @@ flowchart TD
 | 追捕結束後才抵達 | 事件背景照既有年表發生；玩家可查證事後消息，或待拜亞姆另有有效入口。 |
 
 [第一部劇情總樹](part_one_story_tree.md)
+
+續見[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)。兩派依收到的警訊、撤離者是否登船及實際到港時點安排接應。
