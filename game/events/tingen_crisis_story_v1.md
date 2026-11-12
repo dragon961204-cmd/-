@@ -56,3 +56,5 @@
 | 玩家在遠處或傳訊太晚 | 不進入室內場景；可支援事後安置、查證或貝克蘭德後續。 |
 
 [廷根詳細分支圖](tingen_branch_map.md) · [第一部劇情總樹](part_one_story_tree.md)
+
+[下一批正文｜廷根事後與貝克蘭德入口](tingen_aftermath_backlund_entry_v1.md)接續這次結算實際留下的人、回執、證詞與聯絡方式。
