@@ -6,6 +6,8 @@
 
 [第一部長支線總綱](part_one_sidequest_master_outline.md)整合十五條支線、主線交會、晉升接點與第一批場景綱要。
 
+[第一部劇情總樹](part_one_story_tree.md)串聯主線、十五條長支線及 22 條途徑取得入口，連到各階段的細圖與正文。
+
 [廷根劇情分支圖](tingen_branch_map.md)整理廷根各案的分叉、共用結算與序列 8 觸發條件。
 
 [廷根倉庫案正文](tingen_warehouse_story_v1.md)接續 04、08，收錄三種走法、胡德案入口與占卜家至小丑的首輪機會。
@@ -13,6 +15,8 @@
 [胡德與蘭爾烏斯正文](tingen_hood_and_lanevus_story_v1.md)接續 03、04、05，收錄病院和代收鋪的查證、證人分歧及觀眾至讀心者的首輪機會。
 
 [老尼爾與雪倫正文](tingen_neil_and_sharon_story_v1.md)串聯 02、04、14 的通報，並整理廷根之變所需的人員和證物狀態。
+
+[廷根之變正文](tingen_crisis_story_v1.md)收錄梅高歐絲抵達、疏散、單次危機結算與事後去向。
 
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
