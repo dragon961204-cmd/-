@@ -4,6 +4,8 @@
 
 [第一部文本工作計畫](part_one_writing_plan.md)記錄已確認設定、第一部時間跨度、按週推進規則與下一批文本進度。新對話由這裡接續。
 
+[第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
+
 [廷根第一批支線前置正文](tingen_sidequest_prologues_v1.md)收錄 02、03、04、08 的開場、對話與分歧，以及週中觸發樣稿。
 
 [開局支線與事件 v1](opening_sidequests_v1.md)是廷根和貝克蘭德的早期素材稿，包含觸發條件、AP、選項、後果與原作事件接點。
