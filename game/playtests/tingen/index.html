@@ -26,17 +26,18 @@ main{max-width:1060px;margin:auto;padding:clamp(22px,5vw,62px) clamp(16px,4vw,44
 </main>
 <script>
 "use strict";
-const fixed = Object.freeze({
+const canon = Object.freeze({
   crisisOccurred: true, descentStopped: true, megoseDead: true,
   unbornDead: true, dunnDead: true, kleinDied: true,
-  kleinReturnedAndLeft: true, inceHasAshes: true
+  kleinReturnedAndLeft: true, ashesHolder: "ince"
 });
 function newGame() {
   return {
     phase: "before", place: "street", noticeFiled: false, shelterReady: false,
     routeExposed: false, witnessSheltered: false, publicSightings: false,
+    guardAtSideDoor: false, transferStub: false,
     nameOnFile: false, signedReport: false, safeRoom: false, newAddress: false,
-    afterAction: null, caseExcerpt: false, permittedTestimony: false, tradeContact: false, world: null
+    afterAction: null, caseExcerpt: false, permittedTestimony: false, tradeContact: false, custodyLead: false, theftLead: false, world: null
   };
 }
 const prepare = [
@@ -47,7 +48,8 @@ const prepare = [
 ];
 function crisisActions(s) {
   return [
-    ...(s.noticeFiled ? [["testify","到黑荊棘門外核對來客時刻，留下具名證詞",{signedReport:true,nameOnFile:true,place:"office"}]] : []),
+    ...(s.noticeFiled ? [["testify","到黑荊棘門外核對來客時刻，留下具名證詞",{signedReport:true,nameOnFile:true,place:"office"}],
+      ["guard","交出你剛查明的假調令，請外圍值夜者守住側門",{guardAtSideDoor:true,nameOnFile:true,place:"office"}]] : []),
     ...(s.shelterReady ? [["escort","照約把願意離開的證人帶到石橋下",{witnessSheltered:true,place:"bridge"}]] : []),
     ...(s.routeExposed ? [["follow","追上接頭人，確認他實際換到哪一扇門",{newAddress:true,place:"warehouse"}]] : []),
     ["guide","在外街指引路人離開，記下有把握的見聞",{publicSightings:true,place:"street"}],
@@ -56,6 +58,10 @@ function crisisActions(s) {
 }
 function aftermathActions(s) {
   return [
+    ...(s.world.ashesHolder === "night-watch" && s.transferStub ?
+      [["custody","依假調令的收件地址，追查側門接應者",{custodyLead:true,place:"office"}]] : []),
+    ...(s.world.ashesHolder === "ince" && s.signedReport ?
+      [["theft","跟進骨灰失竊案，沿實際交接時刻核對出城紀錄",{theftLead:true,place:"office"}]] : []),
     ...(s.signedReport ? [["case","赴黑荊棘回訪，領取獲准查閱的案卷節錄",{caseExcerpt:true,place:"office"}]] : []),
     ...(s.safeRoom ? [["visit","到石橋回訪證人，取得可轉交的具名證詞",{permittedTestimony:true,place:"bridge"}]] : []),
     ...(s.newAddress ? [["meeting","到新地址赴約，取得下一次交易的接頭方式",{tradeContact:true,place:"warehouse"}]] : []),
@@ -76,13 +82,17 @@ function step(s,id) {
   const next = {...s,...action[2]};
   if (s.phase === "before") return {...next,phase:"crisis"};
   if (s.phase === "crisis") {
-    return {...next,phase:"after",world:fixed,safeRoom:next.witnessSheltered};
+    const intercepted = next.noticeFiled && next.guardAtSideDoor;
+    const world = intercepted ? {...canon,ashesHolder:"night-watch"} : canon;
+    return {...next,phase:"after",world,transferStub:intercepted,safeRoom:next.witnessSheltered};
   }
   return {...next,phase:"done",afterAction:id};
 }
 const phases = {before:"危機前一週",crisis:"危機當日",after:"事後第一週",done:"一週交接"};
 const places = {office:"黑荊棘",warehouse:"倉庫巷",bridge:"石橋",street:"俱樂部外街"};
 const outcomes = {
+  custody:"你跟著值夜者找到假調令上的收件處。值班人認出曾有人來打聽側門交班，交給你一張准許帶走的領件存根。骨灰已重新入庫。這次要查的是誰替因斯安排了接應。",
+  theft:"案卷確認骨灰已失竊。你把側門出入時刻和出城紀錄放在一起，圈出一筆待查的交接。值夜者讓你保留獲准的摘錄，等下次有可靠消息再接續。",
   case:"接待員把准你查閱的兩頁放進信封。卷上有你的名字。下次查訪時，他會按約找你。",
   visit:"證人把折好的紙親手交給你，只准你把那一段轉交黑荊棘。街坊把房門鑰匙留在桌上。",
   meeting:"新門後的人確認你見過舊接頭人，留下下次見面的時段。舊門今後不再收件。",
@@ -92,6 +102,8 @@ const outcomes = {
 };
 function clues(s) {
   return [
+    s.world?.ashesHolder === "night-watch" && "值夜者當面告知你，骨灰已重新入庫。原先準備追查失竊的案卷沒有立案，留下的是假調令。",
+    s.signedReport && s.world?.ashesHolder === "ince" && "案卷列出骨灰失竊及待查的出城時段。",
     s.signedReport && "黑荊棘的回信有你的名字，並附了回訪時段。",
     s.safeRoom && "石橋下那間屋還留著一盞燈。證人已親自報平安。",
     s.routeExposed && "倉庫巷的舊門已換鎖。收到路線的人提前撤走了接應。",
@@ -101,13 +113,18 @@ function clues(s) {
 function scene(s) {
   if (s.phase === "before") return ["一張退回的信","你在廷根的俱樂部替人抄寫。今天有一封募資訊息被退回。你手上有證人允許轉交的病院節錄，也知道曾被你核對過的倉庫巷。天黑前只來得及親自跑一趟。"];
   if (s.phase === "crisis") {
-    const setup = s.noticeFiled ? "黑荊棘核實了你交的時段。接待員在門外等你。" :
+    const setup = s.noticeFiled ? "黑荊棘核實了你交的時段，外圍值夜者已到。你在側門看見一名自稱奉命來搬封存物的接應者。他出示的調令寫了已撤銷的印記。值夜者要你立刻決定，是留在正門記錄來客，還是把調令送給側門守衛。" :
       s.shelterReady ? "石橋下已有人接應。證人答應，若你去找她，她願意跟你走。" :
       s.routeExposed ? "倉庫巷的接頭人得知消息後提早搬離。你還看得見他的車尾。" :
       "你在外街聽到有人請路人別再往前。";
     return ["她從正門進來","梅高歐絲抵達黑荊棘。門口有人往外張望。\n"+setup];
   }
-  if (s.phase === "after") return ["事後的第一封信","黑荊棘的門隔了幾日才重新開啟。街上傳出傷亡消息，知道內情的人各自保管著自己的紀錄。你可以回訪一處。"];
+  if (s.phase === "after") {
+    const news = s.world.ashesHolder === "night-watch"
+      ? "側門守衛核對調令後拒絕交接。因斯撤離，沒拿到骨灰。守衛從接應人留下的調令上查到了收件地址。"
+      : "黑荊棘隔了幾日才重新開門。街上傳出傷亡消息，知道內情的人各自保管著紀錄。";
+    return ["事後的第一封信",news+"\n你可以回訪一處。"];
+  }
   return ["把回信留下",outcomes[s.afterAction]];
 }
 const byId = id => document.getElementById(id);
