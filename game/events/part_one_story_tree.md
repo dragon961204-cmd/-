@@ -52,6 +52,8 @@ flowchart TD
     A --> C["05 代收線索與聚會"]
     A --> D["01 玫瑰學派追捕"]
     A --> E["06 刺殺與王室工程"]
+    C --> I["東區與碼頭的身分查證"]
+    I --> J["追捕及外圍證詞"]
     B --> F["大霧霾一次結算"]
     C --> F
     F -->|"證人與獲准資料"| E
@@ -74,7 +76,7 @@ flowchart TD
     H --> I
 ```
 
-大霧霾分別記兩方儀式進度與疏散。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
+[東區與碼頭正文及細圖](backlund_docks_lanevus_story_v1.md)已接通短薪、代收線索和追捕。大霧霾分別記兩方儀式進度與疏散。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
 
 ## 海上、南大陸與戰事｜接應與運力
 
