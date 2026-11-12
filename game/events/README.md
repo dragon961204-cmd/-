@@ -80,4 +80,6 @@
 
 [奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)收錄 03、17 的獨立查證、示警、證人保護、反制結算與空想家晉升。
 
+[博提斯伏擊與舊日之盒正文](backlund_botis_box_of_the_great_old_ones_story_v1.md)收錄 05、07、17 的共用伏擊、人員去向與盒子保管，及兩條途徑的晉升窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
