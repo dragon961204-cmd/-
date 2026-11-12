@@ -66,4 +66,6 @@
 
 [達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)收錄羅伊·金的拘押消息、護送與岸上接應、骰子交接及命運之輪晉升。
 
+[嘉德麗雅與未來號正文](future_cattleya_bernadette_story_v1.md)收錄 14、17 的抄本、海上委託、貝爾納黛引介及隱者後續晉升窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
