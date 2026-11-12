@@ -33,3 +33,5 @@
 | 審判者 | 治安官 · 軍情九處或可用任職窗口的第二輪查訪 | 審訊者 · 有核准的獨立案件回報後 | 審訊者服用約四個月後循[工程與戰時案件](backlund_george_black_emperor_ritual_story_v1.md)查法官／戰時調查或停戰通行 |
 
 [第一部劇情總樹](part_one_story_tree.md)
+
+愚者途徑的詭法師暫排在祕偶大師服用約四個月後，須有獨立的高序列師承與適用儀式，詳見[霍納奇斯與源堡之戰正文](hornacis_fool_sefirah_finale_story_v1.md)。
