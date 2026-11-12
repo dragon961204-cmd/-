@@ -32,6 +32,8 @@
 
 [佛爾思、埃姆林與塔羅會外部聯絡正文](backlund_fors_emlyn_tarot_contacts_story_v1.md)收錄家族寄件、教堂召回及塔羅會的外部委託，並以一份承運紀錄承接後續事件。
 
+[伊思蘭特研討會正文](backlund_islant_seminar_story_v1.md)接通 03、04、17，收錄兩路引介、志願者證詞、觀眾供應與日後赫溫事件的查證前置。
+
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
