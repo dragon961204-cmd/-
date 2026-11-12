@@ -45,7 +45,7 @@
 
 ## 長支線正文的寫作順序
 
-先查[第一部長支線總綱](part_one_sidequest_master_outline.md)的事件先後、前置條件、共用結算與途徑接點，再按事件批次撰寫正文。第一批[廷根倉庫案正文](tingen_warehouse_story_v1.md)已接通零介入、先通報黑荊棘、先通知密修會三種走法，及胡德案和占卜家的後續成長。第二批[胡德與蘭爾烏斯正文](tingen_hood_and_lanevus_story_v1.md)已接通 03、04、05 的病院與募資調查，沿證據分別交接梅高歐絲的後續、貝克蘭德人脈與觀眾的晉升窗口。第三批[老尼爾與雪倫正文](tingen_neil_and_sharon_story_v1.md)已接通 02、04、14 的通報和外圍處置，並同步更新[廷根分支圖](tingen_branch_map.md)。下一批可寫梅高歐絲與廷根之變，以各案實際留下的人員、預警與可用證據安排會合。
+先查[第一部長支線總綱](part_one_sidequest_master_outline.md)的事件先後、前置條件、共用結算與途徑接點，再按事件批次撰寫正文。第一批[廷根倉庫案正文](tingen_warehouse_story_v1.md)已接通零介入、先通報黑荊棘、先通知密修會三種走法，及胡德案和占卜家的後續成長。第二批[胡德與蘭爾烏斯正文](tingen_hood_and_lanevus_story_v1.md)已接通 03、04、05 的病院與募資調查，沿證據分別交接梅高歐絲的後續、貝克蘭德人脈與觀眾的晉升窗口。第三批[老尼爾與雪倫正文](tingen_neil_and_sharon_story_v1.md)已接通 02、04、14 的通報和外圍處置，並同步更新[廷根分支圖](tingen_branch_map.md)。第四批[廷根之變正文](tingen_crisis_story_v1.md)已把前案預警、人員與玩家位置接入單次危機結算。沿[第一部劇情總樹](part_one_story_tree.md)寫下一批，先接廷根事後追查與貝克蘭德入口。之後每批正文同步更新細圖與跨階段的連接。
 
 ## 寫作順序與目前進度
 
