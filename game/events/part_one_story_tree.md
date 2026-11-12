@@ -58,7 +58,8 @@ flowchart TD
     C --> M["聚會散場後的卸貨線索"]
     L --> F["大霧霾一次結算"]
     M --> F
-    F -->|"證人與獲准資料"| E
+    F --> P["疏散、兩方進度與證物"]
+    P -->|"證人與獲准資料"| E
     D --> K["酒吧兩派部署與追捕結算"]
     K --> G["海上兩派接應"]
     E --> H["陵寢與戰時調度"]
@@ -79,7 +80,7 @@ flowchart TD
     H --> I
 ```
 
-[東區與碼頭正文及細圖](backlund_docks_lanevus_story_v1.md)已接通短薪、代收線索和追捕。[勇敢者酒吧與玫瑰學派細圖](backlund_rose_pursuit_story_v1.md)接續兩派的警訊、外圍撤離及後續海上人脈。[A 先生與紅薔薇莊園正文及細圖](backlund_gathering_and_manor_story_v1.md)記錄兩處預警和實際到位的接應。大霧霾分別記兩方儀式進度與疏散。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
+[東區與碼頭正文及細圖](backlund_docks_lanevus_story_v1.md)已接通短薪、代收線索和追捕。[勇敢者酒吧與玫瑰學派細圖](backlund_rose_pursuit_story_v1.md)接續兩派的警訊、外圍撤離及後續海上人脈。[A 先生與紅薔薇莊園正文及細圖](backlund_gathering_and_manor_story_v1.md)記錄兩處預警和實際到位的接應。[大霧霾正文及細圖](backlund_great_smog_story_v1.md)已接通兩方外圍進度、居民疏散與王室調查的事後入口。第二張圖的合流表示資料可透過已建立的管道交流，正式入會及聚會仍有各自條件。階段細節見[長支線總綱](part_one_sidequest_master_outline.md)與[十五條前置正文](part_one_sidequest_prologues.md)。
 
 ## 海上、南大陸與戰事｜接應與運力
 
