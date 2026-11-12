@@ -4,4 +4,4 @@
 
 [開局支線與事件 v1](opening_sidequests_v1.md)涵蓋廷根和貝克蘭德，包含觸發條件、AP、選項、後果與原作事件接點。
 
-[第一部長支線規劃](long_sidequests_part_one.md)收錄 17 條候選長支線與已展開的 01–14 設計稿。
+[第一部長支線規劃](long_sidequests_part_one.md)收錄 17 條候選長支線與已展開的 01–14 設計稿，以及 15 的第一部前置。
