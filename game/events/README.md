@@ -95,3 +95,7 @@
 [第一部結局與十五條尾聲](part_one_ending_and_epilogues_v1.md)收錄主線互斥結果、十五條可並存尾聲，以及末日主線可用的人物、物資和承諾。
 
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
+
+[玫瑰學派拜亞姆與木乃伊正文](rose_bayam_mummy_handover_story_v1.md)補足 01 的蕾妮特、斯厄阿、地方接應和木乃伊去向。
+
+[第一部正文核對與交接](part_one_story_coverage_review.md)列出十五條長支線各自可接續的正文與待補場景。
