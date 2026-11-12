@@ -168,9 +168,11 @@ flowchart TD
     G --> H
     AA --> H
     AC --> H
+    H --> AD["按玩家知情呈現十五條尾聲"]
+    AD --> AE["末日主線可用接應"]
 ```
 
-[喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)按儀式結果與在位狀態調整戰時命令與可用接應。[奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)依當期獨立跡象與實際收件判定外圍支援，與王室儀式按各自原作窗口開啟。[博提斯伏擊與舊日之盒正文](backlund_botis_box_of_the_great_old_ones_story_v1.md)依當場接應判定人員與舊日之盒去向，三條支線共用同一結果。[白銀城遠征與外界接應正文](silver_city_expedition_and_resettlement_story_v1.md)將陰影宮殿、出路開啟、實際撤離及外界安置依序接通。[伯特利回歸與阿蒙介入正文](blue_mountain_bethel_return_story_v1.md)將藍山島回歸結果交給末卷權柄事件。[查拉圖與烏托邦正文](utopia_zaratul_hornacis_story_v1.md)接通失聯訪客與主峰的獨立查證。[霍納奇斯與源堡之戰正文](hornacis_fool_sefirah_finale_story_v1.md)串接主峰、晉升與源堡交鋒，後續聯絡讀取克萊恩實際狀態。[愚者沉睡後的地方交接正文](fool_slumber_local_handover_story_v1.md)將成員聯絡、阿爾傑的職務和阿茲克的信件各自接入第一部結算。各地只沿已成立的聯絡讀取能知道的結果。其餘各線也將實際人物狀態、持有物和承諾帶入第一部結算，詳見[逐線大綱](part_one_sidequest_master_outline.md)。
+[喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)按儀式結果與在位狀態調整戰時命令與可用接應。[奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)依當期獨立跡象與實際收件判定外圍支援，與王室儀式按各自原作窗口開啟。[博提斯伏擊與舊日之盒正文](backlund_botis_box_of_the_great_old_ones_story_v1.md)依當場接應判定人員與舊日之盒去向，三條支線共用同一結果。[白銀城遠征與外界接應正文](silver_city_expedition_and_resettlement_story_v1.md)將陰影宮殿、出路開啟、實際撤離及外界安置依序接通。[伯特利回歸與阿蒙介入正文](blue_mountain_bethel_return_story_v1.md)將藍山島回歸結果交給末卷權柄事件。[查拉圖與烏托邦正文](utopia_zaratul_hornacis_story_v1.md)接通失聯訪客與主峰的獨立查證。[霍納奇斯與源堡之戰正文](hornacis_fool_sefirah_finale_story_v1.md)串接主峰、晉升與源堡交鋒，後續聯絡讀取克萊恩實際狀態。[愚者沉睡後的地方交接正文](fool_slumber_local_handover_story_v1.md)將成員聯絡、阿爾傑的職務和阿茲克的信件各自接入第一部結算。各地只沿已成立的聯絡讀取能知道的結果。[第一部結局與十五條尾聲](part_one_ending_and_epilogues_v1.md)依實際世界結果與玩家知情選用尾聲，並保存後續可用接應。各線的故事安排另見[逐線大綱](part_one_sidequest_master_outline.md)。
 
 ## 途徑如何插進劇情
 
