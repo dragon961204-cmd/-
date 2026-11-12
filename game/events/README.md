@@ -92,4 +92,6 @@
 
 [愚者沉睡後的地方交接正文](fool_slumber_local_handover_story_v1.md)收錄 10、11、12、17 的塔羅會聯絡、阿爾傑教會交接及阿茲克書信。
 
+[第一部結局與十五條尾聲](part_one_ending_and_epilogues_v1.md)收錄主線互斥結果、十五條可並存尾聲，以及末日主線可用的人物、物資和承諾。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
