@@ -78,4 +78,6 @@
 
 [喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)收錄陵寢核實、實際介入、一次儀式結算與兩條途徑的後段晉升。
 
+[奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)收錄 03、17 的獨立查證、示警、證人保護、反制結算與空想家晉升。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
