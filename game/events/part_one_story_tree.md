@@ -109,14 +109,17 @@ flowchart TD
     M -->|"11 獲知的神諭"| N
     N --> I
     C --> G["保存史料與接應"]
-    D --> G
+    D --> Q["未來號抄本與交接"]
+    Q -->|"14 已授權索引"| G
+    Q -->|"17 已入會且有聯絡"| R["海上外部委託"]
+    R --> I
     E --> H["儀式、醫療與可用人手"]
     F --> I["後期撤離與聯合行動"]
     G --> I
     H --> I
 ```
 
-[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)及細圖接通 01、09、11 的航程。[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)接通危機、賑濟及權杖後續。[紅髮伊蓮與黑死號正文](bayam_elaine_black_death_story_v1.md)接通 02、11 共用的伊蓮去向與物資往來。[達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)接通 09 的航程、接頭與保管。船位可被不同任務使用，實際乘客與抵達時間只記一次。海神權杖、概率之骰、陵寢資料及其他物件各有持有人。教會戰局和物資接應會改變後期誰能出手。
+[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)及細圖接通 01、09、11 的航程。[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)接通危機、賑濟及權杖後續。[紅髮伊蓮與黑死號正文](bayam_elaine_black_death_story_v1.md)接通 02、11 共用的伊蓮去向與物資往來。[達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)接通 09 的航程、接頭與保管。[嘉德麗雅與未來號正文](future_cattleya_bernadette_story_v1.md)接通 14 的抄本、師承與 17 的海上委託。船位可被不同任務使用，實際乘客與抵達時間只記一次。海神權杖、概率之骰、陵寢資料及其他物件各有持有人。教會戰局和物資接應會改變後期誰能出手。
 
 ## 第一部後期｜遠征、儀式與結算
 
