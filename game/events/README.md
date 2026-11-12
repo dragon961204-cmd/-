@@ -99,3 +99,5 @@
 [玫瑰學派拜亞姆與木乃伊正文](rose_bayam_mummy_handover_story_v1.md)補足 01 的蕾妮特、斯厄阿、地方接應和木乃伊去向。
 
 [第一部正文核對與交接](part_one_story_coverage_review.md)列出十五條長支線各自可接續的正文與待補場景。
+
+[第一部 45 幕 IF 劇情](part_one_if_story_index.md)收錄 01–14、17 各三幕，並列出共同事件的前因、改寫結果、下游關閉及交叉驗收。
