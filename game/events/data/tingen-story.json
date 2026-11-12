@@ -1,0 +1,905 @@
+{
+  "dailyAP": 5,
+  "startPlace": "home",
+  "locations": {
+    "home": "工人住處",
+    "market": "煤市",
+    "works": "河岸工場",
+    "shed": "七號貨棚",
+    "river": "河岸辦事房",
+    "club": "占卜俱樂部",
+    "paper": "舊紙店",
+    "asylum": "廷根精神病院",
+    "books": "書商",
+    "flowers": "花店",
+    "office": "黑荊棘",
+    "warehouse": "倉庫巷",
+    "bridge": "石橋",
+    "street": "俱樂部外街"
+  },
+  "initialFacts": {
+    "noticeFiled": false,
+    "fakeOrder": "none",
+    "ashesHolder": "night-watch",
+    "hospitalWitness": "unconfirmed",
+    "gateTestimony": "none",
+    "streetWitness": "none",
+    "routeExposed": false,
+    "newAddress": false,
+    "custodyLead": false,
+    "theftLead": false,
+    "caseExcerpt": false,
+    "permittedTestimony": false,
+    "tradeContact": false,
+    "coal": "none",
+    "debt": "none",
+    "shedKnown": false,
+    "ed": "missing",
+    "wagonTestimony": false,
+    "clubLead": false,
+    "privateNotebook": "none",
+    "transferPoint": false,
+    "waybill": false,
+    "warehouseWatch": false,
+    "societyWarned": false,
+    "civiliansClear": false,
+    "hospitalRecord": false,
+    "hospitalExcerpt": false,
+    "witnessContact": false,
+    "merchantReceipt": false,
+    "fundraiserChecked": false,
+    "booksSealed": false,
+    "floristSafe": false,
+    "manorWarned": false,
+    "notebookCaseResolved": false,
+    "hoodCaseResolved": false,
+    "neilCaseResolved": false,
+    "sharonCaseResolved": false
+  },
+  "days": [
+    {
+      "id": "coal",
+      "date": "1349-06-28",
+      "period": "第一章 · 廷根開場",
+      "title": "半袋煤",
+      "intro": "天還沒亮，爐膛裡只剩一層灰。家人把煤袋和幾枚硬幣放在門邊，要你上工前替家裡跑一趟煤市。",
+      "multiple": true
+    },
+    {
+      "id": "debt",
+      "date": "1349-06-29",
+      "period": "第一章 · 廷根開場",
+      "title": "街坊的怪欠條",
+      "intro": "巷口有人議論城裡的異常死訊。工場照常點名，煤市也照常開秤。",
+      "multiple": true
+    },
+    {
+      "id": "ed",
+      "date": "1349-07-01",
+      "period": "第二章 · 筆記案",
+      "title": "空著的工位",
+      "intro": "工頭唸到艾德的名字，把沒人領的信封壓回抽屜。工友說艾德昨晚替他頂班，今早卻一直沒有回家。",
+      "multiple": true,
+      "settlements": [
+        {
+          "requires": {
+            "ed": "missing"
+          },
+          "effects": {
+            "ed": "moved"
+          }
+        }
+      ]
+    },
+    {
+      "id": "return",
+      "date": "1349-07-02",
+      "period": "第二章 · 筆記案",
+      "title": "退回的預約單",
+      "intro": "河岸那批貨已經換過一趟車。占卜俱樂部也留著一封接連退回三次的信。",
+      "multiple": true
+    },
+    {
+      "id": "cargo",
+      "date": "1349-07-05",
+      "period": "第二章 · 筆記案",
+      "title": "箱子過了河",
+      "intro": "辦事房在渡口旁。今日仍能核對第二趟車的運單，黑荊棘也在查同一批運送。",
+      "multiple": true
+    },
+    {
+      "id": "warehouse",
+      "date": "1349-07-06",
+      "period": "第二章 · 筆記案",
+      "title": "側門的第二道鎖",
+      "intro": "今晚河對岸有人查倉。值夜者循自己的線索抵達，橋頭的工人還在搬貨。",
+      "multiple": true,
+      "notes": [
+        {
+          "requires": {
+            "warehouseWatch": true
+          },
+          "text": "你及時送達的運單已被核實，側門先行布置了警戒。"
+        },
+        {
+          "requires": {
+            "societyWarned": true
+          },
+          "text": "原接應者趕在查訪前撤走。"
+        }
+      ],
+      "settlements": [
+        {
+          "effects": {
+            "notebookCaseResolved": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "hospital",
+      "date": "1349-08-16",
+      "period": "第三章 · 病院與募資",
+      "title": "兩張交班簿",
+      "intro": "廷根精神病院仍有送貨和探病的差事。街上有人拿著一筆鐵礦投資的回執，四處打聽收款人。",
+      "multiple": true
+    },
+    {
+      "id": "fund",
+      "date": "1349-08-23",
+      "period": "第三章 · 病院與募資",
+      "title": "名字寫在哪一欄",
+      "intro": "值夜者已按原定線索調查病院。俱樂部裡，梅高歐絲的家人來問那筆投資究竟交給了誰。",
+      "multiple": true,
+      "settlements": [
+        {
+          "effects": {
+            "hoodCaseResolved": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "neil",
+      "date": "1349-08-29",
+      "period": "第四章 · 借閱簿與花店回條",
+      "title": "門外有人還書",
+      "intro": "書商要還一份封口缺角的冊子。借閱簿上有兩個日期，其中一筆比你認得的回執還早。",
+      "multiple": true,
+      "settlements": [
+        {
+          "effects": {
+            "neilCaseResolved": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "sharon",
+      "date": "1349-09-01",
+      "period": "第四章 · 借閱簿與花店回條",
+      "title": "晚一刻關門",
+      "intro": "花店少年帶著府邸的回條來找你。管家說今天只走正門，廚房的人卻說側門還會再開一刻。",
+      "multiple": true,
+      "settlements": [
+        {
+          "effects": {
+            "sharonCaseResolved": true
+          }
+        }
+      ]
+    },
+    {
+      "id": "before",
+      "date": "1349-09-02",
+      "title": "一張寫錯地址的信",
+      "period": "危機前一週",
+      "intro": "俱樂部的接待員從抽屜抽出一封退信。她問你，這幾日查到的消息裡，哪些現在來得及交出去？"
+    },
+    {
+      "id": "crisis",
+      "date": "1349-09-09",
+      "title": "黑荊棘門外",
+      "period": "第五章 · 廷根之變",
+      "intro": "黑荊棘附近有人開始疏散。你還來得及親自處理一件事。",
+      "settlements": [
+        {
+          "requires": {
+            "noticeFiled": true,
+            "fakeOrder": "delivered"
+          },
+          "effects": {
+            "ashesHolder": "night-watch",
+            "fakeOrder": "filed"
+          }
+        },
+        {
+          "effects": {
+            "ashesHolder": "ince"
+          }
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "date": "1349-09-16",
+      "title": "事後的第一封信",
+      "period": "第六章 · 廷根事後",
+      "intro": "黑荊棘重新開了門。街上傳出傷亡消息，知道內情的人各自保管著紀錄。",
+      "notes": [
+        {
+          "requires": {
+            "ashesHolder": "night-watch",
+            "fakeOrder": "filed"
+          },
+          "text": "值夜者通知你，側門守衛核對調令後拒絕交接。因斯撤離，骨灰已重新入庫。調令上還留著一個收件地址。"
+        },
+        {
+          "requires": {
+            "ashesHolder": "ince",
+            "gateTestimony": "signed"
+          },
+          "text": "黑荊棘的回信有你的名字。案卷確認骨灰失竊，信上也附了可回訪的時段。"
+        },
+        {
+          "requires": {
+            "hospitalWitness": "sheltered"
+          },
+          "text": "石橋下那間屋還留著一盞燈。證人已親自報平安。"
+        },
+        {
+          "requires": {
+            "routeExposed": true
+          },
+          "text": "倉庫巷的舊門已換鎖。收到路線的人提前撤走了接應。"
+        },
+        {
+          "requires": {
+            "newAddress": true
+          },
+          "text": "接頭人親手給了你新地址，並提醒你帶上原票根。"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "weigh",
+      "day": "coal",
+      "place": "market",
+      "group": "coal-choice",
+      "scene": "煤販把秤盤往外推。你買的是一袋，提起來卻只像半袋。旁邊排隊的女人也低頭掂了掂自己的袋子。",
+      "choice": "請煤販當著街坊重秤",
+      "result": "他往袋裡添了兩鏟。街坊認出你也住在河邊，說下工後想讓你看看一張欠條。",
+      "effects": {
+        "coal": "full",
+        "debt": "invited"
+      }
+    },
+    {
+      "id": "take",
+      "day": "coal",
+      "place": "market",
+      "group": "coal-choice",
+      "scene": "煤販把秤盤往外推。你買的是一袋，提起來卻只像半袋。旁邊排隊的女人也低頭掂了掂自己的袋子。",
+      "choice": "提著煤回家，趕去上工",
+      "result": "你把半袋煤帶回去。家人把爐子留到晚上才生，街坊的欠條得從工場另行打聽。",
+      "effects": {
+        "coal": "half"
+      }
+    },
+    {
+      "id": "warm",
+      "day": "coal",
+      "place": "home",
+      "group": "coal-home",
+      "scene": "家人把水壺放在冷爐上，抬頭看向你提回來的袋子。",
+      "choice": "把補足的煤放進煤箱",
+      "result": "晚上開門時，爐上的水已經熱了。",
+      "effects": {
+        "coal": "stored"
+      },
+      "requires": {
+        "coal": "full"
+      }
+    },
+    {
+      "id": "copy-debt",
+      "day": "debt",
+      "place": "home",
+      "group": "debt-choice",
+      "scene": "欠條上多了一筆夜間搬運費，收貨地寫著七號貨棚。街坊說她那晚根本沒叫過車。",
+      "choice": "抄下貨棚編號，把原件還給她",
+      "result": "你答應先查是不是記錯帳。抄件上留下了貨棚號，沒有寫她的姓名。",
+      "effects": {
+        "debt": "copied",
+        "shedKnown": true
+      },
+      "requires": {
+        "debt": "invited"
+      }
+    },
+    {
+      "id": "debt-leave",
+      "day": "debt",
+      "place": "home",
+      "group": "debt-choice",
+      "scene": "欠條上多了一筆夜間搬運費，收貨地寫著七號貨棚。街坊說她那晚根本沒叫過車。",
+      "choice": "請她先把欠條收好",
+      "result": "她把欠條壓回荷包，說等工頭發薪再問。",
+      "requires": {
+        "debt": "invited"
+      }
+    },
+    {
+      "id": "ask-shift",
+      "day": "ed",
+      "place": "works",
+      "group": "ed-lead",
+      "scene": "工友攤開手，掌心是一枚印著七的銅牌。他說那間貨棚掛了停用牌，夜裡卻還有人進出。",
+      "choice": "問清夜班怎麼交接，拿銅牌去查",
+      "result": "他將銅牌交給你，請你若找到艾德，先問他願不願意見人。",
+      "effects": {
+        "shedKnown": true
+      }
+    },
+    {
+      "id": "check-pay",
+      "day": "ed",
+      "place": "works",
+      "group": "ed-lead",
+      "scene": "工友攤開手，掌心是一枚印著七的銅牌。他說那間貨棚掛了停用牌，夜裡卻還有人進出。",
+      "choice": "翻薪冊核對夜班",
+      "result": "簿上七號棚原有兩個班次。你抄下編號，工頭回來就把簿子闔上了。",
+      "effects": {
+        "shedKnown": true
+      }
+    },
+    {
+      "id": "river-rescue",
+      "day": "ed",
+      "place": "shed",
+      "group": "ed-rescue",
+      "scene": "停用牌在門上晃。裡面敲了三下，等你回敲才報名字。是艾德。他說河門可能還能出去。",
+      "choice": "找工友從河門接應",
+      "result": "短哨響了一聲。艾德沿河門出來，畫下辦事房的位置，答應讓你查他親眼看見的轉運。",
+      "effects": {
+        "ed": "safe",
+        "transferPoint": true
+      },
+      "requires": {
+        "shedKnown": true
+      },
+      "extraAP": 1
+    },
+    {
+      "id": "pry-door",
+      "day": "ed",
+      "place": "shed",
+      "group": "ed-rescue",
+      "scene": "停用牌在門上晃。裡面敲了三下，等你回敲才報名字。是艾德。他說河門可能還能出去。",
+      "choice": "趁交班撬開側門",
+      "result": "艾德走出來了。守夜人看見你手上的撬棍。到了巷口，艾德才肯說值班簿被送去了河邊。",
+      "effects": {
+        "ed": "seen-rescue",
+        "transferPoint": true
+      },
+      "requires": {
+        "shedKnown": true
+      },
+      "extraAP": 1
+    },
+    {
+      "id": "postmarks",
+      "day": "return",
+      "place": "club",
+      "group": "club-lead",
+      "scene": "接待員翻過預約單，紙背疊著三枚退件戳。女委託人今早才來問信，她說自己從未搬家。",
+      "choice": "經接待員同意，抄下最後一枚退件戳",
+      "result": "你順著戳記找到一間舊紙店。掌櫃把改過地址的信單獨疊在門邊。",
+      "effects": {
+        "clubLead": true
+      }
+    },
+    {
+      "id": "restore-notebook",
+      "day": "return",
+      "place": "paper",
+      "group": "paper-choice",
+      "scene": "女委託人隔著櫃檯認出冊脊裡的藏書記號。掌櫃說可以還冊子，也可以請你替他代送一封信。",
+      "choice": "驗明記號後，把父親的筆記還給委託人",
+      "result": "她從書脊取出寄件地址。你把地址和收件戳對上，同一批貨曾經過河轉運。",
+      "effects": {
+        "privateNotebook": "returned",
+        "transferPoint": true
+      },
+      "requires": {
+        "clubLead": true
+      }
+    },
+    {
+      "id": "carry-letter",
+      "day": "return",
+      "place": "paper",
+      "group": "paper-choice",
+      "scene": "女委託人隔著櫃檯認出冊脊裡的藏書記號。掌櫃說可以還冊子，也可以請你替他代送一封信。",
+      "choice": "代送信換回冊子，再還給委託人",
+      "result": "掌櫃寫下交接處和送件記號。你把冊子還給委託人，留下自己答應的差事。",
+      "effects": {
+        "privateNotebook": "returned-with-contact",
+        "transferPoint": true
+      },
+      "requires": {
+        "clubLead": true
+      }
+    },
+    {
+      "id": "anonymous-ed",
+      "day": "return",
+      "place": "office",
+      "group": "shed-report",
+      "scene": "接待員把你的貨棚編號抄在一張空紙上，請你只講自己親眼見到的部分。",
+      "choice": "匿名提報貨棚，請他們查值班簿",
+      "result": "接待員留下查證時間，並把辦事房的位置指給你。艾德的姓名留在你手裡。",
+      "effects": {
+        "transferPoint": true
+      },
+      "requires": {
+        "shedKnown": true
+      }
+    },
+    {
+      "id": "copy-waybill",
+      "day": "cargo",
+      "place": "river",
+      "group": "waybill",
+      "scene": "夥計翻過運單，背面有出貨和對岸收貨的兩道印。「第二趟過了河。側門夜裡會換鎖。」",
+      "choice": "獲准抄錄印記、抵達時間和新地址",
+      "result": "夥計把原件收回抽屜，答應當值時供調查者核對。",
+      "effects": {
+        "waybill": true
+      },
+      "requires": {
+        "transferPoint": true
+      }
+    },
+    {
+      "id": "alert-warehouse",
+      "day": "cargo",
+      "place": "office",
+      "group": "warehouse-warning",
+      "scene": "鄧恩把自己查到的地址往你面前推了一寸。上頭少了門號，你帶來的抄件正好能補上。",
+      "choice": "把可回查的地址和時段交給鄧恩",
+      "result": "兩份地址核對上了。鄧恩派人先去勘查側門。",
+      "effects": {
+        "warehouseWatch": true
+      },
+      "requires": {
+        "waybill": true
+      }
+    },
+    {
+      "id": "alert-society",
+      "day": "cargo",
+      "place": "paper",
+      "group": "society-warning",
+      "scene": "舊紙店的接應人把一把纏著麻線的鑰匙擱在桌上，等你說落貨時間和地點。",
+      "choice": "告訴接應人可驗證的落貨地址",
+      "result": "他收回鑰匙，答應趕在夜裡換鎖前撤走側門接應。",
+      "effects": {
+        "societyWarned": true
+      },
+      "requires": {
+        "waybill": true,
+        "privateNotebook": "returned-with-contact"
+      }
+    },
+    {
+      "id": "clear-river",
+      "day": "warehouse",
+      "place": "warehouse",
+      "group": "warehouse-action",
+      "scene": "側門外有值夜者在等車夫。門裡忽然有東西倒下，一名隊員請附近的人往橋上退。",
+      "choice": "帶河岸工人撤到橋頭",
+      "result": "最後一個工人過橋後，你才跟過去。值夜者留下車夫另行核對。",
+      "effects": {
+        "civiliansClear": true
+      },
+      "requires": {
+        "warehouseWatch": true
+      }
+    },
+    {
+      "id": "take-driver",
+      "day": "warehouse",
+      "place": "warehouse",
+      "group": "warehouse-action",
+      "scene": "側門外有值夜者在等車夫。門裡忽然有東西倒下，一名隊員請附近的人往橋上退。",
+      "choice": "陪車夫到安全位置，問他是否願意作證",
+      "result": "車夫答應指認送貨時走過的門。他說自己只看見交接，沒見到收貨人。",
+      "effects": {
+        "wagonTestimony": true
+      },
+      "requires": {
+        "warehouseWatch": true
+      }
+    },
+    {
+      "id": "hear-river",
+      "day": "warehouse",
+      "place": "bridge",
+      "group": "warehouse-rumor",
+      "scene": "守在橋頭的車夫說，去對岸的路剛被封住，誰也沒讓他過去。",
+      "choice": "留下聽完，再繞路回家",
+      "result": "你只知道對岸有一場查訪。街坊等到隔天才重新走那條路。"
+    },
+    {
+      "id": "compare-shifts",
+      "day": "hospital",
+      "place": "asylum",
+      "group": "hospital-record",
+      "scene": "達克斯特攤開兩張交班紀錄。一張寫著箱子到了，另一張卻說側門整晚鎖著。他請你先等兩班交接。",
+      "choice": "留下核對班次，只抄獲准的時段",
+      "result": "你查到一位簽名人當天休假。達克斯特准你留下副本，也答應再聯絡當班證人。",
+      "effects": {
+        "hospitalRecord": true,
+        "witnessContact": true
+      },
+      "requires": {
+        "wagonTestimony": false
+      }
+    },
+    {
+      "id": "driver-record",
+      "day": "hospital",
+      "place": "asylum",
+      "group": "hospital-record",
+      "scene": "車夫願意指認自己送貨用的側門。達克斯特拿交班簿比對，請你分開記親眼所見與轉述。",
+      "choice": "讓車夫與當班人各自核對",
+      "result": "兩份記錄的交接時段對上。達克斯特留下可轉交的部分，願意再約相關證人。",
+      "effects": {
+        "hospitalRecord": true,
+        "witnessContact": true
+      },
+      "requires": {
+        "wagonTestimony": true
+      }
+    },
+    {
+      "id": "check-merchant",
+      "day": "hospital",
+      "place": "river",
+      "group": "merchant",
+      "scene": "代收鋪的同一個記號曾用於收款與付運費。掌櫃只准你看相關的一頁。",
+      "choice": "抄下獲准的商號和車次",
+      "result": "你記下兩筆單據。能指出收款渠道，還得找認得收款人的人。",
+      "effects": {
+        "merchantReceipt": true
+      }
+    },
+    {
+      "id": "compare-fundraiser",
+      "day": "fund",
+      "place": "club",
+      "group": "fundraiser",
+      "scene": "接待員拿出家屬允許查閱的回執。日期和你的病院節錄可以比對，但單據各自只能證明一段經過。",
+      "choice": "核對家屬證詞和病院時段，取得轉交許可",
+      "result": "家屬確認兩處相關的交接日期，允許你把核對過的節錄送交黑荊棘。",
+      "effects": {
+        "fundraiserChecked": true,
+        "hospitalExcerpt": true
+      },
+      "requires": {
+        "hospitalRecord": true
+      }
+    },
+    {
+      "id": "ask-fundraiser",
+      "day": "fund",
+      "place": "club",
+      "group": "fundraiser",
+      "scene": "梅高歐絲的家人說投資款至今追不回來，請你幫忙辨認收據。",
+      "choice": "只記家屬允許留下的募資資料",
+      "result": "你留下一份可回查的募資紀錄。要作正式預警，仍缺可比對的病院紀錄。",
+      "effects": {
+        "fundraiserChecked": true
+      },
+      "requires": {
+        "hospitalRecord": false
+      }
+    },
+    {
+      "id": "hospital-contact",
+      "day": "fund",
+      "place": "office",
+      "group": "hospital-handoff",
+      "scene": "接待員把兩份交班資料並在一起，讓你圈出親見與轉述的部分。",
+      "choice": "交付獲准的病院時段，保留證人姓名",
+      "result": "接待員會按班次複查。具體涉及梅高歐絲的預警，還得用家屬證詞對上。",
+      "requires": {
+        "hospitalRecord": true
+      }
+    },
+    {
+      "id": "seal-copy",
+      "day": "neil",
+      "place": "books",
+      "group": "borrow",
+      "scene": "書商把冊子和借閱簿擱在櫃上。他只知道冊子曾在館內，第二筆日期得交值班人查。",
+      "choice": "把可核對的封條與日期交值夜者",
+      "result": "值夜者核實異常後接手封存，並安排同僚去找老尼爾。你留下的只有借閱證據。",
+      "effects": {
+        "booksSealed": true
+      }
+    },
+    {
+      "id": "evacuate-florist",
+      "day": "sharon",
+      "place": "flowers",
+      "group": "florist",
+      "scene": "少年從袖口拿出回條。上面有兩次封蠟的痕跡，署名也換了。",
+      "choice": "勸少年先離開，拿他允許的回條去黑荊棘",
+      "result": "少年由街坊接走。值夜者查到側門時段，提前布置外圍。",
+      "effects": {
+        "floristSafe": true
+      }
+    },
+    {
+      "id": "warn-manor",
+      "day": "sharon",
+      "place": "flowers",
+      "group": "florist",
+      "scene": "少年從袖口拿出回條。上面有兩次封蠟的痕跡，署名也換了。",
+      "choice": "到府邸查問改門，向接應者轉達時段",
+      "result": "接應者把交班換了人。值夜者仍照自己的線索前往，原回條得在事後重查。",
+      "effects": {
+        "manorWarned": true
+      }
+    },
+    {
+      "id": "report",
+      "day": "before",
+      "place": "office",
+      "choice": "把獲准的病院節錄送交黑荊棘",
+      "result": "值夜者核實了你交的時段，答應在外圍多留人手。",
+      "effects": {
+        "noticeFiled": true
+      },
+      "requires": {
+        "hospitalExcerpt": true
+      }
+    },
+    {
+      "id": "shelter",
+      "day": "before",
+      "place": "bridge",
+      "choice": "確認石橋下能收留證人的房間",
+      "result": "街坊答應留一間房。證人知道地址，也同意等你去接她。",
+      "effects": {
+        "hospitalWitness": "shelter-arranged"
+      },
+      "requires": {
+        "witnessContact": true
+      }
+    },
+    {
+      "id": "trade",
+      "day": "before",
+      "place": "warehouse",
+      "choice": "把核對過的倉庫巷路線交給密修會接頭人",
+      "result": "接頭人收下你核對的路線。他記下舊門的交接時刻，說自己會處理。",
+      "effects": {
+        "routeExposed": true
+      },
+      "requires": {
+        "waybill": true
+      }
+    },
+    {
+      "id": "ignore",
+      "day": "before",
+      "place": "street",
+      "choice": "照常離開，維持原本的日程",
+      "result": "你收起退回的信，按原定日程離開。"
+    },
+    {
+      "id": "testify",
+      "day": "crisis",
+      "place": "office",
+      "choice": "留在正門核對來客時刻，留下具名證詞",
+      "result": "接待員將你的名字和親眼見到的時刻記入來客簿，答應善後時聯絡你。",
+      "scene": "梅高歐絲從正門進來。外圍值夜者已到，側門卻有人拿著蓋了舊印記的調令，聲稱要搬走封存物。",
+      "requires": {
+        "noticeFiled": true
+      },
+      "effects": {
+        "gateTestimony": "signed"
+      }
+    },
+    {
+      "id": "guard",
+      "day": "crisis",
+      "place": "office",
+      "choice": "把假調令交給側門守衛",
+      "result": "你趕在交接前把假調令交到守衛手上。守衛暫停搬運，當面核對調令。",
+      "scene": "梅高歐絲從正門進來。外圍值夜者已到，側門卻有人拿著蓋了舊印記的調令，聲稱要搬走封存物。",
+      "requires": {
+        "noticeFiled": true
+      },
+      "effects": {
+        "fakeOrder": "delivered"
+      }
+    },
+    {
+      "id": "escort",
+      "day": "crisis",
+      "place": "bridge",
+      "choice": "照約把願意離開的證人帶到石橋下",
+      "result": "你和證人抵達橋下。街坊點亮了屋裡的燈，證人親口報了平安。",
+      "scene": "橋下已有人接應。證人正在約好的地方等你。",
+      "requires": {
+        "hospitalWitness": "shelter-arranged"
+      },
+      "effects": {
+        "hospitalWitness": "sheltered"
+      }
+    },
+    {
+      "id": "follow",
+      "day": "crisis",
+      "place": "warehouse",
+      "choice": "追上接頭人，確認他換到哪一扇門",
+      "result": "你追上接頭人。他親手把新地址交給你，提醒你赴約時帶上原票根。",
+      "scene": "接頭人得知消息後提早搬離。你還看得見他的車尾。",
+      "requires": {
+        "routeExposed": true
+      },
+      "effects": {
+        "newAddress": true
+      }
+    },
+    {
+      "id": "guide",
+      "day": "crisis",
+      "place": "street",
+      "choice": "引導外街路人離開，記下疏散見聞",
+      "result": "你把願意離開的路人引到街口，記下自己確定的時段。",
+      "effects": {
+        "streetWitness": "observed"
+      }
+    },
+    {
+      "id": "leave",
+      "day": "crisis",
+      "place": "street",
+      "choice": "離開現場，照原日程過完這一週",
+      "result": "你離開外街，接下來只等能公開的消息。"
+    },
+    {
+      "id": "custody",
+      "day": "after",
+      "place": "office",
+      "choice": "依假調令的收件地址，追查側門接應者",
+      "result": "值班人認出曾有人來打聽側門交班，交給你一張准許帶走的領件存根。骨灰已重新入庫，接下來要查的是誰替因斯安排接應。",
+      "requires": {
+        "ashesHolder": "night-watch",
+        "fakeOrder": "filed"
+      },
+      "effects": {
+        "custodyLead": true
+      }
+    },
+    {
+      "id": "theft",
+      "day": "after",
+      "place": "office",
+      "choice": "跟進骨灰失竊案，沿交接時刻核對出城紀錄",
+      "result": "你把案卷上的側門出入時刻與出城紀錄對照，圈出一筆待查交接。值夜者讓你保留獲准的摘錄。",
+      "requires": {
+        "ashesHolder": "ince",
+        "gateTestimony": "signed"
+      },
+      "effects": {
+        "theftLead": true
+      }
+    },
+    {
+      "id": "case",
+      "day": "after",
+      "place": "office",
+      "choice": "赴黑荊棘回訪，領取獲准查閱的案卷節錄",
+      "result": "接待員把准你查閱的兩頁放進信封。卷上有你的名字。下次查訪時，他會按約找你。",
+      "requires": {
+        "gateTestimony": "signed"
+      },
+      "effects": {
+        "caseExcerpt": true
+      }
+    },
+    {
+      "id": "visit",
+      "day": "after",
+      "place": "bridge",
+      "choice": "到石橋回訪證人，取得可轉交的具名證詞",
+      "result": "證人把折好的紙親手交給你，只准你把那一段轉交黑荊棘。",
+      "requires": {
+        "hospitalWitness": "sheltered"
+      },
+      "effects": {
+        "permittedTestimony": true
+      }
+    },
+    {
+      "id": "meeting",
+      "day": "after",
+      "place": "warehouse",
+      "choice": "到新地址赴約，確認下次交易的接頭方式",
+      "result": "新門後的人認得你帶來的原票根，留下下次見面的時段。舊門今後不再收件。",
+      "requires": {
+        "newAddress": true
+      },
+      "effects": {
+        "tradeContact": true
+      }
+    },
+    {
+      "id": "check",
+      "day": "after",
+      "place": "warehouse",
+      "choice": "去倉庫巷核對舊門是否仍在用",
+      "result": "原來那扇門已換了鎖。鄰居只知道有人搬走。你得找到能核實的新聯絡，交易才有下文。",
+      "requires": {
+        "routeExposed": true,
+        "newAddress": false
+      }
+    },
+    {
+      "id": "sightings",
+      "day": "after",
+      "place": "street",
+      "choice": "回外街與接待員核對疏散見聞",
+      "result": "接待員把你親眼見到的時段添到簿上，留下回信方式。",
+      "requires": {
+        "streetWitness": "observed"
+      },
+      "effects": {
+        "streetWitness": "confirmed"
+      }
+    },
+    {
+      "id": "public",
+      "day": "after",
+      "place": "street",
+      "choice": "到外街讀公告，核對可公開的善後消息",
+      "result": "你看完貼在外街的善後告示。上面列了公開的傷亡消息，沒有案卷內容。你記下日期，按原行程離開。"
+    },
+    {
+      "id": "copy-debt-works",
+      "day": "debt",
+      "place": "works",
+      "group": "debt-choice",
+      "scene": "發薪前，工友說河岸有人收到一張奇怪的欠條。他替你把街坊找來。欠條多了一筆夜間搬運費，收貨地是七號貨棚。",
+      "choice": "抄下貨棚編號，把原件還給她",
+      "result": "你答應先查是不是記錯帳。抄件上留下了貨棚號，沒有寫她的姓名。",
+      "effects": {
+        "debt": "copied",
+        "shedKnown": true
+      },
+      "requires": {
+        "debt": "none"
+      }
+    },
+    {
+      "id": "debt-leave-works",
+      "day": "debt",
+      "place": "works",
+      "group": "debt-choice",
+      "scene": "發薪前，工友說河岸有人收到一張奇怪的欠條。他替你把街坊找來。欠條多了一筆夜間搬運費，收貨地是七號貨棚。",
+      "choice": "請她先把欠條收好",
+      "result": "她把欠條壓回荷包，說等工頭發薪再問。",
+      "requires": {
+        "debt": "none"
+      }
+    }
+  ]
+}

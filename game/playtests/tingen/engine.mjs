@@ -4,24 +4,27 @@ export function createGame(data) {
   const matches = (facts, requires = {}) =>
     Object.entries(requires).every(([key, value]) => facts[key] === value);
 
-  function newGame() {
+  function newGame(character = null) {
     return {
+      character,
       dayIndex: 0,
       ap: dailyAP,
-      place: "street",
+      place: data.startPlace ?? "street",
       facts: { ...initialFacts },
       arrived: false,
       assignment: null,
+      completed: [],
       done: false,
       history: []
     };
   }
 
   function localEvents(state) {
-    if (state.done || !state.arrived || state.assignment) return [];
+    if (state.done || !state.arrived || (state.assignment && !day(state).multiple)) return [];
     return events.filter(event =>
       event.day === day(state).id && event.place === state.place &&
-      matches(state.facts, event.requires)
+      !state.completed.includes(event.group ?? event.id) &&
+      state.ap >= (event.extraAP ?? 0) && matches(state.facts, event.requires)
     );
   }
 
@@ -39,7 +42,9 @@ export function createGame(data) {
           ...state,
           facts: { ...state.facts, ...event.effects },
           arrived: false,
+          ap: state.ap - (event.extraAP ?? 0),
           assignment: event.id,
+          completed: [...state.completed, event.group ?? event.id],
           history
         };
       }
@@ -65,17 +70,17 @@ export function createGame(data) {
   }
 
   function save(state) {
-    return JSON.stringify({ version: 1, history: state.history });
+    return JSON.stringify({ version: 1, character: state.character, history: state.history });
   }
 
   function load(serialized) {
     const record = JSON.parse(serialized);
-    const maxCommands = days.length * (dailyAP + 2);
+    const maxCommands = days.length * (dailyAP * 2 + 1);
     if (record?.version !== 1 || !Array.isArray(record.history) || record.history.length > maxCommands) {
       throw new Error("無法讀取這個版本的存檔。");
     }
 
-    let state = newGame();
+    let state = newGame(record.character ?? null);
     for (const command of record.history) {
       state = apply(state, command);
       if (!state) throw new Error("存檔含有不符合當時條件的行動。");
