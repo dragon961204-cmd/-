@@ -65,3 +65,5 @@ flowchart TD
 | 全程零介入 | 各人物沿原作窗口行動，玩家只從可核實的消息得知。 |
 
 [第一部劇情總樹](part_one_story_tree.md)
+
+沉睡後的地方狀態交給[第一部結局與十五條尾聲](part_one_ending_and_epilogues_v1.md)，按當事人實際知情、有效承諾及可用接應呈現。
