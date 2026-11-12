@@ -141,6 +141,8 @@ flowchart TD
     A --> C["05、07、17 博提斯與舊日之盒"]
     A --> D["11、12、17 白銀城遠征與接應"]
     A --> E["07、08、17 回歸與末卷權柄"]
+    E --> R["維爾杜查訪及回歸結算"]
+    R --> S["伯特利處境與阿蒙實際權柄"]
     B --> F["各事件依自身窗口結算"]
     C --> N["伏擊一次結算"]
     N --> O["佛爾思去向及盒子實際持有人"]
@@ -148,7 +150,7 @@ flowchart TD
     D --> P["陰影宮殿與出路"]
     P -->|"通路已開"| Q["實際撤離及外界安置"]
     Q --> F
-    E --> F
+    S --> F
     A --> J["06 陵寢核實與介入"]
     J --> K["黑皇帝儀式與王室交接"]
     K --> F
@@ -157,7 +159,7 @@ flowchart TD
     G --> H
 ```
 
-[喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)按儀式結果與在位狀態調整戰時命令與可用接應。[奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)依當期獨立跡象與實際收件判定外圍支援，與王室儀式按各自原作窗口開啟。[博提斯伏擊與舊日之盒正文](backlund_botis_box_of_the_great_old_ones_story_v1.md)依當場接應判定人員與舊日之盒去向，三條支線共用同一結果。[白銀城遠征與外界接應正文](silver_city_expedition_and_resettlement_story_v1.md)將陰影宮殿、出路開啟、實際撤離及外界安置依序接通。伯特利回歸、愚者晉升與沉睡各有年表節點。各地只沿已成立的聯絡讀取能知道的結果。其餘各線也將實際人物狀態、持有物和承諾帶入第一部結算，詳見[逐線大綱](part_one_sidequest_master_outline.md)。
+[喬治三世與黑皇帝儀式正文](backlund_george_black_emperor_ritual_story_v1.md)按儀式結果與在位狀態調整戰時命令與可用接應。[奧黛麗反制赫溫正文](backlund_audrey_hvin_countermeasure_story_v1.md)依當期獨立跡象與實際收件判定外圍支援，與王室儀式按各自原作窗口開啟。[博提斯伏擊與舊日之盒正文](backlund_botis_box_of_the_great_old_ones_story_v1.md)依當場接應判定人員與舊日之盒去向，三條支線共用同一結果。[白銀城遠征與外界接應正文](silver_city_expedition_and_resettlement_story_v1.md)將陰影宮殿、出路開啟、實際撤離及外界安置依序接通。[伯特利回歸與阿蒙介入正文](blue_mountain_bethel_return_story_v1.md)將藍山島回歸結果交給末卷權柄事件。回歸、愚者晉升與沉睡各有年表節點。各地只沿已成立的聯絡讀取能知道的結果。其餘各線也將實際人物狀態、持有物和承諾帶入第一部結算，詳見[逐線大綱](part_one_sidequest_master_outline.md)。
 
 ## 途徑如何插進劇情
 
