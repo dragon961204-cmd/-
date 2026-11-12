@@ -64,4 +64,6 @@
 
 [紅髮伊蓮與黑死號正文](bayam_elaine_black_death_story_v1.md)收錄卡拉特的查訪、02 與 11 共用的伊蓮去向、登船核對及魔女途徑晉升窗口。
 
+[達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)收錄羅伊·金的拘押消息、護送與岸上接應、骰子交接及命運之輪晉升。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
