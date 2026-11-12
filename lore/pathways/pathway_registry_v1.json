@@ -1,0 +1,3865 @@
+{
+  "schema_version": "1.0",
+  "source_revision": "8b5c04f35600053b79bbd309e57c6705973afe44",
+  "scope": "22 條標準途徑與序列 9 至 0",
+  "notes": "序列名稱標示是否有專案內的直接傳記線索。人物及勢力為考據入口。同一人物可因不同時期的途徑而連到多列。事件索引由相關人物推得，途徑在事件中是否使用仍須查證。魔藥、扮演法、非凡特性與儀式保留待核欄位。",
+  "pathways": {
+    "fool": {
+      "id": "fool",
+      "name_zh": "愚者",
+      "entry_sequence_candidate": "占卜家",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "klein-moretti",
+          "path": "lore/characters/biographies/klein-moretti.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "zaratul",
+          "path": "lore/characters/biographies/zaratul.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "antigonus",
+          "path": "lore/characters/biographies/antigonus.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "rosago",
+          "path": "lore/characters/biographies/rosago.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "secret-order",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "愚者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "秘偶大師",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/klein-moretti.v1.json",
+              "locator": "pathway_history：序列 5",
+              "character_id": "klein-moretti"
+            },
+            {
+              "path": "lore/characters/biographies/rosago.v1.json",
+              "locator": "人物傳記：序列5祕偶大師",
+              "character_id": "rosago"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": "無面人",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/klein-moretti.v1.json",
+              "locator": "pathway_history：序列 6",
+              "character_id": "klein-moretti"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": "魔術師",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/klein-moretti.v1.json",
+              "locator": "pathway_history：序列 7",
+              "character_id": "klein-moretti"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": "小丑",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/klein-moretti.v1.json",
+              "locator": "pathway_history：序列 8",
+              "character_id": "klein-moretti"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "占卜家",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/klein-moretti.v1.json",
+              "locator": "pathway_history：序列 9",
+              "character_id": "klein-moretti"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "error": {
+      "id": "error",
+      "name_zh": "錯誤",
+      "entry_sequence_candidate": "偷盜者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "amon",
+          "path": "lore/characters/biographies/amon.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "pallez-zoroast",
+          "path": "lore/characters/biographies/pallez-zoroast.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "hazel-macht",
+          "path": "lore/characters/biographies/hazel-macht.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "mobet-zoroast",
+          "path": "lore/characters/biographies/mobet-zoroast.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "bard-april-fools",
+          "path": "lore/characters/biographies/bard-april-fools.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "amon-family",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        },
+        {
+          "organization_id": "zoroast-family",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "錯誤",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "竊夢家",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/bard-april-fools.v1.json",
+              "locator": "人物傳記：序列5竊夢家",
+              "character_id": "bard-april-fools"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "偷盜者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "door": {
+      "id": "door",
+      "name_zh": "門",
+      "entry_sequence_candidate": "學徒",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "fors-wall",
+          "path": "lore/characters/biographies/fors-wall.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "bethel-abraham",
+          "path": "lore/characters/biographies/bethel-abraham.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "dorian-gray-abraham",
+          "path": "lore/characters/biographies/dorian-gray-abraham.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "abraham-family",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "門",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "學徒",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "visionary": {
+      "id": "visionary",
+      "name_zh": "空想家",
+      "entry_sequence_candidate": "觀眾",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "audrey-hall",
+          "path": "lore/characters/biographies/audrey-hall.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "hvin-rambis",
+          "path": "lore/characters/biographies/hvin-rambis.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "susie",
+          "path": "lore/characters/biographies/susie.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "adam",
+          "path": "lore/characters/biographies/adam.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "psychology-alchemists",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "空想家",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "觀眾",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "hanged-man": {
+      "id": "hanged-man",
+      "name_zh": "倒吊人",
+      "entry_sequence_candidate": "祕祈人",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "lovia-tiffany",
+          "path": "lore/characters/biographies/lovia-tiffany.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "sasrir",
+          "path": "lore/characters/biographies/sasrir.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "true-creator",
+          "path": "lore/characters/biographies/true-creator.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "aurora-order",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "倒吊人",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "祕祈人",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "sun": {
+      "id": "sun",
+      "name_zh": "太陽",
+      "entry_sequence_candidate": "歌頌者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "derrick-berg",
+          "path": "lore/characters/biographies/derrick-berg.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "eternal-blazing-sun",
+          "path": "lore/characters/biographies/eternal-blazing-sun.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-eternal-sun",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "太陽",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/eternal-blazing-sun.v1.json",
+              "locator": "人物傳記：太陽"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "歌頌者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "tyrant": {
+      "id": "tyrant",
+      "name_zh": "暴君",
+      "entry_sequence_candidate": "水手",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "alger-wilson",
+          "path": "lore/characters/biographies/alger-wilson.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "lord-of-storms",
+          "path": "lore/characters/biographies/lord-of-storms.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "jahn-kottman",
+          "path": "lore/characters/biographies/jahn-kottman.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-storms",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        },
+        {
+          "organization_id": "mandated-punishers",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "暴君",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": "海王",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/jahn-kottman.v1.json",
+              "locator": "人物傳記：序列3海王",
+              "character_id": "jahn-kottman"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "水手",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "white-tower": {
+      "id": "white-tower",
+      "name_zh": "白塔",
+      "entry_sequence_candidate": "閱讀者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "isengard-stanton",
+          "path": "lore/characters/biographies/isengard-stanton.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "guy-morora",
+          "path": "lore/characters/biographies/guy-morora.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-knowledge",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "白塔",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "閱讀者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "darkness": {
+      "id": "darkness",
+      "name_zh": "黑暗",
+      "entry_sequence_candidate": "不眠者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "leonard-mitchell",
+          "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "dunn-smith",
+          "path": "lore/characters/biographies/dunn-smith.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "ince-zangwill",
+          "path": "lore/characters/biographies/ince-zangwill.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "evernight-goddess",
+          "path": "lore/characters/biographies/evernight-goddess.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "nim",
+          "path": "lore/characters/biographies/nim.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "kenley-white",
+          "path": "lore/characters/biographies/kenley-white.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "soest",
+          "path": "lore/characters/biographies/soest.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-evernight",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        },
+        {
+          "organization_id": "nighthawks",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "黑暗",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": "守夜人",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/ince-zangwill.v1.json",
+              "locator": "pathway_history：序列 4",
+              "character_id": "ince-zangwill"
+            },
+            {
+              "path": "lore/characters/biographies/nim.v1.json",
+              "locator": "人物傳記：序列4守夜人",
+              "character_id": "nim"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "靈巫",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/soest.v1.json",
+              "locator": "人物傳記：序列5靈巫",
+              "character_id": "soest"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": "夢魘",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/dunn-smith.v1.json",
+              "locator": "pathway_history：序列 7",
+              "character_id": "dunn-smith"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "不眠者",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/leonard-mitchell.v1.json",
+              "locator": "pathway_history：序列 9",
+              "character_id": "leonard-mitchell"
+            },
+            {
+              "path": "lore/characters/biographies/kenley-white.v1.json",
+              "locator": "人物傳記：序列9不眠者",
+              "character_id": "kenley-white"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "death": {
+      "id": "death",
+      "name_zh": "死神",
+      "entry_sequence_candidate": "收屍人",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "azik-eggers",
+          "path": "lore/characters/biographies/azik-eggers.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "ince-zangwill",
+          "path": "lore/characters/biographies/ince-zangwill.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "numinous-episcopate",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "死神",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": "死亡執政官",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/azik-eggers.v1.json",
+              "locator": "pathway_history：序列 2",
+              "character_id": "azik-eggers"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "看門人",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/ince-zangwill.v1.json",
+              "locator": "pathway_history：序列 5",
+              "character_id": "ince-zangwill"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "收屍人",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "twilight-giant": {
+      "id": "twilight-giant",
+      "name_zh": "黃昏巨人",
+      "entry_sequence_candidate": "戰士",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "colin-iliad",
+          "path": "lore/characters/biographies/colin-iliad.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "gandalf",
+          "path": "lore/characters/biographies/gandalf.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "badheil",
+          "path": "lore/characters/biographies/badheil.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "waite-hillmon",
+          "path": "lore/characters/biographies/waite-hillmon.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-combat",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "黃昏巨人",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": "銀騎士",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/waite-hillmon.v1.json",
+              "locator": "人物傳記：序列3銀騎士",
+              "character_id": "waite-hillmon"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "戰士",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "demoness": {
+      "id": "demoness",
+      "name_zh": "魔女",
+      "entry_sequence_candidate": "刺客",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "tracy",
+          "path": "lore/characters/biographies/tracy.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "franca-roland",
+          "path": "lore/characters/biographies/franca-roland.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "jenna",
+          "path": "lore/characters/biographies/jenna.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "primordial-demoness",
+          "path": "lore/characters/biographies/primordial-demoness.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "julie-morora",
+          "path": "lore/characters/biographies/julie-morora.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "salist-morora",
+          "path": "lore/characters/biographies/salist-morora.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "demoness-sect",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "魔女",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "痛苦魔女",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/julie-morora.v1.json",
+              "locator": "人物傳記：序列5痛苦魔女",
+              "character_id": "julie-morora"
+            },
+            {
+              "path": "lore/characters/biographies/salist-morora.v1.json",
+              "locator": "人物傳記：序列5痛苦魔女",
+              "character_id": "salist-morora"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "刺客",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "red-priest": {
+      "id": "red-priest",
+      "name_zh": "紅祭司",
+      "entry_sequence_candidate": "獵人",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "lumian-lee",
+          "path": "lore/characters/biographies/lumian-lee.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "danitz",
+          "path": "lore/characters/biographies/danitz.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "medici",
+          "path": "lore/characters/biographies/medici.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "anderson-hood",
+          "path": "lore/characters/biographies/anderson-hood.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "bakerland-jean-madan",
+          "path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "margot-stinger",
+          "path": "lore/characters/biographies/margot-stinger.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "vermonda-sauron",
+          "path": "lore/characters/biographies/vermonda-sauron.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "meursault",
+          "path": "lore/characters/biographies/meursault.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "iron-and-blood-cross-order",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "紅祭司",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": "征服者",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/vermonda-sauron.v1.json",
+              "locator": "人物傳記：序列1征服者",
+              "character_id": "vermonda-sauron"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": "陰謀家",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/bakerland-jean-madan.v1.json",
+              "locator": "人物傳記：序列6陰謀家",
+              "character_id": "bakerland-jean-madan"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": "挑釁者",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/margot-stinger.v1.json",
+              "locator": "人物傳記：序列8挑釁者",
+              "character_id": "margot-stinger"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "獵人",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/meursault.v1.json",
+              "locator": "人物傳記：序列9獵人",
+              "character_id": "meursault"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "hermit": {
+      "id": "hermit",
+      "name_zh": "隱者",
+      "entry_sequence_candidate": "窺秘人",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "old-neil",
+          "path": "lore/characters/biographies/old-neil.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "hidden-sage",
+          "path": "lore/characters/biographies/hidden-sage.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "nikila",
+          "path": "lore/characters/biographies/nikila.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "professor-baboon",
+          "path": "lore/characters/biographies/professor-baboon.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "moses-ascetic-order",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "隱者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "星象師",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/professor-baboon.v1.json",
+              "locator": "人物傳記：序列5星象師",
+              "character_id": "professor-baboon"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "窺秘人",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/old-neil.v1.json",
+              "locator": "pathway_history：序列 9",
+              "character_id": "old-neil"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "paragon": {
+      "id": "paragon",
+      "name_zh": "完美者",
+      "entry_sequence_candidate": "通識者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "steam-god",
+          "path": "lore/characters/biographies/steam-god.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "roselle-gustav",
+          "path": "lore/characters/biographies/roselle-gustav.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-steam",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        },
+        {
+          "organization_id": "machinery-hivemind",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "完美者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "通識者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "wheel-of-fortune": {
+      "id": "wheel-of-fortune",
+      "name_zh": "命運之輪",
+      "entry_sequence_candidate": "怪物",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "will-auceptin",
+          "path": "lore/characters/biographies/will-auceptin.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "ouroboros",
+          "path": "lore/characters/biographies/ouroboros.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "enzo",
+          "path": "lore/characters/biographies/enzo.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "life-school-of-thought",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "命運之輪",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "贏家",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/enzo.v1.json",
+              "locator": "人物傳記：序列5贏家",
+              "character_id": "enzo"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "怪物",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "mother": {
+      "id": "mother",
+      "name_zh": "母親",
+      "entry_sequence_candidate": "耕種者",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "frank-lee",
+          "path": "lore/characters/biographies/frank-lee.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "earth-mother",
+          "path": "lore/characters/biographies/earth-mother.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "father-montserrat",
+          "path": "lore/characters/biographies/father-montserrat.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "church-earth-mother",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "母親",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": "醫師",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/father-montserrat.v1.json",
+              "locator": "人物傳記：序列8醫師",
+              "character_id": "father-montserrat"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "耕種者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "moon": {
+      "id": "moon",
+      "name_zh": "月亮",
+      "entry_sequence_candidate": "藥師",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "emlyn-white",
+          "path": "lore/characters/biographies/emlyn-white.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "sanguines",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "月亮",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "藥師",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "abyss": {
+      "id": "abyss",
+      "name_zh": "深淵",
+      "entry_sequence_candidate": "罪犯",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "gilchies",
+          "path": "lore/characters/biographies/gilchies.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [],
+      "sequences": {
+        "0": {
+          "name_zh": "深淵",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": "欲望使徒",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/gilchies.v1.json",
+              "locator": "人物傳記：欲望使徒"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "罪犯",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "chained": {
+      "id": "chained",
+      "name_zh": "被縛者",
+      "entry_sequence_candidate": "囚犯",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "sharron",
+          "path": "lore/characters/biographies/sharron.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "maric",
+          "path": "lore/characters/biographies/maric.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "senor",
+          "path": "lore/characters/biographies/senor.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "rose-school-temperance",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        },
+        {
+          "organization_id": "rose-school-indulgence",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "被縛者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "囚犯",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "black-emperor": {
+      "id": "black-emperor",
+      "name_zh": "黑皇帝",
+      "entry_sequence_candidate": "律師",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "george-augustus-iii",
+          "path": "lore/characters/biographies/george-augustus-iii.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "roselle-gustav",
+          "path": "lore/characters/biographies/roselle-gustav.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "nast-solomon",
+          "path": "lore/characters/biographies/nast-solomon.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "misor-king",
+          "path": "lore/characters/biographies/misor-king.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "solomon-family",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "黑皇帝",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": "腐化男爵",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/misor-king.v1.json",
+              "locator": "人物傳記：序列6腐化男爵",
+              "character_id": "misor-king"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "律師",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    },
+    "justiciar": {
+      "id": "justiciar",
+      "name_zh": "審判者",
+      "entry_sequence_candidate": "仲裁人",
+      "canon_status": "needs_verification",
+      "character_refs": [
+        {
+          "character_id": "xio-derecha",
+          "path": "lore/characters/biographies/xio-derecha.v1.json",
+          "status": "biography_reference_draft"
+        },
+        {
+          "character_id": "camus-castiya",
+          "path": "lore/characters/biographies/camus-castiya.v1.json",
+          "status": "biography_reference_draft"
+        }
+      ],
+      "organization_refs": [
+        {
+          "organization_id": "shadow-of-order",
+          "source_path": "lore/organizations/organization_registry_v1.json",
+          "status": "related_draft"
+        }
+      ],
+      "sequences": {
+        "0": {
+          "name_zh": "審判者",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "1": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "2": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "3": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "4": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "5": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "6": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "7": {
+          "name_zh": "審訊者",
+          "name_status": "repository_draft",
+          "sources": [
+            {
+              "path": "lore/characters/biographies/camus-castiya.v1.json",
+              "locator": "人物傳記：序列7審訊者",
+              "character_id": "camus-castiya"
+            }
+          ],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "8": {
+          "name_zh": null,
+          "name_status": "unknown",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        },
+        "9": {
+          "name_zh": "仲裁人",
+          "name_status": "candidate_needs_verification",
+          "sources": [],
+          "potion_formula": null,
+          "acting_method": null,
+          "advancement_ritual": null,
+          "beyonder_characteristics": null
+        }
+      }
+    }
+  },
+  "indexes": {
+    "by_character": {
+      "klein-moretti": [
+        "fool"
+      ],
+      "zaratul": [
+        "fool"
+      ],
+      "antigonus": [
+        "fool"
+      ],
+      "amon": [
+        "error"
+      ],
+      "pallez-zoroast": [
+        "error"
+      ],
+      "hazel-macht": [
+        "error"
+      ],
+      "mobet-zoroast": [
+        "error"
+      ],
+      "fors-wall": [
+        "door"
+      ],
+      "bethel-abraham": [
+        "door"
+      ],
+      "dorian-gray-abraham": [
+        "door"
+      ],
+      "audrey-hall": [
+        "visionary"
+      ],
+      "hvin-rambis": [
+        "visionary"
+      ],
+      "susie": [
+        "visionary"
+      ],
+      "adam": [
+        "visionary"
+      ],
+      "lovia-tiffany": [
+        "hanged-man"
+      ],
+      "sasrir": [
+        "hanged-man"
+      ],
+      "true-creator": [
+        "hanged-man"
+      ],
+      "derrick-berg": [
+        "sun"
+      ],
+      "eternal-blazing-sun": [
+        "sun"
+      ],
+      "alger-wilson": [
+        "tyrant"
+      ],
+      "lord-of-storms": [
+        "tyrant"
+      ],
+      "jahn-kottman": [
+        "tyrant"
+      ],
+      "isengard-stanton": [
+        "white-tower"
+      ],
+      "guy-morora": [
+        "white-tower"
+      ],
+      "leonard-mitchell": [
+        "darkness"
+      ],
+      "dunn-smith": [
+        "darkness"
+      ],
+      "ince-zangwill": [
+        "darkness",
+        "death"
+      ],
+      "evernight-goddess": [
+        "darkness"
+      ],
+      "nim": [
+        "darkness"
+      ],
+      "azik-eggers": [
+        "death"
+      ],
+      "colin-iliad": [
+        "twilight-giant"
+      ],
+      "gandalf": [
+        "twilight-giant"
+      ],
+      "badheil": [
+        "twilight-giant"
+      ],
+      "tracy": [
+        "demoness"
+      ],
+      "franca-roland": [
+        "demoness"
+      ],
+      "jenna": [
+        "demoness"
+      ],
+      "primordial-demoness": [
+        "demoness"
+      ],
+      "lumian-lee": [
+        "red-priest"
+      ],
+      "danitz": [
+        "red-priest"
+      ],
+      "medici": [
+        "red-priest"
+      ],
+      "anderson-hood": [
+        "red-priest"
+      ],
+      "old-neil": [
+        "hermit"
+      ],
+      "hidden-sage": [
+        "hermit"
+      ],
+      "nikila": [
+        "hermit"
+      ],
+      "steam-god": [
+        "paragon"
+      ],
+      "roselle-gustav": [
+        "paragon",
+        "black-emperor"
+      ],
+      "will-auceptin": [
+        "wheel-of-fortune"
+      ],
+      "ouroboros": [
+        "wheel-of-fortune"
+      ],
+      "enzo": [
+        "wheel-of-fortune"
+      ],
+      "frank-lee": [
+        "mother"
+      ],
+      "earth-mother": [
+        "mother"
+      ],
+      "emlyn-white": [
+        "moon"
+      ],
+      "gilchies": [
+        "abyss"
+      ],
+      "sharron": [
+        "chained"
+      ],
+      "maric": [
+        "chained"
+      ],
+      "senor": [
+        "chained"
+      ],
+      "george-augustus-iii": [
+        "black-emperor"
+      ],
+      "nast-solomon": [
+        "black-emperor"
+      ],
+      "xio-derecha": [
+        "justiciar"
+      ],
+      "kenley-white": [
+        "darkness"
+      ],
+      "soest": [
+        "darkness"
+      ],
+      "camus-castiya": [
+        "justiciar"
+      ],
+      "julie-morora": [
+        "demoness"
+      ],
+      "salist-morora": [
+        "demoness"
+      ],
+      "father-montserrat": [
+        "mother"
+      ],
+      "professor-baboon": [
+        "hermit"
+      ],
+      "bard-april-fools": [
+        "error"
+      ],
+      "bakerland-jean-madan": [
+        "red-priest"
+      ],
+      "margot-stinger": [
+        "red-priest"
+      ],
+      "vermonda-sauron": [
+        "red-priest"
+      ],
+      "meursault": [
+        "red-priest"
+      ],
+      "misor-king": [
+        "black-emperor"
+      ],
+      "waite-hillmon": [
+        "twilight-giant"
+      ],
+      "rosago": [
+        "fool"
+      ]
+    },
+    "by_organization": {
+      "secret-order": [
+        "fool"
+      ],
+      "amon-family": [
+        "error"
+      ],
+      "zoroast-family": [
+        "error"
+      ],
+      "abraham-family": [
+        "door"
+      ],
+      "psychology-alchemists": [
+        "visionary"
+      ],
+      "aurora-order": [
+        "hanged-man"
+      ],
+      "church-eternal-sun": [
+        "sun"
+      ],
+      "church-storms": [
+        "tyrant"
+      ],
+      "mandated-punishers": [
+        "tyrant"
+      ],
+      "church-knowledge": [
+        "white-tower"
+      ],
+      "church-evernight": [
+        "darkness"
+      ],
+      "nighthawks": [
+        "darkness"
+      ],
+      "numinous-episcopate": [
+        "death"
+      ],
+      "church-combat": [
+        "twilight-giant"
+      ],
+      "demoness-sect": [
+        "demoness"
+      ],
+      "iron-and-blood-cross-order": [
+        "red-priest"
+      ],
+      "moses-ascetic-order": [
+        "hermit"
+      ],
+      "church-steam": [
+        "paragon"
+      ],
+      "machinery-hivemind": [
+        "paragon"
+      ],
+      "life-school-of-thought": [
+        "wheel-of-fortune"
+      ],
+      "church-earth-mother": [
+        "mother"
+      ],
+      "sanguines": [
+        "moon"
+      ],
+      "rose-school-temperance": [
+        "chained"
+      ],
+      "rose-school-indulgence": [
+        "chained"
+      ],
+      "solomon-family": [
+        "black-emperor"
+      ],
+      "shadow-of-order": [
+        "justiciar"
+      ]
+    },
+    "by_event": {
+      "backlund-1349-arrival": [
+        "fool"
+      ],
+      "backlund-1349-ian-case": [
+        "fool"
+      ],
+      "backlund-1349-mary-case": [
+        "fool"
+      ],
+      "backlund-1349-underground-circle": [
+        "fool",
+        "chained"
+      ],
+      "backlund-1349-sharron-bodyguard": [
+        "fool",
+        "chained"
+      ],
+      "backlund-1349-bakerland-assassination": [
+        "fool",
+        "visionary",
+        "justiciar",
+        "door"
+      ],
+      "backlund-1349-rosago-retaliation": [
+        "fool"
+      ],
+      "backlund-1349-lanevus-revenge": [
+        "fool"
+      ],
+      "backlund-1349-magician-advance": [
+        "fool"
+      ],
+      "backlund-1349-east-end-investigation": [
+        "fool"
+      ],
+      "backlund-1349-will-clues": [
+        "fool",
+        "wheel-of-fortune"
+      ],
+      "backlund-1349-temperance-counterattack": [
+        "fool",
+        "chained"
+      ],
+      "backlund-1349-emlyn-church": [
+        "moon"
+      ],
+      "backlund-1349-capim-rescue": [
+        "fool"
+      ],
+      "backlund-1349-fors-tarot": [
+        "door",
+        "fool",
+        "justiciar"
+      ],
+      "backlund-1349-audrey-psychology": [
+        "visionary"
+      ],
+      "backlund-1349-serial-murder-case": [
+        "fool",
+        "white-tower"
+      ],
+      "backlund-1349-talim-death": [
+        "fool"
+      ],
+      "backlund-1349-mr-a-plan": [
+        "fool",
+        "hanged-man"
+      ],
+      "backlund-1349-duke-negan-death": [
+        "white-tower"
+      ],
+      "backlund-1349-great-smog": [
+        "fool",
+        "hanged-man"
+      ],
+      "backlund-1349-emlyn-tarot": [
+        "moon",
+        "fool"
+      ],
+      "backlund-1349-departure": [
+        "fool",
+        "white-tower"
+      ],
+      "dantes-dantes": [
+        "fool"
+      ],
+      "dantes-emlyn-hunt": [
+        "moon"
+      ],
+      "dantes-alger-report": [
+        "tyrant"
+      ],
+      "dantes-cattleya-secrecy": [
+        "fool"
+      ],
+      "dantes-hazel": [
+        "error"
+      ],
+      "dantes-mary": [
+        "fool"
+      ],
+      "dantes-leonard": [
+        "darkness",
+        "fool"
+      ],
+      "dantes-mike": [
+        "fool"
+      ],
+      "dantes-audrey": [
+        "visionary",
+        "fool"
+      ],
+      "dantes-mummy": [
+        "chained",
+        "fool"
+      ],
+      "dantes-azik": [
+        "death"
+      ],
+      "dantes-ince-spirit": [
+        "darkness",
+        "death"
+      ],
+      "dantes-anderson": [
+        "red-priest"
+      ],
+      "dantes-revenge": [
+        "fool",
+        "darkness",
+        "death"
+      ],
+      "dantes-daly": [
+        "fool"
+      ],
+      "fool-door": [
+        "door"
+      ],
+      "fool-error": [
+        "error"
+      ],
+      "fool-utopia": [
+        "fool"
+      ],
+      "fool-cathedral": [
+        "visionary",
+        "fool",
+        "error"
+      ],
+      "fool-antigonus": [
+        "fool"
+      ],
+      "fool-apotheosis": [
+        "fool",
+        "visionary",
+        "hanged-man"
+      ],
+      "fool-sefirah": [
+        "fool",
+        "error"
+      ],
+      "fool-slumber": [
+        "fool",
+        "darkness"
+      ],
+      "fool-alger": [
+        "tyrant"
+      ],
+      "fool-azik": [
+        "death"
+      ],
+      "gehrman-sets-sail": [
+        "fool"
+      ],
+      "gehrman-danitz": [
+        "red-priest",
+        "fool"
+      ],
+      "gehrman-edwina": [
+        "red-priest",
+        "fool"
+      ],
+      "gehrman-kalvetua-crisis": [
+        "tyrant"
+      ],
+      "gehrman-sea-god-scepter": [
+        "fool"
+      ],
+      "gehrman-sea-god-prayers": [
+        "fool"
+      ],
+      "gehrman-cattleya-tarot": [
+        "fool"
+      ],
+      "gehrman-tracy-fleet": [
+        "demoness"
+      ],
+      "gehrman-darkwill-roy": [
+        "fool"
+      ],
+      "gehrman-dice-delivery": [
+        "fool"
+      ],
+      "gehrman-anderson": [
+        "red-priest",
+        "fool"
+      ],
+      "gehrman-marionettist": [
+        "fool"
+      ],
+      "gehrman-groselle": [
+        "fool",
+        "error"
+      ],
+      "gehrman-senor": [
+        "fool",
+        "chained"
+      ],
+      "gehrman-alger": [
+        "tyrant"
+      ],
+      "gehrman-return": [
+        "fool"
+      ],
+      "hanged-man-exodus": [
+        "sun"
+      ],
+      "hanged-man-moon": [
+        "darkness",
+        "fool"
+      ],
+      "hanged-man-angel": [
+        "fool"
+      ],
+      "hanged-man-alger": [
+        "tyrant"
+      ],
+      "hanged-man-emlyn": [
+        "moon"
+      ],
+      "hanged-man-fors": [
+        "door"
+      ],
+      "hanged-man-antigonus": [
+        "fool"
+      ],
+      "hanged-man-roselle": [
+        "paragon",
+        "black-emperor"
+      ],
+      "hanged-man-audrey": [
+        "visionary"
+      ],
+      "hanged-man-pallez": [
+        "error",
+        "darkness"
+      ],
+      "hanged-man-utopia": [
+        "fool"
+      ],
+      "lightseeker-royal-fall": [
+        "fool",
+        "black-emperor"
+      ],
+      "lightseeker-amon": [
+        "fool",
+        "error"
+      ],
+      "lightseeker-moon": [
+        "darkness",
+        "fool"
+      ],
+      "lightseeker-alger": [
+        "tyrant"
+      ],
+      "lightseeker-audrey": [
+        "visionary"
+      ],
+      "lightseeker-colin": [
+        "twilight-giant"
+      ],
+      "lightseeker-derrick": [
+        "sun"
+      ],
+      "lightseeker-court": [
+        "twilight-giant",
+        "sun",
+        "hanged-man"
+      ],
+      "lightseeker-battle": [
+        "twilight-giant",
+        "sun",
+        "hanged-man"
+      ],
+      "lightseeker-exit": [
+        "sun",
+        "twilight-giant"
+      ],
+      "red-priest-star": [
+        "darkness"
+      ],
+      "red-priest-judgement": [
+        "justiciar"
+      ],
+      "red-priest-fors": [
+        "door"
+      ],
+      "red-priest-azik": [
+        "death",
+        "fool"
+      ],
+      "red-priest-will": [
+        "wheel-of-fortune",
+        "fool"
+      ],
+      "red-priest-emlyn": [
+        "moon"
+      ],
+      "red-priest-mummy": [
+        "chained",
+        "fool"
+      ],
+      "red-priest-rambis": [
+        "visionary"
+      ],
+      "red-priest-mi9": [
+        "justiciar"
+      ],
+      "red-priest-royal": [
+        "black-emperor"
+      ],
+      "red-priest-royal-investigation": [
+        "fool",
+        "black-emperor"
+      ],
+      "red-priest-medici": [
+        "red-priest"
+      ],
+      "tingen-1349-moretti-household": [
+        "fool"
+      ],
+      "tingen-1349-antigonus-notebook": [
+        "fool"
+      ],
+      "tingen-1349-zhou-mingrui-awakens": [
+        "fool"
+      ],
+      "tingen-1349-first-tarot-gathering": [
+        "fool",
+        "visionary",
+        "tyrant"
+      ],
+      "tingen-1349-nighthawks-investigate": [
+        "darkness",
+        "fool"
+      ],
+      "tingen-1349-nighthawks-clerical-recruitment": [
+        "darkness",
+        "fool"
+      ],
+      "tingen-1349-klein-becomes-seer": [
+        "fool",
+        "darkness"
+      ],
+      "tingen-1349-old-neil-mentorship": [
+        "hermit",
+        "fool"
+      ],
+      "tingen-1349-azik-investigation": [
+        "death",
+        "fool"
+      ],
+      "tingen-1349-lanevus-ritual": [
+        "hanged-man"
+      ],
+      "tingen-1349-hood-investigation": [
+        "darkness"
+      ],
+      "tingen-1349-old-neil-loses-control": [
+        "hermit",
+        "fool"
+      ],
+      "tingen-1349-mego-at-blackthorn": [
+        "darkness",
+        "fool",
+        "hanged-man"
+      ],
+      "tingen-1349-tingen-battle": [
+        "darkness",
+        "fool"
+      ],
+      "tingen-1349-ince-takes-ashes": [
+        "darkness",
+        "death"
+      ],
+      "tingen-1349-klein-revives": [
+        "fool"
+      ],
+      "tingen-1349-klein-leaves-tingen": [
+        "fool"
+      ]
+    },
+    "events_by_pathway": {
+      "fool": [
+        "backlund-1349-arrival",
+        "backlund-1349-ian-case",
+        "backlund-1349-mary-case",
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-rosago-retaliation",
+        "backlund-1349-lanevus-revenge",
+        "backlund-1349-magician-advance",
+        "backlund-1349-east-end-investigation",
+        "backlund-1349-will-clues",
+        "backlund-1349-temperance-counterattack",
+        "backlund-1349-capim-rescue",
+        "backlund-1349-fors-tarot",
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-talim-death",
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog",
+        "backlund-1349-emlyn-tarot",
+        "backlund-1349-departure",
+        "dantes-dantes",
+        "dantes-cattleya-secrecy",
+        "dantes-mary",
+        "dantes-leonard",
+        "dantes-mike",
+        "dantes-audrey",
+        "dantes-mummy",
+        "dantes-revenge",
+        "dantes-daly",
+        "fool-utopia",
+        "fool-cathedral",
+        "fool-antigonus",
+        "fool-apotheosis",
+        "fool-sefirah",
+        "fool-slumber",
+        "gehrman-sets-sail",
+        "gehrman-danitz",
+        "gehrman-edwina",
+        "gehrman-sea-god-scepter",
+        "gehrman-sea-god-prayers",
+        "gehrman-cattleya-tarot",
+        "gehrman-darkwill-roy",
+        "gehrman-dice-delivery",
+        "gehrman-anderson",
+        "gehrman-marionettist",
+        "gehrman-groselle",
+        "gehrman-senor",
+        "gehrman-return",
+        "hanged-man-moon",
+        "hanged-man-angel",
+        "hanged-man-antigonus",
+        "hanged-man-utopia",
+        "lightseeker-royal-fall",
+        "lightseeker-amon",
+        "lightseeker-moon",
+        "red-priest-azik",
+        "red-priest-will",
+        "red-priest-mummy",
+        "red-priest-royal-investigation",
+        "tingen-1349-moretti-household",
+        "tingen-1349-antigonus-notebook",
+        "tingen-1349-zhou-mingrui-awakens",
+        "tingen-1349-first-tarot-gathering",
+        "tingen-1349-nighthawks-investigate",
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-klein-becomes-seer",
+        "tingen-1349-old-neil-mentorship",
+        "tingen-1349-azik-investigation",
+        "tingen-1349-old-neil-loses-control",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle",
+        "tingen-1349-klein-revives",
+        "tingen-1349-klein-leaves-tingen"
+      ],
+      "chained": [
+        "backlund-1349-underground-circle",
+        "backlund-1349-sharron-bodyguard",
+        "backlund-1349-temperance-counterattack",
+        "dantes-mummy",
+        "gehrman-senor",
+        "red-priest-mummy"
+      ],
+      "visionary": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-audrey-psychology",
+        "dantes-audrey",
+        "fool-cathedral",
+        "fool-apotheosis",
+        "hanged-man-audrey",
+        "lightseeker-audrey",
+        "red-priest-rambis",
+        "tingen-1349-first-tarot-gathering"
+      ],
+      "justiciar": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-fors-tarot",
+        "red-priest-judgement",
+        "red-priest-mi9"
+      ],
+      "door": [
+        "backlund-1349-bakerland-assassination",
+        "backlund-1349-fors-tarot",
+        "fool-door",
+        "hanged-man-fors",
+        "red-priest-fors"
+      ],
+      "wheel-of-fortune": [
+        "backlund-1349-will-clues",
+        "red-priest-will"
+      ],
+      "moon": [
+        "backlund-1349-emlyn-church",
+        "backlund-1349-emlyn-tarot",
+        "dantes-emlyn-hunt",
+        "hanged-man-emlyn",
+        "red-priest-emlyn"
+      ],
+      "white-tower": [
+        "backlund-1349-serial-murder-case",
+        "backlund-1349-duke-negan-death",
+        "backlund-1349-departure"
+      ],
+      "hanged-man": [
+        "backlund-1349-mr-a-plan",
+        "backlund-1349-great-smog",
+        "fool-apotheosis",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "tingen-1349-lanevus-ritual",
+        "tingen-1349-mego-at-blackthorn"
+      ],
+      "tyrant": [
+        "dantes-alger-report",
+        "fool-alger",
+        "gehrman-kalvetua-crisis",
+        "gehrman-alger",
+        "hanged-man-alger",
+        "lightseeker-alger",
+        "tingen-1349-first-tarot-gathering"
+      ],
+      "error": [
+        "dantes-hazel",
+        "fool-error",
+        "fool-cathedral",
+        "fool-sefirah",
+        "gehrman-groselle",
+        "hanged-man-pallez",
+        "lightseeker-amon"
+      ],
+      "darkness": [
+        "dantes-leonard",
+        "dantes-ince-spirit",
+        "dantes-revenge",
+        "fool-slumber",
+        "hanged-man-moon",
+        "hanged-man-pallez",
+        "lightseeker-moon",
+        "red-priest-star",
+        "tingen-1349-nighthawks-investigate",
+        "tingen-1349-nighthawks-clerical-recruitment",
+        "tingen-1349-klein-becomes-seer",
+        "tingen-1349-hood-investigation",
+        "tingen-1349-mego-at-blackthorn",
+        "tingen-1349-tingen-battle",
+        "tingen-1349-ince-takes-ashes"
+      ],
+      "death": [
+        "dantes-azik",
+        "dantes-ince-spirit",
+        "dantes-revenge",
+        "fool-azik",
+        "red-priest-azik",
+        "tingen-1349-azik-investigation",
+        "tingen-1349-ince-takes-ashes"
+      ],
+      "red-priest": [
+        "dantes-anderson",
+        "gehrman-danitz",
+        "gehrman-edwina",
+        "gehrman-anderson",
+        "red-priest-medici"
+      ],
+      "demoness": [
+        "gehrman-tracy-fleet"
+      ],
+      "sun": [
+        "hanged-man-exodus",
+        "lightseeker-derrick",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "paragon": [
+        "hanged-man-roselle"
+      ],
+      "black-emperor": [
+        "hanged-man-roselle",
+        "lightseeker-royal-fall",
+        "red-priest-royal",
+        "red-priest-royal-investigation"
+      ],
+      "twilight-giant": [
+        "lightseeker-colin",
+        "lightseeker-court",
+        "lightseeker-battle",
+        "lightseeker-exit"
+      ],
+      "hermit": [
+        "tingen-1349-old-neil-mentorship",
+        "tingen-1349-old-neil-loses-control"
+      ]
+    }
+  }
+}
