@@ -90,4 +90,6 @@
 
 [霍納奇斯與源堡之戰正文](hornacis_fool_sefirah_finale_story_v1.md)收錄安提哥努斯、愚者晉升、源堡交鋒及 08、17 共用的沉睡狀態。
 
+[愚者沉睡後的地方交接正文](fool_slumber_local_handover_story_v1.md)收錄 10、11、12、17 的塔羅會聯絡、阿爾傑教會交接及阿茲克書信。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
