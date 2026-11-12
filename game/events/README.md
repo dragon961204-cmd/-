@@ -72,4 +72,6 @@
 
 [西拜朗恩佐與因斯追查正文](west_balam_enzo_ince_story_v1.md)收錄 09、01、04 的證詞、恩佐祕偶、因斯案後續及兩條途徑的晉升窗口。
 
+[狂暴海陵寢與阿茲克書信正文](berserk_sea_azik_tomb_story_v1.md)收錄 10 的狂暴海航路、陵寢外圍接應、沉睡後書信及死神途徑後段窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
