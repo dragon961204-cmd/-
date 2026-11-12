@@ -86,4 +86,6 @@
 
 [伯特利回歸與阿蒙介入正文](blue_mountain_bethel_return_story_v1.md)收錄 07、08、17 的維爾杜去向、藍山島回歸、權柄結果及家族接應。
 
+[查拉圖與烏托邦正文](utopia_zaratul_hornacis_story_v1.md)收錄 08、17 的失聯訪客、身分核驗、烏托邦交鋒及霍納奇斯主峰查證。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
