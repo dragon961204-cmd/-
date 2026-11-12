@@ -6,6 +6,8 @@
 
 [第一部長支線總綱](part_one_sidequest_master_outline.md)整合十五條支線、主線交會、晉升接點與第一批場景綱要。
 
+[廷根倉庫案正文](tingen_warehouse_story_v1.md)接續 04、08，收錄三種走法、胡德案入口與占卜家至小丑的首輪機會。
+
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
