@@ -20,6 +20,8 @@
 
 [廷根事後與貝克蘭德入口](tingen_aftermath_backlund_entry_v1.md)收錄證人回訪、留城或離城、跨城追查與本地入線細圖。
 
+[東區與碼頭調查正文](backlund_docks_lanevus_story_v1.md)收錄短薪、蘭爾烏斯身份查證與 04、05、17 的細圖。
+
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
