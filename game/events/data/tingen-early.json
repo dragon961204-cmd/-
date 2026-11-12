@@ -1,0 +1,308 @@
+{
+  "dailyAP": 5,
+  "locations": {
+    "office": "黑荊棘",
+    "warehouse": "倉庫巷",
+    "bridge": "石橋",
+    "street": "俱樂部外街"
+  },
+  "initialFacts": {
+    "noticeFiled": false,
+    "fakeOrder": "none",
+    "ashesHolder": "night-watch",
+    "hospitalWitness": "unconfirmed",
+    "gateTestimony": "none",
+    "streetWitness": "none",
+    "routeExposed": false,
+    "newAddress": false,
+    "custodyLead": false,
+    "theftLead": false,
+    "caseExcerpt": false,
+    "permittedTestimony": false,
+    "tradeContact": false
+  },
+  "days": [
+    {
+      "id": "before",
+      "date": "1349-09-02",
+      "title": "一張退回的信",
+      "period": "危機前一週",
+      "intro": "你在廷根的俱樂部替人抄寫。今天有一封募資訊息被退回。你手上有證人允許轉交的病院節錄，也知道曾被你核對過的倉庫巷。"
+    },
+    {
+      "id": "crisis",
+      "date": "1349-09-09",
+      "title": "黑荊棘門外",
+      "period": "危機當日",
+      "intro": "黑荊棘附近有人開始疏散。你還來得及親自處理一件事。",
+      "settlements": [
+        {
+          "requires": {
+            "noticeFiled": true,
+            "fakeOrder": "delivered"
+          },
+          "effects": {
+            "ashesHolder": "night-watch",
+            "fakeOrder": "filed"
+          }
+        },
+        {
+          "effects": {
+            "ashesHolder": "ince"
+          }
+        }
+      ]
+    },
+    {
+      "id": "after",
+      "date": "1349-09-16",
+      "title": "事後的第一封信",
+      "period": "事後第一週",
+      "intro": "黑荊棘重新開了門。街上傳出傷亡消息，知道內情的人各自保管著紀錄。",
+      "notes": [
+        {
+          "requires": {
+            "ashesHolder": "night-watch",
+            "fakeOrder": "filed"
+          },
+          "text": "值夜者通知你，側門守衛核對調令後拒絕交接。因斯撤離，骨灰已重新入庫。調令上還留著一個收件地址。"
+        },
+        {
+          "requires": {
+            "ashesHolder": "ince",
+            "gateTestimony": "signed"
+          },
+          "text": "黑荊棘的回信有你的名字。案卷確認骨灰失竊，信上也附了可回訪的時段。"
+        },
+        {
+          "requires": {
+            "hospitalWitness": "sheltered"
+          },
+          "text": "石橋下那間屋還留著一盞燈。證人已親自報平安。"
+        },
+        {
+          "requires": {
+            "routeExposed": true
+          },
+          "text": "倉庫巷的舊門已換鎖。收到路線的人提前撤走了接應。"
+        },
+        {
+          "requires": {
+            "newAddress": true
+          },
+          "text": "接頭人親手給了你新地址，並提醒你帶上原票根。"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "report",
+      "day": "before",
+      "place": "office",
+      "choice": "把獲准的病院節錄送交黑荊棘",
+      "result": "值夜者核實了你交的時段，答應在外圍多留人手。",
+      "effects": {
+        "noticeFiled": true
+      }
+    },
+    {
+      "id": "shelter",
+      "day": "before",
+      "place": "bridge",
+      "choice": "確認石橋下能收留證人的房間",
+      "result": "街坊答應留一間房。證人知道地址，也同意等你去接她。",
+      "effects": {
+        "hospitalWitness": "shelter-arranged"
+      }
+    },
+    {
+      "id": "trade",
+      "day": "before",
+      "place": "warehouse",
+      "choice": "把核對過的倉庫巷路線交給密修會接頭人",
+      "result": "接頭人收下你核對的路線。他記下舊門的交接時刻，說自己會處理。",
+      "effects": {
+        "routeExposed": true
+      }
+    },
+    {
+      "id": "ignore",
+      "day": "before",
+      "place": "street",
+      "choice": "照常離開，維持原本的日程",
+      "result": "你收起退回的信，按原定日程離開。"
+    },
+    {
+      "id": "testify",
+      "day": "crisis",
+      "place": "office",
+      "choice": "留在正門核對來客時刻，留下具名證詞",
+      "result": "接待員將你的名字和親眼見到的時刻記入來客簿，答應善後時聯絡你。",
+      "scene": "梅高歐絲從正門進來。外圍值夜者已到，側門卻有人拿著蓋了舊印記的調令，聲稱要搬走封存物。",
+      "requires": {
+        "noticeFiled": true
+      },
+      "effects": {
+        "gateTestimony": "signed"
+      }
+    },
+    {
+      "id": "guard",
+      "day": "crisis",
+      "place": "office",
+      "choice": "把假調令交給側門守衛",
+      "result": "你趕在交接前把假調令交到守衛手上。守衛暫停搬運，當面核對調令。",
+      "scene": "梅高歐絲從正門進來。外圍值夜者已到，側門卻有人拿著蓋了舊印記的調令，聲稱要搬走封存物。",
+      "requires": {
+        "noticeFiled": true
+      },
+      "effects": {
+        "fakeOrder": "delivered"
+      }
+    },
+    {
+      "id": "escort",
+      "day": "crisis",
+      "place": "bridge",
+      "choice": "照約把願意離開的證人帶到石橋下",
+      "result": "你和證人抵達橋下。街坊點亮了屋裡的燈，證人親口報了平安。",
+      "scene": "橋下已有人接應。證人正在約好的地方等你。",
+      "requires": {
+        "hospitalWitness": "shelter-arranged"
+      },
+      "effects": {
+        "hospitalWitness": "sheltered"
+      }
+    },
+    {
+      "id": "follow",
+      "day": "crisis",
+      "place": "warehouse",
+      "choice": "追上接頭人，確認他換到哪一扇門",
+      "result": "你追上接頭人。他親手把新地址交給你，提醒你赴約時帶上原票根。",
+      "scene": "接頭人得知消息後提早搬離。你還看得見他的車尾。",
+      "requires": {
+        "routeExposed": true
+      },
+      "effects": {
+        "newAddress": true
+      }
+    },
+    {
+      "id": "guide",
+      "day": "crisis",
+      "place": "street",
+      "choice": "引導外街路人離開，記下疏散見聞",
+      "result": "你把願意離開的路人引到街口，記下自己確定的時段。",
+      "effects": {
+        "streetWitness": "observed"
+      }
+    },
+    {
+      "id": "leave",
+      "day": "crisis",
+      "place": "street",
+      "choice": "離開現場，照原日程過完這一週",
+      "result": "你離開外街，接下來只等能公開的消息。"
+    },
+    {
+      "id": "custody",
+      "day": "after",
+      "place": "office",
+      "choice": "依假調令的收件地址，追查側門接應者",
+      "result": "值班人認出曾有人來打聽側門交班，交給你一張准許帶走的領件存根。骨灰已重新入庫，接下來要查的是誰替因斯安排接應。",
+      "requires": {
+        "ashesHolder": "night-watch",
+        "fakeOrder": "filed"
+      },
+      "effects": {
+        "custodyLead": true
+      }
+    },
+    {
+      "id": "theft",
+      "day": "after",
+      "place": "office",
+      "choice": "跟進骨灰失竊案，沿交接時刻核對出城紀錄",
+      "result": "你把案卷上的側門出入時刻與出城紀錄對照，圈出一筆待查交接。值夜者讓你保留獲准的摘錄。",
+      "requires": {
+        "ashesHolder": "ince",
+        "gateTestimony": "signed"
+      },
+      "effects": {
+        "theftLead": true
+      }
+    },
+    {
+      "id": "case",
+      "day": "after",
+      "place": "office",
+      "choice": "赴黑荊棘回訪，領取獲准查閱的案卷節錄",
+      "result": "接待員把准你查閱的兩頁放進信封。卷上有你的名字。下次查訪時，他會按約找你。",
+      "requires": {
+        "gateTestimony": "signed"
+      },
+      "effects": {
+        "caseExcerpt": true
+      }
+    },
+    {
+      "id": "visit",
+      "day": "after",
+      "place": "bridge",
+      "choice": "到石橋回訪證人，取得可轉交的具名證詞",
+      "result": "證人把折好的紙親手交給你，只准你把那一段轉交黑荊棘。",
+      "requires": {
+        "hospitalWitness": "sheltered"
+      },
+      "effects": {
+        "permittedTestimony": true
+      }
+    },
+    {
+      "id": "meeting",
+      "day": "after",
+      "place": "warehouse",
+      "choice": "到新地址赴約，確認下次交易的接頭方式",
+      "result": "新門後的人認得你帶來的原票根，留下下次見面的時段。舊門今後不再收件。",
+      "requires": {
+        "newAddress": true
+      },
+      "effects": {
+        "tradeContact": true
+      }
+    },
+    {
+      "id": "check",
+      "day": "after",
+      "place": "warehouse",
+      "choice": "去倉庫巷核對舊門是否仍在用",
+      "result": "原來那扇門已換了鎖。鄰居只知道有人搬走。你得找到能核實的新聯絡，交易才有下文。",
+      "requires": {
+        "routeExposed": true,
+        "newAddress": false
+      }
+    },
+    {
+      "id": "sightings",
+      "day": "after",
+      "place": "street",
+      "choice": "回外街與接待員核對疏散見聞",
+      "result": "接待員把你親眼見到的時段添到簿上，留下回信方式。",
+      "requires": {
+        "streetWitness": "observed"
+      },
+      "effects": {
+        "streetWitness": "confirmed"
+      }
+    },
+    {
+      "id": "public",
+      "day": "after",
+      "place": "street",
+      "choice": "到外街讀公告，核對可公開的善後消息",
+      "result": "你看完貼在外街的善後告示。上面列了公開的傷亡消息，沒有案卷內容。你記下日期，按原行程離開。"
+    }
+  ]
+}
