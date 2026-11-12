@@ -57,3 +57,7 @@
 [開局支線與事件 v1](opening_sidequests_v1.md)是廷根和貝克蘭德的早期素材稿，包含觸發條件、AP、選項、後果與原作事件接點。
 
 [第一部長支線規劃](long_sidequests_part_one.md)收錄 17 條候選長支線與第一部的 01–14、17 共 15 條設計稿。15、16 暫緩至第二部。
+
+[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)收錄 01、09、11 的船位、接應及三條途徑晉升窗口。
+
+[第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
