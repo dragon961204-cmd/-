@@ -70,4 +70,6 @@
 
 [阿茲克與拜朗史料正文](south_azik_balam_spirit_guide_story_v1.md)收錄 10、04 的南大陸入口、靈教團兩派委託、書信交接與死神晉升窗口。
 
+[西拜朗恩佐與因斯追查正文](west_balam_enzo_ince_story_v1.md)收錄 09、01、04 的證詞、恩佐祕偶、因斯案後續及兩條途徑的晉升窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
