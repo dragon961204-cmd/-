@@ -74,4 +74,6 @@
 
 [狂暴海陵寢與阿茲克書信正文](berserk_sea_azik_tomb_story_v1.md)收錄 10 的狂暴海航路、陵寢外圍接應、沉睡後書信及死神途徑後段窗口。
 
+[戰時通行與豐收教堂正文](wartime_passage_harvest_church_story_v1.md)收錄 06、10、13 的戰時通行、神父的保護安排、照護與補給。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
