@@ -18,7 +18,9 @@
 
 [玫瑰學派與戰時的魔藥取得正文](rose_and_wartime_pathway_acquisition_v1.md)收錄節制派、放縱派、戰時斥候及戰地分站的供應，並與 06、11、13 的事件銜接。
 
-[教會與技術人脈的魔藥取得正文](church_and_craft_pathway_acquisition_v1.md)收錄歌頌者、閱讀者、通識者，以及白銀城的外界接應分歧。
+[教會與技術人脈的魔藥取得正文](church_and_craft_pathway_acquisition_v1.md)收錄歌頌者、閱讀者、通識者，以及三條途徑的前期教會入口與第一部後期白銀城接應。
+
+[錯誤與深淵的魔藥取得正文](error_and_abyss_pathway_acquisition_v1.md)收錄偷盜者、罪犯，補齊 22 條途徑的序列 9 劇情。
 
 [廷根第一批支線前置正文](tingen_sidequest_prologues_v1.md)收錄 02、03、04、08 的開場、對話與分歧，以及週中觸發樣稿。
 
