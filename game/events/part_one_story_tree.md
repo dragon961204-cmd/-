@@ -63,6 +63,7 @@ flowchart TD
     P -->|"證人與獲准資料"| E
     D --> K["酒吧兩派部署與追捕結算"]
     K --> G["海上兩派接應"]
+    G --> R["拜亞姆交鋒與木乃伊交接"]
     E --> Q["已查證的路線與證物去向"]
     Q -->|"後期重新核實"| H["06 陵寢查證與儀式"]
 ```
@@ -129,7 +130,7 @@ flowchart TD
     H --> I
 ```
 
-[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)及細圖接通 01、09、11 的航程。[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)接通危機、賑濟及權杖後續。[紅髮伊蓮與黑死號正文](bayam_elaine_black_death_story_v1.md)接通 02、11 共用的伊蓮去向與物資往來。[達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)接通 09 的航程、接頭與保管。[嘉德麗雅與未來號正文](future_cattleya_bernadette_story_v1.md)接通 14 的抄本、師承與 17 的海上委託。[阿茲克與拜朗史料正文](south_azik_balam_spirit_guide_story_v1.md)接通 04 的古堡舊證物、南大陸接應與後續陵寢外圍。[西拜朗恩佐與因斯追查正文](west_balam_enzo_ince_story_v1.md)接通恩佐去向與獨立取證的因斯案。[狂暴海陵寢與阿茲克書信正文](berserk_sea_azik_tomb_story_v1.md)接通陵寢外圍與沉睡後書信。陵寢按年表早於因斯的最後對抗，各自結算。[戰時通行與豐收教堂正文](wartime_passage_harvest_church_story_v1.md)接通有效通行、神父的保護安排及照護交接。船位可被不同任務使用，實際乘客與抵達時間只記一次。海神權杖、概率之骰、陵寢資料及其他物件各有持有人。教會戰局和物資接應會改變後期誰能出手。
+[出海與拜亞姆接應正文](backlund_voyage_and_bayam_arrival_story_v1.md)及細圖接通 01、09、11 的航程。[拜亞姆海嘯與海神權杖正文](bayam_kalvetua_sea_god_story_v1.md)接通危機、賑濟及權杖後續。[紅髮伊蓮與黑死號正文](bayam_elaine_black_death_story_v1.md)接通 02、11 共用的伊蓮去向與物資往來。[達克威爾與概率之骰正文](bayam_darkwill_probability_dice_story_v1.md)接通 09 的航程、接頭與保管。[嘉德麗雅與未來號正文](future_cattleya_bernadette_story_v1.md)接通 14 的抄本、師承與 17 的海上委託。[阿茲克與拜朗史料正文](south_azik_balam_spirit_guide_story_v1.md)接通 04 的古堡舊證物、南大陸接應與後續陵寢外圍。[西拜朗恩佐與因斯追查正文](west_balam_enzo_ince_story_v1.md)接通恩佐去向與獨立取證的因斯案。[狂暴海陵寢與阿茲克書信正文](berserk_sea_azik_tomb_story_v1.md)接通陵寢外圍與沉睡後書信。陵寢按年表早於因斯的最後對抗，各自結算。[戰時通行與豐收教堂正文](wartime_passage_harvest_church_story_v1.md)接通有效通行、神父的保護安排及照護交接。[玫瑰學派拜亞姆與木乃伊正文](rose_bayam_mummy_handover_story_v1.md)接通 01 的高位窗口、兩派接應及木乃伊去向。船位可被不同任務使用，實際乘客與抵達時間只記一次。海神權杖、概率之骰、陵寢資料及其他物件各有持有人。教會戰局和物資接應會改變後期誰能出手。
 
 ## 第一部後期｜遠征、儀式與結算
 
