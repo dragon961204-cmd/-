@@ -24,6 +24,8 @@
 
 [勇敢者酒吧與玫瑰學派追捕](backlund_rose_pursuit_story_v1.md)收錄 01 兩派的通報、單次追捕、供應和拜亞姆接點。
 
+[A 先生與紅薔薇莊園](backlund_gathering_and_manor_story_v1.md)收錄 02、05 的外圍線、疏散準備和 06 的證據交接細圖。
+
 [第一部十五條長支線前置正文](part_one_sidequest_prologues.md)涵蓋 01–14、17 的接觸、邀請、赴約與錯過後果。
 
 [廷根途徑與首份魔藥取得正文](tingen_pathway_acquisition_v1.md)收錄四個供應入口、首服分歧與跨支線共用案件的樣稿。
