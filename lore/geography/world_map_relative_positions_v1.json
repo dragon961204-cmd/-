@@ -1,0 +1,78 @@
+{
+  "schema_version": "1.0",
+  "relative_geography": {
+    "source": {
+      "kind": "user_supplied_map",
+      "filename": "image.png",
+      "label": "詭秘星球世界地圖",
+      "verification": "map_reading_pending_novel_verification"
+    },
+    "orientation": "圖面上北下南、左西右東。方位以圖面主要陸塊或海域標示判讀。",
+    "relations": [
+      {
+        "subject_id": "west-continent",
+        "relation": "west_of",
+        "reference_id": "north-continent",
+        "notes": "西大陸位於圖面左側，北大陸位於中央偏北。"
+      },
+      {
+        "subject_id": "south-continent",
+        "relation": "south_of",
+        "reference_id": "north-continent",
+        "notes": "南大陸位於北大陸以南，略偏東。"
+      },
+      {
+        "subject_id": "forsaken-land",
+        "relation": "east_of",
+        "reference_id": "north-continent",
+        "notes": "神棄之地（東大陸）位於北大陸以東。"
+      },
+      {
+        "subject_id": "forsaken-land",
+        "relation": "northeast_of",
+        "reference_id": "south-continent",
+        "notes": "圖上神棄之地的主要陸塊位於南大陸東北方。"
+      },
+      {
+        "subject_id": "berserk-sea",
+        "relation": "between",
+        "reference_id": "north-continent",
+        "second_reference_id": "south-continent",
+        "notes": "狂暴海標在北大陸南側與南大陸北側之間。"
+      },
+      {
+        "subject_id": "sonia-sea",
+        "relation": "east_of",
+        "reference_id": "north-continent",
+        "notes": "蘇尼亞海位於北大陸以東。"
+      },
+      {
+        "subject_id": "sonia-sea",
+        "relation": "west_of",
+        "reference_id": "forsaken-land",
+        "notes": "蘇尼亞海標示位於北大陸與神棄之地之間。"
+      },
+      {
+        "subject_id": "fog-sea",
+        "relation": "west_of",
+        "reference_id": "north-continent",
+        "notes": "迷霧海標在北大陸以西。"
+      },
+      {
+        "subject_id": "fog-sea",
+        "relation": "east_of",
+        "reference_id": "west-continent",
+        "notes": "迷霧海位於西大陸以東。"
+      }
+    ]
+  },
+  "place_names": {
+    "fog-sea": "迷霧海",
+    "berserk-sea": "狂暴海",
+    "forsaken-land": "神棄之地",
+    "north-continent": "北大陸",
+    "south-continent": "南大陸",
+    "sonia-sea": "蘇尼亞海",
+    "west-continent": "西大陸"
+  }
+}
