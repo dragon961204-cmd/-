@@ -68,4 +68,6 @@
 
 [嘉德麗雅與未來號正文](future_cattleya_bernadette_story_v1.md)收錄 14、17 的抄本、海上委託、貝爾納黛引介及隱者後續晉升窗口。
 
+[阿茲克與拜朗史料正文](south_azik_balam_spirit_guide_story_v1.md)收錄 10、04 的南大陸入口、靈教團兩派委託、書信交接與死神晉升窗口。
+
 [第一部晉升時機表](part_one_advancement_schedule.md)排定 22 條途徑的後續成長接點。
