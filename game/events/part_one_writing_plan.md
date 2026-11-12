@@ -37,13 +37,17 @@
 
 事件結束後如何處理該週剩餘時間、同週多個事件的銜接，以及週摘要內容，先在廷根樣稿中驗證。
 
+## 長支線正文的寫作順序
+
+先查[第一部長支線總綱](part_one_sidequest_master_outline.md)的事件先後、前置條件、共用結算與途徑接點，再按事件批次撰寫正文。第一批先確認廷根倉庫案的零介入、先通報黑荊棘、先通知密修會三種走法，再展開當場文本及後續成長。
+
 ## 寫作順序與目前進度
 
 | 工作 | 目前狀態與下一步 |
 | --- | --- |
 | 主線 | 已有[第一部八卷年表](../../lore/history/README.md)。先確定玩家開場相對日期，為廷根節點補上零介入結果、最早可干預的時點、玩家可見資訊與有效干預條件。 |
-| 長支線 | 十五條已有[設計稿](long_sidequests_part_one.md)。沿用既有角色、觸發和第一部結算，按時間窗口補場景與對話。優先處理廷根早期可能接觸的路線。 |
-| 支線前置 | 第一部 01–14、17 共十五條的[前置正文](part_one_sidequest_prologues.md)已完成，含兩至三場、邀請、赴約／拒絕與錯過後果。廷根 02、03、04、08 的第一場及既有分歧由[廷根前置](tingen_sidequest_prologues_v1.md)承接。下一批可接已解鎖路線的第一段長支線正文，或將廷根前置整合至開場事件表。 |
+| 長支線 | 十五條已有[設計稿](long_sidequests_part_one.md)及[跨線總綱](part_one_sidequest_master_outline.md)。先核對同批事件與主線、晉升的因果，再補場景和對話。 |
+| 支線前置 | 第一部 01–14、17 共十五條的[前置正文](part_one_sidequest_prologues.md)已完成，含兩至三場、邀請、赴約／拒絕與錯過後果。廷根 02、03、04、08 的第一場及既有分歧由[廷根前置](tingen_sidequest_prologues_v1.md)承接。前置可整合至廷根開場事件表。長支線正文依總綱的場景和條件接續。 |
 | 途徑與魔藥 | [廷根首份魔藥取得稿](tingen_pathway_acquisition_v1.md)已寫 02、03、04、08 四個供應入口及同週碰撞樣稿。[跨城魔藥取得稿](death_and_hermit_pathway_acquisition_v1.md)已補 10 靈教團與 14 摩斯苦修會／要素黎明的配方、材料、首服與證物分歧。[拜亞姆取得稿](bayam_pathway_acquisition_v1.md)新增 09 的命運之輪與 11 的暴君。[貝克蘭德取得稿](backlund_pathway_acquisition_v1.md)新增 07 的門與 13 的月亮、母親，並接續 17 的信任與知情條件。[極光會與王室外圍取得稿](aurora_and_royal_pathway_acquisition_v1.md)新增 05 的倒吊人與 06 的審判者、黑皇帝。[玫瑰學派與戰時取得稿](rose_and_wartime_pathway_acquisition_v1.md)新增被縛者、紅祭司、黃昏巨人。[教會與技術人脈取得稿](church_and_craft_pathway_acquisition_v1.md)收錄太陽、白塔、完美者的前期教會入口及第一部後期白銀城接應替代入口。[錯誤與深淵取得稿](error_and_abyss_pathway_acquisition_v1.md)補齊偷盜者與罪犯。 |
 | 獨立小事件 | 《半袋煤》是工人家庭開場樣稿，保留日常收束與可選回訪。下一批按住處、煤市、工作地點、酒館、教堂和夜間列出事件。 |
 
